@@ -14,7 +14,7 @@
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/electroreq#a" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/electroreq#"/>
       <skos:prefLabel xml:lang="en">access</skos:prefLabel>
-      <skos:definition xml:lang="en">Electronic resource is of a quality that will support current, electronic access to the original item (reference use), but is not sufficient to serve as a preservation copy.</skos:definition>
+      <skos:definition xml:lang="en">Electronic resource is of a quality that will support current electronic access to the original item (reference use), but is not sufficient to serve as a preservation copy.</skos:definition>
       <skos:notation xml:lang="en">a</skos:notation>
       <skos:scopeNote xml:lang="en">Examples of electronic resources created for access purposes may include images created for a temporary, online exhibition (possibly to mirror an in-house installation); compressed, lower resolution versions of higher-quality master files that allow for easier transmission and access over the Internet; video converted to MPEG-2 for Internet access; photos which have been scanned at lower resolutions to create an online browsing tool for a collection; or articles scanned as a part of an E-Reserve collection which will be discarded in accordance with previous copyright agreements which specify a time limit on the retention of the electronic resource.</skos:scopeNote>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/electroreq#a"/>
@@ -40,7 +40,7 @@
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/electroreq#r" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/electroreq#"/>
       <skos:prefLabel xml:lang="en">replacement</skos:prefLabel>
-      <skos:definition xml:lang="en">Electronic resource is of very high quality and, when printed out, viewed on screen or played via a listening device could serve as a replacement should the original be lost, damaged, or destroyed.</skos:definition>
+      <skos:definition xml:lang="en">Electronic resource is of very high quality and, when printed out, viewed on screen or played via a listening device, could serve as a replacement should the original be lost, damaged, or destroyed.</skos:definition>
       <skos:notation xml:lang="en">r</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/electroreq#r"/>
    </skos:Concept>
