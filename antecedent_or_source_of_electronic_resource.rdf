@@ -22,7 +22,7 @@
    <!-- Concept: file reproduced from an intermediate   (not microform  -->
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/electroant#d" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/electroant#"/>
-      <skos:prefLabel xml:lang="en">file reproduced from an intermediate   (not microform</skos:prefLabel>
+      <skos:prefLabel xml:lang="en">file reproduced from an intermediate (not microform</skos:prefLabel>
       <skos:definition xml:lang="en">Content comprising the electronic resource has been created by reformatting/digitizing from an intermediate other than microform.</skos:definition>
       <skos:notation xml:lang="en">d</skos:notation>
       <skos:scopeNote xml:lang="en">Common examples of non-microfom intermediates for visual and textual materials are: photocopies, 35 mm film, transparencies, slides, 2nd generation video tape, etc. A common example of an intermediate for audio materials is 2nd generation analog tapes.</skos:scopeNote>
@@ -34,7 +34,7 @@
       <skos:prefLabel xml:lang="en">file reproduced from microform</skos:prefLabel>
       <skos:definition xml:lang="en">Content comprising the electronic resource has been created by scanning from microform.</skos:definition>
       <skos:notation xml:lang="en">b</skos:notation>
-      <skos:scopeNote xml:lang="en">16mm microfilm, 35mm microfilm, 105mm microfiche, microcard, micro-opaque, etc.</skos:scopeNote>
+      <skos:scopeNote xml:lang="en">Examples of microform are: 16mm microfilm, 35mm microfilm, 105mm microfiche, microcard, micro-opaque, etc.</skos:scopeNote>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/electroant#b"/>
    </skos:Concept>
    <!-- Concept: file reproduced from original  -->
