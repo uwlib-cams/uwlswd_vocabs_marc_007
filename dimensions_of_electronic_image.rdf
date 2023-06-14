@@ -86,7 +86,7 @@
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/electrodim#z" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/electrodim#"/>
       <skos:prefLabel xml:lang="en">other</skos:prefLabel>
-      <skos:definition xml:lang="en">Dimensions other than 3 1/2 in., 12 in., 4 3/4 in. or 12 cm., 1 1/8 x 2 3/8 in., 3 7/8 x 2 1/2 in., 5 1/4 in., 8 in.</skos:definition>
+      <skos:definition xml:lang="en">Dimensions other than 3 1/2 in., 12 in., 4 3/4 in. or 12 cm., 1 1/8 x 2 3/8 in., 3 7/8 x 2 1/2 in., 5 1/4 in., or 8 in.</skos:definition>
       <skos:notation xml:lang="en">z</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/electrodim#z"/>
    </skos:Concept>
