@@ -14,7 +14,8 @@
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/cat#c" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/cat#"/>
       <skos:prefLabel xml:lang="en">electronic resource</skos:prefLabel>
-      <skos:definition xml:lang="en">Involves a medium intended to be used or processed by a computer.</skos:definition>
+      <skos:definition xml:lang="en">Involves a medium (usually digitized machine-readable data, program code, etc.) intended to be accessed, processed, or executed by a computer.</skos:definition>
+      <skos:scopeNote xml:lang="en">Examples are programs, data files, image files, digitized audio and video tapes, etc.</skos:scopeNote>
       <skos:notation xml:lang="en">c</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/cat#c"/>
    </skos:Concept>
@@ -48,7 +49,7 @@
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/cat#h" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/cat#"/>
       <skos:prefLabel xml:lang="en">microform</skos:prefLabel>
-      <skos:definition xml:lang="en">A generic term for any medium, transparent or opaque, bearing microimages. A microimage is a unit (e.g., a page) of textual, graphic, or computer-generated material that is contained on aperture cards, microfiche, microfilm, micro-opaques, or other microformats and that is too small to be read without magnification.</skos:definition>
+      <skos:definition xml:lang="en">A generic term for any medium, transparent or opaque bearing microimages. A microimage is a unit (e.g., a page) of textual, graphic, or computer-generated material that is contained on aperture cards, microfiche, microfilm, micro-opaques, or other microformats and that is too small to be read without magnification.</skos:definition>
       <skos:notation xml:lang="en">h</skos:notation>
       <skos:scopeNote xml:lang="en">Microforms may be reproductions of existing textual or graphic materials or they may be original publications.</skos:scopeNote>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/cat#h"/>
@@ -93,14 +94,14 @@
       <skos:prefLabel xml:lang="en">remote-sensing image</skos:prefLabel>
       <skos:definition xml:lang="en">An image produced by a recording device that is not in physical or intimate contact with the object under study.</skos:definition>
       <skos:notation xml:lang="en">r</skos:notation>
-      <skos:scopeNote xml:lang="en">Includes remote-sensing maps.</skos:scopeNote>
+      <skos:scopeNote xml:lang="en">This may be a map or other image that is obtained through various remote sensing devices such as cameras, computers, lasers, radio frequency receivers, radar systems, sonar, seismographs, gravimeters, magnetometers, and scintillation counters. When the image has cartographic or bibliographic information added, it is referred to as a remote-sensing map.</skos:scopeNote>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/cat#r"/>
    </skos:Concept>
    <!-- Concept: sound recording  -->
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/cat#s" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/cat#"/>
       <skos:prefLabel xml:lang="en">sound recording</skos:prefLabel>
-      <skos:definition xml:lang="en">A disc, tape, film, cylinder, or wire on which sound vibrations have been registered so that the sound may be reproduced, or paper rolls on which the notes of a musical composition are represented by perforations in the paper and from which sound can be mechanically produced.</skos:definition>
+      <skos:definition xml:lang="en">A storage medium containing recorded sound or a representation of a musical composition from which sound can be mechanically reproduced, such as a piano roll.</skos:definition>
       <skos:notation xml:lang="en">s</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/cat#s"/>
    </skos:Concept>
@@ -135,7 +136,7 @@
       <skos:prefLabel xml:lang="en">videorecording</skos:prefLabel>
       <skos:definition xml:lang="en">A recording on which visual images, usually in motion and accompanied by sound, have been registered.</skos:definition>
       <skos:notation xml:lang="en">v</skos:notation>
-      <skos:scopeNote xml:lang="en">Designed for playback by means of a television set.</skos:scopeNote>
+      <skos:scopeNote xml:lang="en">Designed for playback by means of a television receiver, or video monitor.</skos:scopeNote>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/cat#v"/>
    </skos:Concept>
 </rdf:RDF>
