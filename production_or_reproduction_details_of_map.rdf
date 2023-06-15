@@ -22,7 +22,7 @@
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/mappor#z" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/mappor#"/>
       <skos:prefLabel xml:lang="en">other</skos:prefLabel>
-      <skos:definition xml:lang="en">Production or reproduction details other than photocopy, blueline print, photocopy, pre-production, film.</skos:definition>
+      <skos:definition xml:lang="en">Production or reproduction details other than photocopy, blueline print, photocopy, photographic pre-production, or film.</skos:definition>
       <skos:notation xml:lang="en">z</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/mappor#z"/>
    </skos:Concept>
@@ -46,8 +46,8 @@
    <!-- Concept: pre-production  -->
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/mappor#c" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/mappor#"/>
-      <skos:prefLabel xml:lang="en">pre-production</skos:prefLabel>
-      <skos:definition xml:lang="en">Pre-production (proof) copy intended for review.</skos:definition>
+      <skos:prefLabel xml:lang="en">photographic pre-production</skos:prefLabel>
+      <skos:definition xml:lang="en">Photographic pre-production (proof) copy intended for review.</skos:definition>
       <skos:notation xml:lang="en">c</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/mappor#c"/>
    </skos:Concept>
