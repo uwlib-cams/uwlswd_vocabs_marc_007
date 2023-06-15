@@ -70,7 +70,7 @@
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/mapmed#z" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/mapmed#"/>
       <skos:prefLabel xml:lang="en">other</skos:prefLabel>
-      <skos:definition xml:lang="en">Physical medium other than paper, wood, stone, metal, synthetic, skin, textile, plastic, glass, vinyl, vellum, plaster, flexible base photographic, positive, flexible base photographic, negative, non-flexible base photographic, positive, non-flexible base photographic, negative, leather, parchment, other photographic medium.</skos:definition>
+      <skos:definition xml:lang="en">Physical medium other than paper; wood; stone; metal; synthetic; skin; textile; plastic; glass; vinyl; vellum; plaster; flexible base photographic, positive; flexible base photographic, negative; non-flexible base photographic, positive; non-flexible base photographic, negative; leather; parchment; or other photographic medium.</skos:definition>
       <skos:notation xml:lang="en">z</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/mapmed#z"/>
    </skos:Concept>
@@ -78,7 +78,7 @@
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/mapmed#y" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/mapmed#"/>
       <skos:prefLabel xml:lang="en">other photographic medium</skos:prefLabel>
-      <skos:definition xml:lang="en">Photographic medium other than flexible base photographic, positive, flexible base photographic, negative, non-flexible base photographic, positive, non-flexible base photographic, negative.</skos:definition>
+      <skos:definition xml:lang="en">Photographic medium other than flexible base photographic, positive; flexible base photographic, negative; non-flexible base photographic, positive; or non-flexible base photographic, negative.</skos:definition>
       <skos:notation xml:lang="en">y</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/mapmed#y"/>
    </skos:Concept>
@@ -97,6 +97,13 @@
       <skos:definition xml:lang="en">Skin of a sheep or goat prepared for writing on.</skos:definition>
       <skos:notation xml:lang="en">w</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/mapmed#w"/>
+   </skos:Concept>
+   <!-- Concept: not applicable  added by dkt-->
+   <skos:Concept rdf:about="http://fakeIRI.edu/terms/mapmed#x" xml:lang="en">
+      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/mapmed#"/>
+      <skos:prefLabel xml:lang="en">not applicable</skos:prefLabel>
+      <skos:definition xml:lang="en">Physical medium is not applicable to remote digital cartographic resources because it pertains to characteristics specific to physical aspects of carriers.</skos:definition>
+      <skos:notation xml:lang="en">x</skos:notation>
    </skos:Concept>
    <!-- Concept: plaster  -->
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/mapmed#p" xml:lang="en">
@@ -122,6 +129,7 @@
       <skos:definition xml:lang="en">Skin.</skos:definition>
       <skos:notation xml:lang="en">f</skos:notation>
       <skos:scopeNote xml:lang="en">Excludes leather, parchment, and vellum.</skos:scopeNote>
+      <skos:scopeNote xml:lang="en">Synthetic materials that are made to resemble animal skin are coded as synthetic.</skos:scopeNote>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/mapmed#f"/>
    </skos:Concept>
    <!-- Concept: stone  -->
@@ -178,7 +186,7 @@
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/mapmed#"/>
       <skos:prefLabel xml:lang="en">wood</skos:prefLabel>
       <skos:notation xml:lang="en">b</skos:notation>
-      <skos:scopeNote xml:lang="en">Material which is based on wood particles or fibers may or may not be considered wood. Consider particle board wood.</skos:scopeNote>
+      <skos:scopeNote xml:lang="en">Material which is based on wood particles or fibers may or may not be considered wood. Consider particle board to be wood.</skos:scopeNote>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/mapmed#b"/>
    </skos:Concept>
 </rdf:RDF>
