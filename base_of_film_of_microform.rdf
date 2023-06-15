@@ -30,7 +30,7 @@
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/microformbas#n" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/microformbas#"/>
       <skos:prefLabel xml:lang="en">not applicable</skos:prefLabel>
-      <skos:definition xml:lang="en">A reflective rather than a transparent base.</skos:definition>
+      <skos:definition xml:lang="en">On a reflective rather than a transparent base.</skos:definition>
       <skos:notation xml:lang="en">n</skos:notation>
       <skos:scopeNote xml:lang="en">Used for microopaques (which can be termed microcard or microprint).</skos:scopeNote>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/microformbas#n"/>
@@ -39,7 +39,7 @@
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/microformbas#z" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/microformbas#"/>
       <skos:prefLabel xml:lang="en">other</skos:prefLabel>
-      <skos:definition xml:lang="en">Base of film other than safety base, undetermined, safety base, acetate undetermined, safety base, diacetate, nitrate base, mixed base (nitrate and safety), not applicable, safety base, polyester, safety base, mixed, safety base, triacetate.</skos:definition>
+      <skos:definition xml:lang="en">Base of film other than safety base, undetermined, safety base, acetate undetermined, safety base, diacetate, nitrate base, mixed base (nitrate and safety), not applicable, safety base, polyester, safety base, mixed, safety base, or triacetate.</skos:definition>
       <skos:notation xml:lang="en">z</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/microformbas#z"/>
    </skos:Concept>
@@ -48,6 +48,7 @@
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/microformbas#"/>
       <skos:prefLabel xml:lang="en">safety base, acetate undetermined</skos:prefLabel>
       <skos:definition xml:lang="en">Acetate safety base film whose exact type cannot be determined.</skos:definition>
+      <skos:scopeNote xml:lang="en">I.e., where it is unknown if the type is diacetate or triacetate.</skos:scopeNote>
       <skos:notation xml:lang="en">c</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/microformbas#c"/>
    </skos:Concept>
