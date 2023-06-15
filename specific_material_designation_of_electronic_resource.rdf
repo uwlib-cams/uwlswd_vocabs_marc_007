@@ -15,6 +15,7 @@
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/electrosmd#"/>
       <skos:prefLabel xml:lang="en">chip cartridge</skos:prefLabel>
       <skos:definition xml:lang="en">Removable module containing a miniaturized electronic circuit, mass-produced on a tiny chip or wafer of silicon, designed to provide additional processing or memory capacity to a computer.</skos:definition>
+      <skos:scopeNote xml:lang="en">Includes several types of solid-state, memory/storage devices such as non-rewritable ROM-chip cartridges and rewritable flash drives (e.g. USB keys).</skos:scopeNote>
       <skos:notation xml:lang="en">b</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/electrosmd#b"/>
    </skos:Concept>
@@ -79,7 +80,7 @@
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/electrosmd#z" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/electrosmd#"/>
       <skos:prefLabel xml:lang="en">other</skos:prefLabel>
-      <skos:definition xml:lang="en">Specific material designation other than tape cartridge, chip cartridge, computer optical disc cartridge, computer disc, type unspecified, computer disc cartridge, type unspecified, tape cassette, tape reel, magnetic disk, computer card, magneto-optical disc, optical disc, remote.</skos:definition>
+      <skos:definition xml:lang="en">Specific material designation other than tape cartridge, chip cartridge, computer optical disc cartridge, computer disc, type unspecified, computer disc cartridge, type unspecified, tape cassette, tape reel, magnetic disk, computer card, magneto-optical disc, optical disc, remote, or standalone device.</skos:definition>
       <skos:notation xml:lang="en">z</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/electrosmd#z"/>
    </skos:Concept>
@@ -90,6 +91,13 @@
       <skos:definition xml:lang="en">Electronic resource that is accessed, processed, executed, etc. remotely. In this case the electronic resource is used via input/output devices connected electronically to a computer. Frequently this involves connection through a computer network.</skos:definition>
       <skos:notation xml:lang="en">r</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/electrosmd#r"/>
+   </skos:Concept>
+   <!-- Concept: standalone device.  added by dkt  -->
+   <skos:Concept rdf:about="http://fakeIRI.edu/terms/electrosmd#s" xml:lang="en">
+      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/electrosmd#"/>
+      <skos:prefLabel xml:lang="en">standalone device</skos:prefLabel>
+      <skos:definition xml:lang="en">Consists of storage and reader components as an integrated standalone device. The data storage medium cannot be removed from the playback device with which it is issued. The data carried on the medium can only be read using the integrated special-purpose device.</skos:definition>
+      <skos:notation xml:lang="en">s</skos:notation>
    </skos:Concept>
    <!-- Concept: tape cartridge  -->
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/electrosmd#a" xml:lang="en">
