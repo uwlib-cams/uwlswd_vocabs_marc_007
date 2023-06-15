@@ -30,7 +30,7 @@
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/globemed#z" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/globemed#"/>
       <skos:prefLabel xml:lang="en">other</skos:prefLabel>
-      <skos:definition xml:lang="en">Physical medium other than paper, wood, stone, metal, synthetic, skin, textile, vinyl, vellum, plaster, leather, parchment.</skos:definition>
+      <skos:definition xml:lang="en">Physical medium other than paper, wood, stone, metal, synthetic, skin, textile, vinyl, vellum, plaster, leather, or parchment.</skos:definition>
       <skos:notation xml:lang="en">z</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/globemed#z"/>
    </skos:Concept>
@@ -56,7 +56,7 @@
       <skos:prefLabel xml:lang="en">plaster</skos:prefLabel>
       <skos:definition xml:lang="en">Plaster.</skos:definition>
       <skos:notation xml:lang="en">p</skos:notation>
-      <skos:scopeNote xml:lang="en">Used for mixtures of ground solids and plaster.</skos:scopeNote>
+      <skos:scopeNote xml:lang="en">Used also for mixtures of ground solids and plaster.</skos:scopeNote>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/globemed#p"/>
    </skos:Concept>
    <!-- Concept: skin  -->
@@ -66,6 +66,7 @@
       <skos:definition xml:lang="en">Skin.</skos:definition>
       <skos:notation xml:lang="en">f</skos:notation>
       <skos:scopeNote xml:lang="en">Excludes leather, parchment, and vellum.</skos:scopeNote>
+      <skos:scopeNote xml:lang="en">Synthetic materials that are made to resemble animal skin are coded as synthetic.</skos:scopeNote>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/globemed#f"/>
    </skos:Concept>
    <!-- Concept: stone  -->
@@ -113,7 +114,7 @@
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/globemed#l" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/globemed#"/>
       <skos:prefLabel xml:lang="en">vinyl</skos:prefLabel>
-      <skos:definition xml:lang="en">Physical medium other than paper, wood, stone, metal, synthetic, skin, textile, plaster.</skos:definition>
+      <skos:definition xml:lang="en">Vinyl.</skos:definition>
       <skos:notation xml:lang="en">l</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/globemed#l"/>
    </skos:Concept>
@@ -123,7 +124,7 @@
       <skos:prefLabel xml:lang="en">wood</skos:prefLabel>
       <skos:definition xml:lang="en">Wood.</skos:definition>
       <skos:notation xml:lang="en">b</skos:notation>
-      <skos:scopeNote xml:lang="en">A material that is based on wood particles or fibers may or may not be considered wood. Consider particle board wood.</skos:scopeNote>
+      <skos:scopeNote xml:lang="en">A material that is based on wood particles or fibers may or may not be considered wood. Consider particle board to be wood.</skos:scopeNote>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/globemed#b"/>
    </skos:Concept>
 </rdf:RDF>
