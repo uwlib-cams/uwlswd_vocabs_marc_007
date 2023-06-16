@@ -86,7 +86,7 @@
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/microformdim#z" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/microformdim#"/>
       <skos:prefLabel xml:lang="en">other</skos:prefLabel>
-      <skos:definition xml:lang="en">Dimensions other than 8 mm., 16 mm., 35 mm., 70 mm., 105 mm., 3x5 in. or 8x13 cm., 4x6 in. or 11x15 cm., 6x9 in. or 16x23 cm., 3 1/4 x 7 3/8 in. or 9x19 cm.</skos:definition>
+      <skos:definition xml:lang="en">Dimensions other than 8 mm., 16 mm., 35 mm., 70 mm., 105 mm., 3x5 in. or 8x13 cm., 4x6 in. or 11x15 cm., 6x9 in. or 16x23 cm., or 3 1/4 x 7 3/8 in. or 9x19 cm.</skos:definition>
       <skos:notation xml:lang="en">z</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/microformdim#z"/>
    </skos:Concept>
