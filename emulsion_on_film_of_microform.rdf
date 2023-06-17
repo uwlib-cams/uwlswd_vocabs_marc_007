@@ -15,6 +15,7 @@
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/microformemu#"/>
       <skos:prefLabel xml:lang="en">diazo</skos:prefLabel>
       <skos:definition xml:lang="en">Sensitized layers composed of diazonium salts that react with couplers to form dye images. The color of the image is determined by the composition of the diazonium compound as well as the couplers used in the process.</skos:definition>
+      <skos:scopeNote xml:lang="en">May be black, violet, or another color.</skos:scopeNote>
       <skos:notation xml:lang="en">b</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/microformemu#b"/>
    </skos:Concept>
@@ -49,6 +50,7 @@
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/microformemu#"/>
       <skos:prefLabel xml:lang="en">silver halide</skos:prefLabel>
       <skos:definition xml:lang="en">A compound of silver and halogens.</skos:definition>
+      <skos:scopeNote xml:lang="en">Silver halide microforms always appear black-and-white (black-and-transparent).</skos:scopeNote>
       <skos:notation xml:lang="en">a</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/microformemu#a"/>
    </skos:Concept>
@@ -65,6 +67,7 @@
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/microformemu#"/>
       <skos:prefLabel xml:lang="en">vesicular</skos:prefLabel>
       <skos:definition xml:lang="en">Light-sensitive component is suspended in a plastic layer. On exposure, the component creates optical vesicules (bubbles) in the layers. These bubbles form the latent image. The latent image becomes visible and fixed by heating the plastic layer and then allowing it to cool.</skos:definition>
+      <skos:scopeNote xml:lang="en">Vesicular films are commonly blue or beige in color. They do not appear to have much contrast (very high density) until projected in a microform reader.</skos:scopeNote>
       <skos:notation xml:lang="en">c</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/microformemu#c"/>
    </skos:Concept>
