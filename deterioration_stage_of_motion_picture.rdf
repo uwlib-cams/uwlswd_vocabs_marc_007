@@ -14,7 +14,7 @@
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/motionpicturedet#d" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturedet#"/>
       <skos:prefLabel xml:lang="en">nitrate: brownish, discoloration, fading, dusty</skos:prefLabel>
-      <skos:definition xml:lang="en">Deterioration of nitrate materials characterized as brownish, discoloration, fading, dusty.</skos:definition>
+      <skos:definition xml:lang="en">Deterioration of nitrate materials characterized as brownish, discoloration, fading, or dusty.</skos:definition>
       <skos:notation xml:lang="en">d</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/motionpicturedet#d"/>
    </skos:Concept>
@@ -30,7 +30,7 @@
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/motionpicturedet#f" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturedet#"/>
       <skos:prefLabel xml:lang="en">nitrate: frothy, bubbles, blisters</skos:prefLabel>
-      <skos:definition xml:lang="en">Deterioration of nitrate materials characterized as frothy, bubbles, blisters.</skos:definition>
+      <skos:definition xml:lang="en">Deterioration of nitrate materials characterized as frothy, bubbles, or blisters.</skos:definition>
       <skos:notation xml:lang="en">f</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/motionpicturedet#f"/>
    </skos:Concept>
