@@ -41,7 +41,7 @@
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/motionpicturebas#z" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturebas#"/>
       <skos:prefLabel xml:lang="en">other</skos:prefLabel>
-      <skos:definition xml:lang="en">Base of film other than safety base, undetermined, safety base, acetate undetermined, safety base, diacetate, nitrate base, mixed base (nitrate and safety), not applicable, safety base, polyester, safety base, mixed, safety base, triacetate.</skos:definition>
+      <skos:definition xml:lang="en">Base of film other than safety base, undetermined, safety base, acetate undetermined, safety base, diacetate, nitrate base, mixed base (nitrate and safety), not applicable, safety base, polyester, safety base, mixed, safety base, or triacetate.</skos:definition>
       <skos:notation xml:lang="en">z</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/motionpicturebas#z"/>
    </skos:Concept>
@@ -66,7 +66,7 @@
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/motionpicturebas#r" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturebas#"/>
       <skos:prefLabel xml:lang="en">safety base, mixed</skos:prefLabel>
-      <skos:definition xml:lang="en">Mixed safety base films spliced together, but no nitrate film.</skos:definition>
+      <skos:definition xml:lang="en">Mixed safety base films spliced together; but contains no nitrate film.</skos:definition>
       <skos:notation xml:lang="en">r</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/motionpicturebas#r"/>
    </skos:Concept>
