@@ -39,7 +39,7 @@
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/motionpicturecsp#z" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturecsp#"/>
       <skos:prefLabel xml:lang="en">other</skos:prefLabel>
-      <skos:definition xml:lang="en">Kind of color stock or print other than imbibition dye transfer prints, three layer stock, three layer stock, low fade, duplitized stock.</skos:definition>
+      <skos:definition xml:lang="en">Kind of color stock or print other than imbibition dye transfer prints, three layer stock, three layer stock, low fade, or duplitized stock.</skos:definition>
       <skos:notation xml:lang="en">z</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/motionpicturecsp#z"/>
    </skos:Concept>
@@ -49,7 +49,7 @@
       <skos:prefLabel xml:lang="en">three layer stock</skos:prefLabel>
       <skos:definition xml:lang="en">Color film stock with three layers of emulsion: cyan, magenta and yellow. Each layer is sensitive to its own primary color.</skos:definition>
       <skos:notation xml:lang="en">b</skos:notation>
-      <skos:scopeNote xml:lang="en">Since the early 1950's, most color films have been both shot and printed on this stock. It is also called multilayer film stock.</skos:scopeNote>
+      <skos:scopeNote xml:lang="en">Since the early 1950s, most color films have been both shot and printed on this stock. It is also called multilayer film stock.</skos:scopeNote>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/motionpicturecsp#b"/>
    </skos:Concept>
    <!-- Concept: three layer stock, low fade  -->
@@ -65,7 +65,7 @@
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/motionpicturecsp#u" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturecsp#"/>
       <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
-      <skos:definition xml:lang="en">Item is not a color film.</skos:definition>
+      <skos:definition xml:lang="en">Type of color film stock is not known.</skos:definition>
       <skos:notation xml:lang="en">u</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/motionpicturecsp#u"/>
    </skos:Concept>
