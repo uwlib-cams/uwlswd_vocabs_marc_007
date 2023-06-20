@@ -57,7 +57,8 @@
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/motionpicturecol#z" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturecol#"/>
       <skos:prefLabel xml:lang="en">other</skos:prefLabel>
-      <skos:definition xml:lang="en">Color other than black-and-white, multicolored, hand colored, mixed.</skos:definition>
+      <skos:definition xml:lang="en">Color other than black-and-white, multicolored, hand colored, or mixed.</skos:definition>
+      <skos:scopeNote xml:lang="en">E.g., toned, stained, tinted, etc.</skos:scopeNote>
       <skos:notation xml:lang="en">z</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/motionpicturecol#z"/>
    </skos:Concept>
