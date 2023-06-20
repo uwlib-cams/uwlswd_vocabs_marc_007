@@ -40,7 +40,7 @@
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/motionpicturefor#z" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturefor#"/>
       <skos:prefLabel xml:lang="en">other</skos:prefLabel>
-      <skos:definition xml:lang="en">Motion picture presentation format other than standard sound aperture (reduced frame), nonanamorphic (wide-screen), 3d, anamorphic (wide-screen), other wide-screen format, standard silent aperture (full frame).</skos:definition>
+      <skos:definition xml:lang="en">Motion picture presentation format other than standard sound aperture (reduced frame), nonanamorphic (wide-screen), 3d, anamorphic (wide-screen), other wide-screen format, or standard silent aperture (full frame).</skos:definition>
       <skos:notation xml:lang="en">z</skos:notation>
       <skos:scopeNote xml:lang="en">An example of this is the 70 mm. Imax format which is a non-rectangular, circular 180 degree limited use format that is not standardized. Imax may not technically be considered a wide-screen format because it does not have an aspect ratio, but it does achieve a wide-screen effect.</skos:scopeNote>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/motionpicturefor#z"/>
@@ -60,7 +60,7 @@
       <skos:prefLabel xml:lang="en">standard silent aperture (full frame)</skos:prefLabel>
       <skos:definition xml:lang="en">35 mm. film on which the exposed picture is approximately the width of the space between the perforation holes of the frame.</skos:definition>
       <skos:notation xml:lang="en">f</skos:notation>
-      <skos:scopeNote xml:lang="en">Standard format for silent film from about 1899 until the late 1920's when sound film was introduced and the frame size decreased to make room for the sound track.</skos:scopeNote>
+      <skos:scopeNote xml:lang="en">Standard format for silent film from about 1899 until the late 1920s when sound film was introduced and the frame size decreased to make room for the sound track.</skos:scopeNote>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/motionpicturefor#f"/>
    </skos:Concept>
    <!-- Concept: standard sound aperture (reduced frame)  -->
