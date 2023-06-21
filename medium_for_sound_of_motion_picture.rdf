@@ -72,7 +72,7 @@
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/motionpicturemed#z" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturemed#"/>
       <skos:prefLabel xml:lang="en">other</skos:prefLabel>
-      <skos:definition xml:lang="en">Medium for sound other than no sound (silent), optical sound track on motion picture film, magnetic sound track on motion picture film, magnetic audio tape in cartridge, sound disc, magnetic audio tape on reel, magnetic audio tape in cassette, optical and magnetic sound track on motion picture film, videotape, videodisc.</skos:definition>
+      <skos:definition xml:lang="en">Medium for sound other than no sound (silent), optical sound track on motion picture film, magnetic sound track on motion picture film, magnetic audio tape in cartridge, sound disc, magnetic audio tape on reel, magnetic audio tape in cassette, optical and magnetic sound track on motion picture film, videotape, or videodisc.</skos:definition>
       <skos:notation xml:lang="en">z</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/motionpicturemed#z"/>
    </skos:Concept>
