@@ -63,7 +63,7 @@
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/nonprojectedsmd#z" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/nonprojectedsmd#"/>
       <skos:prefLabel xml:lang="en">other</skos:prefLabel>
-      <skos:definition xml:lang="en">Specific material designation other than activity card, collage, drawing, painting, photomechanical print, photonegative, photoprint, picture, print, poster, technical drawing, chart, flash card, postcard, icon, radiograph, study print, photograph, type unspecified.</skos:definition>
+      <skos:definition xml:lang="en">Specific material designation other than activity card, collage, drawing, painting, photomechanical print, photonegative, photoprint, picture, print, poster, technical drawing, chart, flash card, postcard, icon, radiograph, study print, or photograph type unspecified.</skos:definition>
       <skos:notation xml:lang="en">z</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/nonprojectedsmd#z"/>
    </skos:Concept>
@@ -115,6 +115,7 @@
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/nonprojectedsmd#"/>
       <skos:prefLabel xml:lang="en">picture</skos:prefLabel>
       <skos:definition xml:lang="en">Two-dimensional visual representation accessible to the naked eye and generally on an opaque backing.</skos:definition>
+      <skos:scopeNote xml:lang="en">Used when a more specific designation is unknown or not desired.</skos:scopeNote>
       <skos:notation xml:lang="en">i</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/nonprojectedsmd#i"/>
    </skos:Concept>
