@@ -71,6 +71,7 @@
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/nonprojectedsec#"/>
       <skos:prefLabel xml:lang="en">mixed collection</skos:prefLabel>
       <skos:definition xml:lang="en">Secondary support material varies for different items in a collection.</skos:definition>
+      <skos:scopeNote xml:lang="en">Typically this would be used for groups of nonprojected graphics on various bases.</skos:scopeNote>
       <skos:notation xml:lang="en">m</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/nonprojectedsec#m"/>
    </skos:Concept>
@@ -85,7 +86,7 @@
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/nonprojectedsec#z" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/nonprojectedsec#"/>
       <skos:prefLabel xml:lang="en">other</skos:prefLabel>
-      <skos:definition xml:lang="en">Secondary support material other than canvas, bristol board, cardboard/illustration board, glass, synthetic, skin, textile, metal, vinyl, plastic, mixed collection, vellum, paper, plaster, hardboard, porcelain, stone, wood, leather, parchment.</skos:definition>
+      <skos:definition xml:lang="en">Secondary support material other than canvas, bristol board, cardboard/illustration board, glass, synthetic, skin, textile, metal, vinyl, plastic, mixed collection, vellum, paper, plaster, hardboard, porcelain, stone, wood, leather, or parchment.</skos:definition>
       <skos:notation xml:lang="en">z</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/nonprojectedsec#z"/>
    </skos:Concept>
@@ -128,7 +129,7 @@
       <skos:prefLabel xml:lang="en">porcelain</skos:prefLabel>
       <skos:definition xml:lang="en">Porcelain.</skos:definition>
       <skos:notation xml:lang="en">r</skos:notation>
-      <skos:scopeNote xml:lang="en">Used only for clay-based porcelain.</skos:scopeNote>
+      <skos:scopeNote xml:lang="en">Used only for clay-based porcelain.  Porcelain-like synthetic materials are coded as synthetic.</skos:scopeNote>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/nonprojectedsec#r"/>
    </skos:Concept>
    <!-- Concept: skin  -->
@@ -137,7 +138,7 @@
       <skos:prefLabel xml:lang="en">skin</skos:prefLabel>
       <skos:definition xml:lang="en">Skin.</skos:definition>
       <skos:notation xml:lang="en">f</skos:notation>
-      <skos:scopeNote xml:lang="en">Excludes leather, parchment, and vellum.</skos:scopeNote>
+      <skos:scopeNote xml:lang="en">Excludes leather, parchment, and vellum.  Synthetic materials that are made to resemble animal skin are coded as synthetic.</skos:scopeNote>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/nonprojectedsec#f"/>
    </skos:Concept>
    <!-- Concept: stone  -->
@@ -195,7 +196,7 @@
       <skos:prefLabel xml:lang="en">wood</skos:prefLabel>
       <skos:definition xml:lang="en">Material that is based on wood particles or fibers may or may not be considered wood.</skos:definition>
       <skos:notation xml:lang="en">t</skos:notation>
-      <skos:scopeNote xml:lang="en">Consider particle board wood.</skos:scopeNote>
+      <skos:scopeNote xml:lang="en">Consider particle board to be wood.</skos:scopeNote>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/nonprojectedsec#t"/>
    </skos:Concept>
 </rdf:RDF>
