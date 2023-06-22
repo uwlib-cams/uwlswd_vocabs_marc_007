@@ -47,7 +47,7 @@
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/motionpicturesmd#z" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturesmd#"/>
       <skos:prefLabel xml:lang="en">other</skos:prefLabel>
-      <skos:definition xml:lang="en">Specific material designation other than film cartridge, film cassette, film roll, film reel.</skos:definition>
+      <skos:definition xml:lang="en">Specific material designation other than film cartridge, film cassette, film roll, or film reel.</skos:definition>
       <skos:notation xml:lang="en">z</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/motionpicturesmd#z"/>
    </skos:Concept>
