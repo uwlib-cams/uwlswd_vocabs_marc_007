@@ -51,12 +51,12 @@
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/nonprojectedpri#q"/>
    </skos:Concept>
    <!-- Concept: leather  -->
-   <skos:Concept rdf:about="http://fakeIRI.edu/terms/nonprojectedpri#l" xml:lang="en">
+   <skos:Concept rdf:about="http://fakeIRI.edu/terms/nonprojectedpri#v" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/nonprojectedpri#"/>
       <skos:prefLabel xml:lang="en">leather</skos:prefLabel>
       <skos:definition xml:lang="en">Animal skin dressed for use.</skos:definition>
-      <skos:notation xml:lang="en">l</skos:notation>
-      <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/nonprojectedpri#l"/>
+      <skos:notation xml:lang="en">v</skos:notation>
+      <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/nonprojectedpri#v"/>
    </skos:Concept>
    <!-- Concept: metal  -->
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/nonprojectedpri#h" xml:lang="en">
@@ -66,11 +66,33 @@
       <skos:notation xml:lang="en">h</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/nonprojectedpri#h"/>
    </skos:Concept>
+   <!-- Concept: plastic  -->
+   <skos:Concept rdf:about="http://fakeIRI.edu/terms/nonprojectedpri#i" xml:lang="en">
+      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/nonprojectedpri#"/>
+      <skos:prefLabel xml:lang="en">plastic</skos:prefLabel>
+      <skos:definition xml:lang="en">Plastic.</skos:definition>
+      <skos:notation xml:lang="en">i</skos:notation>
+   </skos:Concept>
+   <!-- Concept: vinyl  -->
+   <skos:Concept rdf:about="http://fakeIRI.edu/terms/nonprojectedpri#l" xml:lang="en">
+      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/nonprojectedpri#"/>
+      <skos:prefLabel xml:lang="en">vinyl</skos:prefLabel>
+      <skos:definition xml:lang="en">Vinyl.</skos:definition>
+      <skos:notation xml:lang="en">l</skos:notation>
+   </skos:Concept>
+   <!-- Concept: mixed collection  -->
+   <skos:Concept rdf:about="http://fakeIRI.edu/terms/nonprojectedpri#m" xml:lang="en">
+      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/nonprojectedpri#"/>
+      <skos:prefLabel xml:lang="en">mixed collection</skos:prefLabel>
+      <skos:definition xml:lang="en">Primary support material varies for different items in a collection.</skos:definition>
+      <skos:notation xml:lang="en">m</skos:notation>
+      <skos:scopeNote xml:lang="en">Typically this would be used for groups of nonprojected graphics on various bases.</skos:scopeNote>
+   </skos:Concept>
    <!-- Concept: other  -->
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/nonprojectedpri#z" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/nonprojectedpri#"/>
       <skos:prefLabel xml:lang="en">other</skos:prefLabel>
-      <skos:definition xml:lang="en">Primary support material other than canvas, bristol board, cardboard/illustration board, glass, synthetic, skin, textile, leather, metal, mixed collection, vellum, paper, plaster, hardboard, porcelain, stone, wood, parchment.</skos:definition>
+      <skos:definition xml:lang="en">Primary support material other than canvas, bristol board, cardboard/illustration board, glass, synthetic, skin, textile, metal, plastic, vinyl, mixed collection, vellum, paper, plaster, hardboard, porcelain, stone, wood, leather, or parchment.</skos:definition>
       <skos:notation xml:lang="en">z</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/nonprojectedpri#z"/>
    </skos:Concept>
@@ -105,7 +127,7 @@
       <skos:prefLabel xml:lang="en">porcelain</skos:prefLabel>
       <skos:definition xml:lang="en">Porcelain.</skos:definition>
       <skos:notation xml:lang="en">r</skos:notation>
-      <skos:scopeNote xml:lang="en">Used only for clay-based porcelain.</skos:scopeNote>
+      <skos:scopeNote xml:lang="en">Used only for clay-based porcelain.  Porcelain-like synthetic materials are coded as synthetic.</skos:scopeNote>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/nonprojectedpri#r"/>
    </skos:Concept>
    <!-- Concept: skin  -->
@@ -114,7 +136,7 @@
       <skos:prefLabel xml:lang="en">skin</skos:prefLabel>
       <skos:definition xml:lang="en">Skin.</skos:definition>
       <skos:notation xml:lang="en">f</skos:notation>
-      <skos:scopeNote xml:lang="en">Excludes leather, parchment, and vellum.</skos:scopeNote>
+      <skos:scopeNote xml:lang="en">Excludes leather, parchment, and vellum.  Synthetic materials that are made to resemble animal skin are coded as synthetic.</skos:scopeNote>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/nonprojectedpri#f"/>
    </skos:Concept>
    <!-- Concept: stone  -->
@@ -139,7 +161,7 @@
       <skos:prefLabel xml:lang="en">textile</skos:prefLabel>
       <skos:definition xml:lang="en">Textile.</skos:definition>
       <skos:notation xml:lang="en">g</skos:notation>
-      <skos:scopeNote xml:lang="en">Includes all natural or synthetic fibre fabrics except canvas.</skos:scopeNote>
+      <skos:scopeNote xml:lang="en">Includes all natural or synthetic fibre fabrics except canvas.  Synthetic materials formed to resemble a fabric are considered textiles.</skos:scopeNote>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/nonprojectedpri#g"/>
    </skos:Concept>
    <!-- Concept: unknown  -->
