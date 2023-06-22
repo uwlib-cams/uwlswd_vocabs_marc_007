@@ -15,6 +15,7 @@
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturepro#"/>
       <skos:prefLabel xml:lang="en">mixing tracks</skos:prefLabel>
       <skos:definition xml:lang="en">Separate sound tracks that are combined for the final film sound track.</skos:definition>
+      <skos:scopeNote xml:lang="en">Mixing tracks may include music, sound effects, and dialog tracks.</skos:scopeNote>
       <skos:notation xml:lang="en">e</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/motionpicturepro#e"/>
    </skos:Concept>
@@ -30,7 +31,7 @@
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/motionpicturepro#z" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturepro#"/>
       <skos:prefLabel xml:lang="en">other</skos:prefLabel>
-      <skos:definition xml:lang="en">Production elements other than workprint, trims, outtakes, rushes, mixing tracks, title bands/intertitle rolls, production rolls.</skos:definition>
+      <skos:definition xml:lang="en">Production elements other than workprint, trims, outtakes, rushes, mixing tracks, title bands/intertitle rolls, or production rolls.</skos:definition>
       <skos:notation xml:lang="en">z</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/motionpicturepro#z"/>
    </skos:Concept>
@@ -55,6 +56,7 @@
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturepro#"/>
       <skos:prefLabel xml:lang="en">rushes</skos:prefLabel>
       <skos:definition xml:lang="en">First positive prints from the laboratory of the previous day's shooting.</skos:definition>
+      <skos:scopeNote xml:lang="en">Also called dailies.</skos:scopeNote>
       <skos:notation xml:lang="en">d</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/motionpicturepro#d"/>
    </skos:Concept>
