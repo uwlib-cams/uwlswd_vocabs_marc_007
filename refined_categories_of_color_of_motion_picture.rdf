@@ -34,7 +34,7 @@
       <skos:prefLabel xml:lang="en">3 layer color</skos:prefLabel>
       <skos:definition xml:lang="en">Three layers of emulsion: cyan, magenta, and yellow. Each layer is sensitive to its own primary color.</skos:definition>
       <skos:notation xml:lang="en">a</skos:notation>
-      <skos:scopeNote xml:lang="en">Beginning in the early 1950's, color film work has been done primarily on 3 layer, also called multilayer, film. This process is also known as integral tri-pack.</skos:scopeNote>
+      <skos:scopeNote xml:lang="en">Beginning in the early 1950s, color film work has been done primarily on 3 layer, also called multilayer, film. This process is also known as integral tri-pack.</skos:scopeNote>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/motionpicturercc#a"/>
    </skos:Concept>
    <!-- Concept: 3 strip color  -->
@@ -90,7 +90,7 @@
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/motionpicturercc#z" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturercc#"/>
       <skos:prefLabel xml:lang="en">other</skos:prefLabel>
-      <skos:definition xml:lang="en">Refined categories of color other than 3 layer color, 2 color, single strip, undetermined 2 color, undetermined 3 color, 3 strip color 2 strip color, red strip, blue or green strip, cyan strip, magenta strip, yellow strip, S E N 2, S E N 3, sepia tone, other tone, tint, tinted and toned, stencil color, hand colored.</skos:definition>
+      <skos:definition xml:lang="en">Refined categories of color other than 3 layer color, 2 color single strip, undetermined 2 color, undetermined 3 color, 3 strip color 2 strip color, red strip, blue or green strip, cyan strip, magenta strip, yellow strip, S E N 2, S E N 3, sepia tone, other tone, tint, tinted and toned, stencil color, or hand colored.</skos:definition>
       <skos:notation xml:lang="en">z</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/motionpicturercc#z"/>
    </skos:Concept>
@@ -125,14 +125,14 @@
       <skos:prefLabel xml:lang="en">S E N 3</skos:prefLabel>
       <skos:definition xml:lang="en">Successive exposure negative 3. S E N 3 is a method of motion picture color photography in which three color separation negative images were recorded on one strip of film by photographing each frame three times successively through red, blue, and green filters. The resultant negative was subsequently optically printed by the use of a skip-frame mechanism.</skos:definition>
       <skos:notation xml:lang="en">m</skos:notation>
-      <skos:scopeNote xml:lang="en">he process was usually restricted to the photography of animated cartoon and puppet subjects in which the movement from frame to frame could be controlled. The successive exposure process was rarely used after the introduction of 3 layer (multilayer) color negative film.</skos:scopeNote>
+      <skos:scopeNote xml:lang="en">The process was usually restricted to the photography of animated cartoon and puppet subjects in which the movement from frame to frame could be controlled. The successive exposure process was rarely used after the introduction of 3 layer (multilayer) color negative film.</skos:scopeNote>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/motionpicturercc#m"/>
    </skos:Concept>
    <!-- Concept: sepia tone  -->
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/motionpicturercc#p" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturercc#"/>
       <skos:prefLabel xml:lang="en">sepia tone</skos:prefLabel>
-      <skos:definition xml:lang="en">Sepia tone which is a conversion of a black-and-white image in silver to sepia (a brownish grey to dark olive brown) by metallic compounds.</skos:definition>
+      <skos:definition xml:lang="en">A conversion of a black-and-white image in silver to sepia (a brownish grey to dark olive brown) by metallic compounds.</skos:definition>
       <skos:notation xml:lang="en">p</skos:notation>
       <skos:scopeNote xml:lang="en">Sepia was the most common tone used, and was used in black-and-white prints of films for special sequences to enhance the dramatic or pictorial effect.</skos:scopeNote>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/motionpicturercc#p"/>
