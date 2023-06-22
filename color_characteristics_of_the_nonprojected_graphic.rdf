@@ -58,7 +58,7 @@
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/nonprojectedcol#z" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/nonprojectedcol#"/>
       <skos:prefLabel xml:lang="en">other</skos:prefLabel>
-      <skos:definition xml:lang="en">Color other than one color, black-and-white, multicolored, hand colored, mixed.</skos:definition>
+      <skos:definition xml:lang="en">Color other than one color, black-and-white, multicolored, hand colored, or mixed.</skos:definition>
       <skos:notation xml:lang="en">z</skos:notation>
       <skos:scopeNote xml:lang="en">Includes stained, tinted, or toned items(e.g., sepia toned photographic items).</skos:scopeNote>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/nonprojectedcol#z"/>
