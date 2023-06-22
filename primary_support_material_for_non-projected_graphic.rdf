@@ -186,7 +186,7 @@
       <skos:prefLabel xml:lang="en">wood</skos:prefLabel>
       <skos:definition xml:lang="en">Material that is based on wood particles or fibers may or may not be considered wood.</skos:definition>
       <skos:notation xml:lang="en">t</skos:notation>
-      <skos:scopeNote xml:lang="en">Consider particle board wood.</skos:scopeNote>
+      <skos:scopeNote xml:lang="en">Consider particle board to be wood.</skos:scopeNote>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/nonprojectedpri#t"/>
    </skos:Concept>
 </rdf:RDF>
