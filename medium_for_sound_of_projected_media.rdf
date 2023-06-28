@@ -73,7 +73,7 @@
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/ projectedmed#"/>
       <skos:prefLabel xml:lang="en">other</skos:prefLabel>
       <skos:definition xml:lang="en">Medium for sound other than no sound (silent), optical sound track on motion picture film, magnetic sound track on motion picture film, magnetic audio tape in cartridge, sound disc, magnetic audio tape on reel, magnetic audio tape in cassette, optical and magnetic sound track on
-videotape, videodisc.</skos:definition>
+videotape, or videodisc.</skos:definition>
       <skos:notation xml:lang="en">z</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/ projectedmed#z"/>
    </skos:Concept>
