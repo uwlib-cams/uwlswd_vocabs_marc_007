@@ -59,14 +59,14 @@
       <skos:prefLabel xml:lang="en">no secondary support</skos:prefLabel>
       <skos:definition xml:lang="en">No secondary support.</skos:definition>
       <skos:notation xml:lang="en">#</skos:notation>
-      <skos:scopeNote xml:lang="en">Includes filmstrips.</skos:scopeNote>
+      <skos:scopeNote xml:lang="en">Includes all filmstrips.</skos:scopeNote>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/projectedsec#%23"/>
    </skos:Concept>
    <!-- Concept: other  -->
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/projectedsec#z" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/projectedsec#"/>
       <skos:prefLabel xml:lang="en">other</skos:prefLabel>
-      <skos:definition xml:lang="en">Secondary support material other than cardboard, glass, synthetic, metal, metal and glass, synthetic and glass, mixed collection.</skos:definition>
+      <skos:definition xml:lang="en">Secondary support material other than cardboard, glass, synthetic, metal, metal and glass, synthetic and glass, or mixed collection.</skos:definition>
       <skos:notation xml:lang="en">z</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/projectedsec#z"/>
    </skos:Concept>
