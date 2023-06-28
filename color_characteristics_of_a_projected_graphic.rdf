@@ -24,6 +24,7 @@
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/projectedcol#"/>
       <skos:prefLabel xml:lang="en">hand colored</skos:prefLabel>
       <skos:definition xml:lang="en">Image, produced by a printing or photographic process, is hand colored.</skos:definition>
+      <skos:scopeNote xml:lang="en">Rarely used with commercial audiovisual materials since these are not typically issued with hand coloring.</skos:scopeNote>
       <skos:notation xml:lang="en">h</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/projectedcol#h"/>
    </skos:Concept>
@@ -66,7 +67,7 @@
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/projectedcol#z" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/projectedcol#"/>
       <skos:prefLabel xml:lang="en">other</skos:prefLabel>
-      <skos:definition xml:lang="en">Color other than one color, black-and-white, multicolored, hand colored, mixed.</skos:definition>
+      <skos:definition xml:lang="en">Color other than one color, black-and-white, multicolored, hand colored, or, mixed.</skos:definition>
       <skos:notation xml:lang="en">z</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/projectedcol#z"/>
    </skos:Concept>
