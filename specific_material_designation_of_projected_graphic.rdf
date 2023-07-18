@@ -38,7 +38,7 @@
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/projectedsmd#z" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/projectedsmd#"/>
       <skos:prefLabel xml:lang="en">other</skos:prefLabel>
-      <skos:definition xml:lang="en">Specific material designation other than filmstrip cartridge, filmslip, other filmstrip type, filmstrip roll, slide, transparency.</skos:definition>
+      <skos:definition xml:lang="en">Specific material designation other than filmstrip cartridge, filmslip, other filmstrip type, filmstrip roll, slide, or transparency.</skos:definition>
       <skos:notation xml:lang="en">z</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/projectedsmd#z"/>
    </skos:Concept>
@@ -72,6 +72,7 @@
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/projectedsmd#u" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/projectedsmd#"/>
       <skos:prefLabel xml:lang="en">unspecified</skos:prefLabel>
+      <skos:definition xml:lang="en">The specific material designation for the projected graphic is unspecified.</skos:definition>
       <skos:notation xml:lang="en">u</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/projectedsmd#u"/>
    </skos:Concept>
