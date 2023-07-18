@@ -34,7 +34,7 @@
       <skos:prefLabel xml:lang="en">digital storage</skos:prefLabel>
       <skos:definition xml:lang="en">Sound recordings which were captured electrically and stored using digital techniques.</skos:definition>
       <skos:notation xml:lang="en">d</skos:notation>
-      <skos:scopeNote xml:lang="en">Such recordings are normally identified as "digitally recorded" or some similar phrase on the label or package. "Digital remaster" or "digital mixing" does not imply original digital storage. Note: Digital storage and digital playback should not be confused.</skos:scopeNote>
+      <skos:scopeNote xml:lang="en">Such recordings, which became available in the 1980s, are normally identified as "digitally recorded" or some similar phrase on the label or package. "Digital remaster" or "digital mixing" does not imply original digital storage. Note that Digital storage and digital playback should not be confused.</skos:scopeNote>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/soundrecordingcap#d"/>
    </skos:Concept>
    <!-- Concept: direct storage, not acoustical  -->
@@ -43,14 +43,14 @@
       <skos:prefLabel xml:lang="en">direct storage, not acoustical</skos:prefLabel>
       <skos:definition xml:lang="en">Disc recordings captured using electrical equipment and stored directly on a master surface.</skos:definition>
       <skos:notation xml:lang="en">b</skos:notation>
-      <skos:scopeNote xml:lang="en">All recordings made with microphones and other electrical equipment prior to the availability of magnetic recording techniques in the late 1940s used direct storage. Commercial recordings marked "direct to disc" or some equivalent phrase also use this technique.</skos:scopeNote>
+      <skos:scopeNote xml:lang="en">All recordings made with microphones and other electrical equipment prior to the availability of magnetic recording techniques in the late 1940s used direct storage. Commercial recordings marked "direct to disc" or some equivalent phrase also use this technique. Also known as electromechanical recording.</skos:scopeNote>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/soundrecordingcap#b"/>
    </skos:Concept>
    <!-- Concept: other  -->
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/soundrecordingcap#z" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordingcap#"/>
       <skos:prefLabel xml:lang="en">other</skos:prefLabel>
-      <skos:definition xml:lang="en">Capture and storage technique other than acoustical capture, direct storage, direct storage, not acoustical, digital storage, analog electrical storage.</skos:definition>
+      <skos:definition xml:lang="en">Capture and storage technique other than acoustical capture, direct storage; direct storage, not acoustical; digital storage; or analog electrical storage.</skos:definition>
       <skos:notation xml:lang="en">z</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/soundrecordingcap#z"/>
    </skos:Concept>
