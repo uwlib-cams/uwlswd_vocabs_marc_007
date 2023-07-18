@@ -22,15 +22,15 @@
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/soundrecordingcpc#z" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordingcpc#"/>
       <skos:prefLabel xml:lang="en">other</skos:prefLabel>
-      <skos:definition xml:lang="en">Configuration other than monaural, quadraphonic, stereophonic.</skos:definition>
+      <skos:definition xml:lang="en">Configuration other than monaural; quadraphonic, multichannel or surround; or stereophonic.</skos:definition>
       <skos:notation xml:lang="en">z</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/soundrecordingcpc#z"/>
    </skos:Concept>
    <!-- Concept: quadraphonic  -->
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/soundrecordingcpc#q" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordingcpc#"/>
-      <skos:prefLabel xml:lang="en">quadraphonic</skos:prefLabel>
-      <skos:definition xml:lang="en">Four separate channels.</skos:definition>
+      <skos:prefLabel xml:lang="en">quadraphonic, multichannel or surround</skos:prefLabel>
+      <skos:definition xml:lang="en">More than two separate channels.  Use for Dolby surround sound tracks.</skos:definition>
       <skos:notation xml:lang="en">q</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/soundrecordingcpc#q"/>
    </skos:Concept>
