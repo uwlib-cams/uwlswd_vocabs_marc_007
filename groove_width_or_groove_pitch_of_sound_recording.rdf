@@ -41,7 +41,7 @@
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/soundrecordinggro#z" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordinggro#"/>
       <skos:prefLabel xml:lang="en">other</skos:prefLabel>
-      <skos:definition xml:lang="en">Groove width/groove pitch other than microgroove/fine, coarse/standard.</skos:definition>
+      <skos:definition xml:lang="en">Groove width/groove pitch other than microgroove/fine or coarse/standard.</skos:definition>
       <skos:notation xml:lang="en">z</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/soundrecordinggro#z"/>
    </skos:Concept>
