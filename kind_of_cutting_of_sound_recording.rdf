@@ -25,7 +25,7 @@
       <skos:prefLabel xml:lang="en">lateral or combined cutting</skos:prefLabel>
       <skos:definition xml:lang="en">Cutting containing lateral information intended for reproduction. Such discs may also have vertical components intended for reproduction.</skos:definition>
       <skos:notation xml:lang="en">l</skos:notation>
-      <skos:scopeNote xml:lang="en">Most contemporary discs (i.e., all quadraphonic discs and nearly all stereophonic discs) contain both vertical and laterial information and are coded l. Monographic discs are normally lateral only.</skos:scopeNote>
+      <skos:scopeNote xml:lang="en">Most contemporary discs (i.e., all quadraphonic discs and nearly all stereophonic discs) contain both vertical and laterial information. Monographic discs are normally lateral only.</skos:scopeNote>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/soundrecordingcut#l"/>
    </skos:Concept>
    <!-- Concept: not applicable  -->
