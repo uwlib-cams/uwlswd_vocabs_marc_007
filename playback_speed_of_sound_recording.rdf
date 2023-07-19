@@ -14,16 +14,16 @@
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/soundrecordingspd#l" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordingspd#"/>
       <skos:prefLabel xml:lang="en">1 7/8 ips</skos:prefLabel>
-      <skos:definition xml:lang="en">1 7/8 ips.</skos:definition>
+      <skos:definition xml:lang="en">1 7/8 inches per second.</skos:definition>
       <skos:notation xml:lang="en">l</skos:notation>
-      <skos:scopeNote xml:lang="en">For example, on standard cassettes.</skos:scopeNote>
+      <skos:scopeNote xml:lang="en">Occurs, for example, on standard cassettes.</skos:scopeNote>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/soundrecordingspd#l"/>
    </skos:Concept>
    <!-- Concept: 1.4 m. per second  -->
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/soundrecordingspd#f" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordingspd#"/>
-      <skos:prefLabel xml:lang="en">1.4 m. per second</skos:prefLabel>
-      <skos:definition xml:lang="en">1.4 m. per second. Speed is calculated from the distance the playback mechanism covers on the surface of the disc per second, and not the number of revolutions of the disc.</skos:definition>
+      <skos:prefLabel xml:lang="en">1.4 meters per second</skos:prefLabel>
+      <skos:definition xml:lang="en">1.4 meters per second. Speed is calculated from the distance the playback mechanism covers on the surface of the disc per second, and not the number of revolutions of the disc.</skos:definition>
       <skos:notation xml:lang="en">f</skos:notation>
       <skos:scopeNote xml:lang="en">Associated with compact discs (CDs).</skos:scopeNote>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/soundrecordingspd#f"/>
@@ -41,18 +41,18 @@
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/soundrecordingspd#p" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordingspd#"/>
       <skos:prefLabel xml:lang="en">15 ips</skos:prefLabel>
-      <skos:definition xml:lang="en">15 ips.</skos:definition>
+      <skos:definition xml:lang="en">15 inches per second.</skos:definition>
       <skos:notation xml:lang="en">p</skos:notation>
-      <skos:scopeNote xml:lang="en">For example, on reel-to-reel, studio tapes.</skos:scopeNote>
+      <skos:scopeNote xml:lang="en">Occurs, for example, on reel-to-reel, studio tapes.</skos:scopeNote>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/soundrecordingspd#p"/>
    </skos:Concept>
    <!-- Concept: 15/16 ips  -->
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/soundrecordingspd#k" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordingspd#"/>
       <skos:prefLabel xml:lang="en">15/16 ips</skos:prefLabel>
-      <skos:definition xml:lang="en">15/16 ips.</skos:definition>
+      <skos:definition xml:lang="en">15/16 inches per second.</skos:definition>
       <skos:notation xml:lang="en">k</skos:notation>
-      <skos:scopeNote xml:lang="en">For example, on half-speed mini-cassettes used in small portable recorders.</skos:scopeNote>
+      <skos:scopeNote xml:lang="en">Occurs, for example, on half-speed mini-cassettes used in small portable recorders.</skos:scopeNote>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/soundrecordingspd#k"/>
    </skos:Concept>
    <!-- Concept: 16 rpm  -->
@@ -77,18 +77,18 @@
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/soundrecordingspd#m" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordingspd#"/>
       <skos:prefLabel xml:lang="en">3 3/4 ips</skos:prefLabel>
-      <skos:definition xml:lang="en">3 3/4 ips.</skos:definition>
+      <skos:definition xml:lang="en">3 3/4 inches per second.</skos:definition>
       <skos:notation xml:lang="en">m</skos:notation>
-      <skos:scopeNote xml:lang="en">For example, on consumer and nonprofessional reel-to-reel tapes, cartridges and very unusual cassette tapes.</skos:scopeNote>
+      <skos:scopeNote xml:lang="en">Occurs, for example, on consumer and nonprofessional reel-to-reel tapes, cartridges and very unusual cassette tapes.</skos:scopeNote>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/soundrecordingspd#m"/>
    </skos:Concept>
    <!-- Concept: 30 ips  -->
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/soundrecordingspd#r" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordingspd#"/>
       <skos:prefLabel xml:lang="en">30 ips</skos:prefLabel>
-      <skos:definition xml:lang="en">30 ips.</skos:definition>
+      <skos:definition xml:lang="en">30 inches per second.</skos:definition>
       <skos:notation xml:lang="en">r</skos:notation>
-      <skos:scopeNote xml:lang="en">For example, on reel-to-reel, studio tapes, but is rarely used.</skos:scopeNote>
+      <skos:scopeNote xml:lang="en">Occurs, for example, on reel-to-reel, studio tapes, but is rarely used.</skos:scopeNote>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/soundrecordingspd#r"/>
    </skos:Concept>
    <!-- Concept: 33 1/3 rpm  -->
@@ -109,13 +109,20 @@
       <skos:scopeNote xml:lang="en">Used for discs.</skos:scopeNote>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/soundrecordingspd#c"/>
    </skos:Concept>
+   <!-- Concept: not applicable  -->
+   <skos:Concept rdf:about="http://fakeIRI.edu/terms/soundrecordingspd#n" xml:lang="en">
+      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordingspd#"/>
+      <skos:prefLabel xml:lang="en">not applicable</skos:prefLabel>
+      <skos:definition xml:lang="en">Speed is not applicable to remote digital sound recordings because it pertains to calculations specific to physical aspects of carriers.</skos:definition>
+      <skos:notation xml:lang="en">n</skos:notation>
+   </skos:Concept>
    <!-- Concept: 7 1/2 ips  -->
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/soundrecordingspd#o" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordingspd#"/>
       <skos:prefLabel xml:lang="en">7 1/2 ips</skos:prefLabel>
-      <skos:definition xml:lang="en">7 1/2 ips.</skos:definition>
+      <skos:definition xml:lang="en">7 1/2 inches per second.</skos:definition>
       <skos:notation xml:lang="en">o</skos:notation>
-      <skos:scopeNote xml:lang="en">For example, in reel-to-reel, nonprofessional, and studio tapes.</skos:scopeNote>
+      <skos:scopeNote xml:lang="en">Occurs, for example, in reel-to-reel, nonprofessional, and studio tapes.</skos:scopeNote>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/soundrecordingspd#o"/>
    </skos:Concept>
    <!-- Concept: 78 rpm  -->
@@ -140,7 +147,7 @@
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/soundrecordingspd#z" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordingspd#"/>
       <skos:prefLabel xml:lang="en">other</skos:prefLabel>
-      <skos:definition xml:lang="en">Speed other than 16 rpm, 33 1/3 rpm, 45 rpm, 78 rpm, 8 rpm, 1.4 m. per second, 120 rpm, 160 rpm, 15/16 ips, 1 7/8 ips, 3 3/4 ips, 7 1/2 ips, 15 ips, 30 ips.</skos:definition>
+      <skos:definition xml:lang="en">Speed other than 16 rpm, 33 1/3 rpm, 45 rpm, 78 rpm, 8 rpm, 1.4 m. per second, 120 rpm, 160 rpm, 15/16 ips, 1 7/8 ips, 3 3/4 ips, 7 1/2 ips, 15 ips, or 30 ips.</skos:definition>
       <skos:notation xml:lang="en">z</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/soundrecordingspd#z"/>
    </skos:Concept>
