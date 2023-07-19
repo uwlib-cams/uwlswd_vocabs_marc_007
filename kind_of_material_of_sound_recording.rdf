@@ -65,6 +65,8 @@
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/soundrecordingmat#nx" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordingmat#"/>
       <skos:prefLabel xml:lang="en">not applicable [obsolete]</skos:prefLabel>
+      <skos:definition xml:lang="en">Item does not have a kind of material that contains sound recording information.</skos:definition>
+      <skos:scopeNote xml:lang="en">Kind of material is not applicable to remote digital sound recordings because it pertains to characteristics specific to physical aspects of carriers.</skos:scopeNote>
       <skos:notation xml:lang="en">n</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/soundrecordingmat#nx"/>
    </skos:Concept>
@@ -72,7 +74,7 @@
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/soundrecordingmat#z" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordingmat#"/>
       <skos:prefLabel xml:lang="en">other</skos:prefLabel>
-      <skos:definition xml:lang="en">Kind of material other than lacquer coating, cellulose nitrate, acetate tape with ferrous oxide. glass with lacquer, aluminum with lacquer, metal, plastic with metal, plastic, paper with lacquer or ferrous oxide, shellac, wax.</skos:definition>
+      <skos:definition xml:lang="en">Kind of material other than lacquer coating, cellulose nitrate, acetate tape with ferrous oxide. glass with lacquer, aluminum with lacquer, metal, plastic with metal, plastic, paper with lacquer or ferrous oxide, shellac, or wax.</skos:definition>
       <skos:notation xml:lang="en">z</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/soundrecordingmat#z"/>
    </skos:Concept>
