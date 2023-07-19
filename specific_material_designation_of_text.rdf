@@ -30,7 +30,7 @@
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/textsmd#z" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/textsmd#"/>
       <skos:prefLabel xml:lang="en">other</skos:prefLabel>
-      <skos:definition xml:lang="en">Specific material designation other than regular print, large print, braille, text in looseleaf binder.</skos:definition>
+      <skos:definition xml:lang="en">Specific material designation other than regular print, large print, braille, or text in looseleaf binder.</skos:definition>
       <skos:notation xml:lang="en">z</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/textsmd#z"/>
    </skos:Concept>
