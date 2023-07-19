@@ -15,6 +15,7 @@
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordingtap#"/>
       <skos:prefLabel xml:lang="en">eight track</skos:prefLabel>
       <skos:definition xml:lang="en">Eight track configuration is used with monaural, stereophonic, and quadraphonic recordings.</skos:definition>
+      <skos:scopeNote xml:lang="en">Commercial eight track cartridges customarily include four pairs of stereophonic (two track) recordings.</skos:scopeNote>
       <skos:notation xml:lang="en">d</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/soundrecordingtap#d"/>
    </skos:Concept>
@@ -41,14 +42,14 @@
       <skos:prefLabel xml:lang="en">not applicable</skos:prefLabel>
       <skos:definition xml:lang="en">Item is not a tape or does not include a tape.</skos:definition>
       <skos:notation xml:lang="en">n</skos:notation>
-      <skos:scopeNote xml:lang="en">For example, if the item is a disc.</skos:scopeNote>
+      <skos:scopeNote xml:lang="en">For example, the item is a disc.</skos:scopeNote>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/soundrecordingtap#n"/>
    </skos:Concept>
    <!-- Concept: other  -->
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/soundrecordingtap#z" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordingtap#"/>
       <skos:prefLabel xml:lang="en">other</skos:prefLabel>
-      <skos:definition xml:lang="en">Tape configuration other than half (2) track, quarter (4) track, eight track, twelve track, sixteen track.</skos:definition>
+      <skos:definition xml:lang="en">Tape configuration other than half (2) track, quarter (4) track, eight track, twelve track, or sixteen track.</skos:definition>
       <skos:notation xml:lang="en">z</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/soundrecordingtap#z"/>
    </skos:Concept>
