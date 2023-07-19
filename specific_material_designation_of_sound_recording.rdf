@@ -23,7 +23,7 @@
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/soundrecordingsmd#z" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordingsmd#"/>
       <skos:prefLabel xml:lang="en">other</skos:prefLabel>
-      <skos:definition xml:lang="en">Specific material designation other than sound disc, cylinder, sound cartridge, sound-track film, roll, sound cassette, sound-tape reel, wire recording.</skos:definition>
+      <skos:definition xml:lang="en">Specific material designation other than belt, sound disc, cylinder, sound cartridge, sound-track film, roll, remote, sound cassette, sound-tape reel, or wire recording.</skos:definition>
       <skos:notation xml:lang="en">z</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/soundrecordingsmd#z"/>
    </skos:Concept>
@@ -43,6 +43,13 @@
       <skos:notation xml:lang="en">g</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/soundrecordingsmd#g"/>
    </skos:Concept>
+   <!-- Concept: remote  -->
+   <skos:Concept rdf:about="http://fakeIRI.edu/terms/soundrecordingsmd#r" xml:lang="en">
+      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordingsmd#"/>
+      <skos:prefLabel xml:lang="en">remote</skos:prefLabel>
+      <skos:definition xml:lang="en">Digital sound recording that is accessed, processed, executed, etc. remotely. In this case, the digital sound recording is used via input/output devices connected electronically to a computer. Frequently this involves connection through a computer network.</skos:definition>
+      <skos:notation xml:lang="en">r</skos:notation>
+   </skos:Concept>
    <!-- Concept: sound cassette  -->
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/soundrecordingsmd#s" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordingsmd#"/>
@@ -50,6 +57,14 @@
       <skos:definition xml:lang="en">A container holding a narrow, usually 1/8 inch, sound tape on two reels, one to feed (and rewind) and the other to take up the sound tape.</skos:definition>
       <skos:notation xml:lang="en">s</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/soundrecordingsmd#s"/>
+   </skos:Concept>
+   <!-- Concept: belt  -->
+   <skos:Concept rdf:about="http://fakeIRI.edu/terms/soundrecordingsmd#b" xml:lang="en">
+      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordingsmd#"/>
+      <skos:prefLabel xml:lang="en">belt</skos:prefLabel>
+      <skos:definition xml:lang="en">A loop of flexible plastic or magnetic film on which audio signals are mechanically recorded.</skos:definition>
+      <skos:scopeNote xml:lang="en">Commonly known under the trade name Dictabelt.</skos:scopeNote>
+      <skos:notation xml:lang="en">b</skos:notation>
    </skos:Concept>
    <!-- Concept: sound disc  -->
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/soundrecordingsmd#d" xml:lang="en">
