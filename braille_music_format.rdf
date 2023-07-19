@@ -71,7 +71,7 @@
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/tactilebmf#z" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/tactilebmf#"/>
       <skos:prefLabel xml:lang="en">other</skos:prefLabel>
-      <skos:definition xml:lang="en">Braille music format other than no specified braille music format, bar over bar, bar by bar, line over line, paragraph, single line, section by section, line by line, open score, spanner short form scoring, short form scoring, outline, vertical score.</skos:definition>
+      <skos:definition xml:lang="en">Braille music format other than no specified braille music format, bar over bar, bar by bar, line over line, paragraph, single line, section by section, line by line, open score, spanner short form scoring, short form scoring, outline, or vertical score.</skos:definition>
       <skos:notation xml:lang="en">z</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/tactilebmf#z"/>
    </skos:Concept>
