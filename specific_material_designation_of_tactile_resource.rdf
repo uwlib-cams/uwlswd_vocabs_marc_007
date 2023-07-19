@@ -30,7 +30,7 @@
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/tactilesmd#a" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/tactilesmd#"/>
       <skos:prefLabel xml:lang="en">moon</skos:prefLabel>
-      <skos:definition xml:lang="en">An abstraction of the print.</skos:definition>
+      <skos:definition xml:lang="en">Moon type, which is an abstraction of the print.</skos:definition>
       <skos:notation xml:lang="en">a</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/tactilesmd#a"/>
    </skos:Concept>
@@ -38,7 +38,7 @@
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/tactilesmd#z" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/tactilesmd#"/>
       <skos:prefLabel xml:lang="en">other</skos:prefLabel>
-      <skos:definition xml:lang="en">Specific material designation other than moon, braille, combination, tactile, with no writing system.</skos:definition>
+      <skos:definition xml:lang="en">Specific material designation other than moon; braille; combination; or tactile, with no writing system.</skos:definition>
       <skos:notation xml:lang="en">z</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/tactilesmd#z"/>
    </skos:Concept>
