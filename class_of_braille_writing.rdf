@@ -46,6 +46,7 @@
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/tactilecla#m" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/tactilecla#"/>
       <skos:prefLabel xml:lang="en">multiple braille types</skos:prefLabel>
+      <skos:definition xml:lang="en">Multiple braille types exist and no one type predominates.</skos:definition>
       <skos:notation xml:lang="en">m</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/tactilecla#m"/>
    </skos:Concept>
@@ -69,6 +70,7 @@
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/tactilecla#n" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/tactilecla#"/>
       <skos:prefLabel xml:lang="en">not applicable</skos:prefLabel>
+      <skos:definition xml:lang="en">Item is not braille.</skos:definition>
       <skos:notation xml:lang="en">n</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/tactilecla#n"/>
    </skos:Concept>
@@ -76,7 +78,7 @@
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/tactilecla#z" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/tactilecla#"/>
       <skos:prefLabel xml:lang="en">other</skos:prefLabel>
-      <skos:definition xml:lang="en">Class of braille writing other than no specified class of braille writing, literary braille, format code braille, mathematics and scientific braille, computer braille, music braille, multiple braille types.</skos:definition>
+      <skos:definition xml:lang="en">Class of braille writing other than no specified class of braille writing, literary braille, format code braille, mathematics and scientific braille, computer braille, music braille, or multiple braille types.</skos:definition>
       <skos:notation xml:lang="en">z</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/tactilecla#z"/>
    </skos:Concept>
@@ -84,6 +86,7 @@
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/tactilecla#u" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/tactilecla#"/>
       <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
+      <skos:definition xml:lang="en">Class of braille writing is not known.</skos:definition>
       <skos:notation xml:lang="en">u</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/tactilecla#u"/>
    </skos:Concept>
