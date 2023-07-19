@@ -14,7 +14,7 @@
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/tactilespc#b" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/tactilespc#"/>
       <skos:prefLabel xml:lang="en">jumbo or enlarged braille</skos:prefLabel>
-      <skos:definition xml:lang="en">Jumbo or enlarged braille, which is used for braille students and braille readers with reduced tactile sensitivity.</skos:definition>
+      <skos:definition xml:lang="en">Item is jumbo or enlarged braille, which is used for braille students and braille readers with reduced tactile sensitivity.</skos:definition>
       <skos:notation xml:lang="en">b</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/tactilespc#b"/>
    </skos:Concept>
@@ -30,7 +30,7 @@
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/tactilespc#z" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/tactilespc#"/>
       <skos:prefLabel xml:lang="en">other</skos:prefLabel>
-      <skos:definition xml:lang="en">Specific physical characteristics other than print/braille, jumbo or enlarged braille.</skos:definition>
+      <skos:definition xml:lang="en">Specific physical characteristics other than print/braille, or jumbo or enlarged braille.</skos:definition>
       <skos:notation xml:lang="en">z</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/tactilespc#z"/>
    </skos:Concept>
