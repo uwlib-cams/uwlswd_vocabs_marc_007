@@ -14,7 +14,7 @@
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/videosmd#z" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/videosmd#"/>
       <skos:prefLabel xml:lang="en">other</skos:prefLabel>
-      <skos:definition xml:lang="en">Specific material designation other than videocartridge, videodisc, videocassette, videoreel.</skos:definition>
+      <skos:definition xml:lang="en">Specific material designation other than videocartridge, videodisc, videocassette, or videoreel.</skos:definition>
       <skos:notation xml:lang="en">z</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/videosmd#z"/>
    </skos:Concept>
