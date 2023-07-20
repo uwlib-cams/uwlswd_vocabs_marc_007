@@ -14,7 +14,7 @@
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/videodim#p" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/videodim#"/>
       <skos:prefLabel xml:lang="en">1 in.</skos:prefLabel>
-      <skos:definition xml:lang="en">1 in.</skos:definition>
+      <skos:definition xml:lang="en">1 inch.</skos:definition>
       <skos:notation xml:lang="en">p</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/videodim#p"/>
    </skos:Concept>
@@ -22,7 +22,7 @@
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/videodim#o" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/videodim#"/>
       <skos:prefLabel xml:lang="en">1/2 in.</skos:prefLabel>
-      <skos:definition xml:lang="en">1/2 in.</skos:definition>
+      <skos:definition xml:lang="en">1/2 inch.</skos:definition>
       <skos:notation xml:lang="en">o</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/videodim#o"/>
    </skos:Concept>
@@ -30,7 +30,7 @@
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/videodim#m" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/videodim#"/>
       <skos:prefLabel xml:lang="en">1/4 in.</skos:prefLabel>
-      <skos:definition xml:lang="en">1/4 in.</skos:definition>
+      <skos:definition xml:lang="en">1/4 inch.</skos:definition>
       <skos:notation xml:lang="en">m</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/videodim#m"/>
    </skos:Concept>
@@ -38,7 +38,7 @@
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/videodim#q" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/videodim#"/>
       <skos:prefLabel xml:lang="en">2 in.</skos:prefLabel>
-      <skos:definition xml:lang="en">2 in.</skos:definition>
+      <skos:definition xml:lang="en">2 inch.</skos:definition>
       <skos:notation xml:lang="en">q</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/videodim#q"/>
    </skos:Concept>
@@ -46,7 +46,7 @@
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/videodim#r" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/videodim#"/>
       <skos:prefLabel xml:lang="en">3/4 in.</skos:prefLabel>
-      <skos:definition xml:lang="en">3/4 in.</skos:definition>
+      <skos:definition xml:lang="en">3/4 inch.</skos:definition>
       <skos:notation xml:lang="en">r</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/videodim#r"/>
    </skos:Concept>
@@ -62,7 +62,7 @@
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/videodim#z" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/videodim#"/>
       <skos:prefLabel xml:lang="en">other</skos:prefLabel>
-      <skos:definition xml:lang="en">Dimensions other than 8 mm., 1/4 in., 1/2 in., 1 in., 2 in., 3/4 in.</skos:definition>
+      <skos:definition xml:lang="en">Dimensions other than 8 mm., 1/4 in., 1/2 in., 1 in., 2 in., or 3/4 in.</skos:definition>
       <skos:notation xml:lang="en">z</skos:notation>
       <skos:scopeNote xml:lang="en">Used for videodisc dimensions since standard code values for videodiscs do not yet exist.</skos:scopeNote>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/videodim#z"/>
