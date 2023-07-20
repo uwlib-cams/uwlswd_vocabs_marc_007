@@ -54,7 +54,7 @@
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/videofor#h" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/videofor#"/>
       <skos:prefLabel xml:lang="en">ced (capacitance electronic disc) videodisc</skos:prefLabel>
-      <skos:definition xml:lang="en">CED videorecording system based on a plastic disc, usually 12 in. in diameter, on which visual information is recorded as deep pits in the bottom of the grooves. This visual information is read by a needle-in-the-groove type of electronic stylus that translates variance in capacitance into a video and audio signal. The CED disc is characteristically housed in a protective jacket.</skos:definition>
+      <skos:definition xml:lang="en">CED videorecording system is based on a plastic disc, usually 12 in. in diameter, on which visual information is recorded as deep pits in the bottom of the grooves. This visual information is read by a needle-in-the-groove type of electronic stylus that translates variance in capacitance into a video and audio signal. The CED disc is characteristically housed in a protective jacket.</skos:definition>
       <skos:notation xml:lang="en">h</skos:notation>
       <skos:scopeNote xml:lang="en">In 1984, the manufacturer of CED players, RCA, announced its decision to cease production of the "RCA Selectavision" players.</skos:scopeNote>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/videofor#h"/>
@@ -114,7 +114,7 @@
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/videofor#z" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/videofor#"/>
       <skos:prefLabel xml:lang="en">other</skos:prefLabel>
-      <skos:definition xml:lang="en">Videorecording format other than Beta (1/2 in., videocassette), VHS (1/2 in., videocassette), U-matic (3/4 in., videocassette), EIAJ (1/2 in. reel), Type C (1 in., reel), Quadruplex (1 in. or 2 in., reel), Laserdisc, CED (Capacitance Electronic Disc) videodisc, Betacam (1/2 in., videocassette), Betacam SP (1/2 in., videocassette), Super-VHS (1/2 in., videocassette), M-II (1/2 in., videocassette), D-2 (3/4 in., videocassette), 8 mm., Hi-8 mm., DVD, Blu-ray disc.</skos:definition>
+      <skos:definition xml:lang="en">Videorecording format other than Beta (1/2 in., videocassette), VHS (1/2 in., videocassette), U-matic (3/4 in., videocassette), EIAJ (1/2 in. reel), Type C (1 in., reel), Quadruplex (1 in. or 2 in., reel), Laserdisc, CED (Capacitance Electronic Disc) videodisc, Betacam (1/2 in., videocassette), Betacam SP (1/2 in., videocassette), Super-VHS (1/2 in., videocassette), M-II (1/2 in., videocassette), D-2 (3/4 in., videocassette), 8 mm., Hi-8 mm., DVD, or Blu-ray disc.</skos:definition>
       <skos:notation xml:lang="en">z</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/videofor#z"/>
    </skos:Concept>
@@ -122,7 +122,7 @@
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/videofor#f" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/videofor#"/>
       <skos:prefLabel xml:lang="en">Quadruplex (1 in. or 2 in., reel)</skos:prefLabel>
-      <skos:definition xml:lang="en">As opposed to the helical scan system, which uses one head, the Quadruplex videorecording system uses four videorecording heads. Often referred to as Quad, it was developed by Ampex in the mid-1950's. It provided higher quality resolution and color than did helical scanning.</skos:definition>
+      <skos:definition xml:lang="en">As opposed to the helical scan system, which uses one head, the Quadruplex videorecording system uses four videorecording heads. Often referred to as Quad, it was developed by Ampex in the mid-1950s. It provided higher quality resolution and color than did helical scanning.</skos:definition>
       <skos:notation xml:lang="en">f</skos:notation>
       <skos:scopeNote xml:lang="en">Quadruplex was the broadcast standard until recently, when less expensive helical scan systems have begun to overtake it.</skos:scopeNote>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/videofor#f"/>
@@ -131,7 +131,7 @@
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/videofor#k" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/videofor#"/>
       <skos:prefLabel xml:lang="en">Super-VHS (1/2 in., videocassette)</skos:prefLabel>
-      <skos:definition xml:lang="en">Super-VHS format, which was originally designed for the consumer market to encode analog signals using a helical scan on 1/2 inch ferric-oxide tape, housed in a standard cassette. It has gained acceptance professionally in the broadcast industry and is now considered a professional format. Super-VHS format machines encode 400 lines of horizontal resolution and can play back videotapes recorded on regular VHS machines. Super-VHS requires high-grade tape and a high-resolution monitor equipped with separate Y/C (Luminance/Chrominance) video inputs. Super-VHS-C is the same video format but uses a special compact mini-cassette (often used with hand-held video cameras). These mini-cassettes can be used with standard VHS recorders by means of a special adapter cassette into which the mini-cassette is inserted.</skos:definition>
+      <skos:definition xml:lang="en">Super-VHS format, which was originally designed for the consumer market to encode analog signals using a helical scan on 1/2 inch ferric-oxide tape, is housed in a standard cassette. It has gained acceptance professionally in the broadcast industry and is now considered a professional format. Super-VHS format machines encode 400 lines of horizontal resolution and can play back videotapes recorded on regular VHS machines. Super-VHS requires high-grade tape and a high-resolution monitor equipped with separate Y/C (Luminance/Chrominance) video inputs. Super-VHS-C is the same video format but uses a special compact mini-cassette (often used with hand-held video cameras). These mini-cassettes can be used with standard VHS recorders by means of a special adapter cassette into which the mini-cassette is inserted.</skos:definition>
       <skos:notation xml:lang="en">k</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/videofor#k"/>
    </skos:Concept>
@@ -139,7 +139,7 @@
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/videofor#e" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/videofor#"/>
       <skos:prefLabel xml:lang="en">Type C (1 in., reel)</skos:prefLabel>
-      <skos:definition xml:lang="en">Used for the 1 inch videotape recording system utilizing one video head and tape runs at 9.61 inches per second. Type B system uses 2 heads and runs at 9.65 ips; Type A is an obsolete early system. Type B is still used in the U.S. and overseas (as of 1982), but Type C is the 1 inch format most widely employed as the broadcasting standard in the U.S. and overseas. Type C equipment and technology are made by Sony, RCA, and others.</skos:definition>
+      <skos:definition xml:lang="en">Used for the 1 inch videotape recording system utilizing one video head and tape runs at 9.61 inches per second. Type B system uses 2 heads and runs at 9.65 inches per second; Type A is an obsolete early system. Type B is still used in the U.S. and overseas (as of 1982), but Type C is the 1 inch format most widely employed as the broadcasting standard in the U.S. and overseas. Type C equipment and technology are made by Sony, RCA, and others.</skos:definition>
       <skos:notation xml:lang="en">e</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/videofor#e"/>
    </skos:Concept>
