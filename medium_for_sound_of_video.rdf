@@ -73,7 +73,7 @@
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/videomed#z" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/videomed#"/>
       <skos:prefLabel xml:lang="en">other</skos:prefLabel>
-      <skos:definition xml:lang="en">Medium for sound other than no sound (silent), optical sound track on motion picture film, magnetic sound track on motion picture film, magnetic audio tape in cartridge, sound disc, magnetic audio tape on reel, magnetic audio tape in cassette, optical and magnetic sound track on motion picture film, videotape, videodisc.</skos:definition>
+      <skos:definition xml:lang="en">Medium for sound other than no sound (silent), optical sound track on motion picture film, magnetic sound track on motion picture film, magnetic audio tape in cartridge, sound disc, magnetic audio tape on reel, magnetic audio tape in cassette, optical and magnetic sound track on motion picture film, videotape, or videodisc.</skos:definition>
       <skos:notation xml:lang="en">z</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/videomed#z"/>
    </skos:Concept>
@@ -83,7 +83,7 @@
       <skos:prefLabel xml:lang="en">sound disc</skos:prefLabel>
       <skos:definition xml:lang="en">Sound to accompany a videorecording is carried on a sound disc.</skos:definition>
       <skos:notation xml:lang="en">d</skos:notation>
-      <skos:scopeNote xml:lang="en">Sound discs include 7, 10, and 12 in. vinyl phonograph records and 4 3/4 in. compact discs.</skos:scopeNote>
+      <skos:scopeNote xml:lang="en">Sound discs include 7, 10, and 12 inch vinyl phonograph records and 4 3/4 inch compact discs.</skos:scopeNote>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/videomed#d"/>
    </skos:Concept>
    <!-- Concept: unknown  -->
@@ -100,7 +100,7 @@
       <skos:prefLabel xml:lang="en">videodisc</skos:prefLabel>
       <skos:definition xml:lang="en">Sound to accompany a videorecording is included as part of the videodisc.</skos:definition>
       <skos:notation xml:lang="en">i</skos:notation>
-      <skos:scopeNote xml:lang="en">Videodiscs are not ordinarily used to record only sound. A distinction must be made between videodiscs (e.g., 12 in. laser optical videodiscs that include video information) and compact discs that are used to record sound only (e.g., 4 3/4 in. audio compact discs). The technology to physically record video or audio information on digital disc systems is the same.</skos:scopeNote>
+      <skos:scopeNote xml:lang="en">Videodiscs are not ordinarily used to record only sound. A distinction must be made between videodiscs (e.g., 12 inch laser optical videodiscs that include video information) and compact discs that are used to record sound only (e.g., 4 3/4 inch audio compact discs). The technology to physically record video or audio information on digital disc systems is the same.</skos:scopeNote>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/videomed#i"/>
    </skos:Concept>
    <!-- Concept: videotape  -->
