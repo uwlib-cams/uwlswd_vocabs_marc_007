@@ -7,7 +7,7 @@
 <!-- Scheme: MARC21-007: Quality assurance target(s) of electronic resource -->
    <skos:ConceptScheme rdf:about="http://fakeIRI.edu/terms/electroqat#">
       <dct:title>MARC21-007: Quality assurance target(s) of electronic resource</dct:title>
-      <dct:description>To be filled from CSV</dct:description>
+      <dct:description>Whether quality assurance targets have been included appropriately at the time of reformatting/creation of the electronic resource. Targets are standard reference points which can be interpreted by a human or machine and used to measure resolution, color, faithfulness of representation to the original, etc.</dct:description>
       <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
    </skos:ConceptScheme>
    <!-- Concept: absent  -->
