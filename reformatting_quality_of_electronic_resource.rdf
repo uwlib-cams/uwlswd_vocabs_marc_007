@@ -7,7 +7,8 @@
 <!-- Scheme: MARC21-007: Reformatting quality of electronic resource -->
    <skos:ConceptScheme rdf:about="http://fakeIRI.edu/terms/electroreq#">
       <dct:title>MARC21-007: Reformatting quality of electronic resource</dct:title>
-      <dct:description>To be filled from CSV</dct:description>
+      <dct:description>An overall assessment of the physical quality of the electronic resource in relation to its intended use.</dct:description>
+      <skos:scopeNote xml:lang="en">It can be used to judge the level of quality of a file, and an institution's commitment to maintain its availability over time.</skos:scopeNote>
       <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
    </skos:ConceptScheme>
    <!-- Concept: access  -->
