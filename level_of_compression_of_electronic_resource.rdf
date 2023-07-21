@@ -7,7 +7,8 @@
 <!-- Scheme: MARC21-007: Level of compression of electronic resource -->
    <skos:ConceptScheme rdf:about="http://fakeIRI.edu/terms/electroloc#">
       <dct:title>MARC21-007: Level of compression of electronic resource</dct:title>
-      <dct:description>To be filled from CSV</dct:description>
+      <dct:description>Kind of compression the electronic resource has been subjected to.</dct:description>
+      <skos:scopeNote xml:lang="en">Used to judge the fidelity of the file to the original.</skos:scopeNote>
       <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
    </skos:ConceptScheme>
    <!-- Concept: lossless  -->
