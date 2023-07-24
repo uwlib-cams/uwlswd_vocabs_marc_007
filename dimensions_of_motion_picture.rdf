@@ -7,7 +7,7 @@
 <!-- Scheme: MARC21-007: Dimensions of motion picture -->
    <skos:ConceptScheme rdf:about="http://fakeIRI.edu/terms/motionpicturedim#">
       <dct:title>MARC21-007: Dimensions of motion picture</dct:title>
-      <dct:description>To be filled from CSV</dct:description>
+      <dct:description>Width of film of a motion picture.</dct:description>
       <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
    </skos:ConceptScheme>
    <!-- Concept: 16 mm.  -->
