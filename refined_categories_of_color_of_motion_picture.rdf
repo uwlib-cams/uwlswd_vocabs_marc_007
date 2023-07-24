@@ -7,7 +7,7 @@
 <!-- Scheme: MARC21-007: Refined categories of color of motion picture -->
    <skos:ConceptScheme rdf:about="http://fakeIRI.edu/terms/motionpicturercc#">
       <dct:title>MARC21-007: Refined categories of color of motion picture</dct:title>
-      <dct:description>To be filled from CSV</dct:description>
+      <dct:description>More specific color characteristics of the moving image.</dct:description>
       <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
    </skos:ConceptScheme>
    <!-- Concept: 2 color, single strip  -->
