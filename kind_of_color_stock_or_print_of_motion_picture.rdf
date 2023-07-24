@@ -7,7 +7,7 @@
 <!-- Scheme: MARC21-007: Kind of color stock or print of motion picture -->
    <skos:ConceptScheme rdf:about="http://fakeIRI.edu/terms/motionpicturecsp#">
       <dct:title>MARC21-007: Kind of color stock or print of motion picture</dct:title>
-      <dct:description>To be filled from CSV</dct:description>
+      <dct:description>Type of color film stock or color print the item represents.</dct:description>
       <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
    </skos:ConceptScheme>
    <!-- Concept: duplitized stock  -->
