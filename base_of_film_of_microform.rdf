@@ -7,7 +7,8 @@
 <!-- Scheme: MARC21-007: Base of film of microform -->
    <skos:ConceptScheme rdf:about="http://fakeIRI.edu/terms/microformbas#">
       <dct:title>MARC21-007: Base of film of microform</dct:title>
-      <dct:description>To be filled from CSV</dct:description>
+      <dct:description>Base of the film.</dct:description>
+      <skos:scopeNote xml:lang="en">Safety base film is a comparatively nonflammable film base that meets the standard requirements for a safety base. On some film, the phrase safety base or a small equilateral triangle appears on the edge of microforms. Some microfilm produced overseas has similar notations in foreign languages. Vesicular and diazo microforms are always a safety base, as are silver halide microforms manufactured in the United States since approximately 1951. Nitrate film base is a highly flammable film base that does not meet the requirements for safety base film.</skos:scopeNote>
       <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
    </skos:ConceptScheme>
    <!-- Concept: mixed base (nitrate and safety)  -->
