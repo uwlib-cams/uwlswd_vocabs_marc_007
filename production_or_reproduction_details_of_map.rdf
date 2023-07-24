@@ -7,7 +7,7 @@
 <!-- Scheme: MARC21-007: Production/reproduction details of map -->
    <skos:ConceptScheme rdf:about="http://fakeIRI.edu/terms/mappor#">
       <dct:title>MARC21-007: Production/reproduction details of map</dct:title>
-      <dct:description>To be filled from CSV</dct:description>
+      <dct:description>Technique used to produce the cartographic resource.</dct:description>
       <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
    </skos:ConceptScheme>
    <!-- Concept: film  -->
