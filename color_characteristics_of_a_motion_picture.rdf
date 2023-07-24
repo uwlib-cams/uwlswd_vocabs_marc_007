@@ -7,7 +7,7 @@
 <!-- Scheme: MARC21-007: Color characteristics of a motion picture -->
    <skos:ConceptScheme rdf:about="http://fakeIRI.edu/terms/motionpicturecol#">
       <dct:title>MARC21-007: Color characteristics of a motion picture</dct:title>
-      <dct:description>To be filled from CSV</dct:description>
+      <dct:description>Color characteristics of a motion picture.</dct:description>
       <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
    </skos:ConceptScheme>
    <!-- Concept: black-and-white  -->
