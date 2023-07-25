@@ -7,7 +7,7 @@
 <!-- Scheme: MARC21-007: Transposition and arrangement of music -->
    <skos:ConceptScheme rdf:about="http://fakeIRI.edu/terms/musictra#">
       <dct:title>MARC21-007: Transposition and arrangement of music</dct:title>
-      <dct:description>To be filled from CSV</dct:description>
+      <dct:description>Whether all or part of the item being cataloged is a transposition and/or arrangement of another work.</dct:description>
       <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
    </skos:ConceptScheme>
    <!-- Concept: arrangement  -->
