@@ -7,7 +7,7 @@
 <!-- Scheme: MARC21-007: Secondary support material of projected graphic -->
    <skos:ConceptScheme rdf:about="http://fakeIRI.edu/terms/projectedsec#">
       <dct:title>MARC21-007: Secondary support material of projected graphic</dct:title>
-      <dct:description>To be filled from CSV</dct:description>
+      <dct:description>Type of material of the mount of a slide or transparency for a projected graphic.</dct:description>
       <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
    </skos:ConceptScheme>
    <!-- Concept: cardboard  -->
