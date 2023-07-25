@@ -7,7 +7,8 @@
 <!-- Scheme: MARC21-007: Secondary support material of nonprojected graphic -->
    <skos:ConceptScheme rdf:about="http://fakeIRI.edu/terms/nonprojectedsec#">
       <dct:title>MARC21-007: Secondary support material of nonprojected graphic</dct:title>
-      <dct:description>To be filled from CSV</dct:description>
+      <dct:description>Type of material (other than normal museum matting) to which the primary support is attached.</dct:description>
+      <skos:scopeNote xml:lang="en">Used only when the mount or mat is of historical, informational, aesthetic, or archival importance.</skos:scopeNote>
       <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
    </skos:ConceptScheme>
    <!-- Concept: Bristol board  -->
