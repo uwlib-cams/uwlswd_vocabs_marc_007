@@ -7,7 +7,7 @@
 <!-- Scheme: MARC21-007: Literary text of sound recordings -->
    <skos:ConceptScheme rdf:about="http://fakeIRI.edu/terms/musiclit#">
       <dct:title>MARC21-007: Literary text of sound recordings</dct:title>
-      <dct:description>Indicate the type of literary text contained in a nonmusical sound recording.</dct:description>
+      <dct:description>Indicates the type of literary text contained in a nonmusical sound recording.</dct:description>
       <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
    </skos:ConceptScheme>
    <!-- Concept: autobiography  -->
