@@ -7,7 +7,7 @@
 <!-- Scheme: MARC21-007: Data type of remotely sensed images -->
    <skos:ConceptScheme rdf:about="http://fakeIRI.edu/terms/remotesensingdat#">
       <dct:title>MARC21-007: Data type of remotely sensed images</dct:title>
-      <dct:description>To be filled from CSV</dct:description>
+      <dct:description>Spectral, acoustic, or magnetic characteristics of the data received by the device producing the remote-sensing image. It can be used to indicate both the wave length of radiation measured and the type of sensor used to measure it.</dct:description>
       <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
    </skos:ConceptScheme>
    <!-- Concept: bouger  -->
