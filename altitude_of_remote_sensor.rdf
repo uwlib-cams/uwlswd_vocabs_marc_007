@@ -7,7 +7,7 @@
 <!-- Scheme: MARC21-007: Altitude of remote sensor -->
    <skos:ConceptScheme rdf:about="http://fakeIRI.edu/terms/remotesensingalt#">
       <dct:title>MARC21-007: Altitude of remote sensor</dct:title>
-      <dct:description>To be filled from CSV</dct:description>
+      <dct:description>General position of the sensor relative to to the object under study.</dct:description>
       <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
    </skos:ConceptScheme>
    <!-- Concept: airborne  -->
