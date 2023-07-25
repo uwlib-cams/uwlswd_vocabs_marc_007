@@ -7,7 +7,8 @@
 <!-- Scheme: MARC21-007: Kind of cutting of sound recording -->
    <skos:ConceptScheme rdf:about="http://fakeIRI.edu/terms/soundrecordingcut#">
       <dct:title>MARC21-007: Kind of cutting of sound recording</dct:title>
-      <dct:description>To be filled from CSV</dct:description>
+      <dct:description>Kind of cutting of the grooves used on a disc.</dct:description>
+      <skos:scopeNote xml:lang="en">Primary use is to identify discs which contain only hill-and-dale information.</skos:scopeNote>
       <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
    </skos:ConceptScheme>
    <!-- Concept: hill-and-dale cutting  -->
