@@ -7,7 +7,8 @@
 <!-- Scheme: MARC21-007: Capture and storage technique of sound recording -->
    <skos:ConceptScheme rdf:about="http://fakeIRI.edu/terms/soundrecordingcap#">
       <dct:title>MARC21-007: Capture and storage technique of sound recording</dct:title>
-      <dct:description>To be filled from CSV</dct:description>
+      <dct:description>How the sound was originally captured and stored.</dct:description>
+      <skos:scopeNote xml:lang="en">Use original capture and storage techniques, regardless of the physical format of the manifestation being cataloged or whether the sound content of the manifestation being cataloged has been enhanced using other techniques.</skos:scopeNote>
       <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
    </skos:ConceptScheme>
    <!-- Concept: acoustical capture, direct storage  -->
