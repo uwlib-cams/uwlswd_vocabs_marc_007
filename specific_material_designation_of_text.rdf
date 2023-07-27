@@ -7,7 +7,7 @@
 <!-- Scheme: MARC21-007: Specific material designation of text -->
    <skos:ConceptScheme rdf:about="http://fakeIRI.edu/terms/textsmd#">
       <dct:title>MARC21-007: Specific material designation of text</dct:title>
-      <dct:description>To be filled from CSV</dct:description>
+      <dct:description>Special class of textual material to which an item belongs.</dct:description>
       <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
    </skos:ConceptScheme>
    <!-- Concept: braille  -->
