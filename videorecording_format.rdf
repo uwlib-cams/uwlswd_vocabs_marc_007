@@ -7,7 +7,7 @@
 <!-- Scheme: MARC21-007: Videorecording format -->
    <skos:ConceptScheme rdf:about="http://fakeIRI.edu/terms/videofor#">
       <dct:title>MARC21-007: Videorecording format</dct:title>
-      <dct:description>To be filled from CSV</dct:description>
+      <dct:description>Videotape or videodisc recording format.</dct:description>
       <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
    </skos:ConceptScheme>
    <!-- Concept: 8 mm.  -->
