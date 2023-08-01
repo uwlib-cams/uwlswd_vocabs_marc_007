@@ -7,7 +7,8 @@
 <!-- Scheme: MARC21-007: Music parts -->
    <skos:ConceptScheme rdf:about="http://fakeIRI.edu/terms/musicpar#">
       <dct:title>MARC21-007: Music parts</dct:title>
-      <dct:description>Indicates whether the item being cataloged contains parts.</dct:description>
+      <dct:description>Indicates whether the item being cataloged is, or contains parts.</dct:description>
+      <skos:scopeNote xml:lang="en">Is not used to indicate that parts may exist elsewhere.</skos:scopeNote>
       <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
    </skos:ConceptScheme>
    <!-- Concept: instrumental and vocal parts  -->
