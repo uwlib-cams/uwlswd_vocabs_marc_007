@@ -71,6 +71,7 @@
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/musicfoc#"/>
       <skos:prefLabel xml:lang="en">canzonas</skos:prefLabel>
       <skos:definition xml:lang="en">Canzonas.</skos:definition>
+      <skos:scopeNote xml:lang="en">Used for instrumental music that is designated as a canzona.</skos:scopeNote>
       <skos:notation xml:lang="en">cz</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/musicfoc#cz"/>
    </skos:Concept>
@@ -176,6 +177,7 @@
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/musicfoc#"/>
       <skos:prefLabel xml:lang="en">divertimentos, serenades, cassations, divertissements, and notturni</skos:prefLabel>
       <skos:definition xml:lang="en">Divertimentos, serenades, cassations, divertissements, and notturni.</skos:definition>
+      <skos:scopeNote xml:lang="en">Used for instrumental music designated as a divertimento, serenade, cassation, divertissement, or a notturno.</skos:scopeNote>
       <skos:notation xml:lang="en">dv</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/musicfoc#dv"/>
    </skos:Concept>
@@ -184,6 +186,7 @@
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/musicfoc#"/>
       <skos:prefLabel xml:lang="en">fantasias</skos:prefLabel>
       <skos:definition xml:lang="en">Fantasias.</skos:definition>
+      <skos:scopeNote xml:lang="en">Includes instrumental music designated as fantasia, fancies, fantasies, etc.</skos:scopeNote>
       <skos:notation xml:lang="en">ft</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/musicfoc#ft"/>
    </skos:Concept>
@@ -346,7 +349,7 @@
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/musicfoc#zz" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/musicfoc#"/>
       <skos:prefLabel xml:lang="en">other</skos:prefLabel>
-      <skos:definition xml:lang="en">Form of composition other than anthems, ballads, bluegrass music, blues, ballets, chaconnes, chants, other religions, chant, Christian, concerti grossi, chorales, chorale preludes, canons and rounds, concertos, chansons, polyphonic, carols, chance compositions, cantatas, country music, canzonas, dance forms, divertimentos, serenades, cassations, divertissements, and notturni, fugues, flamenco, folk music, fantasias, gospel music, hymns, jazz, musical revues and comedies, madrigals, minuets, motets, motion picture music, marches, masses, multiple forms, mazurkas, nocturnes, operas, oratorios, overtures, program music, passion music, polonaises, popular music, preludes, passacaglias, part-songs, pavans, rock music, rondos, ragtime music, ricercars, rhapsodies, requiems, square dance music, songs, sonatas, symphonic poems, studies and exercises, suites, symphonies, toccatas, teatro lirico, trio-sonatas, villancicos, variations, waltzes, zarzuelas.</skos:definition>
+      <skos:definition xml:lang="en">Form of composition other than anthems; ballads; bluegrass music; blues; ballets; chaconnes; chants, other religions; chant, Christian; concerti grossi; chorales; chorale preludes; canons and rounds; concertos; chansons, polyphonic; carols; chance compositions; cantatas; country music; canzonas; dance forms; divertimentos, serenades, cassations, divertissements, and notturni; fugues; flamenco; folk music; fantasias; gospel music; hymns; jazz; musical revues and comedies; madrigals; minuets; motets; motion picture music; marches; masses; multiple forms; mazurkas; nocturnes; operas; oratorios; overtures; program music; passion music; polonaises; popular music; preludes; passacaglias; part-songs; pavans; rock music; rondos; ragtime music; ricercars; rhapsodies; requiems; square dance music; songs; sonatas; symphonic poems; studies and exercises; suites; symphonies; toccatas; teatro lirico; trio-sonatas; villancicos; variations; waltzes, or zarzuelas.</skos:definition>
       <skos:notation xml:lang="en">zz</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/musicfoc#zz"/>
    </skos:Concept>
@@ -500,6 +503,7 @@
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/musicfoc#"/>
       <skos:prefLabel xml:lang="en">studies and exercises</skos:prefLabel>
       <skos:definition xml:lang="en">Studies and exercises.</skos:definition>
+      <skos:scopeNote xml:lang="en">Used only when the work is intended for teaching purposes (usually entitled Studies, Etudes, etc.).</skos:scopeNote>
       <skos:notation xml:lang="en">st</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/musicfoc#st"/>
    </skos:Concept>
@@ -533,7 +537,7 @@
       <skos:prefLabel xml:lang="en">teatro lirico</skos:prefLabel>
       <skos:definition xml:lang="en">Spanish and Spanish American theatre music.</skos:definition>
       <skos:notation xml:lang="en">tl</skos:notation>
-      <skos:scopeNote xml:lang="en"> "Tonadilla esc̩nica", "fiestas de m̼sica", "sainetes l</skos:scopeNote>
+      <skos:scopeNote xml:lang="en">Used for a large number of more specific terms which describe Spanish and Spanish American theatre music: "tonadilla escénica", "fiestas de música", "sainetes líricos", "entremeses cómico-lírico," etc.</skos:scopeNote>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/musicfoc#tl"/>
    </skos:Concept>
    <!-- Concept: toccatas  -->
@@ -590,6 +594,7 @@
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/musicfoc#"/>
       <skos:prefLabel xml:lang="en">zarzuelas</skos:prefLabel>
       <skos:definition xml:lang="en">Zarzuelas.</skos:definition>
+      <skos:definition xml:lang="en">Term applicable to all musical plays taking that name, from the “fiestas de zarzuela” of the 17th/18th-centuries to the so-called “zarzuela moderna” (“modern zarzuela”) from the mid 19th to the mid 20th-century.</skos:definition>
       <skos:notation xml:lang="en">za</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/musicfoc#za"/>
    </skos:Concept>
