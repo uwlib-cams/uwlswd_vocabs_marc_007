@@ -103,8 +103,8 @@
    <!-- Concept: item is a musical sound recording  -->
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/musiclit#%23" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/musiclit#"/>
-      <skos:prefLabel xml:lang="en">item is a musical sound recording</skos:prefLabel>
-      <skos:definition xml:lang="en">Item is a musical sound recording</skos:definition>
+      <skos:prefLabel xml:lang="en">item is a music sound recording</skos:prefLabel>
+      <skos:definition xml:lang="en">Item is a music sound recording</skos:definition>
       <skos:notation xml:lang="en">#</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/musiclit#%23"/>
    </skos:Concept>
@@ -144,7 +144,7 @@
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/musiclit#z" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/musiclit#"/>
       <skos:prefLabel xml:lang="en">other</skos:prefLabel>
-      <skos:definition xml:lang="en">Literary text for sound recordings other than autobiography, biography, conference proceedings, drama, essays, fiction, reporting, history, instruction, language instruction, comedy, lectures, speeches, memoirs, folktales, poetry, rehearsals, sounds, interviews.</skos:definition>
+      <skos:definition xml:lang="en">Literary text for sound recordings other than autobiography, biography, conference proceedings, drama, essays, fiction, reporting, history, instruction, language instruction, comedy, lectures, speeches, memoirs, folktales, poetry, rehearsals, sounds, or interviews.</skos:definition>
       <skos:notation xml:lang="en">z</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/musiclit#z"/>
    </skos:Concept>
@@ -169,6 +169,7 @@
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/musiclit#"/>
       <skos:prefLabel xml:lang="en">reporting</skos:prefLabel>
       <skos:definition xml:lang="en">Reporting.</skos:definition>
+      <skos:scopeNote xml:lang="en">Reports of newsworthy events and informative messages are included in this category.</skos:scopeNote>
       <skos:notation xml:lang="en">g</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/musiclit#g"/>
    </skos:Concept>
@@ -177,6 +178,7 @@
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/musiclit#"/>
       <skos:prefLabel xml:lang="en">sounds</skos:prefLabel>
       <skos:definition xml:lang="en">Sounds.</skos:definition>
+      <skos:scopeNote xml:lang="en">Includes nonmusical utterances and vocalizations that may or may not convey meaning.</skos:scopeNote>
       <skos:notation xml:lang="en">s</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/musiclit#s"/>
    </skos:Concept>
