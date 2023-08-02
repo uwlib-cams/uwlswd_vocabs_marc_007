@@ -7,7 +7,7 @@
 <!-- Scheme: MARC21-007: Technique of visual material -->
    <skos:ConceptScheme rdf:about="http://fakeIRI.edu/terms/visualtec#">
       <dct:title>MARC21-007: Technique of visual material</dct:title>
-      <dct:description>	Indicates the technique used in creating motion in motion pictures or videorecordings.</dct:description>
+      <dct:description>Indicates the technique used in creating motion in motion pictures or videorecordings.</dct:description>
       <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
    </skos:ConceptScheme>
    <!-- Concept: animation  -->
@@ -53,7 +53,8 @@
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/visualtec#z" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/visualtec#"/>
       <skos:prefLabel xml:lang="en">other technique</skos:prefLabel>
-      <skos:definition xml:lang="en">Technique other than animation, animation and live action, live action.</skos:definition>
+      <skos:definition xml:lang="en">Primarily of special techniques which are neither animation nor live action.</skos:definition>
+      <skos:scopeNote xml:lang="en">This can include microcinematography, time lapse cinematography, trick cinematography, and other techniques. Also used for videorecordings and motion pictures which were made from still image slide sets or filmstrips without adding animation to the images. </skos:scopeNote>
       <skos:notation xml:lang="en">z</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/visualtec#z"/>
    </skos:Concept>
