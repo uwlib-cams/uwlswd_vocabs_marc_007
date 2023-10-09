@@ -1,9 +1,9 @@
 # uwlswd_vocabs_marc_007
+See also [uwlswd_vocabs_marc_006_008](https://github.com/uwlib-cams/uwlswd_vocabs_marc_006_008)  
+*For further information please visit [uwlswd.wiki](https://github.com/uwlib-cams/uwlswd/wiki)*
 
-[ add brief description, [link to 006_008 vocabs](https://github.com/uwlib-cams/uwlswd_vocabs_marc_006_008), here ]
 
 ## folder/file structure
-
 - uwlswd_vocabs_marc_007 (root directory)/  
   - category_of_material/  
     - category_of_material.ttl  
