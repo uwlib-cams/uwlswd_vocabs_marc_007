@@ -34,6 +34,12 @@
       <skos:notation xml:lang="en">n</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/mappna#n"/>
    </skos:Concept>
+   <!-- Concept: unknown [obsolete]  -->
+   <skos:Concept rdf:about="http://fakeIRI.edu/terms/mapsmd#u" xml:lang="en">
+      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/mapsmd#"/>
+      <skos:prefLabel xml:lang="en">unknown [obsolete]</skos:prefLabel>
+      <skos:notation xml:lang="en">u</skos:notation>
+   </skos:Concept>
    <!-- Concept: positive  -->
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/mappna#a" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/mappna#"/>
