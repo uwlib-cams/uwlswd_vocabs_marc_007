@@ -18,6 +18,12 @@
       <skos:notation xml:lang="en">c</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/globecol#c"/>
    </skos:Concept>
+   <!-- Concept: multicolored [obsolete]  -->
+   <skos:Concept rdf:about="http://fakeIRI.edu/terms/globecol#b" xml:lang="en">
+      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/globecol#"/>
+      <skos:prefLabel xml:lang="en">multicolored [obsolete]</skos:prefLabel>
+      <skos:notation xml:lang="en">b</skos:notation>
+   </skos:Concept>
    <!-- Concept: one color  -->
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/globecol#a" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/globecol#"/>
