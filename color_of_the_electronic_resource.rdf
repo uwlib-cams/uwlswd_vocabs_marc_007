@@ -28,8 +28,8 @@
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/electrocol#g"/>
    </skos:Concept>
    <!-- Concept: hand coloured [obsolete]  -->
-   <skos:Concept rdf:about="http://fakeIRI.edu/terms/mapsmd#h" xml:lang="en">
-      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/mapsmd#"/>
+   <skos:Concept rdf:about="http://fakeIRI.edu/terms/electrocol#h" xml:lang="en">
+      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/electrocol#"/>
       <skos:prefLabel xml:lang="en">hand coloured [obsolete]</skos:prefLabel>
       <skos:notation xml:lang="en">h</skos:notation>
    </skos:Concept>
