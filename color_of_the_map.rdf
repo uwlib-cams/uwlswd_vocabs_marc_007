@@ -19,8 +19,8 @@
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/mapcol#c"/>
    </skos:Concept>
    <!-- Concept: multicolored [obsolete]  -->
-   <skos:Concept rdf:about="http://fakeIRI.edu/terms/mapsmd#b" xml:lang="en">
-      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/mapsmd#"/>
+   <skos:Concept rdf:about="http://fakeIRI.edu/terms/mapcol#b" xml:lang="en">
+      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/mapcol#"/>
       <skos:prefLabel xml:lang="en">multicolored [obsolete]</skos:prefLabel>
       <skos:notation xml:lang="en">b</skos:notation>
    </skos:Concept>
