@@ -18,6 +18,12 @@
       <skos:notation xml:lang="en">a</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/globesmd#a"/>
    </skos:Concept>
+   <!-- Concept: satellite globe (of our solar system), excluding the earth moon [obsolete]  -->
+   <skos:Concept rdf:about="http://fakeIRI.edu/terms/globesmd#d" xml:lang="en">
+      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/globesmd#"/>
+      <skos:prefLabel xml:lang="en">satellite globe (of our solar system), excluding the earth moon [obsolete]</skos:prefLabel>
+      <skos:notation xml:lang="en">d</skos:notation>
+   </skos:Concept>
    <!-- Concept: earth moon globe  -->
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/globesmd#e" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/globesmd#"/>
