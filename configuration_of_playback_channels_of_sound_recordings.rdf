@@ -10,6 +10,36 @@
       <dct:description>Configuration of playback channels for a sound recording based on a clear indication of intended playback. Does not refer to the configuration of channels orginally recorded, unless those channels are all intended to be available on playback.</dct:description>
       <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
    </skos:ConceptScheme>
+   <!-- Concept: acoustic [obsolete]  -->
+   <skos:Concept rdf:about="http://fakeIRI.edu/terms/soundrecordingcpc#a" xml:lang="en">
+      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordingcpc#"/>
+      <skos:prefLabel xml:lang="en">acoustic [obsolete]</skos:prefLabel>
+      <skos:notation xml:lang="en">a</skos:notation>
+   </skos:Concept>
+   <!-- Concept: monaural (digital) [obsolete]  -->
+   <skos:Concept rdf:about="http://fakeIRI.edu/terms/soundrecordingcpc#f" xml:lang="en">
+      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordingcpc#"/>
+      <skos:prefLabel xml:lang="en">monaural (digital) [obsolete]</skos:prefLabel>
+      <skos:notation xml:lang="en">f</skos:notation>
+   </skos:Concept>
+   <!-- Concept: quadraphonic (digital) [obsolete]  -->
+   <skos:Concept rdf:about="http://fakeIRI.edu/terms/soundrecordingcpc#g" xml:lang="en">
+      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordingcpc#"/>
+      <skos:prefLabel xml:lang="en">quadraphonic (digital) [obsolete]</skos:prefLabel>
+      <skos:notation xml:lang="en">g</skos:notation>
+   </skos:Concept>
+   <!-- Concept: stereophonic (digital) [obsolete]  -->
+   <skos:Concept rdf:about="http://fakeIRI.edu/terms/soundrecordingcpc#j" xml:lang="en">
+      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordingcpc#"/>
+      <skos:prefLabel xml:lang="en">stereophonic (digital) [obsolete]</skos:prefLabel>
+      <skos:notation xml:lang="en">j</skos:notation>
+   </skos:Concept>
+   <!-- Concept: other (digital) [obsolete]  -->
+   <skos:Concept rdf:about="http://fakeIRI.edu/terms/soundrecordingcpc#k" xml:lang="en">
+      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordingcpc#"/>
+      <skos:prefLabel xml:lang="en">other (digital) [obsolete]</skos:prefLabel>
+      <skos:notation xml:lang="en">k</skos:notation>
+   </skos:Concept>
    <!-- Concept: monaural  -->
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/soundrecordingcpc#m" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordingcpc#"/>
