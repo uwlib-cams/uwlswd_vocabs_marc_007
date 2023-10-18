@@ -105,6 +105,12 @@
       <skos:scopeNote xml:lang="en">The metal part of such an item is often a thin layer applied to the plastic base. Includes compact audio discs (CDs).</skos:scopeNote>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/soundrecordingmat#m"/>
    </skos:Concept>
+   <!-- Concept: molded cylinder-mass produced [obsolete]  -->
+   <skos:Concept rdf:about="http://fakeIRI.edu/terms/soundrecordingmat#mx" xml:lang="en">
+      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordingmat#"/>
+      <skos:prefLabel xml:lang="en">molded cylinder-mass produced [obsolete]</skos:prefLabel>
+      <skos:notation xml:lang="en">m</skos:notation>
+   </skos:Concept>
    <!-- Concept: shellac  -->
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/soundrecordingmat#s" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordingmat#"/>
