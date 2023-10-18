@@ -91,6 +91,12 @@
       <skos:notation xml:lang="en">y</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/projecteddim#y"/>
    </skos:Concept>
+   <!-- Concept: unknown [obsolete]  -->
+   <skos:Concept rdf:about="http://fakeIRI.edu/terms/projecteddim#yx" xml:lang="en">
+      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/projecteddim#"/>
+      <skos:prefLabel xml:lang="en">unknown [obsolete]</skos:prefLabel>
+      <skos:notation xml:lang="en">y</skos:notation>
+   </skos:Concept>
    <!-- Concept: 8x10 in. or 21x26 cm. transparency  -->
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/projecteddim#v" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/projecteddim#"/>
@@ -148,5 +154,11 @@
       <skos:definition xml:lang="en">Dimensions are not known.</skos:definition>
       <skos:notation xml:lang="en">u</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/projecteddim#u"/>
+   </skos:Concept>
+   <!-- Concept: 7x7 in. or 18x18 cm. [obsolete]  -->
+   <skos:Concept rdf:about="http://fakeIRI.edu/terms/projecteddim#ux" xml:lang="en">
+      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/projecteddim#"/>
+      <skos:prefLabel xml:lang="en">7x7 in. or 18x18 cm. [obsolete]</skos:prefLabel>
+      <skos:notation xml:lang="en">u</skos:notation>
    </skos:Concept>
 </rdf:RDF>
