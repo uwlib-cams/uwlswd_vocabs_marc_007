@@ -10,6 +10,12 @@
       <dct:description>Special class of projected graphic to which the item belongs, e.g., a slide.</dct:description>
       <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
    </skos:ConceptScheme>
+   <!-- Concept: not applicable or no attempt to code [obsolete]  -->
+   <skos:Concept rdf:about="http://fakeIRI.edu/terms/projectedsmd#%23" xml:lang="en">
+      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/projectedsmd#"/>
+      <skos:prefLabel xml:lang="en">not applicable or no attempt to code [obsolete]</skos:prefLabel>
+      <skos:notation xml:lang="en">#</skos:notation>
+   </skos:Concept>
    <!-- Concept: filmslip  -->
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/projectedsmd#d" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/projectedsmd#"/>
@@ -25,6 +31,12 @@
       <skos:definition xml:lang="en">A filmstrip which is encased in a cartridge and which has the ends joined to form a loop. A cartridge denotes a permanently encased single reel of film or tape that has the ends joined together to form a loop that provides playback without rewinding.</skos:definition>
       <skos:notation xml:lang="en">c</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/projectedsmd#c"/>
+   </skos:Concept>
+   <!-- Concept: not applicable [obsolete]  -->
+   <skos:Concept rdf:about="http://fakeIRI.edu/terms/projectedsmd#n" xml:lang="en">
+      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/projectedsmd#"/>
+      <skos:prefLabel xml:lang="en">not applicable [obsolete]</skos:prefLabel>
+      <skos:notation xml:lang="en">n</skos:notation>
    </skos:Concept>
    <!-- Concept: filmstrip roll  -->
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/projectedsmd#o" xml:lang="en">
