@@ -60,6 +60,12 @@
       <skos:notation xml:lang="en">g</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/ projectedmed#g"/>
    </skos:Concept>
+   <!-- Concept: other [obsolete]  -->
+   <skos:Concept rdf:about="http://fakeIRI.edu/terms/ projectedmed#gx" xml:lang="en">
+      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/ projectedmed#"/>
+      <skos:prefLabel xml:lang="en">other [obsolete]</skos:prefLabel>
+      <skos:notation xml:lang="en">g</skos:notation>
+   </skos:Concept>
    <!-- Concept: optical sound track on motion picture film  -->
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/ projectedmed#a" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/ projectedmed#"/>
