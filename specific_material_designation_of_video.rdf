@@ -10,6 +10,12 @@
       <dct:description>Special class of videorecording to which an item belongs.</dct:description>
       <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
    </skos:ConceptScheme>
+   <!-- Concept: not applicable or no attempt to code [obsolete]  -->
+   <skos:Concept rdf:about="http://fakeIRI.edu/terms/videosmd#%23" xml:lang="en">
+      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/videosmd#"/>
+      <skos:prefLabel xml:lang="en">not applicable or no attempt to code [obsolete]</skos:prefLabel>
+      <skos:notation xml:lang="en">#</skos:notation>
+   </skos:Concept>
    <!-- Concept: other  -->
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/videosmd#z" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/videosmd#"/>
@@ -50,6 +56,12 @@
       <skos:notation xml:lang="en">d</skos:notation>
       <skos:scopeNote xml:lang="en">Various videodisc systems have been developed (e.g., laser-optical, capacitance, magnetic, etc.).</skos:scopeNote>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/videosmd#d"/>
+   </skos:Concept>
+   <!-- Concept: not applicable [obsolete]  -->
+   <skos:Concept rdf:about="http://fakeIRI.edu/terms/videosmd#n" xml:lang="en">
+      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/videosmd#"/>
+      <skos:prefLabel xml:lang="en">not applicable [obsolete]</skos:prefLabel>
+      <skos:notation xml:lang="en">n</skos:notation>
    </skos:Concept>
    <!-- Concept: videoreel  -->
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/videosmd#r" xml:lang="en">
