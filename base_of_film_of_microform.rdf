@@ -44,6 +44,12 @@
       <skos:notation xml:lang="en">z</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/microformbas#z"/>
    </skos:Concept>
+   <!-- Concept: not safety base [obsolete]  -->
+   <skos:Concept rdf:about="http://fakeIRI.edu/terms/microformbas#b" xml:lang="en">
+      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/microformbas#"/>
+      <skos:prefLabel xml:lang="en">not safety base [obsolete]</skos:prefLabel>
+      <skos:notation xml:lang="en">b</skos:notation>
+   </skos:Concept>
    <!-- Concept: safety base, acetate undetermined  -->
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/microformbas#c" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/microformbas#"/>
