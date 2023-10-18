@@ -10,6 +10,24 @@
       <dct:description>Width of the tape.</dct:description>
       <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
    </skos:ConceptScheme>
+   <!-- Concept: 1/4 in. [obsolete]  -->
+   <skos:Concept rdf:about="http://fakeIRI.edu/terms/soundrecordingwid#a" xml:lang="en">
+      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordingwid#"/>
+      <skos:prefLabel xml:lang="en">1/4 in. [obsolete]</skos:prefLabel>
+      <skos:notation xml:lang="en">a</skos:notation>
+   </skos:Concept>
+   <!-- Concept: 1 in. [obsolete]  -->
+   <skos:Concept rdf:about="http://fakeIRI.edu/terms/soundrecordingwid#c" xml:lang="en">
+      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordingwid#"/>
+      <skos:prefLabel xml:lang="en">1 in. [obsolete]</skos:prefLabel>
+      <skos:notation xml:lang="en">c</skos:notation>
+   </skos:Concept>
+   <!-- Concept: 1/2 in. [obsolete]  -->
+   <skos:Concept rdf:about="http://fakeIRI.edu/terms/soundrecordingwid#b" xml:lang="en">
+      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordingwid#"/>
+      <skos:prefLabel xml:lang="en">1/2 in. [obsolete]</skos:prefLabel>
+      <skos:notation xml:lang="en">b</skos:notation>
+   </skos:Concept>
    <!-- Concept: 1 in.  -->
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/soundrecordingwid#p" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordingwid#"/>
