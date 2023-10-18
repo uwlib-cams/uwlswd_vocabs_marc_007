@@ -19,6 +19,12 @@
       <skos:scopeNote xml:lang="en">Mass-produced cylinders are made of plastic. Early cylinders were made of tinfoil or wax.</skos:scopeNote>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/soundrecordingsmd#e"/>
    </skos:Concept>
+   <!-- Concept: sound-track film [obsolete]  -->
+   <skos:Concept rdf:about="http://fakeIRI.edu/terms/soundrecordingsmd#f" xml:lang="en">
+      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordingsmd#"/>
+      <skos:prefLabel xml:lang="en">sound-track film [obsolete]</skos:prefLabel>
+      <skos:notation xml:lang="en">f</skos:notation>
+   </skos:Concept>
    <!-- Concept: other  -->
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/soundrecordingsmd#z" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordingsmd#"/>
@@ -50,6 +56,12 @@
       <skos:definition xml:lang="en">Digital sound recording that is accessed, processed, executed, etc. remotely. In this case, the digital sound recording is used via input/output devices connected electronically to a computer. Frequently this involves connection through a computer network.</skos:definition>
       <skos:notation xml:lang="en">r</skos:notation>
    </skos:Concept>
+   <!-- Concept: roll [obsolete]  -->
+   <skos:Concept rdf:about="http://fakeIRI.edu/terms/soundrecordingsmd#rx" xml:lang="en">
+      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordingsmd#"/>
+      <skos:prefLabel xml:lang="en">roll [obsolete]</skos:prefLabel>
+      <skos:notation xml:lang="en">r</skos:notation>
+   </skos:Concept>
    <!-- Concept: sound cassette  -->
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/soundrecordingsmd#s" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordingsmd#"/>
@@ -65,6 +77,12 @@
       <skos:definition xml:lang="en">A loop of flexible plastic or magnetic film on which audio signals are mechanically recorded.</skos:definition>
       <skos:scopeNote xml:lang="en">Commonly known under the trade name Dictabelt.</skos:scopeNote>
       <skos:notation xml:lang="en">b</skos:notation>
+   </skos:Concept>
+   <!-- Concept: cylinder [obsolete]  -->
+   <skos:Concept rdf:about="http://fakeIRI.edu/terms/soundrecordingsmd#c" xml:lang="en">
+      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordingsmd#"/>
+      <skos:prefLabel xml:lang="en">cylinder [obsolete]</skos:prefLabel>
+      <skos:notation xml:lang="en">c</skos:notation>
    </skos:Concept>
    <!-- Concept: sound disc  -->
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/soundrecordingsmd#d" xml:lang="en">
