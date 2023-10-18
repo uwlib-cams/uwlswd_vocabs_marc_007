@@ -52,6 +52,12 @@
       <skos:notation xml:lang="en">g</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/motionpicturepro#g"/>
    </skos:Concept>
+   <!-- Concept: other [obsolete]  -->
+   <skos:Concept rdf:about="http://fakeIRI.edu/terms/motionpicturepro#h" xml:lang="en">
+      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturepro#"/>
+      <skos:prefLabel xml:lang="en">other [obsolete]</skos:prefLabel>
+      <skos:notation xml:lang="en">h</skos:notation>
+   </skos:Concept>
    <!-- Concept: rushes  -->
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/motionpicturepro#d" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturepro#"/>
