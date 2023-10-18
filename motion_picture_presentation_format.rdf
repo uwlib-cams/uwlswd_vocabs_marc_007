@@ -55,6 +55,12 @@
       <skos:scopeNote xml:lang="en">Includes Cinerama, Viterama, Cinemiracle, Circarama and other formats that achieve a wide-screen effect though the use of simultaneous projection of separate prints on very large, sometimes deeply curved screens through the use of multiprojectors that build up the projected picture by a series of images, generally side-by-side.</skos:scopeNote>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/motionpicturefor#e"/>
    </skos:Concept>
+   <!-- Concept: other [obsolete]  -->
+   <skos:Concept rdf:about="http://fakeIRI.edu/terms/motionpicturefor#ex" xml:lang="en">
+      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturefor#"/>
+      <skos:prefLabel xml:lang="en">other [obsolete]</skos:prefLabel>
+      <skos:notation xml:lang="en">e</skos:notation>
+   </skos:Concept>
    <!-- Concept: standard silent aperture (full frame)  -->
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/motionpicturefor#f" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturefor#"/>
@@ -72,6 +78,12 @@
       <skos:notation xml:lang="en">a</skos:notation>
       <skos:scopeNote xml:lang="en">Used for non-wide-screen formats. Includes all standard sound 35 mm., 16 mm., and super 8 mm. film. Should be used even for silent films in which a space has been left for the inclusion of a sound track, i.e., where a full frame silent picture has been cropped to allow space for a sound track.</skos:scopeNote>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/motionpicturefor#a"/>
+   </skos:Concept>
+   <!-- Concept: not applicable [obsolete]  -->
+   <skos:Concept rdf:about="http://fakeIRI.edu/terms/motionpicturefor#n" xml:lang="en">
+      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturefor#"/>
+      <skos:prefLabel xml:lang="en">not applicable [obsolete]</skos:prefLabel>
+      <skos:notation xml:lang="en">n</skos:notation>
    </skos:Concept>
    <!-- Concept: unknown  -->
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/motionpicturefor#u" xml:lang="en">
