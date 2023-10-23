@@ -34,6 +34,12 @@
       <skos:notation xml:lang="en">m</skos:notation>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/videodim#m"/>
    </skos:Concept>
+   <!-- Concept: 1/4 in. [obsolete]  -->
+   <skos:Concept rdf:about="http://fakeIRI.edu/terms/videodim#n" xml:lang="en">
+      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/videodim#"/>
+      <skos:prefLabel xml:lang="en">1/4 in.</skos:prefLabel>
+      <skos:notation xml:lang="en">n</skos:notation>
+   </skos:Concept>
    <!-- Concept: 2 in.  -->
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/videodim#q" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/videodim#"/>
