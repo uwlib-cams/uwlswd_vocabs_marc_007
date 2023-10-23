@@ -10,6 +10,12 @@
       <dct:description>Videotape or videodisc recording format.</dct:description>
       <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
    </skos:ConceptScheme>
+   <!-- Concept: not applicable or no attempt to code [obsolete]  -->
+   <skos:Concept rdf:about="http://fakeIRI.edu/terms/videofor#%23" xml:lang="en">
+      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/videofor#"/>
+      <skos:prefLabel xml:lang="en">not applicable or no attempt to code [obsolete]</skos:prefLabel>
+      <skos:notation xml:lang="en">#</skos:notation>
+   </skos:Concept>
    <!-- Concept: 8 mm.  -->
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/videofor#p" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/videofor#"/>
@@ -109,6 +115,12 @@
       <skos:notation xml:lang="en">m</skos:notation>
       <skos:scopeNote xml:lang="en">It was developed by Panasonic as an alternative to the Betacam format developed by Sony.</skos:scopeNote>
       <skos:exactMatch rdf:resource="http://marc21rdf.info/terms/videofor#m"/>
+   </skos:Concept>
+   <!-- Concept: not applicable [obsolete]  -->
+   <skos:Concept rdf:about="http://fakeIRI.edu/terms/videofor#n" xml:lang="en">
+      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/videofor#"/>
+      <skos:prefLabel xml:lang="en">not applicable [obsolete]</skos:prefLabel>
+      <skos:notation xml:lang="en">n</skos:notation>
    </skos:Concept>
    <!-- Concept: other  -->
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/videofor#z" xml:lang="en">
