@@ -6,7 +6,8 @@
 
 <!-- Scheme: MARC21-007: File formats of electronic resource -->
    <skos:ConceptScheme rdf:about="http://fakeIRI.edu/terms/electrofil#">
-      <dct:title>MARC21-007: File formats of electronic resource</dct:title>
+      <dct:title>Electronic resouce: file formats</dct:title>
+      <dct:alternative>MARC21 007/09 values for electronic resources expressed using RDF</dct:alternative>
       <dct:description>Whether the file(s) which comprise the electronic resource are of the same format or type for digitally reformatted materials.</dct:description>
       <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
    </skos:ConceptScheme>
