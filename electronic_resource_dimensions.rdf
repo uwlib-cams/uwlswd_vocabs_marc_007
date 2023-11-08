@@ -6,7 +6,8 @@
 
 <!-- Scheme: MARC21-007: Dimensions of electronic image -->
    <skos:ConceptScheme rdf:about="http://fakeIRI.edu/terms/electrodim#">
-      <dct:title>MARC21-007: Dimensions of electronic image</dct:title>
+      <dct:title>Electronic resource: dimensions</dct:title>
+      <dct:alternative>MARC21 007/04 values for electronic resources expressed using RDF</dct:alternative>
       <dct:description>Dimensions of the medium used to encode the electronic resource.</dct:description>
       <skos:scopeNote xml:lang="en">Only the most common dimensions are indicated. In many cases the dimensions apply to the container in which a magnetic or optical medium is encased.</skos:scopeNote>
       <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
