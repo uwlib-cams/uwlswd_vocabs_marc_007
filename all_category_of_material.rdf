@@ -2,7 +2,8 @@
 <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/"
          xmlns:dct="http://purl.org/dc/terms/"
          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-         xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
 
 <!-- Scheme: MARC21-007: Category of material -->
    <skos:ConceptScheme rdf:about="http://fakeIRI.edu/terms/cat#">
@@ -14,6 +15,7 @@
    <skos:Concept rdf:about="http://fakeIRI.edu/terms/cat#c" xml:lang="en">
       <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/cat#"/>
       <skos:prefLabel xml:lang="en">electronic resource</skos:prefLabel>
+      <rdfs:label xml:lang="en">computer file</rdfs:label>
       <skos:definition xml:lang="en">Involves a medium (usually digitized machine-readable data, program code, etc.) intended to be accessed, processed, or executed by a computer.</skos:definition>
       <skos:scopeNote xml:lang="en">Examples are programs, data files, image files, digitized audio and video tapes, etc.</skos:scopeNote>
       <skos:notation xml:lang="en">c</skos:notation>
