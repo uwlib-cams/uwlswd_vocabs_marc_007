@@ -6,7 +6,8 @@
 
 <!-- Scheme: MARC21-007: Specific material designation of globe -->
    <skos:ConceptScheme rdf:about="http://fakeIRI.edu/terms/globesmd#">
-      <dct:title>MARC21-007: Specific material designation of globe</dct:title>
+      <dct:title>Globe: specific material designation</dct:title>
+      <dct:alternative>MARC21 007/01 values for globes expressed using RDF</dct:alternative>
       <dct:description>Special class of material (usually the class of physical object) to which an item belongs, e.g., a celestial globe.</dct:description>
       <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
    </skos:ConceptScheme>
