@@ -6,7 +6,8 @@
 
 <!-- Scheme: MARC21-007: Type of reproduction of globe -->
    <skos:ConceptScheme rdf:about="http://fakeIRI.edu/terms/globerep#">
-      <dct:title>MARC21-007: Type of reproduction of globe</dct:title>
+      <dct:title>Globe: type of reproduction</dct:title>
+      <dct:alternative>MARC21 007/05 values for globes expressed using RDF</dct:alternative>
       <dct:description>Whether the globe is a facsimile or other type of reproduction.</dct:description>
       <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
    </skos:ConceptScheme>
