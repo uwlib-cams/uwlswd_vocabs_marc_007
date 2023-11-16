@@ -6,7 +6,8 @@
 
 <!-- Scheme: MARC21-007: Type of reproduction of map -->
    <skos:ConceptScheme rdf:about="http://fakeIRI.edu/terms/maprep#">
-      <dct:title>MARC21-007: Type of reproduction of map</dct:title>
+      <dct:title>Map: type of reproduction</dct:title>
+      <dct:alternative>MARC21 007/05 values for maps expressed using RDF</dct:alternative>
       <dct:description>Whether the cartographic item is a facsimile or other type of reproduction.</dct:description>
       <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
    </skos:ConceptScheme>
