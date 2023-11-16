@@ -6,7 +6,8 @@
 
 <!-- Scheme: MARC21-007: Color of the map -->
    <skos:ConceptScheme rdf:about="http://fakeIRI.edu/terms/mapcol#">
-      <dct:title>MARC21-007: Color of the map</dct:title>
+      <dct:title>Map: color</dct:title>
+      <dct:alternative>MARC21 007/03 values for maps expressed using RDF</dct:alternative>
       <dct:description>Whether the item is in one color or multicolored.</dct:description>
       <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
    </skos:ConceptScheme>
