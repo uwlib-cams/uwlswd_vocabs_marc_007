@@ -6,7 +6,8 @@
 
 <!-- Scheme: MARC21-007: Refined categories of color of motion picture -->
    <skos:ConceptScheme rdf:about="http://fakeIRI.edu/terms/motionpicturercc#">
-      <dct:title>MARC21-007: Refined categories of color of motion picture</dct:title>
+      <dct:title>Motion picture: refined categories of color</dct:title>
+      <dct:alternative>MARC21 007/13 values for motion pictures expressed using RDF</dct:alternative>
       <dct:description>Specific color characteristics of the moving image.</dct:description>
       <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
    </skos:ConceptScheme>
