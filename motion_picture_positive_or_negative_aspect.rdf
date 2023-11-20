@@ -6,7 +6,8 @@
 
 <!-- Scheme: MARC21-007: Positive/negative aspect of motion picture -->
    <skos:ConceptScheme rdf:about="http://fakeIRI.edu/terms/motionpicturepna#">
-      <dct:title>MARC21-007: Positive/negative aspect of motion picture</dct:title>
+      <dct:title>Motion picture: positive/negative aspect</dct:title>
+      <dct:alternative>MARC21 007/10 values for motion pictures expressed using RDF</dct:alternative>
       <dct:description>Whether the film is positive or negative.</dct:description>
       <skos:scopeNote xml:lang="en">Positive/negative aspect of motion picture film is related to the kind of emulsion bonded to and supported by a film base.</skos:scopeNote>
       <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
