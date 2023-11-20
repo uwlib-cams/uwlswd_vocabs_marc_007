@@ -6,7 +6,8 @@
 
 <!-- Scheme: MARC21-007: Motion picture presentation format -->
    <skos:ConceptScheme rdf:about="http://fakeIRI.edu/terms/motionpicturefor#">
-      <dct:title>MARC21-007: Motion picture presentation format</dct:title>
+      <dct:title>Motion picture: presentation format</dct:title>
+      <dct:alternative>MARC21 007/04 values for motion pictures expressed using RDF</dct:alternative>
       <dct:description>Presentation format for motion pictures.</dct:description>
       <skos:scopeNote xml:lang="en">Wide-screen is usually indicated with terms such as Techniscope, Todd-AO, Super-Panavision, etc.</skos:scopeNote>
       <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
