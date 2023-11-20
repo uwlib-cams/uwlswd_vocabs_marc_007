@@ -6,7 +6,8 @@
 
 <!-- Scheme: MARC21-007: Color characteristics of the nonprojected graphic -->
    <skos:ConceptScheme rdf:about="http://fakeIRI.edu/terms/nonprojectedcol#">
-      <dct:title>MARC21-007: Color characteristics of the nonprojected graphic</dct:title>
+      <dct:title>Nonprojected graphic: color</dct:title>
+      <dct:alternative>MARC21 007/03 values for nonprojected graphics expressed using RDF</dct:alternative>
       <dct:description>Color characteristics of the nonprojected graphic.</dct:description>
       <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
    </skos:ConceptScheme>
