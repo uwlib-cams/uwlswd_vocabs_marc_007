@@ -6,7 +6,8 @@
 
 <!-- Scheme: MARC21-007: Generation of motion picture -->
    <skos:ConceptScheme rdf:about="http://fakeIRI.edu/terms/motionpicturegen#">
-      <dct:title>MARC21-007: Generation of motion picture</dct:title>
+      <dct:title>Motion picture: generation</dct:title>
+      <dct:alternative>MARC21 007/11 values for motion pictures expressed using RDF</dct:alternative>
       <dct:description>How far away from the original material the item is (e.g., the actual negative film or original videotape in the camera).</dct:description>
       <skos:scopeNote xml:lang="en">Generation data is used to evaluate the quality of available copies, to make preservation decisions, and to identify materials available for viewing and research. Concept of generation represents the photographic process required to create, duplicate, and preserve moving image materials. Material that is produced successively from the original is second, third, fourth, etc. generation material (e.g., original negative to master-positive to duplicate negative to reference print).</skos:scopeNote>
       <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
