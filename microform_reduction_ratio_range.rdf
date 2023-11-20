@@ -6,7 +6,8 @@
 
 <!-- Scheme: MARC21-007: Reduction ratio range of microform -->
    <skos:ConceptScheme rdf:about="http://fakeIRI.edu/terms/microformred#">
-      <dct:title>MARC21-007: Reduction ratio range of microform</dct:title>
+      <dct:title>Microform: reduction ratio range</dct:title>
+      <dct:alternative>MARC21 007/05 values for microform expressed using RDF</dct:alternative>
       <dct:description>Reduction ratio range for a microform. The reduction ratio is usually given on the microform itself. If it is not present, one must know the dimensions of the original item and the size of the image on the microform.</dct:description>
       <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
    </skos:ConceptScheme>
