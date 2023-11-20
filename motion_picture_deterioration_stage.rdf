@@ -6,7 +6,8 @@
 
 <!-- Scheme: MARC21-007: Deterioration stage of motion picture -->
    <skos:ConceptScheme rdf:about="http://fakeIRI.edu/terms/motionpicturedet#">
-      <dct:title>MARC21-007: Deterioration stage of motion picture</dct:title>
+      <dct:title>Motion picture: deterioration stage</dct:title>
+      <dct:alternative>MARC21 007/15 values for motion pictures expressed using RDF</dct:alternative>
       <dct:description>Level of deterioration of the motion picture film.</dct:description>
       <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
    </skos:ConceptScheme>
