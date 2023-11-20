@@ -6,7 +6,8 @@
 
 <!-- Scheme: MARC21-007: Primary support material for non-projected graphic -->
    <skos:ConceptScheme rdf:about="http://fakeIRI.edu/terms/nonprojectedpri#">
-      <dct:title>MARC21-007: Primary support material for non-projected graphic</dct:title>
+      <dct:title>Nonprojected graphic: primary support material</dct:title>
+      <dct:alternative>MARC21 007/04 values for nonprojected graphics expressed using RDF</dct:alternative>
       <dct:description>Type of material used for the support or base on which an image is printed or executed.</dct:description>
       <skos:scopeNote xml:lang="en">Intended for use in handling and storage of material.</skos:scopeNote>
       <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
