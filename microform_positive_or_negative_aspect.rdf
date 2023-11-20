@@ -6,7 +6,8 @@
 
 <!-- Scheme: MARC21-007: Positive/negative aspect of microform -->
    <skos:ConceptScheme rdf:about="http://fakeIRI.edu/terms/microformpna#">
-      <dct:title>MARC21-007: Positive/negative aspect of microform</dct:title>
+      <dct:title>Microform: positive/negative aspect</dct:title>
+      <dct:alternative>MARC21 007/03 values for microform expressed using RDF</dct:alternative>
       <dct:description>Positive/negative polarity of the microform. This characteristic is also referred to as the polarity.</dct:description>
       <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
    </skos:ConceptScheme>
