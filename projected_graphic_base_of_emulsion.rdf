@@ -6,7 +6,8 @@
 
 <!-- Scheme: MARC21-007: Base of emulsion of projected resource -->
    <skos:ConceptScheme rdf:about="http://fakeIRI.edu/terms/projectedbas#">
-      <dct:title>MARC21-007: Base of emulsion of projected resource</dct:title>
+      <dct:title>Projected graphic: Base of emulsion</dct:title>
+      <dct:alternative>MARC21 007/04 values for projected graphics expressed using RDF</dct:alternative>
       <dct:description>Type of material for the base of the emulsion of a photonegative, filmstrip, slide, or transparency.</dct:description>
       <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
    </skos:ConceptScheme>
