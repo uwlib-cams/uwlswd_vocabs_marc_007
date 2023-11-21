@@ -7,7 +7,8 @@
 
 <!-- Scheme: MARC21-007: Specific material designation of projected graphic -->
    <skos:ConceptScheme rdf:about="http://fakeIRI.edu/terms/projectedsmd#">
-      <dct:title>MARC21-007: Specific material designation of projected graphic</dct:title>
+      <dct:title>Projected graphic: specific material designation</dct:title>
+      <dct:alternative>MARC21 007/01 values for projected graphics expressed using RDF</dct:alternative>
       <dct:description>Special class of projected graphic to which the item belongs, e.g., a slide.</dct:description>
       <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
    </skos:ConceptScheme>
