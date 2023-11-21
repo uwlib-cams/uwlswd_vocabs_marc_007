@@ -6,7 +6,8 @@
 
 <!-- Scheme: MARC21-007: Sensor type of remote sensor -->
    <skos:ConceptScheme rdf:about="http://fakeIRI.edu/terms/remotesensingtyp#">
-      <dct:title>MARC21-007: Sensor type of remote sensor</dct:title>
+      <dct:title>Remote-sensing image: sensor type</dct:title>
+      <dct:alternative>MARC21 007/08 values for remote-sensing images expressed using RDF</dct:alternative>
       <dct:description>For the recording mode of the remote-sensing device, specifically, whether the sensor is involved in the creation of the transmission it eventually measures.</dct:description>
       <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
    </skos:ConceptScheme>
