@@ -6,7 +6,8 @@
 
 <!-- Scheme: MARC21-007: Cloud cover in remotely sensed image -->
    <skos:ConceptScheme rdf:about="http://fakeIRI.edu/terms/remotesensingclo#">
-      <dct:title>MARC21-007: Cloud cover in remotely sensed image</dct:title>
+      <dct:title>Remote-sensing image: cloud cover</dct:title>
+      <dct:alternative>MARC21 007/05 values for remote-sensing images expressed using RDF</dct:alternative>
       <dct:description>Amount of cloud cover that was present when a remote-sensing image was made.</dct:description>
       <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
    </skos:ConceptScheme>
