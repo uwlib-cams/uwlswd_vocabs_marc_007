@@ -6,7 +6,9 @@
 
 <!-- Scheme: MARC21-007: Capture and storage technique of sound recording -->
    <skos:ConceptScheme rdf:about="http://fakeIRI.edu/terms/soundrecordingcap#">
-      <dct:title>MARC21-007: Original capture and storage technique of sound recording</dct:title>
+      <dct:title>Sound recording: original capture and storage technique</dct:title>
+      <dct:alternative>MARC21 007/13 values for sound recordings expressed using RDF</dct:alternative>
+      <dct:alternative>Formerly: Capture and storage technique</dct:alternative>
       <dct:description>How the sound was originally captured and stored.</dct:description>
       <skos:scopeNote xml:lang="en">Use original capture and storage techniques, regardless of the physical format of the manifestation being cataloged or whether the sound content of the manifestation being cataloged has been enhanced using other techniques.</skos:scopeNote>
       <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
