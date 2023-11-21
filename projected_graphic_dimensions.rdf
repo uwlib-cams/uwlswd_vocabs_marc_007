@@ -6,7 +6,8 @@
 
 <!-- Scheme: MARC21-007: Dimensions of projected graphic -->
    <skos:ConceptScheme rdf:about="http://fakeIRI.edu/terms/projecteddim#">
-      <dct:title>MARC21-007: Dimensions of projected graphic</dct:title>
+      <dct:title>Projected graphic: dimensions</dct:title>
+      <dct:alternative>MARC21 007/07 values for projected graphics expressed using RDF</dct:alternative>
       <dct:description>Width or dimensions of the projected graphic item. Width is given for filmstrips. Height and width are given for slides and transparencies.</dct:description>
       <skos:scopeNote xml:lang="en">Only the most common dimensions are indicated. For film and slides, only codes that exactly match the measurements of the item as given in the physical description should be used. For transparencies, the code that most closely approximates the dimensions as stated in the physical description is used. The dimensions for slides and transparencies include the size of the mount for the item.</skos:scopeNote>
       <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
