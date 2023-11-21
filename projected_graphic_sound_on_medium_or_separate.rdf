@@ -6,7 +6,8 @@
 
 <!-- Scheme: MARC21-007: Sound on medium or separate of projected graphic -->
    <skos:ConceptScheme rdf:about="http://fakeIRI.edu/terms/projectedsom#">
-      <dct:title>MARC21-007: Sound on medium or separate of projected graphic</dct:title>
+      <dct:title>Projected graphic: sound on medium or separate</dct:title>
+      <dct:alternative>MARC21 007/05 values for projected graphics expressed using RDF</dct:alternative>
       <dct:description>Whether the sound is on or is separate from the projected graphic (i.e., on the accompanying material).</dct:description>
       <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
    </skos:ConceptScheme>
