@@ -6,7 +6,8 @@
 
 <!-- Scheme: MARC21-007: Special physical characteristics of tactile resource -->
    <skos:ConceptScheme rdf:about="http://fakeIRI.edu/terms/tactilespc#">
-      <dct:title>MARC21-007: Special physical characteristics of tactile resource</dct:title>
+      <dct:title>Tactile material: special physical characteristics</dct:title>
+      <dct:alternative>MARC21 007/09 values for tactile material expressed using RDF</dct:alternative>
       <dct:description>Special physical characteristics about the braille.</dct:description>
       <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
    </skos:ConceptScheme>
