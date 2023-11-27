@@ -6,7 +6,8 @@
 
 <!-- Scheme: MARC21-007: Medium for sound of video -->
    <skos:ConceptScheme rdf:about="http://fakeIRI.edu/terms/videomed#">
-      <dct:title>MARC21-007: Medium for sound of video</dct:title>
+      <dct:title>Videorecording: medium for sound</dct:title>
+      <dct:alternative>MARC21 007/06 values for videorecordings expressed using RDF</dct:alternative>
       <dct:description>Specific medium used to carry the sound of an item, whether that sound is carried on the videorecording or is separate, and the type of sound playback required for the item.</dct:description>
       <skos:scopeNote xml:lang="en">Typically, the carriers of sound are: 1) magnetic track encased in a cassette or cartridge; 2) audio or video tape which may be on reel or encased in a cassette or cartridge; and 3) sound or video disc.</skos:scopeNote>
       <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
