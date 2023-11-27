@@ -7,7 +7,8 @@
 
 <!-- Scheme: MARC21-007: Kind of material of sound recording -->
    <skos:ConceptScheme rdf:about="http://fakeIRI.edu/terms/soundrecordingmat#">
-      <dct:title>MARC21-007: Kind of material of sound recording</dct:title>
+      <dct:title>Sound recording: kind of material</dct:title>
+      <dct:alternative>MARC21 007/10 values for sound recordings expressed using RDF</dct:alternative>
       <dct:description>Kind of material used in the manufacture of sound recordings (both instantaneous and mass-produced).</dct:description>
       <skos:scopeNote xml:lang="en">This is only intended to relate to a sound recording rendered on a mechanical device.</skos:scopeNote>
       <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
