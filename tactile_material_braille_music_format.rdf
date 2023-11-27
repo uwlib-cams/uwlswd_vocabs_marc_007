@@ -6,7 +6,8 @@
 
 <!-- Scheme: MARC21-007: Braille music format -->
    <skos:ConceptScheme rdf:about="http://fakeIRI.edu/terms/tactilebmf#">
-      <dct:title>MARC21-007: Braille music format</dct:title>
+      <dct:title>Tactile material: braille music format</dct:title>
+      <dct:alternative>MARC21 007/06-08 values for tactile material expressed using RDF</dct:alternative>
       <dct:description>Indicates the braille music format of the item. The music formats are the way measures, sections, parts, and related information, such as words, are presented in relation to each other.</dct:description>
       <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
    </skos:ConceptScheme>
