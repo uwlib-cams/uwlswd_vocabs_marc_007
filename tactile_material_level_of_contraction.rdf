@@ -6,7 +6,8 @@
 
 <!-- Scheme: MARC21-007: Level of contraction of tactile resource -->
    <skos:ConceptScheme rdf:about="http://fakeIRI.edu/terms/tactilelev#">
-      <dct:title>MARC21-007: Level of contraction of tactile resource</dct:title>
+      <dct:title>Tactile material: level of contraction</dct:title>
+      <dct:alternative>MARC21 007/05 values for tactile material expressed using RDF</dct:alternative>
       <dct:description>Whether contractions are used. Contractions are abbreviations consisting of one or more braille or Moon characters to represent common letter combinations.</dct:description>
       <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
    </skos:ConceptScheme>
