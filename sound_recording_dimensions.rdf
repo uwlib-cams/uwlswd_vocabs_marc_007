@@ -6,7 +6,8 @@
 
 <!-- Scheme: MARC21-007: Dimensions of sound recording -->
    <skos:ConceptScheme rdf:about="http://fakeIRI.edu/terms/soundrecordingdim#">
-      <dct:title>MARC21-007: Dimensions of sound recording</dct:title>
+      <dct:title>Sound recording: dimensions</dct:title>
+      <dct:alternative>MARC21 007/06 values for sound recordings expressed using RDF</dct:alternative>
       <dct:description>Diameter of an open reel or disc, or the dimensions of a cassette, cartridge, or cylinder.</dct:description>
       <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
    </skos:ConceptScheme>
