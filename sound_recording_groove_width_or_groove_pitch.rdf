@@ -6,7 +6,8 @@
 
 <!-- Scheme: MARC21-007: Groove width/groove pitch of sound recording -->
    <skos:ConceptScheme rdf:about="http://fakeIRI.edu/terms/soundrecordinggro#">
-      <dct:title>MARC21-007: Groove width/groove pitch of sound recording</dct:title>
+      <dct:title>Sound recording: groove width/groove pitch</dct:title>
+      <dct:alternative>MARC21 007/05 values for sound recordings expressed using RDF</dct:alternative>
       <dct:description>Width of the groove of the recording for discs or the pitch of the groove for cylinders.</dct:description>
       <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
    </skos:ConceptScheme>
