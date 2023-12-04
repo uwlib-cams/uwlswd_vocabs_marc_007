@@ -2,13 +2,23 @@
 <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/"
     xmlns:dct="http://purl.org/dc/terms/"
     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-    xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:uw=?>
     
     <!-- Scheme: MARC21-007: Undefined -->
     <skos:ConceptScheme rdf:about="http://fakeIRI.edu/terms/someund#">
         <dct:title>Some: undefined</dct:title>
         <dct:alternative>MARC21 007/02 values for some materials expressed using RDF</dct:alternative>
         <dct:description>Contains blank (#) or a fill character (|).</dct:description>
+        <uw:appliesToMaterial>map</uw:appliesToMaterial>
+        <uw:appliesToMaterial>electronic resource</uw:appliesToMaterial>
+        <uw:appliesToMaterial>globe</uw:appliesToMaterial>
+        <uw:appliesToMaterial>projected graphic</uw:appliesToMaterial>
+        <uw:appliesToMaterial>microform</uw:appliesToMaterial>
+        <uw:appliesToMaterial>nonprojected graphic</uw:appliesToMaterial>
+        <uw:appliesToMaterial>motion picture</uw:appliesToMaterial>
+        <uw:appliesToMaterial>sound recording</uw:appliesToMaterial>
+        <uw:appliesToMaterial>videorecording</uw:appliesToMaterial>
         <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
     </skos:ConceptScheme>
     <!-- Concept: facsimile [obsolete]  -->
