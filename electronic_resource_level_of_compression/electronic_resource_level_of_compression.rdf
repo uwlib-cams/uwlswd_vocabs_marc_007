@@ -7,7 +7,7 @@
    xmlns:uwp="https://doi.org/10.6069/uwlib.55.d.3#">
 
 
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/electroloc">
+   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.hwb2-j275">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
       <dct:type rdf:resource="http://purl.org/dc/dcmitype/Dataset"/>
       <dct:title xml:lang="en">Electronic resource: level of compression</dct:title>
@@ -32,9 +32,9 @@
       <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/electroloc#b">
+   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.hwb2-j275#b">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/electroloc"/>
+      <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.hwb2-j275"/>
       <skos:prefLabel xml:lang="en">lossless</skos:prefLabel>
       <skos:definition xml:lang="en">Lossless compression will allow an electronic resource to be
          compressed and decompressed with absolute fidelity each time. To be considered lossless, no
@@ -44,9 +44,9 @@
       <skos:notation xml:lang="en">b</skos:notation>
    </rdf:Description>
 
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/electroloc#d">
+   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.hwb2-j275#d">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/electroloc"/>
+      <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.hwb2-j275"/>
       <skos:prefLabel xml:lang="en">lossy</skos:prefLabel>
       <skos:definition xml:lang="en">Lossy compression schemes employ techniques which average or
          discard some of the encoded digital information. When the file is decompressed, it will not
@@ -56,27 +56,27 @@
       <skos:notation xml:lang="en">d</skos:notation>
    </rdf:Description>
 
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/electroloc#m">
+   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.hwb2-j275#m">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/electroloc"/>
+      <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.hwb2-j275"/>
       <skos:prefLabel xml:lang="en">mixed</skos:prefLabel>
       <skos:definition xml:lang="en">A mixture of techniques has been used to compress various parts
          of the electronic resource.</skos:definition>
       <skos:notation xml:lang="en">m</skos:notation>
    </rdf:Description>
 
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/electroloc#a">
+   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.hwb2-j275#a">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/electroloc"/>
+      <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.hwb2-j275"/>
       <skos:prefLabel xml:lang="en">uncompressed</skos:prefLabel>
       <skos:definition xml:lang="en">Electronic resource has not been compressed through the use of
          any compression technique.</skos:definition>
       <skos:notation xml:lang="en">a</skos:notation>
    </rdf:Description>
 
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/electroloc#u">
+   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.hwb2-j275#u">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/electroloc"/>
+      <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.hwb2-j275"/>
       <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
       <skos:definition xml:lang="en">Compression techniques are not known.</skos:definition>
       <skos:notation xml:lang="en">u</skos:notation>
