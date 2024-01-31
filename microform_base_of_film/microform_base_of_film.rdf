@@ -1,29 +1,139 @@
-<?xml version="1.0" encoding="UTF-8"?><rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="https://schema.org/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:uw="https://www.lib.washington.edu/static/public/cams/data/localResources/properties_local.html" xmlns:uwp="https://doi.org/10.6069/uwlib.55.d.3#">
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="https://schema.org/"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+   xmlns:uw="https://www.lib.washington.edu/static/public/cams/data/localResources/properties_local.html"
+   xmlns:uwp="https://doi.org/10.6069/uwlib.55.d.3#">
 
 
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/microformbas"><rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/><dct:type rdf:resource="http://purl.org/dc/dcmitype/Dataset"/><dct:title xml:lang="en">Microform: base of film</dct:title><dct:alternative xml:lang="en">MARC21 007/12 values for microform expressed using RDF</dct:alternative><dct:description xml:lang="en">Base of the film.</dct:description><schema:disambiguatingDescription>SKOS Concept Scheme for MARC 00X Values</schema:disambiguatingDescription><dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/><dct:source rdf:resource="https://www.loc.gov/marc/bibliographic/bd007.html"/><dct:source rdf:resource="http://marc21rdf.info"/><dct:provenance rdf:resource="https://doi.org/10.6069/uwlswd.2e2b-y833"/><dct:creator rdf:resource="http://viaf.org/viaf/139541794"/><dct:contributor rdf:resource="http://viaf.org/viaf/151962300"/><dct:issued>2024</dct:issued><dc:contributor xml:lang="en">Metadata Management Associates</dc:contributor><dc:language>en</dc:language><dct:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0"/><schema:version>1-0-0</schema:version><dct:issued>2024</dct:issued><dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/></rdf:Description>
-   
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/microformbas#m"><rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/><skos:inScheme rdf:resource="http://fakeIRI.edu/terms/microformbas"/><skos:prefLabel xml:lang="en">mixed base (nitrate and safety)</skos:prefLabel><skos:definition xml:lang="en">Combination of nitrate base and safety base film.</skos:definition><skos:notation xml:lang="en">m</skos:notation></rdf:Description>
-   
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/microformbas#i"><rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/><skos:inScheme rdf:resource="http://fakeIRI.edu/terms/microformbas"/><skos:prefLabel xml:lang="en">nitrate base</skos:prefLabel><skos:definition xml:lang="en">Cellulose nitrate film.</skos:definition><skos:notation xml:lang="en">i</skos:notation></rdf:Description>
-   
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/microformbas#n"><rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/><skos:inScheme rdf:resource="http://fakeIRI.edu/terms/microformbas"/><skos:prefLabel xml:lang="en">not applicable</skos:prefLabel><skos:definition xml:lang="en">On a reflective rather than a transparent base.</skos:definition><skos:scopeNote xml:lang="en">Used for microopaques (which can be termed microcard or microprint).</skos:scopeNote><skos:notation xml:lang="en">n</skos:notation></rdf:Description>
-   
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/microformbas#z"><rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/><skos:inScheme rdf:resource="http://fakeIRI.edu/terms/microformbas"/><skos:prefLabel xml:lang="en">other</skos:prefLabel><skos:definition xml:lang="en">Base of film other than safety base, undetermined, safety base, acetate undetermined, safety base, diacetate, nitrate base, mixed base (nitrate and safety), not applicable, safety base, polyester, safety base, mixed, safety base, or triacetate.</skos:definition><skos:notation xml:lang="en">z</skos:notation></rdf:Description>
-   
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/microformbas#b"><rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/><skos:inScheme rdf:resource="http://fakeIRI.edu/terms/microformbas"/><skos:prefLabel xml:lang="en">not safety base [obsolete]</skos:prefLabel><skos:notation xml:lang="en">b</skos:notation></rdf:Description>
-   
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/microformbas#c"><rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/><skos:inScheme rdf:resource="http://fakeIRI.edu/terms/microformbas"/><skos:prefLabel xml:lang="en">safety base, acetate undetermined</skos:prefLabel><skos:definition xml:lang="en">Acetate safety base film whose exact type cannot be determined.</skos:definition><skos:scopeNote xml:lang="en">I.e., where it is unknown if the type is diacetate or triacetate.</skos:scopeNote><skos:notation xml:lang="en">c</skos:notation></rdf:Description>
-   
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/microformbas#d"><rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/><skos:inScheme rdf:resource="http://fakeIRI.edu/terms/microformbas"/><skos:prefLabel xml:lang="en">safety base, diacetate</skos:prefLabel><skos:definition xml:lang="en">Cellulose diacetate film base.</skos:definition><skos:notation xml:lang="en">d</skos:notation></rdf:Description>
-   
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/microformbas#r"><rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/><skos:inScheme rdf:resource="http://fakeIRI.edu/terms/microformbas"/><skos:prefLabel xml:lang="en">safety base, mixed</skos:prefLabel><skos:definition xml:lang="en">Mixed safety base films are spliced together; no nitrate film.</skos:definition><skos:notation xml:lang="en">r</skos:notation></rdf:Description>
-   
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/microformbas#p"><rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/><skos:inScheme rdf:resource="http://fakeIRI.edu/terms/microformbas"/><skos:prefLabel xml:lang="en">safety base, polyester</skos:prefLabel><skos:definition xml:lang="en">Film base is made of a synthetic resin (e.g., estar).</skos:definition><skos:notation xml:lang="en">p</skos:notation></rdf:Description>
-   
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/microformbas#t"><rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/><skos:inScheme rdf:resource="http://fakeIRI.edu/terms/microformbas"/><skos:prefLabel xml:lang="en">safety base, triacetate</skos:prefLabel><skos:definition xml:lang="en">Cellulose triacetate film base.</skos:definition><skos:notation xml:lang="en">t</skos:notation></rdf:Description>
-   
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/microformbas#a"><rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/><skos:inScheme rdf:resource="http://fakeIRI.edu/terms/microformbas"/><skos:prefLabel xml:lang="en">safety base, undetermined</skos:prefLabel><skos:definition xml:lang="en">Type has not been identified.</skos:definition><skos:notation xml:lang="en">a</skos:notation></rdf:Description>
-   
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/microformbas#u"><rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/><skos:inScheme rdf:resource="http://fakeIRI.edu/terms/microformbas"/><skos:prefLabel xml:lang="en">unknown</skos:prefLabel><skos:notation xml:lang="en">u</skos:notation></rdf:Description>
+   <rdf:Description rdf:about="http://fakeIRI.edu/terms/microformbas">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+      <dct:type rdf:resource="http://purl.org/dc/dcmitype/Dataset"/>
+      <dct:title xml:lang="en">Microform: base of film</dct:title>
+      <dct:alternative xml:lang="en">MARC21 007/12 values for microform expressed using
+         RDF</dct:alternative>
+      <dct:description xml:lang="en">Base of the film.</dct:description>
+      <schema:disambiguatingDescription>SKOS Concept Scheme for MARC 00X
+         Values</schema:disambiguatingDescription>
+      <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
+      <dct:source rdf:resource="https://www.loc.gov/marc/bibliographic/bd007.html"/>
+      <dct:source rdf:resource="http://marc21rdf.info"/>
+      <dct:provenance rdf:resource="https://doi.org/10.6069/uwlswd.2e2b-y833"/>
+      <dct:creator rdf:resource="http://viaf.org/viaf/139541794"/>
+      <dct:contributor rdf:resource="http://viaf.org/viaf/151962300"/>
+      <dct:issued>2024</dct:issued>
+      <dc:contributor xml:lang="en">Metadata Management Associates</dc:contributor>
+      <dc:language>en</dc:language>
+      <dct:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0"/>
+      <schema:version>1-0-0</schema:version>
+      <dct:issued>2024</dct:issued>
+      <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="http://fakeIRI.edu/terms/microformbas#m">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/microformbas"/>
+      <skos:prefLabel xml:lang="en">mixed base (nitrate and safety)</skos:prefLabel>
+      <skos:definition xml:lang="en">Combination of nitrate base and safety base
+         film.</skos:definition>
+      <skos:notation xml:lang="en">m</skos:notation>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="http://fakeIRI.edu/terms/microformbas#i">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/microformbas"/>
+      <skos:prefLabel xml:lang="en">nitrate base</skos:prefLabel>
+      <skos:definition xml:lang="en">Cellulose nitrate film.</skos:definition>
+      <skos:notation xml:lang="en">i</skos:notation>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="http://fakeIRI.edu/terms/microformbas#n">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/microformbas"/>
+      <skos:prefLabel xml:lang="en">not applicable</skos:prefLabel>
+      <skos:definition xml:lang="en">On a reflective rather than a transparent
+         base.</skos:definition>
+      <skos:scopeNote xml:lang="en">Used for microopaques (which can be termed microcard or
+         microprint).</skos:scopeNote>
+      <skos:notation xml:lang="en">n</skos:notation>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="http://fakeIRI.edu/terms/microformbas#z">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/microformbas"/>
+      <skos:prefLabel xml:lang="en">other</skos:prefLabel>
+      <skos:definition xml:lang="en">Base of film other than safety base, undetermined, safety base,
+         acetate undetermined, safety base, diacetate, nitrate base, mixed base (nitrate and
+         safety), not applicable, safety base, polyester, safety base, mixed, safety base, or
+         triacetate.</skos:definition>
+      <skos:notation xml:lang="en">z</skos:notation>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="http://fakeIRI.edu/terms/microformbas#b">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/microformbas"/>
+      <skos:prefLabel xml:lang="en">not safety base [obsolete]</skos:prefLabel>
+      <skos:notation xml:lang="en">b</skos:notation>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="http://fakeIRI.edu/terms/microformbas#c">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/microformbas"/>
+      <skos:prefLabel xml:lang="en">safety base, acetate undetermined</skos:prefLabel>
+      <skos:definition xml:lang="en">Acetate safety base film whose exact type cannot be
+         determined.</skos:definition>
+      <skos:scopeNote xml:lang="en">I.e., where it is unknown if the type is diacetate or
+         triacetate.</skos:scopeNote>
+      <skos:notation xml:lang="en">c</skos:notation>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="http://fakeIRI.edu/terms/microformbas#d">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/microformbas"/>
+      <skos:prefLabel xml:lang="en">safety base, diacetate</skos:prefLabel>
+      <skos:definition xml:lang="en">Cellulose diacetate film base.</skos:definition>
+      <skos:notation xml:lang="en">d</skos:notation>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="http://fakeIRI.edu/terms/microformbas#r">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/microformbas"/>
+      <skos:prefLabel xml:lang="en">safety base, mixed</skos:prefLabel>
+      <skos:definition xml:lang="en">Mixed safety base films are spliced together; no nitrate
+         film.</skos:definition>
+      <skos:notation xml:lang="en">r</skos:notation>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="http://fakeIRI.edu/terms/microformbas#p">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/microformbas"/>
+      <skos:prefLabel xml:lang="en">safety base, polyester</skos:prefLabel>
+      <skos:definition xml:lang="en">Film base is made of a synthetic resin (e.g.,
+         estar).</skos:definition>
+      <skos:notation xml:lang="en">p</skos:notation>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="http://fakeIRI.edu/terms/microformbas#t">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/microformbas"/>
+      <skos:prefLabel xml:lang="en">safety base, triacetate</skos:prefLabel>
+      <skos:definition xml:lang="en">Cellulose triacetate film base.</skos:definition>
+      <skos:notation xml:lang="en">t</skos:notation>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="http://fakeIRI.edu/terms/microformbas#a">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/microformbas"/>
+      <skos:prefLabel xml:lang="en">safety base, undetermined</skos:prefLabel>
+      <skos:definition xml:lang="en">Type has not been identified.</skos:definition>
+      <skos:notation xml:lang="en">a</skos:notation>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="http://fakeIRI.edu/terms/microformbas#u">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/microformbas"/>
+      <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
+      <skos:notation xml:lang="en">u</skos:notation>
+   </rdf:Description>
 </rdf:RDF>

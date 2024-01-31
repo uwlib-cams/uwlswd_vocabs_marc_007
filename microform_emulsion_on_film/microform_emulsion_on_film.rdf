@@ -1,19 +1,104 @@
-<?xml version="1.0" encoding="UTF-8"?><rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="https://schema.org/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:uw="https://www.lib.washington.edu/static/public/cams/data/localResources/properties_local.html" xmlns:uwp="https://doi.org/10.6069/uwlib.55.d.3#">
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="https://schema.org/"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+   xmlns:uw="https://www.lib.washington.edu/static/public/cams/data/localResources/properties_local.html"
+   xmlns:uwp="https://doi.org/10.6069/uwlib.55.d.3#">
 
 
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/microformemu"><rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/><dct:type rdf:resource="http://purl.org/dc/dcmitype/Dataset"/><dct:title xml:lang="en">Microform: emulsion on film</dct:title><dct:alternative xml:lang="en">MARC21 007/10 values for microform expressed using RDF</dct:alternative><dct:description xml:lang="en">Type of light-sensitive material on the film.</dct:description><schema:disambiguatingDescription>SKOS Concept Scheme for MARC 00X Values</schema:disambiguatingDescription><dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/><dct:source rdf:resource="https://www.loc.gov/marc/bibliographic/bd007.html"/><dct:source rdf:resource="http://marc21rdf.info"/><dct:provenance rdf:resource="https://doi.org/10.6069/uwlswd.2e2b-y833"/><dct:creator rdf:resource="http://viaf.org/viaf/139541794"/><dct:contributor rdf:resource="http://viaf.org/viaf/151962300"/><dct:issued>2024</dct:issued><dc:contributor xml:lang="en">Metadata Management Associates</dc:contributor><dc:language>en</dc:language><dct:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0"/><schema:version>1-0-0</schema:version><dct:issued>2024</dct:issued><dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/></rdf:Description>
-   
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/microformemu#b"><rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/><skos:inScheme rdf:resource="http://fakeIRI.edu/terms/microformemu"/><skos:prefLabel xml:lang="en">diazo</skos:prefLabel><skos:definition xml:lang="en">Sensitized layers composed of diazonium salts that react with couplers to form dye images. The color of the image is determined by the composition of the diazonium compound as well as the couplers used in the process.</skos:definition><skos:scopeNote xml:lang="en">May be black, violet, or another color.</skos:scopeNote><skos:notation xml:lang="en">b</skos:notation></rdf:Description>
-   
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/microformemu#m"><rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/><skos:inScheme rdf:resource="http://fakeIRI.edu/terms/microformemu"/><skos:prefLabel xml:lang="en">mixed emulsion</skos:prefLabel><skos:definition xml:lang="en">Mixed emulsion.</skos:definition><skos:scopeNote xml:lang="en">For example, a microfilm may have slices of film with one type of emulsion and other slices with another type of emulsion.</skos:scopeNote><skos:notation xml:lang="en">m</skos:notation></rdf:Description>
-   
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/microformemu#n"><rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/><skos:inScheme rdf:resource="http://fakeIRI.edu/terms/microformemu"/><skos:prefLabel xml:lang="en">not applicable</skos:prefLabel><skos:definition xml:lang="en">Item does not have emulsion on film.</skos:definition><skos:scopeNote xml:lang="en">Used for microopaques.</skos:scopeNote><skos:notation xml:lang="en">n</skos:notation></rdf:Description>
-   
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/microformemu#z"><rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/><skos:inScheme rdf:resource="http://fakeIRI.edu/terms/microformemu"/><skos:prefLabel xml:lang="en">other</skos:prefLabel><skos:definition xml:lang="en">Emulsion on film other than silver halide, diazo, vesicular, mixed emulsion.</skos:definition><skos:notation xml:lang="en">z</skos:notation></rdf:Description>
-   
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/microformemu#a"><rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/><skos:inScheme rdf:resource="http://fakeIRI.edu/terms/microformemu"/><skos:prefLabel xml:lang="en">silver halide</skos:prefLabel><skos:definition xml:lang="en">A compound of silver and halogens.</skos:definition><skos:scopeNote xml:lang="en">Silver halide microforms always appear black-and-white (black-and-transparent).</skos:scopeNote><skos:notation xml:lang="en">a</skos:notation></rdf:Description>
-   
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/microformemu#u"><rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/><skos:inScheme rdf:resource="http://fakeIRI.edu/terms/microformemu"/><skos:prefLabel xml:lang="en">unknown</skos:prefLabel><skos:definition xml:lang="en">Emulsion on the film is not known.</skos:definition><skos:notation xml:lang="en">u</skos:notation></rdf:Description>
-   
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/microformemu#c"><rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/><skos:inScheme rdf:resource="http://fakeIRI.edu/terms/microformemu"/><skos:prefLabel xml:lang="en">vesicular</skos:prefLabel><skos:definition xml:lang="en">Light-sensitive component is suspended in a plastic layer. On exposure, the component creates optical vesicules (bubbles) in the layers. These bubbles form the latent image. The latent image becomes visible and fixed by heating the plastic layer and then allowing it to cool.</skos:definition><skos:scopeNote xml:lang="en">Vesicular films are commonly blue or beige in color. They do not appear to have much contrast (very high density) until projected in a microform reader.</skos:scopeNote><skos:notation xml:lang="en">c</skos:notation></rdf:Description>
+   <rdf:Description rdf:about="http://fakeIRI.edu/terms/microformemu">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+      <dct:type rdf:resource="http://purl.org/dc/dcmitype/Dataset"/>
+      <dct:title xml:lang="en">Microform: emulsion on film</dct:title>
+      <dct:alternative xml:lang="en">MARC21 007/10 values for microform expressed using
+         RDF</dct:alternative>
+      <dct:description xml:lang="en">Type of light-sensitive material on the film.</dct:description>
+      <schema:disambiguatingDescription>SKOS Concept Scheme for MARC 00X
+         Values</schema:disambiguatingDescription>
+      <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
+      <dct:source rdf:resource="https://www.loc.gov/marc/bibliographic/bd007.html"/>
+      <dct:source rdf:resource="http://marc21rdf.info"/>
+      <dct:provenance rdf:resource="https://doi.org/10.6069/uwlswd.2e2b-y833"/>
+      <dct:creator rdf:resource="http://viaf.org/viaf/139541794"/>
+      <dct:contributor rdf:resource="http://viaf.org/viaf/151962300"/>
+      <dct:issued>2024</dct:issued>
+      <dc:contributor xml:lang="en">Metadata Management Associates</dc:contributor>
+      <dc:language>en</dc:language>
+      <dct:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0"/>
+      <schema:version>1-0-0</schema:version>
+      <dct:issued>2024</dct:issued>
+      <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="http://fakeIRI.edu/terms/microformemu#b">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/microformemu"/>
+      <skos:prefLabel xml:lang="en">diazo</skos:prefLabel>
+      <skos:definition xml:lang="en">Sensitized layers composed of diazonium salts that react with
+         couplers to form dye images. The color of the image is determined by the composition of the
+         diazonium compound as well as the couplers used in the process.</skos:definition>
+      <skos:scopeNote xml:lang="en">May be black, violet, or another color.</skos:scopeNote>
+      <skos:notation xml:lang="en">b</skos:notation>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="http://fakeIRI.edu/terms/microformemu#m">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/microformemu"/>
+      <skos:prefLabel xml:lang="en">mixed emulsion</skos:prefLabel>
+      <skos:definition xml:lang="en">Mixed emulsion.</skos:definition>
+      <skos:scopeNote xml:lang="en">For example, a microfilm may have slices of film with one type
+         of emulsion and other slices with another type of emulsion.</skos:scopeNote>
+      <skos:notation xml:lang="en">m</skos:notation>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="http://fakeIRI.edu/terms/microformemu#n">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/microformemu"/>
+      <skos:prefLabel xml:lang="en">not applicable</skos:prefLabel>
+      <skos:definition xml:lang="en">Item does not have emulsion on film.</skos:definition>
+      <skos:scopeNote xml:lang="en">Used for microopaques.</skos:scopeNote>
+      <skos:notation xml:lang="en">n</skos:notation>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="http://fakeIRI.edu/terms/microformemu#z">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/microformemu"/>
+      <skos:prefLabel xml:lang="en">other</skos:prefLabel>
+      <skos:definition xml:lang="en">Emulsion on film other than silver halide, diazo, vesicular,
+         mixed emulsion.</skos:definition>
+      <skos:notation xml:lang="en">z</skos:notation>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="http://fakeIRI.edu/terms/microformemu#a">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/microformemu"/>
+      <skos:prefLabel xml:lang="en">silver halide</skos:prefLabel>
+      <skos:definition xml:lang="en">A compound of silver and halogens.</skos:definition>
+      <skos:scopeNote xml:lang="en">Silver halide microforms always appear black-and-white
+         (black-and-transparent).</skos:scopeNote>
+      <skos:notation xml:lang="en">a</skos:notation>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="http://fakeIRI.edu/terms/microformemu#u">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/microformemu"/>
+      <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
+      <skos:definition xml:lang="en">Emulsion on the film is not known.</skos:definition>
+      <skos:notation xml:lang="en">u</skos:notation>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="http://fakeIRI.edu/terms/microformemu#c">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/microformemu"/>
+      <skos:prefLabel xml:lang="en">vesicular</skos:prefLabel>
+      <skos:definition xml:lang="en">Light-sensitive component is suspended in a plastic layer. On
+         exposure, the component creates optical vesicules (bubbles) in the layers. These bubbles
+         form the latent image. The latent image becomes visible and fixed by heating the plastic
+         layer and then allowing it to cool.</skos:definition>
+      <skos:scopeNote xml:lang="en">Vesicular films are commonly blue or beige in color. They do not
+         appear to have much contrast (very high density) until projected in a microform
+         reader.</skos:scopeNote>
+      <skos:notation xml:lang="en">c</skos:notation>
+   </rdf:Description>
 </rdf:RDF>

@@ -1,27 +1,143 @@
-<?xml version="1.0" encoding="UTF-8"?><rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="https://schema.org/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:uw="https://www.lib.washington.edu/static/public/cams/data/localResources/properties_local.html" xmlns:uwp="https://doi.org/10.6069/uwlib.55.d.3#">
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="https://schema.org/"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+   xmlns:uw="https://www.lib.washington.edu/static/public/cams/data/localResources/properties_local.html"
+   xmlns:uwp="https://doi.org/10.6069/uwlib.55.d.3#">
 
 
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturebas"><rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/><dct:type rdf:resource="http://purl.org/dc/dcmitype/Dataset"/><dct:title xml:lang="en">Motion picture: base of film</dct:title><dct:alternative xml:lang="en">MARC21 007/12 values for motion pictures expressed using RDF</dct:alternative><dct:description xml:lang="en">Base of the film.</dct:description><schema:disambiguatingDescription>SKOS Concept Scheme for MARC 00X Values</schema:disambiguatingDescription><dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/><dct:source rdf:resource="https://www.loc.gov/marc/bibliographic/bd007.html"/><dct:source rdf:resource="http://marc21rdf.info"/><dct:provenance rdf:resource="https://doi.org/10.6069/uwlswd.2e2b-y833"/><dct:creator rdf:resource="http://viaf.org/viaf/139541794"/><dct:contributor rdf:resource="http://viaf.org/viaf/151962300"/><dct:issued>2024</dct:issued><dc:contributor xml:lang="en">Metadata Management Associates</dc:contributor><dc:language>en</dc:language><dct:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0"/><schema:version>1-0-0</schema:version><dct:issued>2024</dct:issued><dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/></rdf:Description>
-   
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturebas#m"><rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/><skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturebas"/><skos:prefLabel xml:lang="en">mixed base (nitrate and safety)</skos:prefLabel><skos:definition xml:lang="en">Combination of nitrate base and safety base film.</skos:definition><skos:scopeNote xml:lang="en">The use of a mixed base was common in the early 1950s when nitrate base stock shots were spliced with safety base film for low-budget motion pictures. In such releases, up to 50% of the film consisted of stock shots on nitrate base film.</skos:scopeNote><skos:notation xml:lang="en">m</skos:notation></rdf:Description>
-   
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturebas#i"><rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/><skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturebas"/><skos:prefLabel xml:lang="en">nitrate base</skos:prefLabel><skos:definition xml:lang="en">Cellulose nitrate film base.</skos:definition><skos:scopeNote xml:lang="en">Cellulose nitrate support or base was used in the manufacture of 35 mm. film (and some 17.5 mm. film) until 1951. Nitrate base film is no longer manufactured.</skos:scopeNote><skos:notation xml:lang="en">i</skos:notation></rdf:Description>
-   
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturebas#n"><rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/><skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturebas"/><skos:prefLabel xml:lang="en">not applicable</skos:prefLabel><skos:definition xml:lang="en">Item does not have a film base.</skos:definition><skos:scopeNote xml:lang="en">E.g., paper film.</skos:scopeNote><skos:notation xml:lang="en">n</skos:notation></rdf:Description>
-   
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturebas#z"><rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/><skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturebas"/><skos:prefLabel xml:lang="en">other</skos:prefLabel><skos:definition xml:lang="en">Base of film other than safety base, undetermined, safety base, acetate undetermined, safety base, diacetate, nitrate base, mixed base (nitrate and safety), not applicable, safety base, polyester, safety base, mixed, safety base, or triacetate.</skos:definition><skos:notation xml:lang="en">z</skos:notation></rdf:Description>
-   
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturebas#c"><rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/><skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturebas"/><skos:prefLabel xml:lang="en">safety base, acetate undetermined</skos:prefLabel><skos:definition xml:lang="en">Acetate safety base film whose exact type cannot be determined, i.e., where it is unknown if the type is diacetate or triacetate.</skos:definition><skos:notation xml:lang="en">c</skos:notation></rdf:Description>
-   
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturebas#d"><rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/><skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturebas"/><skos:prefLabel xml:lang="en">safety base, diacetate</skos:prefLabel><skos:definition xml:lang="en">Cellulose diacetate film base.</skos:definition><skos:scopeNote xml:lang="en">Introduced before World War I for home movies, diacetate base was more expensive and unpredictable than nitrate base and so failed to gain acceptance in professional 35 mm. film production.</skos:scopeNote><skos:notation xml:lang="en">d</skos:notation></rdf:Description>
-   
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturebas#r"><rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/><skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturebas"/><skos:prefLabel xml:lang="en">safety base, mixed</skos:prefLabel><skos:definition xml:lang="en">Mixed safety base films spliced together; but contains no nitrate film.</skos:definition><skos:notation xml:lang="en">r</skos:notation></rdf:Description>
-   
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturebas#p"><rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/><skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturebas"/><skos:prefLabel xml:lang="en">safety base, polyester</skos:prefLabel><skos:definition xml:lang="en">Film base made of a synthetic resin.</skos:definition><skos:scopeNote xml:lang="en">E.g., estar.</skos:scopeNote><skos:notation xml:lang="en">p</skos:notation></rdf:Description>
-   
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturebas#t"><rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/><skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturebas"/><skos:prefLabel xml:lang="en">safety base, triacetate</skos:prefLabel><skos:definition xml:lang="en">Cellulose triacetate film base.</skos:definition><skos:scopeNote xml:lang="en">Cellulose triacetate is a high acetal compound with very low flammability and slow burning characteristics. From 1951, triacetate has been used for professional as well as for amateur produced moving image film.</skos:scopeNote><skos:notation xml:lang="en">t</skos:notation></rdf:Description>
-   
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturebas#a"><rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/><skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturebas"/><skos:prefLabel xml:lang="en">safety base, undetermined</skos:prefLabel><skos:definition xml:lang="en">Safety base film whose type has not been identified.</skos:definition><skos:notation xml:lang="en">a</skos:notation></rdf:Description>
-   
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturebas#u"><rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/><skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturebas"/><skos:prefLabel xml:lang="en">unknown</skos:prefLabel><skos:definition xml:lang="en">Base of the film is not known.</skos:definition><skos:notation xml:lang="en">u</skos:notation></rdf:Description>
+   <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturebas">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+      <dct:type rdf:resource="http://purl.org/dc/dcmitype/Dataset"/>
+      <dct:title xml:lang="en">Motion picture: base of film</dct:title>
+      <dct:alternative xml:lang="en">MARC21 007/12 values for motion pictures expressed using
+         RDF</dct:alternative>
+      <dct:description xml:lang="en">Base of the film.</dct:description>
+      <schema:disambiguatingDescription>SKOS Concept Scheme for MARC 00X
+         Values</schema:disambiguatingDescription>
+      <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
+      <dct:source rdf:resource="https://www.loc.gov/marc/bibliographic/bd007.html"/>
+      <dct:source rdf:resource="http://marc21rdf.info"/>
+      <dct:provenance rdf:resource="https://doi.org/10.6069/uwlswd.2e2b-y833"/>
+      <dct:creator rdf:resource="http://viaf.org/viaf/139541794"/>
+      <dct:contributor rdf:resource="http://viaf.org/viaf/151962300"/>
+      <dct:issued>2024</dct:issued>
+      <dc:contributor xml:lang="en">Metadata Management Associates</dc:contributor>
+      <dc:language>en</dc:language>
+      <dct:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0"/>
+      <schema:version>1-0-0</schema:version>
+      <dct:issued>2024</dct:issued>
+      <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturebas#m">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturebas"/>
+      <skos:prefLabel xml:lang="en">mixed base (nitrate and safety)</skos:prefLabel>
+      <skos:definition xml:lang="en">Combination of nitrate base and safety base
+         film.</skos:definition>
+      <skos:scopeNote xml:lang="en">The use of a mixed base was common in the early 1950s when
+         nitrate base stock shots were spliced with safety base film for low-budget motion pictures.
+         In such releases, up to 50% of the film consisted of stock shots on nitrate base
+         film.</skos:scopeNote>
+      <skos:notation xml:lang="en">m</skos:notation>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturebas#i">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturebas"/>
+      <skos:prefLabel xml:lang="en">nitrate base</skos:prefLabel>
+      <skos:definition xml:lang="en">Cellulose nitrate film base.</skos:definition>
+      <skos:scopeNote xml:lang="en">Cellulose nitrate support or base was used in the manufacture of
+         35 mm. film (and some 17.5 mm. film) until 1951. Nitrate base film is no longer
+         manufactured.</skos:scopeNote>
+      <skos:notation xml:lang="en">i</skos:notation>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturebas#n">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturebas"/>
+      <skos:prefLabel xml:lang="en">not applicable</skos:prefLabel>
+      <skos:definition xml:lang="en">Item does not have a film base.</skos:definition>
+      <skos:scopeNote xml:lang="en">E.g., paper film.</skos:scopeNote>
+      <skos:notation xml:lang="en">n</skos:notation>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturebas#z">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturebas"/>
+      <skos:prefLabel xml:lang="en">other</skos:prefLabel>
+      <skos:definition xml:lang="en">Base of film other than safety base, undetermined, safety base,
+         acetate undetermined, safety base, diacetate, nitrate base, mixed base (nitrate and
+         safety), not applicable, safety base, polyester, safety base, mixed, safety base, or
+         triacetate.</skos:definition>
+      <skos:notation xml:lang="en">z</skos:notation>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturebas#c">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturebas"/>
+      <skos:prefLabel xml:lang="en">safety base, acetate undetermined</skos:prefLabel>
+      <skos:definition xml:lang="en">Acetate safety base film whose exact type cannot be determined,
+         i.e., where it is unknown if the type is diacetate or triacetate.</skos:definition>
+      <skos:notation xml:lang="en">c</skos:notation>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturebas#d">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturebas"/>
+      <skos:prefLabel xml:lang="en">safety base, diacetate</skos:prefLabel>
+      <skos:definition xml:lang="en">Cellulose diacetate film base.</skos:definition>
+      <skos:scopeNote xml:lang="en">Introduced before World War I for home movies, diacetate base
+         was more expensive and unpredictable than nitrate base and so failed to gain acceptance in
+         professional 35 mm. film production.</skos:scopeNote>
+      <skos:notation xml:lang="en">d</skos:notation>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturebas#r">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturebas"/>
+      <skos:prefLabel xml:lang="en">safety base, mixed</skos:prefLabel>
+      <skos:definition xml:lang="en">Mixed safety base films spliced together; but contains no
+         nitrate film.</skos:definition>
+      <skos:notation xml:lang="en">r</skos:notation>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturebas#p">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturebas"/>
+      <skos:prefLabel xml:lang="en">safety base, polyester</skos:prefLabel>
+      <skos:definition xml:lang="en">Film base made of a synthetic resin.</skos:definition>
+      <skos:scopeNote xml:lang="en">E.g., estar.</skos:scopeNote>
+      <skos:notation xml:lang="en">p</skos:notation>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturebas#t">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturebas"/>
+      <skos:prefLabel xml:lang="en">safety base, triacetate</skos:prefLabel>
+      <skos:definition xml:lang="en">Cellulose triacetate film base.</skos:definition>
+      <skos:scopeNote xml:lang="en">Cellulose triacetate is a high acetal compound with very low
+         flammability and slow burning characteristics. From 1951, triacetate has been used for
+         professional as well as for amateur produced moving image film.</skos:scopeNote>
+      <skos:notation xml:lang="en">t</skos:notation>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturebas#a">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturebas"/>
+      <skos:prefLabel xml:lang="en">safety base, undetermined</skos:prefLabel>
+      <skos:definition xml:lang="en">Safety base film whose type has not been
+         identified.</skos:definition>
+      <skos:notation xml:lang="en">a</skos:notation>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturebas#u">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturebas"/>
+      <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
+      <skos:definition xml:lang="en">Base of the film is not known.</skos:definition>
+      <skos:notation xml:lang="en">u</skos:notation>
+   </rdf:Description>
 </rdf:RDF>

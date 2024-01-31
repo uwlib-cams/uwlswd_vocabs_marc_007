@@ -1,35 +1,186 @@
-<?xml version="1.0" encoding="UTF-8"?><rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="https://schema.org/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:uw="https://www.lib.washington.edu/static/public/cams/data/localResources/properties_local.html" xmlns:uwp="https://doi.org/10.6069/uwlib.55.d.3#">
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="https://schema.org/"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+   xmlns:uw="https://www.lib.washington.edu/static/public/cams/data/localResources/properties_local.html"
+   xmlns:uwp="https://doi.org/10.6069/uwlib.55.d.3#">
 
 
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/electrosmd"><rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/><dct:type rdf:resource="http://purl.org/dc/dcmitype/Dataset"/><dct:title xml:lang="en">Electronic resource: specific material designation</dct:title><dct:alternative xml:lang="en">MARC21 007/01 values for electronic resources expressed using RDF</dct:alternative><dct:description xml:lang="en">Special class of material (usually the class of physical object) to which an item belongs (e.g., a magnetic disk).</dct:description><schema:disambiguatingDescription>SKOS Concept Scheme for MARC 00X Values</schema:disambiguatingDescription><dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/><dct:source rdf:resource="https://www.loc.gov/marc/bibliographic/bd007.html"/><dct:source rdf:resource="http://marc21rdf.info"/><dct:provenance rdf:resource="https://doi.org/10.6069/uwlswd.2e2b-y833"/><dct:creator rdf:resource="http://viaf.org/viaf/139541794"/><dct:contributor rdf:resource="http://viaf.org/viaf/151962300"/><dct:issued>2024</dct:issued><dc:contributor xml:lang="en">Metadata Management Associates</dc:contributor><dc:language>en</dc:language><dct:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0"/><schema:version>1-0-0</schema:version><dct:issued>2024</dct:issued><dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/></rdf:Description>
-   
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/electrosmd#b"><rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/><skos:inScheme rdf:resource="http://fakeIRI.edu/terms/electrosmd"/><skos:prefLabel xml:lang="en">chip cartridge</skos:prefLabel><skos:definition xml:lang="en">Removable module containing a miniaturized electronic circuit, mass-produced on a tiny chip or wafer of silicon, designed to provide additional processing or memory capacity to a computer.</skos:definition><skos:scopeNote xml:lang="en">Includes several types of solid-state, memory/storage devices such as non-rewritable ROM-chip cartridges and rewritable flash drives (e.g. USB keys).</skos:scopeNote><skos:notation xml:lang="en">b</skos:notation></rdf:Description>
-   
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/electrosmd#k"><rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/><skos:inScheme rdf:resource="http://fakeIRI.edu/terms/electrosmd"/><skos:prefLabel xml:lang="en">computer card</skos:prefLabel><skos:definition xml:lang="en">Computer card.</skos:definition><skos:notation xml:lang="en">k</skos:notation></rdf:Description>
-   
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/electrosmd#e"><rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/><skos:inScheme rdf:resource="http://fakeIRI.edu/terms/electrosmd"/><skos:prefLabel xml:lang="en">computer disc cartridge, type unspecified</skos:prefLabel><skos:definition xml:lang="en">A disc cartridge whose type is not specified.</skos:definition><skos:notation xml:lang="en">e</skos:notation></rdf:Description>
-   
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/electrosmd#d"><rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/><skos:inScheme rdf:resource="http://fakeIRI.edu/terms/electrosmd"/><skos:prefLabel xml:lang="en">computer disc, type unspecified</skos:prefLabel><skos:definition xml:lang="en">A disc whose type is not specified.</skos:definition><skos:notation xml:lang="en">d</skos:notation></rdf:Description>
-   
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/electrosmd#c"><rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/><skos:inScheme rdf:resource="http://fakeIRI.edu/terms/electrosmd"/><skos:prefLabel xml:lang="en">computer optical disc cartridge</skos:prefLabel><skos:definition xml:lang="en">Removable module containing one or more nonmagnetic discs used to store digital information.</skos:definition><skos:notation xml:lang="en">c</skos:notation></rdf:Description>
-   
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/electrosmd#j"><rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/><skos:inScheme rdf:resource="http://fakeIRI.edu/terms/electrosmd"/><skos:prefLabel xml:lang="en">magnetic disk</skos:prefLabel><skos:definition xml:lang="en">Digital information storage medium usually consisting of a thin Mylar disk coated with a magnetic material that permits the recording of data. Magnetic disks come in various sizes. They are also known as floppy disks, stiffy disks, computer diskettes, or floppy diskettes.</skos:definition><skos:notation xml:lang="en">j</skos:notation></rdf:Description>
-   
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/electrosmd#m"><rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/><skos:inScheme rdf:resource="http://fakeIRI.edu/terms/electrosmd"/><skos:prefLabel xml:lang="en">magneto-optical disc</skos:prefLabel><skos:definition xml:lang="en">Erasable or semi-erasable storage medium, similar to a CD-ROM disc, capable of storing data at a very high density. The disc is written to and read from using a laser beam used to heat the recording surface to a point at which regions of the surface of the disk become magnetically aligned to store bits of data.</skos:definition><skos:notation xml:lang="en">m</skos:notation></rdf:Description>
-   
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/electrosmd#o"><rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/><skos:inScheme rdf:resource="http://fakeIRI.edu/terms/electrosmd"/><skos:prefLabel xml:lang="en">optical disc</skos:prefLabel><skos:definition xml:lang="en">Medium that uses a series of laser-burned micron-sized holes (pits) on a special recording surface to store data. Recorded data is read optically. These discs are usually a read-only medium.</skos:definition><skos:scopeNote xml:lang="en">Commonly found computer optical disc formats include: CD-A, CD-I, CD-R, CD-ROM, CD-ROM-XA, DVD-ROM and Photo CD.</skos:scopeNote><skos:notation xml:lang="en">o</skos:notation></rdf:Description>
-   
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/electrosmd#z"><rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/><skos:inScheme rdf:resource="http://fakeIRI.edu/terms/electrosmd"/><skos:prefLabel xml:lang="en">other</skos:prefLabel><skos:definition xml:lang="en">Specific material designation other than tape cartridge, chip cartridge, computer optical disc cartridge, computer disc, type unspecified, computer disc cartridge, type unspecified, tape cassette, tape reel, magnetic disk, computer card, magneto-optical disc, optical disc, remote, or standalone device.</skos:definition><skos:notation xml:lang="en">z</skos:notation></rdf:Description>
-   
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/electrosmd#r"><rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/><skos:inScheme rdf:resource="http://fakeIRI.edu/terms/electrosmd"/><skos:prefLabel xml:lang="en">remote</skos:prefLabel><skos:definition xml:lang="en">Electronic resource that is accessed, processed, executed, etc. remotely. In this case the electronic resource is used via input/output devices connected electronically to a computer. Frequently this involves connection through a computer network.</skos:definition><skos:notation xml:lang="en">r</skos:notation></rdf:Description>
-   
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/electrosmd#s"><rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/><skos:inScheme rdf:resource="http://fakeIRI.edu/terms/electrosmd"/><skos:prefLabel xml:lang="en">standalone device</skos:prefLabel><skos:definition xml:lang="en">Consists of storage and reader components as an integrated standalone device. The data storage medium cannot be removed from the playback device with which it is issued. The data carried on the medium can only be read using the integrated special-purpose device.</skos:definition><skos:notation xml:lang="en">s</skos:notation></rdf:Description>
-   
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/electrosmd#a"><rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/><skos:inScheme rdf:resource="http://fakeIRI.edu/terms/electrosmd"/><skos:prefLabel xml:lang="en">tape cartridge</skos:prefLabel><skos:definition xml:lang="en">Removable module containing secondary storage medium such as magnetic tape or magnetic disks.</skos:definition><skos:notation xml:lang="en">a</skos:notation></rdf:Description>
-   
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/electrosmd#f"><rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/><skos:inScheme rdf:resource="http://fakeIRI.edu/terms/electrosmd"/><skos:prefLabel xml:lang="en">tape cassette</skos:prefLabel><skos:definition xml:lang="en">Removable module, somewhat like an audio cassette, that contains magnetic tape that can be written on and read from by a tape drive.</skos:definition><skos:notation xml:lang="en">f</skos:notation></rdf:Description>
-   
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/electrosmd#h"><rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/><skos:inScheme rdf:resource="http://fakeIRI.edu/terms/electrosmd"/><skos:prefLabel xml:lang="en">tape reel</skos:prefLabel><skos:definition xml:lang="en">Removable spool containing magnetic tape that can be written to and read from by a tape drive.</skos:definition><skos:notation xml:lang="en">h</skos:notation></rdf:Description>
-   
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/electrosmd#u"><rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/><skos:inScheme rdf:resource="http://fakeIRI.edu/terms/electrosmd"/><skos:prefLabel xml:lang="en">unspecified</skos:prefLabel><skos:definition xml:lang="en">Special material designation for the electronic resource is not specified.</skos:definition><skos:scopeNote xml:lang="en">E.g., it may be an electronic resource that changes its medium over time.</skos:scopeNote><skos:notation xml:lang="en">u</skos:notation></rdf:Description>
+   <rdf:Description rdf:about="http://fakeIRI.edu/terms/electrosmd">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+      <dct:type rdf:resource="http://purl.org/dc/dcmitype/Dataset"/>
+      <dct:title xml:lang="en">Electronic resource: specific material designation</dct:title>
+      <dct:alternative xml:lang="en">MARC21 007/01 values for electronic resources expressed using
+         RDF</dct:alternative>
+      <dct:description xml:lang="en">Special class of material (usually the class of physical
+         object) to which an item belongs (e.g., a magnetic disk).</dct:description>
+      <schema:disambiguatingDescription>SKOS Concept Scheme for MARC 00X
+         Values</schema:disambiguatingDescription>
+      <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
+      <dct:source rdf:resource="https://www.loc.gov/marc/bibliographic/bd007.html"/>
+      <dct:source rdf:resource="http://marc21rdf.info"/>
+      <dct:provenance rdf:resource="https://doi.org/10.6069/uwlswd.2e2b-y833"/>
+      <dct:creator rdf:resource="http://viaf.org/viaf/139541794"/>
+      <dct:contributor rdf:resource="http://viaf.org/viaf/151962300"/>
+      <dct:issued>2024</dct:issued>
+      <dc:contributor xml:lang="en">Metadata Management Associates</dc:contributor>
+      <dc:language>en</dc:language>
+      <dct:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0"/>
+      <schema:version>1-0-0</schema:version>
+      <dct:issued>2024</dct:issued>
+      <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="http://fakeIRI.edu/terms/electrosmd#b">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/electrosmd"/>
+      <skos:prefLabel xml:lang="en">chip cartridge</skos:prefLabel>
+      <skos:definition xml:lang="en">Removable module containing a miniaturized electronic circuit,
+         mass-produced on a tiny chip or wafer of silicon, designed to provide additional processing
+         or memory capacity to a computer.</skos:definition>
+      <skos:scopeNote xml:lang="en">Includes several types of solid-state, memory/storage devices
+         such as non-rewritable ROM-chip cartridges and rewritable flash drives (e.g. USB
+         keys).</skos:scopeNote>
+      <skos:notation xml:lang="en">b</skos:notation>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="http://fakeIRI.edu/terms/electrosmd#k">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/electrosmd"/>
+      <skos:prefLabel xml:lang="en">computer card</skos:prefLabel>
+      <skos:definition xml:lang="en">Computer card.</skos:definition>
+      <skos:notation xml:lang="en">k</skos:notation>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="http://fakeIRI.edu/terms/electrosmd#e">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/electrosmd"/>
+      <skos:prefLabel xml:lang="en">computer disc cartridge, type unspecified</skos:prefLabel>
+      <skos:definition xml:lang="en">A disc cartridge whose type is not specified.</skos:definition>
+      <skos:notation xml:lang="en">e</skos:notation>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="http://fakeIRI.edu/terms/electrosmd#d">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/electrosmd"/>
+      <skos:prefLabel xml:lang="en">computer disc, type unspecified</skos:prefLabel>
+      <skos:definition xml:lang="en">A disc whose type is not specified.</skos:definition>
+      <skos:notation xml:lang="en">d</skos:notation>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="http://fakeIRI.edu/terms/electrosmd#c">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/electrosmd"/>
+      <skos:prefLabel xml:lang="en">computer optical disc cartridge</skos:prefLabel>
+      <skos:definition xml:lang="en">Removable module containing one or more nonmagnetic discs used
+         to store digital information.</skos:definition>
+      <skos:notation xml:lang="en">c</skos:notation>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="http://fakeIRI.edu/terms/electrosmd#j">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/electrosmd"/>
+      <skos:prefLabel xml:lang="en">magnetic disk</skos:prefLabel>
+      <skos:definition xml:lang="en">Digital information storage medium usually consisting of a thin
+         Mylar disk coated with a magnetic material that permits the recording of data. Magnetic
+         disks come in various sizes. They are also known as floppy disks, stiffy disks, computer
+         diskettes, or floppy diskettes.</skos:definition>
+      <skos:notation xml:lang="en">j</skos:notation>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="http://fakeIRI.edu/terms/electrosmd#m">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/electrosmd"/>
+      <skos:prefLabel xml:lang="en">magneto-optical disc</skos:prefLabel>
+      <skos:definition xml:lang="en">Erasable or semi-erasable storage medium, similar to a CD-ROM
+         disc, capable of storing data at a very high density. The disc is written to and read from
+         using a laser beam used to heat the recording surface to a point at which regions of the
+         surface of the disk become magnetically aligned to store bits of data.</skos:definition>
+      <skos:notation xml:lang="en">m</skos:notation>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="http://fakeIRI.edu/terms/electrosmd#o">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/electrosmd"/>
+      <skos:prefLabel xml:lang="en">optical disc</skos:prefLabel>
+      <skos:definition xml:lang="en">Medium that uses a series of laser-burned micron-sized holes
+         (pits) on a special recording surface to store data. Recorded data is read optically. These
+         discs are usually a read-only medium.</skos:definition>
+      <skos:scopeNote xml:lang="en">Commonly found computer optical disc formats include: CD-A,
+         CD-I, CD-R, CD-ROM, CD-ROM-XA, DVD-ROM and Photo CD.</skos:scopeNote>
+      <skos:notation xml:lang="en">o</skos:notation>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="http://fakeIRI.edu/terms/electrosmd#z">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/electrosmd"/>
+      <skos:prefLabel xml:lang="en">other</skos:prefLabel>
+      <skos:definition xml:lang="en">Specific material designation other than tape cartridge, chip
+         cartridge, computer optical disc cartridge, computer disc, type unspecified, computer disc
+         cartridge, type unspecified, tape cassette, tape reel, magnetic disk, computer card,
+         magneto-optical disc, optical disc, remote, or standalone device.</skos:definition>
+      <skos:notation xml:lang="en">z</skos:notation>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="http://fakeIRI.edu/terms/electrosmd#r">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/electrosmd"/>
+      <skos:prefLabel xml:lang="en">remote</skos:prefLabel>
+      <skos:definition xml:lang="en">Electronic resource that is accessed, processed, executed, etc.
+         remotely. In this case the electronic resource is used via input/output devices connected
+         electronically to a computer. Frequently this involves connection through a computer
+         network.</skos:definition>
+      <skos:notation xml:lang="en">r</skos:notation>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="http://fakeIRI.edu/terms/electrosmd#s">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/electrosmd"/>
+      <skos:prefLabel xml:lang="en">standalone device</skos:prefLabel>
+      <skos:definition xml:lang="en">Consists of storage and reader components as an integrated
+         standalone device. The data storage medium cannot be removed from the playback device with
+         which it is issued. The data carried on the medium can only be read using the integrated
+         special-purpose device.</skos:definition>
+      <skos:notation xml:lang="en">s</skos:notation>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="http://fakeIRI.edu/terms/electrosmd#a">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/electrosmd"/>
+      <skos:prefLabel xml:lang="en">tape cartridge</skos:prefLabel>
+      <skos:definition xml:lang="en">Removable module containing secondary storage medium such as
+         magnetic tape or magnetic disks.</skos:definition>
+      <skos:notation xml:lang="en">a</skos:notation>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="http://fakeIRI.edu/terms/electrosmd#f">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/electrosmd"/>
+      <skos:prefLabel xml:lang="en">tape cassette</skos:prefLabel>
+      <skos:definition xml:lang="en">Removable module, somewhat like an audio cassette, that
+         contains magnetic tape that can be written on and read from by a tape
+         drive.</skos:definition>
+      <skos:notation xml:lang="en">f</skos:notation>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="http://fakeIRI.edu/terms/electrosmd#h">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/electrosmd"/>
+      <skos:prefLabel xml:lang="en">tape reel</skos:prefLabel>
+      <skos:definition xml:lang="en">Removable spool containing magnetic tape that can be written to
+         and read from by a tape drive.</skos:definition>
+      <skos:notation xml:lang="en">h</skos:notation>
+   </rdf:Description>
+
+   <rdf:Description rdf:about="http://fakeIRI.edu/terms/electrosmd#u">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/electrosmd"/>
+      <skos:prefLabel xml:lang="en">unspecified</skos:prefLabel>
+      <skos:definition xml:lang="en">Special material designation for the electronic resource is not
+         specified.</skos:definition>
+      <skos:scopeNote xml:lang="en">E.g., it may be an electronic resource that changes its medium
+         over time.</skos:scopeNote>
+      <skos:notation xml:lang="en">u</skos:notation>
+   </rdf:Description>
 </rdf:RDF>
