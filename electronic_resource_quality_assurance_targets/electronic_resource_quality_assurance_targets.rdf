@@ -7,7 +7,7 @@
    xmlns:uwp="https://doi.org/10.6069/uwlib.55.d.3#">
 
 
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/electroqat">
+   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.k2b6-k011">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
       <dct:type rdf:resource="http://purl.org/dc/dcmitype/Dataset"/>
       <dct:title xml:lang="en">Electronic resource: quality assurance targets</dct:title>
@@ -35,27 +35,27 @@
       <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/electroqat#a">
+   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.k2b6-k011#a">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/electroqat"/>
+      <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.k2b6-k011"/>
       <skos:prefLabel xml:lang="en">absent</skos:prefLabel>
       <skos:definition xml:lang="en">Quality assurance targets were not included at the time of
          reformatting and/or are not present in the electronic resource.</skos:definition>
       <skos:notation xml:lang="en">a</skos:notation>
    </rdf:Description>
 
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/electroqat#n">
+   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.k2b6-k011#n">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/electroqat"/>
+      <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.k2b6-k011"/>
       <skos:prefLabel xml:lang="en">not applicable</skos:prefLabel>
       <skos:definition xml:lang="en">Inclusion of quality assurance targets is not applicable to
          this electronic resource.</skos:definition>
       <skos:notation xml:lang="en">n</skos:notation>
    </rdf:Description>
 
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/electroqat#p">
+   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.k2b6-k011#p">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/electroqat"/>
+      <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.k2b6-k011"/>
       <skos:prefLabel xml:lang="en">present</skos:prefLabel>
       <skos:definition xml:lang="en">One or more quality assurance targets were appropriately
          included at the time of reformatting and are present in the electronic
@@ -68,9 +68,9 @@
       <skos:notation xml:lang="en">p</skos:notation>
    </rdf:Description>
 
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/electroqat#u">
+   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.k2b6-k011#u">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/electroqat"/>
+      <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.k2b6-k011"/>
       <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
       <skos:definition xml:lang="en">Presence of quality assurance targets in the electronic
          resource is not known.</skos:definition>
