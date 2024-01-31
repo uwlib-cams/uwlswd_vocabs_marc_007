@@ -7,7 +7,7 @@
    xmlns:uwp="https://doi.org/10.6069/uwlib.55.d.3#">
 
 
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/electroreq">
+   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8svz-r036">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
       <dct:type rdf:resource="http://purl.org/dc/dcmitype/Dataset"/>
       <dct:title xml:lang="en">Electronic resource: reformatting quality</dct:title>
@@ -32,9 +32,9 @@
       <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/electroreq#a">
+   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8svz-r036#a">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/electroreq"/>
+      <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8svz-r036"/>
       <skos:prefLabel xml:lang="en">access</skos:prefLabel>
       <skos:definition xml:lang="en">Electronic resource is of a quality that will support current
          electronic access to the original item (reference use), but is not sufficient to serve as a
@@ -50,18 +50,18 @@
       <skos:notation xml:lang="en">a</skos:notation>
    </rdf:Description>
 
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/electroreq#n">
+   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8svz-r036#n">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/electroreq"/>
+      <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8svz-r036"/>
       <skos:prefLabel xml:lang="en">not applicable</skos:prefLabel>
       <skos:definition xml:lang="en">Reformatting quality is not applicable to the electronic
          resource.</skos:definition>
       <skos:notation xml:lang="en">n</skos:notation>
    </rdf:Description>
 
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/electroreq#p">
+   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8svz-r036#p">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/electroreq"/>
+      <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8svz-r036"/>
       <skos:prefLabel xml:lang="en">preservation</skos:prefLabel>
       <skos:definition xml:lang="en">Electronic resource was created via reformatting to help
          preserve the original item.</skos:definition>
@@ -71,9 +71,9 @@
       <skos:notation xml:lang="en">p</skos:notation>
    </rdf:Description>
 
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/electroreq#r">
+   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8svz-r036#r">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/electroreq"/>
+      <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8svz-r036"/>
       <skos:prefLabel xml:lang="en">replacement</skos:prefLabel>
       <skos:definition xml:lang="en">Electronic resource is of very high quality and, when printed
          out, viewed on screen or played via a listening device, could serve as a replacement should
@@ -81,9 +81,9 @@
       <skos:notation xml:lang="en">r</skos:notation>
    </rdf:Description>
 
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/electroreq#u">
+   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8svz-r036#u">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/electroreq"/>
+      <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8svz-r036"/>
       <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
       <skos:definition xml:lang="en">Reformatting quality of the electronic resource is not
          known.</skos:definition>
