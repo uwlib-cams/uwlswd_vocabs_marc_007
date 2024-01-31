@@ -7,7 +7,7 @@
    xmlns:uwp="https://doi.org/10.6069/uwlib.55.d.3#">
 
 
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/globesmd">
+   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.xrxa-qa70">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
       <dct:type rdf:resource="http://purl.org/dc/dcmitype/Dataset"/>
       <dct:title xml:lang="en">Globe: specific material designation</dct:title>
@@ -32,62 +32,62 @@
       <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/globesmd#a">
+   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.xrxa-qa70#a">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/globesmd"/>
+      <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.xrxa-qa70"/>
       <skos:prefLabel xml:lang="en">celestial globe</skos:prefLabel>
       <skos:definition xml:lang="en">Model relating to the sky of visible heavens (sun, stars, etc.)
          depicted on the surface of a sphere.</skos:definition>
       <skos:notation xml:lang="en">a</skos:notation>
    </rdf:Description>
 
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/globesmd#d">
+   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.xrxa-qa70#d">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/globesmd"/>
+      <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.xrxa-qa70"/>
       <skos:prefLabel xml:lang="en">satellite globe (of our solar system), excluding the earth moon
          [obsolete]</skos:prefLabel>
       <skos:notation xml:lang="en">d</skos:notation>
    </rdf:Description>
 
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/globesmd#e">
+   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.xrxa-qa70#e">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/globesmd"/>
+      <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.xrxa-qa70"/>
       <skos:prefLabel xml:lang="en">earth moon globe</skos:prefLabel>
       <skos:definition xml:lang="en">Model of the Earth's moon depicted on the surface of a
          sphere.</skos:definition>
       <skos:notation xml:lang="en">e</skos:notation>
    </rdf:Description>
 
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/globesmd#z">
+   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.xrxa-qa70#z">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/globesmd"/>
+      <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.xrxa-qa70"/>
       <skos:prefLabel xml:lang="en">other</skos:prefLabel>
       <skos:definition xml:lang="en">Specific material designation other than celestial globe,
          planetary or lunar globe, terrestrial globe, Earth moon globe.</skos:definition>
       <skos:notation xml:lang="en">z</skos:notation>
    </rdf:Description>
 
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/globesmd#b">
+   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.xrxa-qa70#b">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/globesmd"/>
+      <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.xrxa-qa70"/>
       <skos:prefLabel xml:lang="en">planetary or lunar globe</skos:prefLabel>
       <skos:definition xml:lang="en">Lunar globe (other than Earth's moon) or a moon depicted on the
          surface of a sphere.</skos:definition>
       <skos:notation xml:lang="en">b</skos:notation>
    </rdf:Description>
 
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/globesmd#c">
+   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.xrxa-qa70#c">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/globesmd"/>
+      <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.xrxa-qa70"/>
       <skos:prefLabel xml:lang="en">terrestrial globe</skos:prefLabel>
       <skos:definition xml:lang="en">Model of the Earth depicted on the surface of a
          sphere.</skos:definition>
       <skos:notation xml:lang="en">c</skos:notation>
    </rdf:Description>
 
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/globesmd#u">
+   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.xrxa-qa70#u">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/globesmd"/>
+      <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.xrxa-qa70"/>
       <skos:prefLabel xml:lang="en">unspecified</skos:prefLabel>
       <skos:notation xml:lang="en">u</skos:notation>
    </rdf:Description>
