@@ -7,7 +7,7 @@
    xmlns:uwp="https://doi.org/10.6069/uwlib.55.d.3#">
 
 
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/electrofil">
+   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.s0ms-4p29">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
       <dct:type rdf:resource="http://purl.org/dc/dcmitype/Dataset"/>
       <dct:title xml:lang="en">Electronic resouce: file formats</dct:title>
@@ -32,9 +32,9 @@
       <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/electrofil#m">
+   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.s0ms-4p29#m">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/electrofil"/>
+      <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.s0ms-4p29"/>
       <skos:prefLabel xml:lang="en">multiple file formats</skos:prefLabel>
       <skos:definition xml:lang="en">Files which comprise the electronic resource are of at least 2
          different formats.</skos:definition>
@@ -43,9 +43,9 @@
       <skos:notation xml:lang="en">m</skos:notation>
    </rdf:Description>
 
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/electrofil#a">
+   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.s0ms-4p29#a">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/electrofil"/>
+      <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.s0ms-4p29"/>
       <skos:prefLabel xml:lang="en">one file format</skos:prefLabel>
       <skos:definition xml:lang="en">File(s) which comprise(s)the electronic resource are of the
          same format or type.</skos:definition>
@@ -54,9 +54,9 @@
       <skos:notation xml:lang="en">a</skos:notation>
    </rdf:Description>
 
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/electrofil#u">
+   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.s0ms-4p29#u">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/electrofil"/>
+      <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.s0ms-4p29"/>
       <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
       <skos:definition xml:lang="en">Format(s) of the file(s) which comprise(s) the electronic
          resource are not known.</skos:definition>
