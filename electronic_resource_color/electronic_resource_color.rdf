@@ -7,7 +7,7 @@
    xmlns:uwp="https://doi.org/10.6069/uwlib.55.d.3#">
 
 
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/electrocol">
+   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4ee2-4t34">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
       <dct:type rdf:resource="http://purl.org/dc/dcmitype/Dataset"/>
       <dct:title xml:lang="en">Electronic resource: color</dct:title>
@@ -32,9 +32,9 @@
       <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
    </rdf:Description>
 
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/electrocol#b">
+   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4ee2-4t34#b">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/electrocol"/>
+      <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4ee2-4t34"/>
       <skos:prefLabel xml:lang="en">black-and-white</skos:prefLabel>
       <skos:definition xml:lang="en">Images are intended to be produced in black and
          white.</skos:definition>
@@ -43,34 +43,34 @@
       <skos:notation xml:lang="en">b</skos:notation>
    </rdf:Description>
 
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/electrocol#g">
+   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4ee2-4t34#g">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/electrocol"/>
+      <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4ee2-4t34"/>
       <skos:prefLabel xml:lang="en">gray scale</skos:prefLabel>
       <skos:definition xml:lang="en">Image is produced with degrees of dark to light from black to
          gray to white.</skos:definition>
       <skos:notation xml:lang="en">g</skos:notation>
    </rdf:Description>
 
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/electrocol#h">
+   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4ee2-4t34#h">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/electrocol"/>
+      <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4ee2-4t34"/>
       <skos:prefLabel xml:lang="en">hand coloured [obsolete]</skos:prefLabel>
       <skos:notation xml:lang="en">h</skos:notation>
    </rdf:Description>
 
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/electrocol#m">
+   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4ee2-4t34#m">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/electrocol"/>
+      <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4ee2-4t34"/>
       <skos:prefLabel xml:lang="en">mixed</skos:prefLabel>
       <skos:definition xml:lang="en">A combination of one color, black-and-white, multicolored, hand
          colored, and/or other images.</skos:definition>
       <skos:notation xml:lang="en">m</skos:notation>
    </rdf:Description>
 
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/electrocol#c">
+   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4ee2-4t34#c">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/electrocol"/>
+      <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4ee2-4t34"/>
       <skos:prefLabel xml:lang="en">multicolored</skos:prefLabel>
       <skos:definition xml:lang="en">Image is printed or executed in more than one
          color.</skos:definition>
@@ -78,9 +78,9 @@
       <skos:notation xml:lang="en">c</skos:notation>
    </rdf:Description>
 
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/electrocol#n">
+   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4ee2-4t34#n">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/electrocol"/>
+      <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4ee2-4t34"/>
       <skos:prefLabel xml:lang="en">not applicable</skos:prefLabel>
       <skos:definition xml:lang="en">Color is not applicable to the electronic resource, usually
          because it does not involve anything visual</skos:definition>
@@ -88,27 +88,27 @@
       <skos:notation xml:lang="en">n</skos:notation>
    </rdf:Description>
 
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/electrocol#a">
+   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4ee2-4t34#a">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/electrocol"/>
+      <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4ee2-4t34"/>
       <skos:prefLabel xml:lang="en">one color</skos:prefLabel>
       <skos:definition xml:lang="en">Images are intended to be produced in a single color other than
          black (e.g. pink and white, brown and white).</skos:definition>
       <skos:notation xml:lang="en">a</skos:notation>
    </rdf:Description>
 
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/electrocol#z">
+   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4ee2-4t34#z">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/electrocol"/>
+      <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4ee2-4t34"/>
       <skos:prefLabel xml:lang="en">other</skos:prefLabel>
       <skos:definition xml:lang="en">Color other than one color, black-and-white, multicolored, gray
          scale, or mixed.</skos:definition>
       <skos:notation xml:lang="en">z</skos:notation>
    </rdf:Description>
 
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/electrocol#u">
+   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4ee2-4t34#u">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/electrocol"/>
+      <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4ee2-4t34"/>
       <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
       <skos:definition xml:lang="en">Color characteristics of an item are not
          known.</skos:definition>
