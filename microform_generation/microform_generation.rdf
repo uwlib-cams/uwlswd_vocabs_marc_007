@@ -6,7 +6,7 @@
    xmlns:schema="https://schema.org/"
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
 >
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/microformgen">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.bndb-9d34">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
     <dct:type rdf:resource="http://purl.org/dc/dcmitype/Dataset"/>
     <dct:title xml:lang="en">Microform: generation</dct:title>
@@ -28,18 +28,18 @@
     <schema:version>1-0-0</schema:version>
     <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/microformgen#c">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.bndb-9d34#c">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/microformgen"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.bndb-9d34"/>
     <skos:prefLabel xml:lang="en">service copy</skos:prefLabel>
     <skos:definition xml:lang="en">Microform made from another microform that is intended
          primarily for use rather than for production of other microforms.</skos:definition>
     <skos:scopeNote xml:lang="en">Always used for microopaques.</skos:scopeNote>
     <skos:notation xml:lang="en">c</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/microformgen#a">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.bndb-9d34#a">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/microformgen"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.bndb-9d34"/>
     <skos:prefLabel xml:lang="en">first generation (master)</skos:prefLabel>
     <skos:definition xml:lang="en">Camera master or COM recorder master.</skos:definition>
     <skos:scopeNote xml:lang="en">Used for all master films that are made on archival stock in
@@ -47,9 +47,9 @@
          relevant ISO standards.</skos:scopeNote>
     <skos:notation xml:lang="en">a</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/microformgen#b">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.bndb-9d34#b">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/microformgen"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.bndb-9d34"/>
     <skos:prefLabel xml:lang="en">printing master</skos:prefLabel>
     <skos:definition xml:lang="en">Any generation employed mainly for the production of other
          microforms.</skos:definition>
@@ -57,16 +57,16 @@
          stored in accordance with archival standards.</skos:scopeNote>
     <skos:notation xml:lang="en">b</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/microformgen#m">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.bndb-9d34#m">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/microformgen"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.bndb-9d34"/>
     <skos:prefLabel xml:lang="en">mixed generation</skos:prefLabel>
     <skos:definition xml:lang="en">A combination of generations of film.</skos:definition>
     <skos:notation xml:lang="en">m</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/microformgen#u">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.bndb-9d34#u">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/microformgen"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.bndb-9d34"/>
     <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
     <skos:definition xml:lang="en">Generation aspect is not known.</skos:definition>
     <skos:notation xml:lang="en">u</skos:notation>
