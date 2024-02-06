@@ -6,30 +6,30 @@
    xmlns:schema="https://schema.org/"
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
 >
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/mappor#c">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.d36s-9s16#c">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/mappor"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.d36s-9s16"/>
     <skos:prefLabel xml:lang="en">photographic pre-production</skos:prefLabel>
     <skos:definition xml:lang="en">Photographic pre-production (proof) copy intended for
          review.</skos:definition>
     <skos:notation xml:lang="en">c</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/mappor#d">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.d36s-9s16#d">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/mappor"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.d36s-9s16"/>
     <skos:prefLabel xml:lang="en">film</skos:prefLabel>
     <skos:definition xml:lang="en">Film copy of the original.</skos:definition>
     <skos:notation xml:lang="en">d</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/mappor#z">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.d36s-9s16#z">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/mappor"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.d36s-9s16"/>
     <skos:prefLabel xml:lang="en">other</skos:prefLabel>
     <skos:definition xml:lang="en">Production or reproduction details other than photocopy,
          blueline print, photocopy, photographic pre-production, or film.</skos:definition>
     <skos:notation xml:lang="en">z</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/mappor">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.d36s-9s16">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
     <dct:type rdf:resource="http://purl.org/dc/dcmitype/Dataset"/>
     <dct:title xml:lang="en">Map: production/reproduction details</dct:title>
@@ -52,24 +52,24 @@
     <schema:version>1-0-0</schema:version>
     <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/mappor#b">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.d36s-9s16#b">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/mappor"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.d36s-9s16"/>
     <skos:prefLabel xml:lang="en">photocopy</skos:prefLabel>
     <skos:definition xml:lang="en">Photocopy.</skos:definition>
     <skos:notation xml:lang="en">b</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/mappor#u">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.d36s-9s16#u">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/mappor"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.d36s-9s16"/>
     <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
     <skos:definition xml:lang="en">Production/reproduction details are not
          known.</skos:definition>
     <skos:notation xml:lang="en">u</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/mappor#a ">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.d36s-9s16#a ">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/mappor"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.d36s-9s16"/>
     <skos:prefLabel xml:lang="en">photocopy, blueline print</skos:prefLabel>
     <skos:definition xml:lang="en">A blueline image on a white background and reproduced by the
          whiteprint process.</skos:definition>
