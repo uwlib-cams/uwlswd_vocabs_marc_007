@@ -6,14 +6,14 @@
    xmlns:schema="https://schema.org/"
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
 >
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/mappna#n">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.kvz5-9t36#n">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/mappna"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.kvz5-9t36"/>
     <skos:prefLabel xml:lang="en">not applicable</skos:prefLabel>
     <skos:definition xml:lang="en">Item is not a photocopy or film.</skos:definition>
     <skos:notation xml:lang="en">n</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/mappna">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.kvz5-9t36">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
     <dct:type rdf:resource="http://purl.org/dc/dcmitype/Dataset"/>
     <dct:title xml:lang="en">Map: positive/negative aspect</dct:title>
@@ -36,30 +36,30 @@
     <schema:version>1-0-0</schema:version>
     <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/mappna#b">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.kvz5-9t36#b">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/mappna"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.kvz5-9t36"/>
     <skos:prefLabel xml:lang="en">negative</skos:prefLabel>
     <skos:definition xml:lang="en">Lines and characters are light on dark
          background.</skos:definition>
     <skos:notation xml:lang="en">b</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/mappna#u">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.kvz5-9t36#u">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/mappna"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.kvz5-9t36"/>
     <skos:prefLabel xml:lang="en">unknown [obsolete]</skos:prefLabel>
     <skos:notation xml:lang="en">u</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/mappna#m">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.kvz5-9t36#m">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/mappna"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.kvz5-9t36"/>
     <skos:prefLabel xml:lang="en">mixed polarity</skos:prefLabel>
     <skos:definition xml:lang="en">Mixture of positive and negative images.</skos:definition>
     <skos:notation xml:lang="en">m</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/mappna#a">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.kvz5-9t36#a">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/mappna"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.kvz5-9t36"/>
     <skos:prefLabel xml:lang="en">positive</skos:prefLabel>
     <skos:definition xml:lang="en">Lines and characters are dark on light
          background.</skos:definition>
