@@ -6,30 +6,30 @@
    xmlns:schema="https://schema.org/"
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
 >
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/microformdim#z">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.epe4-z216#z">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/microformdim"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.epe4-z216"/>
     <skos:prefLabel xml:lang="en">other</skos:prefLabel>
     <skos:definition xml:lang="en">Dimensions other than 8 mm., 16 mm., 35 mm., 70 mm., 105 mm.,
          3x5 in. or 8x13 cm., 4x6 in. or 11x15 cm., 6x9 in. or 16x23 cm., or 3 1/4 x 7 3/8 in. or
          9x19 cm.</skos:definition>
     <skos:notation xml:lang="en">z</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/microformdim#f">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.epe4-z216#f">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/microformdim"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.epe4-z216"/>
     <skos:prefLabel xml:lang="en">35 mm.</skos:prefLabel>
     <skos:definition xml:lang="en">35 mm.</skos:definition>
     <skos:notation xml:lang="en">f</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/microformdim#d">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.epe4-z216#d">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/microformdim"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.epe4-z216"/>
     <skos:prefLabel xml:lang="en">16 mm.</skos:prefLabel>
     <skos:definition xml:lang="en">16 mm.</skos:definition>
     <skos:notation xml:lang="en">d</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/microformdim">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.epe4-z216">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
     <dct:type rdf:resource="http://purl.org/dc/dcmitype/Dataset"/>
     <dct:title xml:lang="en">Microform: dimensions</dct:title>
@@ -52,58 +52,58 @@
     <schema:version>1-0-0</schema:version>
     <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/microformdim#o">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.epe4-z216#o">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/microformdim"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.epe4-z216"/>
     <skos:prefLabel xml:lang="en">6x9 in. or 16x23 cm.</skos:prefLabel>
     <skos:definition xml:lang="en">6x9 in. or 16x23 cm.</skos:definition>
     <skos:notation xml:lang="en">o</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/microformdim#a">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.epe4-z216#a">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/microformdim"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.epe4-z216"/>
     <skos:prefLabel xml:lang="en">8 mm.</skos:prefLabel>
     <skos:definition xml:lang="en">8 mm.</skos:definition>
     <skos:notation xml:lang="en">a</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/microformdim#h">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.epe4-z216#h">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/microformdim"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.epe4-z216"/>
     <skos:prefLabel xml:lang="en">105 mm.</skos:prefLabel>
     <skos:definition xml:lang="en">105 mm.</skos:definition>
     <skos:notation xml:lang="en">h</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/microformdim#l">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.epe4-z216#l">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/microformdim"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.epe4-z216"/>
     <skos:prefLabel xml:lang="en">3x5 in. or 8x13 cm.</skos:prefLabel>
     <skos:definition xml:lang="en">3x5 in. or 8x13 cm.</skos:definition>
     <skos:notation xml:lang="en">l</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/microformdim#p">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.epe4-z216#p">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/microformdim"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.epe4-z216"/>
     <skos:prefLabel xml:lang="en">3 1/4 x 7 3/8 in. or 9x19 cm.</skos:prefLabel>
     <skos:definition xml:lang="en">3 1/4 x 7 3/8 in. or 9x19 cm.</skos:definition>
     <skos:notation xml:lang="en">p</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/microformdim#g">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.epe4-z216#g">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/microformdim"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.epe4-z216"/>
     <skos:prefLabel xml:lang="en">70 mm.</skos:prefLabel>
     <skos:definition xml:lang="en">70 mm.</skos:definition>
     <skos:notation xml:lang="en">g</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/microformdim#u">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.epe4-z216#u">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/microformdim"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.epe4-z216"/>
     <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
     <skos:definition xml:lang="en">Dimensions are not known.</skos:definition>
     <skos:notation xml:lang="en">u</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/microformdim#m">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.epe4-z216#m">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/microformdim"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.epe4-z216"/>
     <skos:prefLabel xml:lang="en">4x6 in. or 11x15 cm.</skos:prefLabel>
     <skos:definition xml:lang="en">4x6 in. or 11x15 cm.</skos:definition>
     <skos:notation xml:lang="en">m</skos:notation>
