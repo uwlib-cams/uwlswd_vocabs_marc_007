@@ -1,184 +1,132 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/"
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:dct="http://purl.org/dc/terms/"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="https://schema.org/"
+   xmlns:schema="https://schema.org/"
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
-   xmlns:uw="https://www.lib.washington.edu/static/public/cams/data/localResources/properties_local.html"
-   xmlns:uwp="https://doi.org/10.6069/uwlib.55.d.3#">
-
-
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingdat">
-      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
-      <dct:type rdf:resource="http://purl.org/dc/dcmitype/Dataset"/>
-      <dct:title xml:lang="en">Remote-sensing image: data type</dct:title>
-      <dct:alternative xml:lang="en">MARC21 007/09-10 values for remote-sensing images expressed
+>
+  <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingdat#dd">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingdat"/>
+    <skos:prefLabel xml:lang="en">thermal infrared</skos:prefLabel>
+    <skos:definition xml:lang="en">Thermal infrared.</skos:definition>
+    <skos:notation xml:lang="en">dd</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingdat#dv">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingdat"/>
+    <skos:prefLabel xml:lang="en">combinations</skos:prefLabel>
+    <skos:definition xml:lang="en">Combinations.</skos:definition>
+    <skos:notation xml:lang="en">dv</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingdat#pa">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingdat"/>
+    <skos:prefLabel xml:lang="en">sonar - water depth</skos:prefLabel>
+    <skos:definition xml:lang="en">Acoustical data type for the remote-sensing image for water
+         depth is sonar.</skos:definition>
+    <skos:scopeNote xml:lang="en">Used for echo-sounding images.</skos:scopeNote>
+    <skos:notation xml:lang="en">pa</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingdat#ge">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingdat"/>
+    <skos:prefLabel xml:lang="en">SAR-cross polarization</skos:prefLabel>
+    <skos:definition xml:lang="en">SAR-cross polarization.</skos:definition>
+    <skos:notation xml:lang="en">ge</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingdat#sa">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingdat"/>
+    <skos:prefLabel xml:lang="en">magnetic field</skos:prefLabel>
+    <skos:definition xml:lang="en">Magnetic field</skos:definition>
+    <skos:scopeNote xml:lang="en">Includes inclination, declination, and
+         anomalies.</skos:scopeNote>
+    <skos:notation xml:lang="en">sa</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingdat#ra">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingdat"/>
+    <skos:prefLabel xml:lang="en">gravity anomalies (general)</skos:prefLabel>
+    <skos:definition xml:lang="en">Gravity anomalies (general)</skos:definition>
+    <skos:notation xml:lang="en">ra</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingdat#da">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingdat"/>
+    <skos:prefLabel xml:lang="en">near infrared</skos:prefLabel>
+    <skos:definition xml:lang="en">Near infrared.</skos:definition>
+    <skos:notation xml:lang="en">da</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingdat#pb">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingdat"/>
+    <skos:prefLabel xml:lang="en">sonar - bottom topography images, sidescan</skos:prefLabel>
+    <skos:definition xml:lang="en">Acoustical data type for the remote-sensing image is sidescan
+         imaging.</skos:definition>
+    <skos:scopeNote xml:lang="en">Includes both near-surface and near-bottom sensing
+         data.</skos:scopeNote>
+    <skos:notation xml:lang="en">pb</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingdat#dc">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingdat"/>
+    <skos:prefLabel xml:lang="en">far infrared</skos:prefLabel>
+    <skos:definition xml:lang="en">Far infrared.</skos:definition>
+    <skos:notation xml:lang="en">dc</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingdat#df">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingdat"/>
+    <skos:prefLabel xml:lang="en">reflective infrared</skos:prefLabel>
+    <skos:definition xml:lang="en">Reflective infrared.</skos:definition>
+    <skos:notation xml:lang="en">df</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingdat">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+    <dct:type rdf:resource="http://purl.org/dc/dcmitype/Dataset"/>
+    <dct:title xml:lang="en">Remote-sensing image: data type</dct:title>
+    <dct:alternative xml:lang="en">MARC21 007/09-10 values for remote-sensing images expressed
          using RDF</dct:alternative>
-      <dct:description xml:lang="en">Spectral, acoustic, or magnetic characteristics of the data
+    <dct:description xml:lang="en">Spectral, acoustic, or magnetic characteristics of the data
          received by the device producing the remote-sensing image. It can be used to indicate both
          the wave length of radiation measured and the type of sensor used to measure
          it.</dct:description>
-      <schema:disambiguatingDescription>SKOS Concept Scheme for MARC 00X
+    <schema:disambiguatingDescription>SKOS Concept Scheme for MARC 00X
          Values</schema:disambiguatingDescription>
-      <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
-      <dct:source rdf:resource="https://www.loc.gov/marc/bibliographic/bd007.html"/>
-      <dct:source rdf:resource="http://marc21rdf.info"/>
-      <dct:provenance rdf:resource="https://doi.org/10.6069/uwlswd.2e2b-y833"/>
-      <dct:creator rdf:resource="http://viaf.org/viaf/139541794"/>
-      <dct:contributor rdf:resource="http://viaf.org/viaf/151962300"/>
-      <dct:issued>2024</dct:issued>
-      <dc:contributor xml:lang="en">Metadata Management Associates</dc:contributor>
-      <dc:language>en</dc:language>
-      <dct:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0"/>
-      <schema:version>1-0-0</schema:version>
-      <dct:issued>2024</dct:issued>
-      <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
-   </rdf:Description>
-
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingdat#rc">
-      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingdat"/>
-      <skos:prefLabel xml:lang="en">bouger</skos:prefLabel>
-      <skos:definition xml:lang="en">Bouger</skos:definition>
-      <skos:notation xml:lang="en">rc</skos:notation>
-   </rdf:Description>
-
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingdat#mm">
-      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingdat"/>
-      <skos:prefLabel xml:lang="en">combination of various data types</skos:prefLabel>
-      <skos:definition xml:lang="en">More than one data type is applicable to the remote-sensing
-         image.</skos:definition>
-      <skos:notation xml:lang="en">mm</skos:notation>
-   </rdf:Description>
-
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingdat#dv">
-      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingdat"/>
-      <skos:prefLabel xml:lang="en">combinations</skos:prefLabel>
-      <skos:definition xml:lang="en">Combinations.</skos:definition>
-      <skos:notation xml:lang="en">dv</skos:notation>
-   </rdf:Description>
-
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingdat#dc">
-      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingdat"/>
-      <skos:prefLabel xml:lang="en">far infrared</skos:prefLabel>
-      <skos:definition xml:lang="en">Far infrared.</skos:definition>
-      <skos:notation xml:lang="en">dc</skos:notation>
-   </rdf:Description>
-
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingdat#ja">
-      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingdat"/>
-      <skos:prefLabel xml:lang="en">far ultraviolet</skos:prefLabel>
-      <skos:definition xml:lang="en">Far ultraviolet.</skos:definition>
-      <skos:notation xml:lang="en">ja</skos:notation>
-   </rdf:Description>
-
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingdat#rb">
-      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingdat"/>
-      <skos:prefLabel xml:lang="en">free-air</skos:prefLabel>
-      <skos:definition xml:lang="en">Free-air</skos:definition>
-      <skos:notation xml:lang="en">rb</skos:notation>
-   </rdf:Description>
-
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingdat#ra">
-      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingdat"/>
-      <skos:prefLabel xml:lang="en">gravity anomalies (general)</skos:prefLabel>
-      <skos:definition xml:lang="en">Gravity anomalies (general)</skos:definition>
-      <skos:notation xml:lang="en">ra</skos:notation>
-   </rdf:Description>
-
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingdat#gf">
-      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingdat"/>
-      <skos:prefLabel xml:lang="en">infometric SAR</skos:prefLabel>
-      <skos:definition xml:lang="en">Infometric SAR.</skos:definition>
-      <skos:notation xml:lang="en">gf</skos:notation>
-   </rdf:Description>
-
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingdat#rd">
-      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingdat"/>
-      <skos:prefLabel xml:lang="en">isostatic</skos:prefLabel>
-      <skos:definition xml:lang="en">Isostatic</skos:definition>
-      <skos:notation xml:lang="en">rd</skos:notation>
-   </rdf:Description>
-
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingdat#sa">
-      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingdat"/>
-      <skos:prefLabel xml:lang="en">magnetic field</skos:prefLabel>
-      <skos:definition xml:lang="en">Magnetic field</skos:definition>
-      <skos:scopeNote xml:lang="en">Includes inclination, declination, and
-         anomalies.</skos:scopeNote>
-      <skos:notation xml:lang="en">sa</skos:notation>
-   </rdf:Description>
-
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingdat#db">
-      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingdat"/>
-      <skos:prefLabel xml:lang="en">middle infrared</skos:prefLabel>
-      <skos:definition xml:lang="en">Middle infrared.</skos:definition>
-      <skos:notation xml:lang="en">db</skos:notation>
-   </rdf:Description>
-
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingdat#jb">
-      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingdat"/>
-      <skos:prefLabel xml:lang="en">middle ultraviolet</skos:prefLabel>
-      <skos:definition xml:lang="en">Middle ultraviolet.</skos:definition>
-      <skos:notation xml:lang="en">jb</skos:notation>
-   </rdf:Description>
-
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingdat#ma">
-      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingdat"/>
-      <skos:prefLabel xml:lang="en">multi-spectral, multidata</skos:prefLabel>
-      <skos:definition xml:lang="en">Multi-spectral, multidata.</skos:definition>
-      <skos:notation xml:lang="en">ma</skos:notation>
-   </rdf:Description>
-
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingdat#mb">
-      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingdat"/>
-      <skos:prefLabel xml:lang="en">multi-temporal</skos:prefLabel>
-      <skos:definition xml:lang="en">Multi-temporal.</skos:definition>
-      <skos:notation xml:lang="en">mb</skos:notation>
-   </rdf:Description>
-
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingdat#da">
-      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingdat"/>
-      <skos:prefLabel xml:lang="en">near infrared</skos:prefLabel>
-      <skos:definition xml:lang="en">Near infrared.</skos:definition>
-      <skos:notation xml:lang="en">da</skos:notation>
-   </rdf:Description>
-
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingdat#jc">
-      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingdat"/>
-      <skos:prefLabel xml:lang="en">near ultraviolet</skos:prefLabel>
-      <skos:definition xml:lang="en">Near ultraviolet.</skos:definition>
-      <skos:notation xml:lang="en">jc</skos:notation>
-   </rdf:Description>
-
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingdat#nn">
-      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingdat"/>
-      <skos:prefLabel xml:lang="en">not applicable</skos:prefLabel>
-      <skos:definition xml:lang="en">Data type is not applicable to the remote-sensing image being
-         described.</skos:definition>
-      <skos:notation xml:lang="en">nn</skos:notation>
-   </rdf:Description>
-
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingdat#zz">
-      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingdat"/>
-      <skos:prefLabel xml:lang="en">other</skos:prefLabel>
-      <skos:definition xml:lang="en">Data type other than visible light; near infrared; middle
+    <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
+    <dct:source rdf:resource="https://www.loc.gov/marc/bibliographic/bd007.html"/>
+    <dct:source rdf:resource="http://marc21rdf.info"/>
+    <dct:provenance rdf:resource="https://doi.org/10.6069/uwlswd.2e2b-y833"/>
+    <dct:creator rdf:resource="http://viaf.org/viaf/139541794"/>
+    <dct:contributor rdf:resource="http://viaf.org/viaf/151962300"/>
+    <dct:issued>2024</dct:issued>
+    <dc:contributor xml:lang="en">Metadata Management Associates</dc:contributor>
+    <dc:language>en</dc:language>
+    <dct:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0"/>
+    <schema:version>1-0-0</schema:version>
+    <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingdat#dz">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingdat"/>
+    <skos:prefLabel xml:lang="en">other infrared data</skos:prefLabel>
+    <skos:definition xml:lang="en">Other infrared data.</skos:definition>
+    <skos:notation xml:lang="en">dz</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingdat#gu">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingdat"/>
+    <skos:prefLabel xml:lang="en">passive microwave mapping</skos:prefLabel>
+    <skos:definition xml:lang="en">Passive microwave mapping.</skos:definition>
+    <skos:notation xml:lang="en">gu</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingdat#zz">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingdat"/>
+    <skos:prefLabel xml:lang="en">other</skos:prefLabel>
+    <skos:definition xml:lang="en">Data type other than visible light; near infrared; middle
          infrared; far infrared; thermal infrared; shortwave infrared (SWIR); reflective infrared;
          combinations; other infrared data; sidelooking airborne radar (SLAR); synthetic aperture
          radar (SAR)-single frequency; SAR-multi-frequency (multichannel); SAR-like polarization;
@@ -189,199 +137,208 @@
          sidescan; sonar - bottom topography, near surface; sonar - bottom topography, near bottom;
          seismic surveys; other acoustical data; gravity anomalies (general); free-air; bouger;
          isostatic; magnetic field; or radiometric surveys.</skos:definition>
-      <skos:notation xml:lang="en">zz</skos:notation>
-   </rdf:Description>
-
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingdat#pz">
-      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingdat"/>
-      <skos:prefLabel xml:lang="en">other acoustical data</skos:prefLabel>
-      <skos:definition xml:lang="en">Other acoustical data</skos:definition>
-      <skos:notation xml:lang="en">pz</skos:notation>
-   </rdf:Description>
-
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingdat#dz">
-      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingdat"/>
-      <skos:prefLabel xml:lang="en">other infrared data</skos:prefLabel>
-      <skos:definition xml:lang="en">Other infrared data.</skos:definition>
-      <skos:notation xml:lang="en">dz</skos:notation>
-   </rdf:Description>
-
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingdat#gz">
-      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingdat"/>
-      <skos:prefLabel xml:lang="en">other microwave data</skos:prefLabel>
-      <skos:definition xml:lang="en">Other microwave data.</skos:definition>
-      <skos:notation xml:lang="en">gz</skos:notation>
-   </rdf:Description>
-
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingdat#jz">
-      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingdat"/>
-      <skos:prefLabel xml:lang="en">other ultraviolet data</skos:prefLabel>
-      <skos:definition xml:lang="en">Other ultraviolet data.</skos:definition>
-      <skos:notation xml:lang="en">jz</skos:notation>
-   </rdf:Description>
-
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingdat#gu">
-      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingdat"/>
-      <skos:prefLabel xml:lang="en">passive microwave mapping</skos:prefLabel>
-      <skos:definition xml:lang="en">Passive microwave mapping.</skos:definition>
-      <skos:notation xml:lang="en">gu</skos:notation>
-   </rdf:Description>
-
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingdat#gg">
-      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingdat"/>
-      <skos:prefLabel xml:lang="en">polarmetric SAR</skos:prefLabel>
-      <skos:definition xml:lang="en">Polarmetric SAR.</skos:definition>
-      <skos:notation xml:lang="en">gg</skos:notation>
-   </rdf:Description>
-
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingdat#ta">
-      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingdat"/>
-      <skos:prefLabel xml:lang="en">radiometric surveys</skos:prefLabel>
-      <skos:definition xml:lang="en">Radiometric surveys</skos:definition>
-      <skos:notation xml:lang="en">ta</skos:notation>
-   </rdf:Description>
-
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingdat#df">
-      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingdat"/>
-      <skos:prefLabel xml:lang="en">reflective infrared</skos:prefLabel>
-      <skos:definition xml:lang="en">Reflective infrared.</skos:definition>
-      <skos:notation xml:lang="en">df</skos:notation>
-   </rdf:Description>
-
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingdat#ge">
-      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingdat"/>
-      <skos:prefLabel xml:lang="en">SAR-cross polarization</skos:prefLabel>
-      <skos:definition xml:lang="en">SAR-cross polarization.</skos:definition>
-      <skos:notation xml:lang="en">ge</skos:notation>
-   </rdf:Description>
-
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingdat#gd">
-      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingdat"/>
-      <skos:prefLabel xml:lang="en">SAR-like polarization</skos:prefLabel>
-      <skos:definition xml:lang="en">SAR-like polarization.</skos:definition>
-      <skos:notation xml:lang="en">gd</skos:notation>
-   </rdf:Description>
-
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingdat#gc">
-      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingdat"/>
-      <skos:prefLabel xml:lang="en">SAR-multi-frequency (multichannel)</skos:prefLabel>
-      <skos:definition xml:lang="en">SAR-multi-frequency (multichannel).</skos:definition>
-      <skos:notation xml:lang="en">gc</skos:notation>
-   </rdf:Description>
-
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingdat#pe">
-      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingdat"/>
-      <skos:prefLabel xml:lang="en">seismic surveys</skos:prefLabel>
-      <skos:definition xml:lang="en">Seismic surveys</skos:definition>
-      <skos:notation xml:lang="en">pe</skos:notation>
-   </rdf:Description>
-
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingdat#de">
-      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingdat"/>
-      <skos:prefLabel xml:lang="en">shortwave infrared (SWIR)</skos:prefLabel>
-      <skos:definition xml:lang="en">Shortwave infrared (SWIR).</skos:definition>
-      <skos:notation xml:lang="en">de</skos:notation>
-   </rdf:Description>
-
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingdat#ga">
-      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingdat"/>
-      <skos:prefLabel xml:lang="en">sidelooking airborne radar (SLAR)</skos:prefLabel>
-      <skos:definition xml:lang="en">Sidelooking airborne radar (SLAR).</skos:definition>
-      <skos:notation xml:lang="en">ga</skos:notation>
-   </rdf:Description>
-
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingdat#pb">
-      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingdat"/>
-      <skos:prefLabel xml:lang="en">sonar - bottom topography images, sidescan</skos:prefLabel>
-      <skos:definition xml:lang="en">Acoustical data type for the remote-sensing image is sidescan
-         imaging.</skos:definition>
-      <skos:scopeNote xml:lang="en">Includes both near-surface and near-bottom sensing
-         data.</skos:scopeNote>
-      <skos:notation xml:lang="en">pb</skos:notation>
-   </rdf:Description>
-
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingdat#pd">
-      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingdat"/>
-      <skos:prefLabel xml:lang="en">sonar - bottom topography, near bottom</skos:prefLabel>
-      <skos:definition xml:lang="en">Acoustical data type for the remote-sensing image is
-         near-bottom (i.e., taken from 10-150 m. (33-494 ft.) from the bottom).</skos:definition>
-      <skos:notation xml:lang="en">pd</skos:notation>
-   </rdf:Description>
-
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingdat#pc">
-      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingdat"/>
-      <skos:prefLabel xml:lang="en">sonar - bottom topography, near surface</skos:prefLabel>
-      <skos:definition xml:lang="en">Acoustical data type for the remote-sensing image is
-         near-surface.</skos:definition>
-      <skos:notation xml:lang="en">pc</skos:notation>
-   </rdf:Description>
-
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingdat#pa">
-      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingdat"/>
-      <skos:prefLabel xml:lang="en">sonar - water depth</skos:prefLabel>
-      <skos:definition xml:lang="en">Acoustical data type for the remote-sensing image for water
-         depth is sonar.</skos:definition>
-      <skos:scopeNote xml:lang="en">Used for echo-sounding images.</skos:scopeNote>
-      <skos:notation xml:lang="en">pa</skos:notation>
-   </rdf:Description>
-
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingdat#gb">
-      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingdat"/>
-      <skos:prefLabel xml:lang="en">synthetic aperture radar (SAR)-Single frequency</skos:prefLabel>
-      <skos:definition xml:lang="en">Synthetic aperture radar (SAR)-Single
-         frequency.</skos:definition>
-      <skos:notation xml:lang="en">gb</skos:notation>
-   </rdf:Description>
-
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingdat#dd">
-      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingdat"/>
-      <skos:prefLabel xml:lang="en">thermal infrared</skos:prefLabel>
-      <skos:definition xml:lang="en">Thermal infrared.</skos:definition>
-      <skos:notation xml:lang="en">dd</skos:notation>
-   </rdf:Description>
-
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingdat#jv">
-      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingdat"/>
-      <skos:prefLabel xml:lang="en">ultraviolet combinations</skos:prefLabel>
-      <skos:definition xml:lang="en">Ultraviolet combinations.</skos:definition>
-      <skos:notation xml:lang="en">jv</skos:notation>
-   </rdf:Description>
-
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingdat#uu">
-      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingdat"/>
-      <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
-      <skos:definition xml:lang="en">Data type for the remote-sensing image is not
+    <skos:notation xml:lang="en">zz</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingdat#rc">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingdat"/>
+    <skos:prefLabel xml:lang="en">bouger</skos:prefLabel>
+    <skos:definition xml:lang="en">Bouger</skos:definition>
+    <skos:notation xml:lang="en">rc</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingdat#uu">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingdat"/>
+    <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
+    <skos:definition xml:lang="en">Data type for the remote-sensing image is not
          known.</skos:definition>
-      <skos:notation xml:lang="en">uu</skos:notation>
-   </rdf:Description>
-
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingdat#aa">
-      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingdat"/>
-      <skos:prefLabel xml:lang="en">visible light</skos:prefLabel>
-      <skos:definition xml:lang="en">Visible light.</skos:definition>
-      <skos:notation xml:lang="en">aa</skos:notation>
-   </rdf:Description>
+    <skos:notation xml:lang="en">uu</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingdat#gb">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingdat"/>
+    <skos:prefLabel xml:lang="en">synthetic aperture radar (SAR)-Single frequency</skos:prefLabel>
+    <skos:definition xml:lang="en">Synthetic aperture radar (SAR)-Single
+         frequency.</skos:definition>
+    <skos:notation xml:lang="en">gb</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingdat#jb">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingdat"/>
+    <skos:prefLabel xml:lang="en">middle ultraviolet</skos:prefLabel>
+    <skos:definition xml:lang="en">Middle ultraviolet.</skos:definition>
+    <skos:notation xml:lang="en">jb</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingdat#gd">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingdat"/>
+    <skos:prefLabel xml:lang="en">SAR-like polarization</skos:prefLabel>
+    <skos:definition xml:lang="en">SAR-like polarization.</skos:definition>
+    <skos:notation xml:lang="en">gd</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingdat#gc">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingdat"/>
+    <skos:prefLabel xml:lang="en">SAR-multi-frequency (multichannel)</skos:prefLabel>
+    <skos:definition xml:lang="en">SAR-multi-frequency (multichannel).</skos:definition>
+    <skos:notation xml:lang="en">gc</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingdat#ga">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingdat"/>
+    <skos:prefLabel xml:lang="en">sidelooking airborne radar (SLAR)</skos:prefLabel>
+    <skos:definition xml:lang="en">Sidelooking airborne radar (SLAR).</skos:definition>
+    <skos:notation xml:lang="en">ga</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingdat#aa">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingdat"/>
+    <skos:prefLabel xml:lang="en">visible light</skos:prefLabel>
+    <skos:definition xml:lang="en">Visible light.</skos:definition>
+    <skos:notation xml:lang="en">aa</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingdat#nn">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingdat"/>
+    <skos:prefLabel xml:lang="en">not applicable</skos:prefLabel>
+    <skos:definition xml:lang="en">Data type is not applicable to the remote-sensing image being
+         described.</skos:definition>
+    <skos:notation xml:lang="en">nn</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingdat#mm">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingdat"/>
+    <skos:prefLabel xml:lang="en">combination of various data types</skos:prefLabel>
+    <skos:definition xml:lang="en">More than one data type is applicable to the remote-sensing
+         image.</skos:definition>
+    <skos:notation xml:lang="en">mm</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingdat#mb">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingdat"/>
+    <skos:prefLabel xml:lang="en">multi-temporal</skos:prefLabel>
+    <skos:definition xml:lang="en">Multi-temporal.</skos:definition>
+    <skos:notation xml:lang="en">mb</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingdat#rb">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingdat"/>
+    <skos:prefLabel xml:lang="en">free-air</skos:prefLabel>
+    <skos:definition xml:lang="en">Free-air</skos:definition>
+    <skos:notation xml:lang="en">rb</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingdat#ta">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingdat"/>
+    <skos:prefLabel xml:lang="en">radiometric surveys</skos:prefLabel>
+    <skos:definition xml:lang="en">Radiometric surveys</skos:definition>
+    <skos:notation xml:lang="en">ta</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingdat#pe">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingdat"/>
+    <skos:prefLabel xml:lang="en">seismic surveys</skos:prefLabel>
+    <skos:definition xml:lang="en">Seismic surveys</skos:definition>
+    <skos:notation xml:lang="en">pe</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingdat#rd">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingdat"/>
+    <skos:prefLabel xml:lang="en">isostatic</skos:prefLabel>
+    <skos:definition xml:lang="en">Isostatic</skos:definition>
+    <skos:notation xml:lang="en">rd</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingdat#jc">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingdat"/>
+    <skos:prefLabel xml:lang="en">near ultraviolet</skos:prefLabel>
+    <skos:definition xml:lang="en">Near ultraviolet.</skos:definition>
+    <skos:notation xml:lang="en">jc</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingdat#ma">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingdat"/>
+    <skos:prefLabel xml:lang="en">multi-spectral, multidata</skos:prefLabel>
+    <skos:definition xml:lang="en">Multi-spectral, multidata.</skos:definition>
+    <skos:notation xml:lang="en">ma</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingdat#gf">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingdat"/>
+    <skos:prefLabel xml:lang="en">infometric SAR</skos:prefLabel>
+    <skos:definition xml:lang="en">Infometric SAR.</skos:definition>
+    <skos:notation xml:lang="en">gf</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingdat#jz">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingdat"/>
+    <skos:prefLabel xml:lang="en">other ultraviolet data</skos:prefLabel>
+    <skos:definition xml:lang="en">Other ultraviolet data.</skos:definition>
+    <skos:notation xml:lang="en">jz</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingdat#pd">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingdat"/>
+    <skos:prefLabel xml:lang="en">sonar - bottom topography, near bottom</skos:prefLabel>
+    <skos:definition xml:lang="en">Acoustical data type for the remote-sensing image is
+         near-bottom (i.e., taken from 10-150 m. (33-494 ft.) from the bottom).</skos:definition>
+    <skos:notation xml:lang="en">pd</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingdat#jv">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingdat"/>
+    <skos:prefLabel xml:lang="en">ultraviolet combinations</skos:prefLabel>
+    <skos:definition xml:lang="en">Ultraviolet combinations.</skos:definition>
+    <skos:notation xml:lang="en">jv</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingdat#ja">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingdat"/>
+    <skos:prefLabel xml:lang="en">far ultraviolet</skos:prefLabel>
+    <skos:definition xml:lang="en">Far ultraviolet.</skos:definition>
+    <skos:notation xml:lang="en">ja</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingdat#db">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingdat"/>
+    <skos:prefLabel xml:lang="en">middle infrared</skos:prefLabel>
+    <skos:definition xml:lang="en">Middle infrared.</skos:definition>
+    <skos:notation xml:lang="en">db</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingdat#gz">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingdat"/>
+    <skos:prefLabel xml:lang="en">other microwave data</skos:prefLabel>
+    <skos:definition xml:lang="en">Other microwave data.</skos:definition>
+    <skos:notation xml:lang="en">gz</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingdat#de">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingdat"/>
+    <skos:prefLabel xml:lang="en">shortwave infrared (SWIR)</skos:prefLabel>
+    <skos:definition xml:lang="en">Shortwave infrared (SWIR).</skos:definition>
+    <skos:notation xml:lang="en">de</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingdat#pc">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingdat"/>
+    <skos:prefLabel xml:lang="en">sonar - bottom topography, near surface</skos:prefLabel>
+    <skos:definition xml:lang="en">Acoustical data type for the remote-sensing image is
+         near-surface.</skos:definition>
+    <skos:notation xml:lang="en">pc</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingdat#gg">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingdat"/>
+    <skos:prefLabel xml:lang="en">polarmetric SAR</skos:prefLabel>
+    <skos:definition xml:lang="en">Polarmetric SAR.</skos:definition>
+    <skos:notation xml:lang="en">gg</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingdat#pz">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingdat"/>
+    <skos:prefLabel xml:lang="en">other acoustical data</skos:prefLabel>
+    <skos:definition xml:lang="en">Other acoustical data</skos:definition>
+    <skos:notation xml:lang="en">pz</skos:notation>
+  </rdf:Description>
 </rdf:RDF>

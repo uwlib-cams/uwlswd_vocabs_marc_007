@@ -1,84 +1,77 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/"
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:dct="http://purl.org/dc/terms/"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="https://schema.org/"
+   xmlns:schema="https://schema.org/"
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
-   xmlns:uw="https://www.lib.washington.edu/static/public/cams/data/localResources/properties_local.html"
-   xmlns:uwp="https://doi.org/10.6069/uwlib.55.d.3#">
-
-
-   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.hwb2-j275">
-      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
-      <dct:type rdf:resource="http://purl.org/dc/dcmitype/Dataset"/>
-      <dct:title xml:lang="en">Electronic resource: level of compression</dct:title>
-      <dct:alternative xml:lang="en">MARC21 007/12 values for electronic resources expressed using
+>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.hwb2-j275">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+    <dct:type rdf:resource="http://purl.org/dc/dcmitype/Dataset"/>
+    <dct:title xml:lang="en">Electronic resource: level of compression</dct:title>
+    <dct:alternative xml:lang="en">MARC21 007/12 values for electronic resources expressed using
          RDF</dct:alternative>
-      <dct:description xml:lang="en">Kind of compression the electronic resource has been subjected
+    <dct:description xml:lang="en">Kind of compression the electronic resource has been subjected
          to.</dct:description>
-      <schema:disambiguatingDescription>SKOS Concept Scheme for MARC 00X
+    <schema:disambiguatingDescription>SKOS Concept Scheme for MARC 00X
          Values</schema:disambiguatingDescription>
-      <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
-      <dct:source rdf:resource="https://www.loc.gov/marc/bibliographic/bd007.html"/>
-      <dct:source rdf:resource="http://marc21rdf.info"/>
-      <dct:provenance rdf:resource="https://doi.org/10.6069/uwlswd.2e2b-y833"/>
-      <dct:creator rdf:resource="http://viaf.org/viaf/139541794"/>
-      <dct:contributor rdf:resource="http://viaf.org/viaf/151962300"/>
-      <dct:issued>2024</dct:issued>
-      <dc:contributor xml:lang="en">Metadata Management Associates</dc:contributor>
-      <dc:language>en</dc:language>
-      <dct:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0"/>
-      <schema:version>1-0-0</schema:version>
-      <dct:issued>2024</dct:issued>
-      <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
-   </rdf:Description>
-
-   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.hwb2-j275#b">
-      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.hwb2-j275"/>
-      <skos:prefLabel xml:lang="en">lossless</skos:prefLabel>
-      <skos:definition xml:lang="en">Lossless compression will allow an electronic resource to be
+    <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
+    <dct:source rdf:resource="https://www.loc.gov/marc/bibliographic/bd007.html"/>
+    <dct:source rdf:resource="http://marc21rdf.info"/>
+    <dct:provenance rdf:resource="https://doi.org/10.6069/uwlswd.2e2b-y833"/>
+    <dct:creator rdf:resource="http://viaf.org/viaf/139541794"/>
+    <dct:contributor rdf:resource="http://viaf.org/viaf/151962300"/>
+    <dct:issued>2024</dct:issued>
+    <dc:contributor xml:lang="en">Metadata Management Associates</dc:contributor>
+    <dc:language>en</dc:language>
+    <dct:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0"/>
+    <schema:version>1-0-0</schema:version>
+    <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.hwb2-j275#b">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.hwb2-j275"/>
+    <skos:prefLabel xml:lang="en">lossless</skos:prefLabel>
+    <skos:definition xml:lang="en">Lossless compression will allow an electronic resource to be
          compressed and decompressed with absolute fidelity each time. To be considered lossless, no
          informational loss may occur during this process.</skos:definition>
-      <skos:scopeNote xml:lang="en">An example of a lossless compression scheme would be TIFF Group
+    <skos:scopeNote xml:lang="en">An example of a lossless compression scheme would be TIFF Group
          4 compression employed on bitonal image files.</skos:scopeNote>
-      <skos:notation xml:lang="en">b</skos:notation>
-   </rdf:Description>
-
-   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.hwb2-j275#d">
-      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.hwb2-j275"/>
-      <skos:prefLabel xml:lang="en">lossy</skos:prefLabel>
-      <skos:definition xml:lang="en">Lossy compression schemes employ techniques which average or
+    <skos:notation xml:lang="en">b</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.hwb2-j275#a">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.hwb2-j275"/>
+    <skos:prefLabel xml:lang="en">uncompressed</skos:prefLabel>
+    <skos:definition xml:lang="en">Electronic resource has not been compressed through the use of
+         any compression technique.</skos:definition>
+    <skos:notation xml:lang="en">a</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.hwb2-j275#d">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.hwb2-j275"/>
+    <skos:prefLabel xml:lang="en">lossy</skos:prefLabel>
+    <skos:definition xml:lang="en">Lossy compression schemes employ techniques which average or
          discard some of the encoded digital information. When the file is decompressed, it will not
          be an exact replica of the original file.</skos:definition>
-      <skos:scopeNote xml:lang="en">Examples of lossy compression schemes include JPEG, and Kodak
+    <skos:scopeNote xml:lang="en">Examples of lossy compression schemes include JPEG, and Kodak
          ImagePac (Photo CD), AC-3 (Dolby Digital) and MPEG.</skos:scopeNote>
-      <skos:notation xml:lang="en">d</skos:notation>
-   </rdf:Description>
-
-   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.hwb2-j275#m">
-      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.hwb2-j275"/>
-      <skos:prefLabel xml:lang="en">mixed</skos:prefLabel>
-      <skos:definition xml:lang="en">A mixture of techniques has been used to compress various parts
+    <skos:notation xml:lang="en">d</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.hwb2-j275#m">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.hwb2-j275"/>
+    <skos:prefLabel xml:lang="en">mixed</skos:prefLabel>
+    <skos:definition xml:lang="en">A mixture of techniques has been used to compress various parts
          of the electronic resource.</skos:definition>
-      <skos:notation xml:lang="en">m</skos:notation>
-   </rdf:Description>
-
-   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.hwb2-j275#a">
-      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.hwb2-j275"/>
-      <skos:prefLabel xml:lang="en">uncompressed</skos:prefLabel>
-      <skos:definition xml:lang="en">Electronic resource has not been compressed through the use of
-         any compression technique.</skos:definition>
-      <skos:notation xml:lang="en">a</skos:notation>
-   </rdf:Description>
-
-   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.hwb2-j275#u">
-      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.hwb2-j275"/>
-      <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
-      <skos:definition xml:lang="en">Compression techniques are not known.</skos:definition>
-      <skos:notation xml:lang="en">u</skos:notation>
-   </rdf:Description>
+    <skos:notation xml:lang="en">m</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.hwb2-j275#u">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.hwb2-j275"/>
+    <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
+    <skos:definition xml:lang="en">Compression techniques are not known.</skos:definition>
+    <skos:notation xml:lang="en">u</skos:notation>
+  </rdf:Description>
 </rdf:RDF>

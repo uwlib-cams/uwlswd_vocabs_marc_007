@@ -1,70 +1,65 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/"
-    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="https://schema.org/"
-    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
-    xmlns:uw="https://www.lib.washington.edu/static/public/cams/data/localResources/properties_local.html"
-    xmlns:uwp="https://doi.org/10.6069/uwlib.55.d.3#">
-
-
-    <rdf:Description rdf:about="http://fakeIRI.edu/terms/someund">
-        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
-        <dct:type rdf:resource="http://purl.org/dc/dcmitype/Dataset"/>
-        <dct:title xml:lang="en">Some: undefined</dct:title>
-        <dct:alternative xml:lang="en">MARC21 007/02 values for some materials expressed using
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:dct="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:schema="https://schema.org/"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+   xmlns:uwp="https://doi.org/10.6069/uwlib.55.d.3#"
+>
+  <rdf:Description rdf:about="http://fakeIRI.edu/terms/someund">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+    <dct:type rdf:resource="http://purl.org/dc/dcmitype/Dataset"/>
+    <dct:title xml:lang="en">Some: undefined</dct:title>
+    <dct:alternative xml:lang="en">MARC21 007/02 values for some materials expressed using
             RDF</dct:alternative>
-        <dct:description xml:lang="en">Contains blank (#) or a fill character (|).</dct:description>
-        <schema:disambiguatingDescription>SKOS Concept Scheme for MARC 00X
+    <dct:description xml:lang="en">Contains blank (#) or a fill character (|).</dct:description>
+    <schema:disambiguatingDescription>SKOS Concept Scheme for MARC 00X
             Values</schema:disambiguatingDescription>
-        <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
-        <dct:source rdf:resource="https://www.loc.gov/marc/bibliographic/bd007.html"/>
-        <dct:source rdf:resource="http://marc21rdf.info"/>
-        <dct:provenance rdf:resource="https://doi.org/10.6069/uwlswd.2e2b-y833"/>
-        <dct:creator rdf:resource="http://viaf.org/viaf/139541794"/>
-        <dct:contributor rdf:resource="http://viaf.org/viaf/151962300"/>
-        <dct:issued>2024</dct:issued>
-        <dc:contributor xml:lang="en">Metadata Management Associates</dc:contributor>
-        <dc:language>en</dc:language>
-        <dct:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0"/>
-        <schema:version>1-0-0</schema:version>
-        <dct:issued>2024</dct:issued>
-        <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
-        <uwp:appliesToMaterial>map</uwp:appliesToMaterial>
-        <uwp:appliesToMaterial>electronic resource</uwp:appliesToMaterial>
-        <uwp:appliesToMaterial>globe</uwp:appliesToMaterial>
-        <uwp:appliesToMaterial>projected graphic</uwp:appliesToMaterial>
-        <uwp:appliesToMaterial>microform</uwp:appliesToMaterial>
-        <uwp:appliesToMaterial>nonprojected graphic</uwp:appliesToMaterial>
-        <uwp:appliesToMaterial>motion picture</uwp:appliesToMaterial>
-        <uwp:appliesToMaterial>sound recording</uwp:appliesToMaterial>
-        <uwp:appliesToMaterial>videorecording</uwp:appliesToMaterial>
-    </rdf:Description>
-
-    <rdf:Description rdf:about="http://fakeIRI.edu/terms/someund#f">
-        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-        <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/someund"/>
-        <skos:prefLabel xml:lang="en">facsimile [obsolete]</skos:prefLabel>
-        <skos:notation xml:lang="en">f</skos:notation>
-    </rdf:Description>
-
-    <rdf:Description rdf:about="http://fakeIRI.edu/terms/someund#o">
-        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-        <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/someund"/>
-        <skos:prefLabel xml:lang="en">oringinal [obsolete]</skos:prefLabel>
-        <skos:notation xml:lang="en">o</skos:notation>
-    </rdf:Description>
-
-    <rdf:Description rdf:about="http://fakeIRI.edu/terms/someund#r">
-        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-        <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/someund"/>
-        <skos:prefLabel xml:lang="en">reproduction [obsolete]</skos:prefLabel>
-        <skos:notation xml:lang="en">r</skos:notation>
-    </rdf:Description>
-
-    <rdf:Description rdf:about="http://fakeIRI.edu/terms/someund#u">
-        <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-        <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/someund"/>
-        <skos:prefLabel xml:lang="en">unknown [obsolete]</skos:prefLabel>
-        <skos:notation xml:lang="en">u</skos:notation>
-    </rdf:Description>
+    <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
+    <dct:source rdf:resource="https://www.loc.gov/marc/bibliographic/bd007.html"/>
+    <dct:source rdf:resource="http://marc21rdf.info"/>
+    <dct:provenance rdf:resource="https://doi.org/10.6069/uwlswd.2e2b-y833"/>
+    <dct:creator rdf:resource="http://viaf.org/viaf/139541794"/>
+    <dct:contributor rdf:resource="http://viaf.org/viaf/151962300"/>
+    <dct:issued>2024</dct:issued>
+    <dc:contributor xml:lang="en">Metadata Management Associates</dc:contributor>
+    <dc:language>en</dc:language>
+    <dct:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0"/>
+    <schema:version>1-0-0</schema:version>
+    <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
+    <uwp:appliesToMaterial>map</uwp:appliesToMaterial>
+    <uwp:appliesToMaterial>electronic resource</uwp:appliesToMaterial>
+    <uwp:appliesToMaterial>globe</uwp:appliesToMaterial>
+    <uwp:appliesToMaterial>projected graphic</uwp:appliesToMaterial>
+    <uwp:appliesToMaterial>microform</uwp:appliesToMaterial>
+    <uwp:appliesToMaterial>nonprojected graphic</uwp:appliesToMaterial>
+    <uwp:appliesToMaterial>motion picture</uwp:appliesToMaterial>
+    <uwp:appliesToMaterial>sound recording</uwp:appliesToMaterial>
+    <uwp:appliesToMaterial>videorecording</uwp:appliesToMaterial>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fakeIRI.edu/terms/someund#u">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/someund"/>
+    <skos:prefLabel xml:lang="en">unknown [obsolete]</skos:prefLabel>
+    <skos:notation xml:lang="en">u</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fakeIRI.edu/terms/someund#o">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/someund"/>
+    <skos:prefLabel xml:lang="en">oringinal [obsolete]</skos:prefLabel>
+    <skos:notation xml:lang="en">o</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fakeIRI.edu/terms/someund#f">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/someund"/>
+    <skos:prefLabel xml:lang="en">facsimile [obsolete]</skos:prefLabel>
+    <skos:notation xml:lang="en">f</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fakeIRI.edu/terms/someund#r">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/someund"/>
+    <skos:prefLabel xml:lang="en">reproduction [obsolete]</skos:prefLabel>
+    <skos:notation xml:lang="en">r</skos:notation>
+  </rdf:Description>
 </rdf:RDF>

@@ -1,147 +1,135 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/"
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:dct="http://purl.org/dc/terms/"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="https://schema.org/"
+   xmlns:schema="https://schema.org/"
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
-   xmlns:uw="https://www.lib.washington.edu/static/public/cams/data/localResources/properties_local.html"
-   xmlns:uwp="https://doi.org/10.6069/uwlib.55.d.3#">
-
-
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturefor">
-      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
-      <dct:type rdf:resource="http://purl.org/dc/dcmitype/Dataset"/>
-      <dct:title xml:lang="en">Motion picture: presentation format</dct:title>
-      <dct:alternative xml:lang="en">MARC21 007/04 values for motion pictures expressed using
+>
+  <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturefor#z">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturefor"/>
+    <skos:prefLabel xml:lang="en">other</skos:prefLabel>
+    <skos:definition xml:lang="en">Motion picture presentation format other than standard sound
+         aperture (reduced frame), nonanamorphic (wide-screen), 3d, anamorphic (wide-screen), other
+         wide-screen format, or standard silent aperture (full frame).</skos:definition>
+    <skos:scopeNote xml:lang="en">An example of this is the 70 mm. Imax format which is a
+         non-rectangular, circular 180 degree limited use format that is not standardized. Imax may
+         not technically be considered a wide-screen format because it does not have an aspect
+         ratio, but it does achieve a wide-screen effect.</skos:scopeNote>
+    <skos:notation xml:lang="en">z</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturefor">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+    <dct:type rdf:resource="http://purl.org/dc/dcmitype/Dataset"/>
+    <dct:title xml:lang="en">Motion picture: presentation format</dct:title>
+    <dct:alternative xml:lang="en">MARC21 007/04 values for motion pictures expressed using
          RDF</dct:alternative>
-      <dct:description xml:lang="en">Presentation format for motion pictures.</dct:description>
-      <schema:disambiguatingDescription>SKOS Concept Scheme for MARC 00X
+    <dct:description xml:lang="en">Presentation format for motion pictures.</dct:description>
+    <schema:disambiguatingDescription>SKOS Concept Scheme for MARC 00X
          Values</schema:disambiguatingDescription>
-      <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
-      <dct:source rdf:resource="https://www.loc.gov/marc/bibliographic/bd007.html"/>
-      <dct:source rdf:resource="http://marc21rdf.info"/>
-      <dct:provenance rdf:resource="https://doi.org/10.6069/uwlswd.2e2b-y833"/>
-      <dct:creator rdf:resource="http://viaf.org/viaf/139541794"/>
-      <dct:contributor rdf:resource="http://viaf.org/viaf/151962300"/>
-      <dct:issued>2024</dct:issued>
-      <dc:contributor xml:lang="en">Metadata Management Associates</dc:contributor>
-      <dc:language>en</dc:language>
-      <dct:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0"/>
-      <schema:version>1-0-0</schema:version>
-      <dct:issued>2024</dct:issued>
-      <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
-   </rdf:Description>
-
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturefor#c">
-      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturefor"/>
-      <skos:prefLabel xml:lang="en">3D</skos:prefLabel>
-      <skos:definition xml:lang="en">Films which achieve a three-dimensional effect originally
-         through the use of two projectors which superimpose two images of the film on the screen
-         (usually a wide screen). It is usually associated with 35 mm. film. Polarized lenses worn
-         by viewers help to create the impression of depth and dimension.</skos:definition>
-      <skos:notation xml:lang="en">c</skos:notation>
-   </rdf:Description>
-
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturefor#d">
-      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturefor"/>
-      <skos:prefLabel xml:lang="en">anamorphic (wide-screen)</skos:prefLabel>
-      <skos:definition xml:lang="en">Films which achieve the wide-screen effect through the use of
-         an image which is optically compressed or squeezed horizontally. It is then expanded to the
-         correct proportions by projection on a wide screen with the use of special lenses that give
-         greater magnification laterally than vertically.</skos:definition>
-      <skos:scopeNote xml:lang="en">Introduced and adopted for commercial use in 1953 under the name
-         of Cinemascope, followed by Techniscope (1963), Naturama, Panavision, etc. Also used for 16
-         mm. film which employs this process.</skos:scopeNote>
-      <skos:notation xml:lang="en">d</skos:notation>
-   </rdf:Description>
-
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturefor#b">
-      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturefor"/>
-      <skos:prefLabel xml:lang="en">nonanamorphic (wide-screen)</skos:prefLabel>
-      <skos:definition xml:lang="en">Wide-screen effect without optically compressing the image or
+    <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
+    <dct:source rdf:resource="https://www.loc.gov/marc/bibliographic/bd007.html"/>
+    <dct:source rdf:resource="http://marc21rdf.info"/>
+    <dct:provenance rdf:resource="https://doi.org/10.6069/uwlswd.2e2b-y833"/>
+    <dct:creator rdf:resource="http://viaf.org/viaf/139541794"/>
+    <dct:contributor rdf:resource="http://viaf.org/viaf/151962300"/>
+    <dct:issued>2024</dct:issued>
+    <dc:contributor xml:lang="en">Metadata Management Associates</dc:contributor>
+    <dc:language>en</dc:language>
+    <dct:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0"/>
+    <schema:version>1-0-0</schema:version>
+    <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturefor#b">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturefor"/>
+    <skos:prefLabel xml:lang="en">nonanamorphic (wide-screen)</skos:prefLabel>
+    <skos:definition xml:lang="en">Wide-screen effect without optically compressing the image or
          requiring the use of special projection techniques.</skos:definition>
-      <skos:scopeNote xml:lang="en">Nonanamorphic wide-screen process is primarily associated with
+    <skos:scopeNote xml:lang="en">Nonanamorphic wide-screen process is primarily associated with
          35 mm. and larger film gauges where the image on the film is natural (not optically
          compressed) and of smaller frame height, which is expanded by projection on a wide screen
          through the use of normal lenses and the appropriate aperture plate to give the required
          aspect ratio.</skos:scopeNote>
-      <skos:notation xml:lang="en">b</skos:notation>
-   </rdf:Description>
-
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturefor#z">
-      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturefor"/>
-      <skos:prefLabel xml:lang="en">other</skos:prefLabel>
-      <skos:definition xml:lang="en">Motion picture presentation format other than standard sound
-         aperture (reduced frame), nonanamorphic (wide-screen), 3d, anamorphic (wide-screen), other
-         wide-screen format, or standard silent aperture (full frame).</skos:definition>
-      <skos:scopeNote xml:lang="en">An example of this is the 70 mm. Imax format which is a
-         non-rectangular, circular 180 degree limited use format that is not standardized. Imax may
-         not technically be considered a wide-screen format because it does not have an aspect
-         ratio, but it does achieve a wide-screen effect.</skos:scopeNote>
-      <skos:notation xml:lang="en">z</skos:notation>
-   </rdf:Description>
-
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturefor#e">
-      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturefor"/>
-      <skos:prefLabel xml:lang="en">other wide-screen format</skos:prefLabel>
-      <skos:definition xml:lang="en">Any other wide-screen process not covered by other
+    <skos:notation xml:lang="en">b</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturefor#u">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturefor"/>
+    <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
+    <skos:definition xml:lang="en">Presentation format of the motion picture is not
+         known.</skos:definition>
+    <skos:notation xml:lang="en">u</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturefor#c">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturefor"/>
+    <skos:prefLabel xml:lang="en">3D</skos:prefLabel>
+    <skos:definition xml:lang="en">Films which achieve a three-dimensional effect originally
+         through the use of two projectors which superimpose two images of the film on the screen
+         (usually a wide screen). It is usually associated with 35 mm. film. Polarized lenses worn
+         by viewers help to create the impression of depth and dimension.</skos:definition>
+    <skos:notation xml:lang="en">c</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturefor#ex">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturefor"/>
+    <skos:prefLabel xml:lang="en">other [obsolete]</skos:prefLabel>
+    <skos:notation xml:lang="en">e</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturefor#a">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturefor"/>
+    <skos:prefLabel xml:lang="en">standard sound aperture (reduced frame)</skos:prefLabel>
+    <skos:definition xml:lang="en">Standard sound aperture (reduced frame).</skos:definition>
+    <skos:scopeNote xml:lang="en">Used for non-wide-screen formats. Includes all standard sound 35
+         mm., 16 mm., and super 8 mm. film. Should be used even for silent films in which a space
+         has been left for the inclusion of a sound track, i.e., where a full frame silent picture
+         has been cropped to allow space for a sound track.</skos:scopeNote>
+    <skos:notation xml:lang="en">a</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturefor#d">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturefor"/>
+    <skos:prefLabel xml:lang="en">anamorphic (wide-screen)</skos:prefLabel>
+    <skos:definition xml:lang="en">Films which achieve the wide-screen effect through the use of
+         an image which is optically compressed or squeezed horizontally. It is then expanded to the
+         correct proportions by projection on a wide screen with the use of special lenses that give
+         greater magnification laterally than vertically.</skos:definition>
+    <skos:scopeNote xml:lang="en">Introduced and adopted for commercial use in 1953 under the name
+         of Cinemascope, followed by Techniscope (1963), Naturama, Panavision, etc. Also used for 16
+         mm. film which employs this process.</skos:scopeNote>
+    <skos:notation xml:lang="en">d</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturefor#f">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturefor"/>
+    <skos:prefLabel xml:lang="en">standard silent aperture (full frame)</skos:prefLabel>
+    <skos:definition xml:lang="en">35 mm. film on which the exposed picture is approximately the
+         width of the space between the perforation holes of the frame.</skos:definition>
+    <skos:scopeNote xml:lang="en">Standard format for silent film from about 1899 until the late
+         1920s when sound film was introduced and the frame size decreased to make room for the
+         sound track.</skos:scopeNote>
+    <skos:notation xml:lang="en">f</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturefor#e">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturefor"/>
+    <skos:prefLabel xml:lang="en">other wide-screen format</skos:prefLabel>
+    <skos:definition xml:lang="en">Any other wide-screen process not covered by other
          codes.</skos:definition>
-      <skos:scopeNote xml:lang="en">Includes Cinerama, Viterama, Cinemiracle, Circarama and other
+    <skos:scopeNote xml:lang="en">Includes Cinerama, Viterama, Cinemiracle, Circarama and other
          formats that achieve a wide-screen effect though the use of simultaneous projection of
          separate prints on very large, sometimes deeply curved screens through the use of
          multiprojectors that build up the projected picture by a series of images, generally
          side-by-side.</skos:scopeNote>
-      <skos:notation xml:lang="en">e</skos:notation>
-   </rdf:Description>
-
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturefor#ex">
-      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturefor"/>
-      <skos:prefLabel xml:lang="en">other [obsolete]</skos:prefLabel>
-      <skos:notation xml:lang="en">e</skos:notation>
-   </rdf:Description>
-
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturefor#f">
-      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturefor"/>
-      <skos:prefLabel xml:lang="en">standard silent aperture (full frame)</skos:prefLabel>
-      <skos:definition xml:lang="en">35 mm. film on which the exposed picture is approximately the
-         width of the space between the perforation holes of the frame.</skos:definition>
-      <skos:scopeNote xml:lang="en">Standard format for silent film from about 1899 until the late
-         1920s when sound film was introduced and the frame size decreased to make room for the
-         sound track.</skos:scopeNote>
-      <skos:notation xml:lang="en">f</skos:notation>
-   </rdf:Description>
-
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturefor#a">
-      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturefor"/>
-      <skos:prefLabel xml:lang="en">standard sound aperture (reduced frame)</skos:prefLabel>
-      <skos:definition xml:lang="en">Standard sound aperture (reduced frame).</skos:definition>
-      <skos:scopeNote xml:lang="en">Used for non-wide-screen formats. Includes all standard sound 35
-         mm., 16 mm., and super 8 mm. film. Should be used even for silent films in which a space
-         has been left for the inclusion of a sound track, i.e., where a full frame silent picture
-         has been cropped to allow space for a sound track.</skos:scopeNote>
-      <skos:notation xml:lang="en">a</skos:notation>
-   </rdf:Description>
-
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturefor#n">
-      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturefor"/>
-      <skos:prefLabel xml:lang="en">not applicable [obsolete]</skos:prefLabel>
-      <skos:notation xml:lang="en">n</skos:notation>
-   </rdf:Description>
-
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturefor#u">
-      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturefor"/>
-      <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
-      <skos:definition xml:lang="en">Presentation format of the motion picture is not
-         known.</skos:definition>
-      <skos:notation xml:lang="en">u</skos:notation>
-   </rdf:Description>
+    <skos:notation xml:lang="en">e</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturefor#n">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturefor"/>
+    <skos:prefLabel xml:lang="en">not applicable [obsolete]</skos:prefLabel>
+    <skos:notation xml:lang="en">n</skos:notation>
+  </rdf:Description>
 </rdf:RDF>

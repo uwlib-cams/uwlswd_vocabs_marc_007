@@ -1,55 +1,89 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/"
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:dct="http://purl.org/dc/terms/"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="https://schema.org/"
+   xmlns:schema="https://schema.org/"
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
-   xmlns:uw="https://www.lib.washington.edu/static/public/cams/data/localResources/properties_local.html"
-   xmlns:uwp="https://doi.org/10.6069/uwlib.55.d.3#">
-
-
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/microformsmd">
-      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
-      <dct:type rdf:resource="http://purl.org/dc/dcmitype/Dataset"/>
-      <dct:title xml:lang="en">Microform: specific material designation</dct:title>
-      <dct:alternative xml:lang="en">MARC21 007/01 values for microform expressed using
+>
+  <rdf:Description rdf:about="http://fakeIRI.edu/terms/microformsmd#h">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/microformsmd"/>
+    <skos:prefLabel xml:lang="en">microfilm slip</skos:prefLabel>
+    <skos:definition xml:lang="en">A short strip of microfilm cut from a roll.</skos:definition>
+    <skos:notation xml:lang="en">h</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fakeIRI.edu/terms/microformsmd">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+    <dct:type rdf:resource="http://purl.org/dc/dcmitype/Dataset"/>
+    <dct:title xml:lang="en">Microform: specific material designation</dct:title>
+    <dct:alternative xml:lang="en">MARC21 007/01 values for microform expressed using
          RDF</dct:alternative>
-      <dct:description xml:lang="en">Special class of microform to which the item belongs. (e.g., a
+    <dct:description xml:lang="en">Special class of microform to which the item belongs. (e.g., a
          microopaque).</dct:description>
-      <schema:disambiguatingDescription>SKOS Concept Scheme for MARC 00X
+    <schema:disambiguatingDescription>SKOS Concept Scheme for MARC 00X
          Values</schema:disambiguatingDescription>
-      <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
-      <dct:source rdf:resource="https://www.loc.gov/marc/bibliographic/bd007.html"/>
-      <dct:source rdf:resource="http://marc21rdf.info"/>
-      <dct:provenance rdf:resource="https://doi.org/10.6069/uwlswd.2e2b-y833"/>
-      <dct:creator rdf:resource="http://viaf.org/viaf/139541794"/>
-      <dct:contributor rdf:resource="http://viaf.org/viaf/151962300"/>
-      <dct:issued>2024</dct:issued>
-      <dc:contributor xml:lang="en">Metadata Management Associates</dc:contributor>
-      <dc:language>en</dc:language>
-      <dct:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0"/>
-      <schema:version>1-0-0</schema:version>
-      <dct:issued>2024</dct:issued>
-      <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
-   </rdf:Description>
-
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/microformsmd#a">
-      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/microformsmd"/>
-      <skos:prefLabel xml:lang="en">aperture card</skos:prefLabel>
-      <skos:definition xml:lang="en">Card with one or more rectangular opening(s), or aperture(s),
+    <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
+    <dct:source rdf:resource="https://www.loc.gov/marc/bibliographic/bd007.html"/>
+    <dct:source rdf:resource="http://marc21rdf.info"/>
+    <dct:provenance rdf:resource="https://doi.org/10.6069/uwlswd.2e2b-y833"/>
+    <dct:creator rdf:resource="http://viaf.org/viaf/139541794"/>
+    <dct:contributor rdf:resource="http://viaf.org/viaf/151962300"/>
+    <dct:issued>2024</dct:issued>
+    <dc:contributor xml:lang="en">Metadata Management Associates</dc:contributor>
+    <dc:language>en</dc:language>
+    <dct:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0"/>
+    <schema:version>1-0-0</schema:version>
+    <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fakeIRI.edu/terms/microformsmd#f">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/microformsmd"/>
+    <skos:prefLabel xml:lang="en">microfiche cassette</skos:prefLabel>
+    <skos:definition xml:lang="en">Microfiche cassette.</skos:definition>
+    <skos:notation xml:lang="en">f</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fakeIRI.edu/terms/microformsmd#z">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/microformsmd"/>
+    <skos:prefLabel xml:lang="en">other</skos:prefLabel>
+    <skos:definition xml:lang="en">Specific material designation other than aperture card,
+         microfilm cartridge, microfilm cassette, microfilm reel, microfiche, microfiche cassette,
+         microopaque, microfilm slip, microfilm roll.</skos:definition>
+    <skos:scopeNote xml:lang="en">Includes microchip (a sheet of photographic film of very small
+         dimensions), microdot (a minuscule piece of photgraphic film with ultrahigh reduction
+         ration), microform scroll (a roll of unusually wide photographic film).</skos:scopeNote>
+    <skos:notation xml:lang="en">z</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fakeIRI.edu/terms/microformsmd#b">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/microformsmd"/>
+    <skos:prefLabel xml:lang="en">microfilm cartridge</skos:prefLabel>
+    <skos:definition xml:lang="en">Consists of a strip of photographic film wound onto a single
+         core (or hub), housed in a protective container. Microfilm cartridges require reading
+         equipment (readers and reader-printers) that is specifically adapted for their use.
+         Normally, the end of the film is left free for threading into such equipment. Common film
+         lengths, widths, and reduction ratios are the same as those of microfilm
+         reels.</skos:definition>
+    <skos:notation xml:lang="en">b</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fakeIRI.edu/terms/microformsmd#a">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/microformsmd"/>
+    <skos:prefLabel xml:lang="en">aperture card</skos:prefLabel>
+    <skos:definition xml:lang="en">Card with one or more rectangular opening(s), or aperture(s),
          specifically prepared for the mounting or insertion of a piece of photographic film
          containing one or more microimage(s). The cards are usually EAM (Electrical Accounting
          Machine) punched cards, commonly known as IBM cards, that are standardized for use in
          card-handling machines. Such cards contain only one aperture and most frequently have only
          one microimage.</skos:definition>
-      <skos:notation xml:lang="en">a</skos:notation>
-   </rdf:Description>
-
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/microformsmd#e">
-      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/microformsmd"/>
-      <skos:prefLabel xml:lang="en">microfiche</skos:prefLabel>
-      <skos:definition xml:lang="en">Transparent sheet of photographic film containing microimages
+    <skos:notation xml:lang="en">a</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fakeIRI.edu/terms/microformsmd#e">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/microformsmd"/>
+    <skos:prefLabel xml:lang="en">microfiche</skos:prefLabel>
+    <skos:definition xml:lang="en">Transparent sheet of photographic film containing microimages
          arranged in a grid pattern (a two-dimensional array) and having a heading that contains
          identifying information in text that is large enough to be read without magnification. Grid
          patterns vary with reduction ratios. Microfiches are grouped in five ranges of reduction
@@ -68,49 +102,13 @@
          found directly above the first row of microimages. Microfiche made at ultrahigh ratios are
          commonly called ultrafiche. Ratios and grid patterns have not been standardized for these
          microfiche and differ according to application and method for production.</skos:definition>
-      <skos:notation xml:lang="en">e</skos:notation>
-   </rdf:Description>
-
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/microformsmd#f">
-      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/microformsmd"/>
-      <skos:prefLabel xml:lang="en">microfiche cassette</skos:prefLabel>
-      <skos:definition xml:lang="en">Microfiche cassette.</skos:definition>
-      <skos:notation xml:lang="en">f</skos:notation>
-   </rdf:Description>
-
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/microformsmd#b">
-      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/microformsmd"/>
-      <skos:prefLabel xml:lang="en">microfilm cartridge</skos:prefLabel>
-      <skos:definition xml:lang="en">Consists of a strip of photographic film wound onto a single
-         core (or hub), housed in a protective container. Microfilm cartridges require reading
-         equipment (readers and reader-printers) that is specifically adapted for their use.
-         Normally, the end of the film is left free for threading into such equipment. Common film
-         lengths, widths, and reduction ratios are the same as those of microfilm
-         reels.</skos:definition>
-      <skos:notation xml:lang="en">b</skos:notation>
-   </rdf:Description>
-
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/microformsmd#c">
-      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/microformsmd"/>
-      <skos:prefLabel xml:lang="en">microfilm cassette</skos:prefLabel>
-      <skos:definition xml:lang="en">Analogous to the sound tape cassette. Consists of a strip of
-         photographic film wound onto a double core, housed in a protective container. Microfilm
-         cassettes require reading equipment (readers and reader-printers) that is specifically
-         adapted for their use. Because they are double-cored, they are not threaded when used in
-         such readers and reader-printers. Usual film lengths are 100 ft (approximately 30 m.) or
-         less. Common film width is 16 mm. and usual reduction ratios are those of microfilm reels
-         and cartridges.</skos:definition>
-      <skos:notation xml:lang="en">c</skos:notation>
-   </rdf:Description>
-
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/microformsmd#d">
-      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/microformsmd"/>
-      <skos:prefLabel xml:lang="en">microfilm reel</skos:prefLabel>
-      <skos:definition xml:lang="en">Consists of a strip of photographic film wound onto an
+    <skos:notation xml:lang="en">e</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fakeIRI.edu/terms/microformsmd#d">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/microformsmd"/>
+    <skos:prefLabel xml:lang="en">microfilm reel</skos:prefLabel>
+    <skos:definition xml:lang="en">Consists of a strip of photographic film wound onto an
          unenclosed flanged holder (or reel). Microfilm reels require manual threading when used in
          readers and reader-printers and require equipment that is adapted for their use. Film
          lengths are usually 100 ft. (approximately 30 m.) or less. For microimages produced by
@@ -118,57 +116,46 @@
          and reduction ratios commonly range from about 10:1 to about 20:1. Sixteen millimeter film
          with effective ratios of either 24:1 or 48:1 is most often used for COM
          (Computer-Output-Microfilm) microimages.</skos:definition>
-      <skos:notation xml:lang="en">d</skos:notation>
-   </rdf:Description>
-
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/microformsmd#j">
-      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/microformsmd"/>
-      <skos:prefLabel xml:lang="en">microfilm roll</skos:prefLabel>
-      <skos:definition xml:lang="en">A wound length of microfilm not on a reel, cartridge,
+    <skos:notation xml:lang="en">d</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fakeIRI.edu/terms/microformsmd#u">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/microformsmd"/>
+    <skos:prefLabel xml:lang="en">unspecified</skos:prefLabel>
+    <skos:definition xml:lang="en">Special material designation for the microform is not
+         specified.</skos:definition>
+    <skos:notation xml:lang="en">u</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fakeIRI.edu/terms/microformsmd#j">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/microformsmd"/>
+    <skos:prefLabel xml:lang="en">microfilm roll</skos:prefLabel>
+    <skos:definition xml:lang="en">A wound length of microfilm not on a reel, cartridge,
          etc.</skos:definition>
-      <skos:notation xml:lang="en">j</skos:notation>
-   </rdf:Description>
-
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/microformsmd#h">
-      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/microformsmd"/>
-      <skos:prefLabel xml:lang="en">microfilm slip</skos:prefLabel>
-      <skos:definition xml:lang="en">A short strip of microfilm cut from a roll.</skos:definition>
-      <skos:notation xml:lang="en">h</skos:notation>
-   </rdf:Description>
-
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/microformsmd#g">
-      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/microformsmd"/>
-      <skos:prefLabel xml:lang="en">microopaque</skos:prefLabel>
-      <skos:definition xml:lang="en">Sheet of opaque material bearing a number of microimages
+    <skos:notation xml:lang="en">j</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fakeIRI.edu/terms/microformsmd#g">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/microformsmd"/>
+    <skos:prefLabel xml:lang="en">microopaque</skos:prefLabel>
+    <skos:definition xml:lang="en">Sheet of opaque material bearing a number of microimages
          arranged in a two-dimensional array. Microopaques resemble microfiche. Common dimensions
          are 3x5 in. and 6x9 in. Common reduction ratios are approximately 24:1 or 20:1.
          Microopaques usually have identifying information in text that is large enough to read
          without magnification.</skos:definition>
-      <skos:notation xml:lang="en">g</skos:notation>
-   </rdf:Description>
-
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/microformsmd#z">
-      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/microformsmd"/>
-      <skos:prefLabel xml:lang="en">other</skos:prefLabel>
-      <skos:definition xml:lang="en">Specific material designation other than aperture card,
-         microfilm cartridge, microfilm cassette, microfilm reel, microfiche, microfiche cassette,
-         microopaque, microfilm slip, microfilm roll.</skos:definition>
-      <skos:scopeNote xml:lang="en">Includes microchip (a sheet of photographic film of very small
-         dimensions), microdot (a minuscule piece of photgraphic film with ultrahigh reduction
-         ration), microform scroll (a roll of unusually wide photographic film).</skos:scopeNote>
-      <skos:notation xml:lang="en">z</skos:notation>
-   </rdf:Description>
-
-   <rdf:Description rdf:about="http://fakeIRI.edu/terms/microformsmd#u">
-      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/microformsmd"/>
-      <skos:prefLabel xml:lang="en">unspecified</skos:prefLabel>
-      <skos:definition xml:lang="en">Special material designation for the microform is not
-         specified.</skos:definition>
-      <skos:notation xml:lang="en">u</skos:notation>
-   </rdf:Description>
+    <skos:notation xml:lang="en">g</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fakeIRI.edu/terms/microformsmd#c">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/microformsmd"/>
+    <skos:prefLabel xml:lang="en">microfilm cassette</skos:prefLabel>
+    <skos:definition xml:lang="en">Analogous to the sound tape cassette. Consists of a strip of
+         photographic film wound onto a double core, housed in a protective container. Microfilm
+         cassettes require reading equipment (readers and reader-printers) that is specifically
+         adapted for their use. Because they are double-cored, they are not threaded when used in
+         such readers and reader-printers. Usual film lengths are 100 ft (approximately 30 m.) or
+         less. Common film width is 16 mm. and usual reduction ratios are those of microfilm reels
+         and cartridges.</skos:definition>
+    <skos:notation xml:lang="en">c</skos:notation>
+  </rdf:Description>
 </rdf:RDF>

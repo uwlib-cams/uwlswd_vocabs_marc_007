@@ -1,45 +1,78 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/"
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:dct="http://purl.org/dc/terms/"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="https://schema.org/"
+   xmlns:schema="https://schema.org/"
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
-   xmlns:uw="https://www.lib.washington.edu/static/public/cams/data/localResources/properties_local.html"
-   xmlns:uwp="https://doi.org/10.6069/uwlib.55.d.3#">
-
-
-   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8svz-r036">
-      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
-      <dct:type rdf:resource="http://purl.org/dc/dcmitype/Dataset"/>
-      <dct:title xml:lang="en">Electronic resource: reformatting quality</dct:title>
-      <dct:alternative xml:lang="en">MARC21 007/13 values for electronic resources expressed using
+>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8svz-r036#u">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8svz-r036"/>
+    <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
+    <skos:definition xml:lang="en">Reformatting quality of the electronic resource is not
+         known.</skos:definition>
+    <skos:notation xml:lang="en">u</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8svz-r036">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+    <dct:type rdf:resource="http://purl.org/dc/dcmitype/Dataset"/>
+    <dct:title xml:lang="en">Electronic resource: reformatting quality</dct:title>
+    <dct:alternative xml:lang="en">MARC21 007/13 values for electronic resources expressed using
          RDF</dct:alternative>
-      <dct:description xml:lang="en">An overall assessment of the physical quality of the electronic
+    <dct:description xml:lang="en">An overall assessment of the physical quality of the electronic
          resource in relation to its intended use.</dct:description>
-      <schema:disambiguatingDescription>SKOS Concept Scheme for MARC 00X
+    <schema:disambiguatingDescription>SKOS Concept Scheme for MARC 00X
          Values</schema:disambiguatingDescription>
-      <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
-      <dct:source rdf:resource="https://www.loc.gov/marc/bibliographic/bd007.html"/>
-      <dct:source rdf:resource="http://marc21rdf.info"/>
-      <dct:provenance rdf:resource="https://doi.org/10.6069/uwlswd.2e2b-y833"/>
-      <dct:creator rdf:resource="http://viaf.org/viaf/139541794"/>
-      <dct:contributor rdf:resource="http://viaf.org/viaf/151962300"/>
-      <dct:issued>2024</dct:issued>
-      <dc:contributor xml:lang="en">Metadata Management Associates</dc:contributor>
-      <dc:language>en</dc:language>
-      <dct:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0"/>
-      <schema:version>1-0-0</schema:version>
-      <dct:issued>2024</dct:issued>
-      <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
-   </rdf:Description>
-
-   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8svz-r036#a">
-      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8svz-r036"/>
-      <skos:prefLabel xml:lang="en">access</skos:prefLabel>
-      <skos:definition xml:lang="en">Electronic resource is of a quality that will support current
+    <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
+    <dct:source rdf:resource="https://www.loc.gov/marc/bibliographic/bd007.html"/>
+    <dct:source rdf:resource="http://marc21rdf.info"/>
+    <dct:provenance rdf:resource="https://doi.org/10.6069/uwlswd.2e2b-y833"/>
+    <dct:creator rdf:resource="http://viaf.org/viaf/139541794"/>
+    <dct:contributor rdf:resource="http://viaf.org/viaf/151962300"/>
+    <dct:issued>2024</dct:issued>
+    <dc:contributor xml:lang="en">Metadata Management Associates</dc:contributor>
+    <dc:language>en</dc:language>
+    <dct:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0"/>
+    <schema:version>1-0-0</schema:version>
+    <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8svz-r036#r">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8svz-r036"/>
+    <skos:prefLabel xml:lang="en">replacement</skos:prefLabel>
+    <skos:definition xml:lang="en">Electronic resource is of very high quality and, when printed
+         out, viewed on screen or played via a listening device, could serve as a replacement should
+         the original be lost, damaged, or destroyed.</skos:definition>
+    <skos:notation xml:lang="en">r</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8svz-r036#p">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8svz-r036"/>
+    <skos:prefLabel xml:lang="en">preservation</skos:prefLabel>
+    <skos:definition xml:lang="en">Electronic resource was created via reformatting to help
+         preserve the original item.</skos:definition>
+    <skos:scopeNote xml:lang="en">Capture and storage techniques associated with preservation
+         files ensure high-quality, long-term electronic resources that warrant long-term
+         protection.</skos:scopeNote>
+    <skos:notation xml:lang="en">p</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8svz-r036#n">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8svz-r036"/>
+    <skos:prefLabel xml:lang="en">not applicable</skos:prefLabel>
+    <skos:definition xml:lang="en">Reformatting quality is not applicable to the electronic
+         resource.</skos:definition>
+    <skos:notation xml:lang="en">n</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8svz-r036#a">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8svz-r036"/>
+    <skos:prefLabel xml:lang="en">access</skos:prefLabel>
+    <skos:definition xml:lang="en">Electronic resource is of a quality that will support current
          electronic access to the original item (reference use), but is not sufficient to serve as a
          preservation copy.</skos:definition>
-      <skos:scopeNote xml:lang="en">Examples of electronic resources created for access purposes may
+    <skos:scopeNote xml:lang="en">Examples of electronic resources created for access purposes may
          include images created for a temporary, online exhibition (possibly to mirror an in-house
          installation); compressed, lower resolution versions of higher-quality master files that
          allow for easier transmission and access over the Internet; video converted to MPEG-2 for
@@ -47,46 +80,6 @@
          browsing tool for a collection; or articles scanned as a part of an E-Reserve collection
          which will be discarded in accordance with previous copyright agreements which specify a
          time limit on the retention of the electronic resource.</skos:scopeNote>
-      <skos:notation xml:lang="en">a</skos:notation>
-   </rdf:Description>
-
-   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8svz-r036#n">
-      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8svz-r036"/>
-      <skos:prefLabel xml:lang="en">not applicable</skos:prefLabel>
-      <skos:definition xml:lang="en">Reformatting quality is not applicable to the electronic
-         resource.</skos:definition>
-      <skos:notation xml:lang="en">n</skos:notation>
-   </rdf:Description>
-
-   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8svz-r036#p">
-      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8svz-r036"/>
-      <skos:prefLabel xml:lang="en">preservation</skos:prefLabel>
-      <skos:definition xml:lang="en">Electronic resource was created via reformatting to help
-         preserve the original item.</skos:definition>
-      <skos:scopeNote xml:lang="en">Capture and storage techniques associated with preservation
-         files ensure high-quality, long-term electronic resources that warrant long-term
-         protection.</skos:scopeNote>
-      <skos:notation xml:lang="en">p</skos:notation>
-   </rdf:Description>
-
-   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8svz-r036#r">
-      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8svz-r036"/>
-      <skos:prefLabel xml:lang="en">replacement</skos:prefLabel>
-      <skos:definition xml:lang="en">Electronic resource is of very high quality and, when printed
-         out, viewed on screen or played via a listening device, could serve as a replacement should
-         the original be lost, damaged, or destroyed.</skos:definition>
-      <skos:notation xml:lang="en">r</skos:notation>
-   </rdf:Description>
-
-   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8svz-r036#u">
-      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8svz-r036"/>
-      <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
-      <skos:definition xml:lang="en">Reformatting quality of the electronic resource is not
-         known.</skos:definition>
-      <skos:notation xml:lang="en">u</skos:notation>
-   </rdf:Description>
+    <skos:notation xml:lang="en">a</skos:notation>
+  </rdf:Description>
 </rdf:RDF>
