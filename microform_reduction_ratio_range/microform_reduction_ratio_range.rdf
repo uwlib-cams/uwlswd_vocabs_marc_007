@@ -6,21 +6,21 @@
    xmlns:schema="https://schema.org/"
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
 >
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/microformred#e">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gk9v-z457#e">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/microformred"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.gk9v-z457"/>
     <skos:prefLabel xml:lang="en">ultra high reduction</skos:prefLabel>
     <skos:definition xml:lang="en">Over 90:1.</skos:definition>
     <skos:notation xml:lang="en">e</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/microformred#d">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gk9v-z457#d">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/microformred"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.gk9v-z457"/>
     <skos:prefLabel xml:lang="en">very high reduction</skos:prefLabel>
     <skos:definition xml:lang="en">Between 61:1 and 90:1.</skos:definition>
     <skos:notation xml:lang="en">d</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/microformred">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gk9v-z457">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
     <dct:type rdf:resource="http://purl.org/dc/dcmitype/Dataset"/>
     <dct:title xml:lang="en">Microform: reduction ratio range</dct:title>
@@ -44,37 +44,37 @@
     <schema:version>1-0-0</schema:version>
     <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/microformred#a">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gk9v-z457#a">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/microformred"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.gk9v-z457"/>
     <skos:prefLabel xml:lang="en">low reduction</skos:prefLabel>
     <skos:definition xml:lang="en">Less than 16:1 ratio.</skos:definition>
     <skos:notation xml:lang="en">a</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/microformred#u">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gk9v-z457#u">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/microformred"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.gk9v-z457"/>
     <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
     <skos:definition xml:lang="en">Reduction ratio is not known.</skos:definition>
     <skos:notation xml:lang="en">u</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/microformred#c">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gk9v-z457#c">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/microformred"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.gk9v-z457"/>
     <skos:prefLabel xml:lang="en">high reduction</skos:prefLabel>
     <skos:definition xml:lang="en">Between 31:1 and 60:1.</skos:definition>
     <skos:notation xml:lang="en">c</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/microformred#b">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gk9v-z457#b">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/microformred"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.gk9v-z457"/>
     <skos:prefLabel xml:lang="en">normal reduction</skos:prefLabel>
     <skos:definition xml:lang="en">Between 16:1 and 30:1.</skos:definition>
     <skos:notation xml:lang="en">b</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/microformred#v">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gk9v-z457#v">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/microformred"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.gk9v-z457"/>
     <skos:prefLabel xml:lang="en">reduction rate varies</skos:prefLabel>
     <skos:definition xml:lang="en">Not all parts of the microform have the same reduction
          ratio.</skos:definition>
