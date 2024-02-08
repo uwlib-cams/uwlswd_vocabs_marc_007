@@ -6,14 +6,14 @@
    xmlns:schema="https://schema.org/"
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
 >
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturecom#i">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.9het-z010#i">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturecom"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.9het-z010"/>
     <skos:prefLabel xml:lang="en">incomplete</skos:prefLabel>
     <skos:definition xml:lang="en">Judged to be incomplete.</skos:definition>
     <skos:notation xml:lang="en">i</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturecom">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.9het-z010">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
     <dct:type rdf:resource="http://purl.org/dc/dcmitype/Dataset"/>
     <dct:title xml:lang="en">Motion picture: completeness</dct:title>
@@ -36,9 +36,9 @@
     <schema:version>1-0-0</schema:version>
     <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturecom#n">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.9het-z010#n">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturecom"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.9het-z010"/>
     <skos:prefLabel xml:lang="en">not applicable</skos:prefLabel>
     <skos:definition xml:lang="en">Completeness is not applicable to the type of motion
          picture.</skos:definition>
@@ -46,16 +46,16 @@
          cases, unidentified material, etc.</skos:scopeNote>
     <skos:notation xml:lang="en">n</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturecom#c">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.9het-z010#c">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturecom"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.9het-z010"/>
     <skos:prefLabel xml:lang="en">complete</skos:prefLabel>
     <skos:definition xml:lang="en">Judged to be complete.</skos:definition>
     <skos:notation xml:lang="en">c</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturecom#u">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.9het-z010#u">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturecom"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.9het-z010"/>
     <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
     <skos:definition xml:lang="en">Completeness of the item is not known.</skos:definition>
     <skos:notation xml:lang="en">u</skos:notation>
