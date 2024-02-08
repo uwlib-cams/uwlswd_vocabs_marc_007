@@ -6,7 +6,7 @@
    xmlns:schema="https://schema.org/"
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
 >
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturecon">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.er3s-pg07">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
     <dct:type rdf:resource="http://purl.org/dc/dcmitype/Dataset"/>
     <dct:title xml:lang="en">Motion picture: configuration of playback channels</dct:title>
@@ -29,9 +29,9 @@
     <schema:version>1-0-0</schema:version>
     <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturecon#q">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.er3s-pg07#q">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturecon"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.er3s-pg07"/>
     <skos:prefLabel xml:lang="en">quadraphonic, multichannel, or surround</skos:prefLabel>
     <skos:definition xml:lang="en">Configured to be played back or more than two
          channels.</skos:definition>
@@ -39,9 +39,9 @@
          techniques.</skos:scopeNote>
     <skos:notation xml:lang="en">q</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturecon#s">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.er3s-pg07#s">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturecon"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.er3s-pg07"/>
     <skos:prefLabel xml:lang="en">stereophonic</skos:prefLabel>
     <skos:definition xml:lang="en">Configured to be played back on two separate
          channels.</skos:definition>
@@ -49,24 +49,24 @@
          to ascertain that multiple playback sources are available or intended.</skos:scopeNote>
     <skos:notation xml:lang="en">s</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturecon#m">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.er3s-pg07#m">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturecon"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.er3s-pg07"/>
     <skos:prefLabel xml:lang="en">monaural</skos:prefLabel>
     <skos:definition xml:lang="en">Configured to be played back on one channel.</skos:definition>
     <skos:notation xml:lang="en">m</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturecon#u">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.er3s-pg07#u">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturecon"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.er3s-pg07"/>
     <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
     <skos:definition xml:lang="en">Configuration of sound playback channels is not
          known.</skos:definition>
     <skos:notation xml:lang="en">u</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturecon#k">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.er3s-pg07#k">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturecon"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.er3s-pg07"/>
     <skos:prefLabel xml:lang="en">mixed</skos:prefLabel>
     <skos:definition xml:lang="en">More than one configuration of playback channels is available
          on a single motion picture.</skos:definition>
@@ -74,17 +74,17 @@
          stereophonic magnetic sound tracks.</skos:scopeNote>
     <skos:notation xml:lang="en">k</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturecon#z">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.er3s-pg07#z">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturecon"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.er3s-pg07"/>
     <skos:prefLabel xml:lang="en">other</skos:prefLabel>
     <skos:definition xml:lang="en">Configuration of playback channels other than mixed; monaural;
          quadraphonic, multichannel, or surround; or stereophonic.</skos:definition>
     <skos:notation xml:lang="en">z</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturecon#n">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.er3s-pg07#n">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturecon"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.er3s-pg07"/>
     <skos:prefLabel xml:lang="en">not applicable</skos:prefLabel>
     <skos:definition xml:lang="en">Film is silent, has no sound or sound is on separate
          medium.</skos:definition>
