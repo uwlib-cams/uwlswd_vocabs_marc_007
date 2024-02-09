@@ -6,14 +6,14 @@
    xmlns:schema="https://schema.org/"
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
 >
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturegen#u">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4ehm-fa55#u">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturegen"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4ehm-fa55"/>
     <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
     <skos:definition xml:lang="en">Generation stage of the film is not known.</skos:definition>
     <skos:notation xml:lang="en">u</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturegen">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4ehm-fa55">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
     <dct:type rdf:resource="http://purl.org/dc/dcmitype/Dataset"/>
     <dct:title xml:lang="en">Motion picture: generation</dct:title>
@@ -36,9 +36,9 @@
     <schema:version>1-0-0</schema:version>
     <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturegen#d">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4ehm-fa55#d">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturegen"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4ehm-fa55"/>
     <skos:prefLabel xml:lang="en">duplicate</skos:prefLabel>
     <skos:definition xml:lang="en">Duplicate that is usually negative, referred to as a dupe neg,
          and is a reproduction of the original picture or sound track. A duplicate negative is made
@@ -50,17 +50,17 @@
          for release printing simultaneously at different labs.</skos:scopeNote>
     <skos:notation xml:lang="en">d</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturegen#z">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4ehm-fa55#z">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturegen"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4ehm-fa55"/>
     <skos:prefLabel xml:lang="en">other</skos:prefLabel>
     <skos:definition xml:lang="en">Generation other than duplicate, master original, reference
          print/viewing copy.</skos:definition>
     <skos:notation xml:lang="en">z</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturegen#o">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4ehm-fa55#o">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturegen"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4ehm-fa55"/>
     <skos:prefLabel xml:lang="en">original</skos:prefLabel>
     <skos:definition xml:lang="en">Original that is usually negative. It is film exposed in a
          camera and thus of better quality than any subsequent generation or
@@ -69,9 +69,9 @@
          negative. However, the original film may also be a reversal positive.</skos:scopeNote>
     <skos:notation xml:lang="en">o</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturegen#r">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4ehm-fa55#r">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturegen"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4ehm-fa55"/>
     <skos:prefLabel xml:lang="en">reference print/viewing copy</skos:prefLabel>
     <skos:definition xml:lang="en">Reference print (ref print) that is defined technically as a
          release print which has been approved by the producer and director of a film. A reference
@@ -82,9 +82,9 @@
          material.</skos:scopeNote>
     <skos:notation xml:lang="en">r</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturegen#e">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4ehm-fa55#e">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturegen"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4ehm-fa55"/>
     <skos:prefLabel xml:lang="en">master</skos:prefLabel>
     <skos:definition xml:lang="en">Master that is usually positive and referred to as a master
          positive. It is a specially prepared positive print made from an earlier generation
