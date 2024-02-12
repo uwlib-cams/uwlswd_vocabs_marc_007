@@ -6,7 +6,7 @@
    xmlns:schema="https://schema.org/"
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
 >
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturesom">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.adnr-df48">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
     <dct:type rdf:resource="http://purl.org/dc/dcmitype/Dataset"/>
     <dct:title xml:lang="en">Motion picture: sound on medium or separate</dct:title>
@@ -29,33 +29,33 @@
     <schema:version>1-0-0</schema:version>
     <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturesom#b">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.adnr-df48#b">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturesom"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.adnr-df48"/>
     <skos:prefLabel xml:lang="en">sound separate from medium</skos:prefLabel>
     <skos:definition xml:lang="en">Sound is on a separate medium, designed to accompany the
          images</skos:definition>
     <skos:scopeNote xml:lang="en">E.g., a cassette.</skos:scopeNote>
     <skos:notation xml:lang="en">b</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturesom#pound">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.adnr-df48#pound">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturesom"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.adnr-df48"/>
     <skos:prefLabel xml:lang="en">no sound (silent)</skos:prefLabel>
     <skos:definition xml:lang="en">No sound (silent).</skos:definition>
     <skos:notation xml:lang="en">#</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturesom#u">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.adnr-df48#u">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturesom"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.adnr-df48"/>
     <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
     <skos:definition xml:lang="en">Presence or absence of sound on the item is not
          known.</skos:definition>
     <skos:notation xml:lang="en">u</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturesom#a">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.adnr-df48#a">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturesom"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.adnr-df48"/>
     <skos:prefLabel xml:lang="en">sound on medium</skos:prefLabel>
     <skos:definition xml:lang="en">Always used when coding a separate sound track which is
          physically part of the film (e.g., magnetic strip on edge of film base).</skos:definition>
