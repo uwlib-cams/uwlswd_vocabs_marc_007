@@ -6,17 +6,17 @@
    xmlns:schema="https://schema.org/"
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
 >
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturercc#v">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gdvf-z086#v">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturercc"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.gdvf-z086"/>
     <skos:prefLabel xml:lang="en">hand colored</skos:prefLabel>
     <skos:definition xml:lang="en">Image, produced by a photographic process, is hand
          colored.</skos:definition>
     <skos:notation xml:lang="en">v</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturercc#m">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gdvf-z086#m">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturercc"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.gdvf-z086"/>
     <skos:prefLabel xml:lang="en">S E N 3</skos:prefLabel>
     <skos:definition xml:lang="en">Successive exposure negative 3. S E N 3 is a method of motion
          picture color photography in which three color separation negative images were recorded on
@@ -29,16 +29,16 @@
          layer (multilayer) color negative film.</skos:scopeNote>
     <skos:notation xml:lang="en">m</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturercc#d">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gdvf-z086#d">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturercc"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.gdvf-z086"/>
     <skos:prefLabel xml:lang="en">undetermined 3 color</skos:prefLabel>
     <skos:definition xml:lang="en">System of color reproduction, which cannot be specifically
          identified, in which the visible spectrum is divided into three sections, normally red,
          green, and blue, for the purposes of recording and presentation.</skos:definition>
     <skos:notation xml:lang="en">d</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturercc">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gdvf-z086">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
     <dct:type rdf:resource="http://purl.org/dc/dcmitype/Dataset"/>
     <dct:title xml:lang="en">Motion picture: refined categories of color</dct:title>
@@ -61,9 +61,9 @@
     <schema:version>1-0-0</schema:version>
     <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturercc#t">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gdvf-z086#t">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturercc"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.gdvf-z086"/>
     <skos:prefLabel xml:lang="en">stencil color</skos:prefLabel>
     <skos:definition xml:lang="en">Color is added using stencils, one cut for each
          color.</skos:definition>
@@ -71,9 +71,9 @@
          years.</skos:scopeNote>
     <skos:notation xml:lang="en">t</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturercc#g">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gdvf-z086#g">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturercc"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.gdvf-z086"/>
     <skos:prefLabel xml:lang="en">red strip</skos:prefLabel>
     <skos:definition xml:lang="en">Cinecolor process, in which the color separation record of
          blue-green light prints as red. In the Super Cinecolor process, the color separation record
@@ -82,9 +82,9 @@
          red.</skos:definition>
     <skos:notation xml:lang="en">g</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturercc#f">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gdvf-z086#f">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturercc"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.gdvf-z086"/>
     <skos:prefLabel xml:lang="en">2 strip color</skos:prefLabel>
     <skos:definition xml:lang="en">Color system in which two strips of film, one to record red
          light and one to record blue, were run through the camera simultaneously and exposed
@@ -99,9 +99,9 @@
          Magnacolor, and Multicolor.</skos:scopeNote>
     <skos:notation xml:lang="en">f</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturercc#e">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gdvf-z086#e">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturercc"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.gdvf-z086"/>
     <skos:prefLabel xml:lang="en">3 strip color</skos:prefLabel>
     <skos:definition xml:lang="en">Color system in which three color-separation negatives were
          produced on black-and-white film.</skos:definition>
@@ -114,9 +114,9 @@
          which resemble black-and-white negatives.</skos:scopeNote>
     <skos:notation xml:lang="en">e</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturercc#z">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gdvf-z086#z">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturercc"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.gdvf-z086"/>
     <skos:prefLabel xml:lang="en">other</skos:prefLabel>
     <skos:definition xml:lang="en">Refined categories of color other than 3 layer color, 2 color
          single strip, undetermined 2 color, undetermined 3 color, 3 strip color 2 strip color, red
@@ -125,9 +125,9 @@
          colored.</skos:definition>
     <skos:notation xml:lang="en">z</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturercc#a">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gdvf-z086#a">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturercc"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.gdvf-z086"/>
     <skos:prefLabel xml:lang="en">3 layer color</skos:prefLabel>
     <skos:definition xml:lang="en">Three layers of emulsion: cyan, magenta, and yellow. Each layer
          is sensitive to its own primary color.</skos:definition>
@@ -136,9 +136,9 @@
          tri-pack.</skos:scopeNote>
     <skos:notation xml:lang="en">a</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturercc#p">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gdvf-z086#p">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturercc"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.gdvf-z086"/>
     <skos:prefLabel xml:lang="en">sepia tone</skos:prefLabel>
     <skos:definition xml:lang="en">A conversion of a black-and-white image in silver to sepia (a
          brownish grey to dark olive brown) by metallic compounds.</skos:definition>
@@ -147,17 +147,17 @@
          effect.</skos:scopeNote>
     <skos:notation xml:lang="en">p</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturercc#i">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gdvf-z086#i">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturercc"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.gdvf-z086"/>
     <skos:prefLabel xml:lang="en">cyan strip</skos:prefLabel>
     <skos:definition xml:lang="en">Color separation record of red light which prints as
          cyan.</skos:definition>
     <skos:notation xml:lang="en">i</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturercc#r">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gdvf-z086#r">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturercc"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.gdvf-z086"/>
     <skos:prefLabel xml:lang="en">tint</skos:prefLabel>
     <skos:definition xml:lang="en">Early in the history of tinting, a tint was created by dipping
          film in a bath of chemical dyes to get a dominant hue. Later raw stock became available
@@ -167,9 +167,9 @@
          common until the advent of sound.</skos:scopeNote>
     <skos:notation xml:lang="en">r</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturercc#b">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gdvf-z086#b">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturercc"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.gdvf-z086"/>
     <skos:prefLabel xml:lang="en">2 color, single strip</skos:prefLabel>
     <skos:definition xml:lang="en">Single strip of film was exposed with pairs of images by means
          of a beam-splitter prism. One of the pairs of images was exposed through a red filter and
@@ -181,9 +181,9 @@
          until 1936 for animated cartoons.</skos:scopeNote>
     <skos:notation xml:lang="en">b</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturercc#q">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gdvf-z086#q">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturercc"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.gdvf-z086"/>
     <skos:prefLabel xml:lang="en">other tone</skos:prefLabel>
     <skos:definition xml:lang="en">Color created by chemically altering the color, for example,
          uranium produces red, or increasing the brilliance of a print. Toning differs from tinting
@@ -191,9 +191,9 @@
          positive film becomes colored.</skos:definition>
     <skos:notation xml:lang="en">q</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturercc#l">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gdvf-z086#l">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturercc"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.gdvf-z086"/>
     <skos:prefLabel xml:lang="en">S E N 2</skos:prefLabel>
     <skos:definition xml:lang="en">Successive exposure negative 2. S E N 2 is a method of motion
          picture color photography in which two color separation negative images were recorded on
@@ -206,9 +206,9 @@
          (multilayer) color negative film.</skos:scopeNote>
     <skos:notation xml:lang="en">l</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturercc#c">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gdvf-z086#c">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturercc"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.gdvf-z086"/>
     <skos:prefLabel xml:lang="en">undetermined 2 color</skos:prefLabel>
     <skos:definition xml:lang="en">System of color reproduction, which cannot be specifically
          identified, in which the visible spectrum is divided either into blue and red regions or
@@ -219,31 +219,31 @@
          inexpensive.</skos:scopeNote>
     <skos:notation xml:lang="en">c</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturercc#k">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gdvf-z086#k">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturercc"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.gdvf-z086"/>
     <skos:prefLabel xml:lang="en">yellow strip</skos:prefLabel>
     <skos:definition xml:lang="en">Color separation record of blue light which prints as
          yellow.</skos:definition>
     <skos:notation xml:lang="en">k</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturercc#n">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gdvf-z086#n">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturercc"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.gdvf-z086"/>
     <skos:prefLabel xml:lang="en">not applicable</skos:prefLabel>
     <skos:definition xml:lang="en">Item is not a color film.</skos:definition>
     <skos:notation xml:lang="en">n</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturercc#u">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gdvf-z086#u">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturercc"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.gdvf-z086"/>
     <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
     <skos:definition xml:lang="en">Refined category of color is not known.</skos:definition>
     <skos:notation xml:lang="en">u</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturercc#h">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gdvf-z086#h">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturercc"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.gdvf-z086"/>
     <skos:prefLabel xml:lang="en">blue or green strip</skos:prefLabel>
     <skos:definition xml:lang="en">Cinecolor process and the Super Cinecolor process, in which the
          blue strip is the color separation record of red light which prints as blue-green (called
@@ -251,17 +251,17 @@
          separation record of magenta-red light which prints as green.</skos:definition>
     <skos:notation xml:lang="en">h</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturercc#s">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gdvf-z086#s">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturercc"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.gdvf-z086"/>
     <skos:prefLabel xml:lang="en">tinted and toned</skos:prefLabel>
     <skos:definition xml:lang="en">Color has been added to a film by using a tinted base and a
          toned emulsion.</skos:definition>
     <skos:notation xml:lang="en">s</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturercc#j">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gdvf-z086#j">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturercc"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.gdvf-z086"/>
     <skos:prefLabel xml:lang="en">magenta strip</skos:prefLabel>
     <skos:definition xml:lang="en">Color separation record of green light which prints as
          magenta.</skos:definition>
