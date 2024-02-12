@@ -6,7 +6,7 @@
    xmlns:schema="https://schema.org/"
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
 >
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/projectedsom">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.7jyk-8w28">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
     <dct:type rdf:resource="http://purl.org/dc/dcmitype/Dataset"/>
     <dct:title xml:lang="en">Projected graphic: sound on medium or separate</dct:title>
@@ -29,30 +29,30 @@
     <schema:version>1-0-0</schema:version>
     <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/projectedsom#b">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.7jyk-8w28#b">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/projectedsom"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.7jyk-8w28"/>
     <skos:prefLabel xml:lang="en">sound separate from medium</skos:prefLabel>
     <skos:definition xml:lang="en">Sound is on an accompanying item.</skos:definition>
     <skos:notation xml:lang="en">b</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/projectedsom#u">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.7jyk-8w28#u">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/projectedsom"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.7jyk-8w28"/>
     <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
     <skos:definition xml:lang="en">Presence of sound on the item is not known.</skos:definition>
     <skos:notation xml:lang="en">u</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/projectedsom#a">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.7jyk-8w28#a">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/projectedsom"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.7jyk-8w28"/>
     <skos:prefLabel xml:lang="en">sound on medium</skos:prefLabel>
     <skos:definition xml:lang="en">Sound is present and is on the item.</skos:definition>
     <skos:notation xml:lang="en">a</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/projectedsom#pound">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.7jyk-8w28#pound">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/projectedsom"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.7jyk-8w28"/>
     <skos:prefLabel xml:lang="en">no sound (silent)</skos:prefLabel>
     <skos:definition xml:lang="en">No sound (silent).</skos:definition>
     <skos:notation xml:lang="en">#</skos:notation>
