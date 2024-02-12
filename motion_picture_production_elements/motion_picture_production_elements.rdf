@@ -6,7 +6,7 @@
    xmlns:schema="https://schema.org/"
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
 >
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturepro">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.z7rs-y926">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
     <dct:type rdf:resource="http://purl.org/dc/dcmitype/Dataset"/>
     <dct:title xml:lang="en">Motion picture: production elements</dct:title>
@@ -29,54 +29,54 @@
     <schema:version>1-0-0</schema:version>
     <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturepro#g">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.z7rs-y926#g">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturepro"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.z7rs-y926"/>
     <skos:prefLabel xml:lang="en">production rolls</skos:prefLabel>
     <skos:definition xml:lang="en">Various types of production elements (film usually wound on
          cores) before they are cut and assembled into reels.</skos:definition>
     <skos:notation xml:lang="en">g</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturepro#a">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.z7rs-y926#a">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturepro"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.z7rs-y926"/>
     <skos:prefLabel xml:lang="en">workprint</skos:prefLabel>
     <skos:definition xml:lang="en">Print from the original camera footage which is edited to a
          fine degree to achieve the final version.</skos:definition>
     <skos:notation xml:lang="en">a</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturepro#n">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.z7rs-y926#n">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturepro"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.z7rs-y926"/>
     <skos:prefLabel xml:lang="en">not applicable</skos:prefLabel>
     <skos:definition xml:lang="en">Item is not a production element.</skos:definition>
     <skos:notation xml:lang="en">n</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturepro#b">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.z7rs-y926#b">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturepro"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.z7rs-y926"/>
     <skos:prefLabel xml:lang="en">trims</skos:prefLabel>
     <skos:definition xml:lang="en">Sections of shots remaining after the desired portions have
          been incorporated into the workprint.</skos:definition>
     <skos:notation xml:lang="en">b</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturepro#f">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.z7rs-y926#f">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturepro"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.z7rs-y926"/>
     <skos:prefLabel xml:lang="en">title bands/intertitle rolls</skos:prefLabel>
     <skos:definition xml:lang="en">Printed captions or titles separated from their corresponding
          picture.</skos:definition>
     <skos:notation xml:lang="en">f</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturepro#h">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.z7rs-y926#h">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturepro"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.z7rs-y926"/>
     <skos:prefLabel xml:lang="en">other [obsolete]</skos:prefLabel>
     <skos:notation xml:lang="en">h</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturepro#e">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.z7rs-y926#e">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturepro"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.z7rs-y926"/>
     <skos:prefLabel xml:lang="en">mixing tracks</skos:prefLabel>
     <skos:definition xml:lang="en">Separate sound tracks that are combined for the final film
          sound track.</skos:definition>
@@ -84,25 +84,25 @@
          tracks.</skos:scopeNote>
     <skos:notation xml:lang="en">e</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturepro#d">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.z7rs-y926#d">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturepro"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.z7rs-y926"/>
     <skos:prefLabel xml:lang="en">rushes</skos:prefLabel>
     <skos:definition xml:lang="en">First positive prints from the laboratory of the previous day's
          shooting.</skos:definition>
     <skos:scopeNote xml:lang="en">Also called dailies.</skos:scopeNote>
     <skos:notation xml:lang="en">d</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturepro#c">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.z7rs-y926#c">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturepro"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.z7rs-y926"/>
     <skos:prefLabel xml:lang="en">outtakes</skos:prefLabel>
     <skos:definition xml:lang="en">Shots discarded in the editing of a film.</skos:definition>
     <skos:notation xml:lang="en">c</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturepro#z">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.z7rs-y926#z">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturepro"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.z7rs-y926"/>
     <skos:prefLabel xml:lang="en">other</skos:prefLabel>
     <skos:definition xml:lang="en">Production elements other than workprint, trims, outtakes,
          rushes, mixing tracks, title bands/intertitle rolls, or production rolls.</skos:definition>
