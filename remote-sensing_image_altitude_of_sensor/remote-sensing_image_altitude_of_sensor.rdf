@@ -6,7 +6,7 @@
    xmlns:schema="https://schema.org/"
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
 >
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingalt">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.fq7b-6k65">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
     <dct:type rdf:resource="http://purl.org/dc/dcmitype/Dataset"/>
     <dct:title xml:lang="en">Remote-sensing image: altitude of sensor</dct:title>
@@ -29,50 +29,50 @@
     <schema:version>1-0-0</schema:version>
     <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingalt#n">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.fq7b-6k65#n">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingalt"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.fq7b-6k65"/>
     <skos:prefLabel xml:lang="en">not applicable</skos:prefLabel>
     <skos:definition xml:lang="en">Altitude of the sensor is not applicable to the
          image.</skos:definition>
     <skos:notation xml:lang="en">n</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingalt#b">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.fq7b-6k65#b">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingalt"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.fq7b-6k65"/>
     <skos:prefLabel xml:lang="en">airborne</skos:prefLabel>
     <skos:definition xml:lang="en">Remote-sensing image was made from a device above the surface
          of a body, generally in the atmosphere, an aircraft, balloon, or some other airborne
          device.</skos:definition>
     <skos:notation xml:lang="en">b</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingalt#u">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.fq7b-6k65#u">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingalt"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.fq7b-6k65"/>
     <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
     <skos:definition xml:lang="en">Altitude of the sensor from which the image was made is not
          known.</skos:definition>
     <skos:notation xml:lang="en">u</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingalt#z">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.fq7b-6k65#z">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingalt"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.fq7b-6k65"/>
     <skos:prefLabel xml:lang="en">other</skos:prefLabel>
     <skos:definition xml:lang="en">Altitude of sensor other than surface, airborne, or
          spaceborne.</skos:definition>
     <skos:notation xml:lang="en">z</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingalt#a">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.fq7b-6k65#a">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingalt"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.fq7b-6k65"/>
     <skos:prefLabel xml:lang="en">surface</skos:prefLabel>
     <skos:definition xml:lang="en">Remote-sensing image was made from a device located on the
          surface of a body, usually a planet or moon.</skos:definition>
     <skos:notation xml:lang="en">a</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingalt#c">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.fq7b-6k65#c">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingalt"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.fq7b-6k65"/>
     <skos:prefLabel xml:lang="en">spaceborne</skos:prefLabel>
     <skos:definition xml:lang="en">Remote-sensing image was made from a device in space.
          Spaceborne sensors are those located outside the primary layers of an atmosphere (usually
