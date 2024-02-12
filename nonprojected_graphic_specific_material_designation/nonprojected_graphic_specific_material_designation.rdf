@@ -6,40 +6,40 @@
    xmlns:schema="https://schema.org/"
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
 >
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/nonprojectedsmd#k">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gs2r-s451#k">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/nonprojectedsmd"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.gs2r-s451"/>
     <skos:prefLabel xml:lang="en">poster</skos:prefLabel>
     <skos:definition xml:lang="en">Poster.</skos:definition>
     <skos:notation xml:lang="en">k</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/nonprojectedsmd#d">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gs2r-s451#d">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/nonprojectedsmd"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.gs2r-s451"/>
     <skos:prefLabel xml:lang="en">drawing</skos:prefLabel>
     <skos:definition xml:lang="en">Original visual representation (other than a print or painting)
          made with pencil, pen, chalk, or other writing instrument usually on paper or similar
          nonrigid support.</skos:definition>
     <skos:notation xml:lang="en">d</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/nonprojectedsmd#s">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gs2r-s451#s">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/nonprojectedsmd"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.gs2r-s451"/>
     <skos:prefLabel xml:lang="en">study print</skos:prefLabel>
     <skos:definition xml:lang="en">Study print.</skos:definition>
     <skos:notation xml:lang="en">s</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/nonprojectedsmd#c">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gs2r-s451#c">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/nonprojectedsmd"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.gs2r-s451"/>
     <skos:prefLabel xml:lang="en">collage</skos:prefLabel>
     <skos:definition xml:lang="en">Original work created by affixing various materials (paper,
          wood, newspaper, cloth, etc.) to a surface.</skos:definition>
     <skos:notation xml:lang="en">c</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/nonprojectedsmd#f">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gs2r-s451#f">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/nonprojectedsmd"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.gs2r-s451"/>
     <skos:prefLabel xml:lang="en">photomechanical print</skos:prefLabel>
     <skos:definition xml:lang="en">Any picture produced in imitation of another picture through
          the use of photographic process to transfer the image to a printing
@@ -49,9 +49,9 @@
          here.</skos:scopeNote>
     <skos:notation xml:lang="en">f</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/nonprojectedsmd#i">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gs2r-s451#i">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/nonprojectedsmd"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.gs2r-s451"/>
     <skos:prefLabel xml:lang="en">picture</skos:prefLabel>
     <skos:definition xml:lang="en">Two-dimensional visual representation accessible to the naked
          eye and generally on an opaque backing.</skos:definition>
@@ -59,24 +59,24 @@
          desired.</skos:scopeNote>
     <skos:notation xml:lang="en">i</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/nonprojectedsmd#o">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gs2r-s451#o">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/nonprojectedsmd"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.gs2r-s451"/>
     <skos:prefLabel xml:lang="en">flash card</skos:prefLabel>
     <skos:definition xml:lang="en">Card or other opaque material printed with words, numerals, or
          pictures and designed for rapid display.</skos:definition>
     <skos:notation xml:lang="en">o</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/nonprojectedsmd#v">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gs2r-s451#v">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/nonprojectedsmd"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.gs2r-s451"/>
     <skos:prefLabel xml:lang="en">photograph, type unspecified</skos:prefLabel>
     <skos:definition xml:lang="en">Photograph, type unspecified.</skos:definition>
     <skos:notation xml:lang="en">v</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/nonprojectedsmd#g">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gs2r-s451#g">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/nonprojectedsmd"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.gs2r-s451"/>
     <skos:prefLabel xml:lang="en">photonegative</skos:prefLabel>
     <skos:definition xml:lang="en">Piece of film, a glass plate, or pattern on which a negative
          image appears, i.e., directly opposite to a positive image (photoprint), slide, or
@@ -86,46 +86,46 @@
          all of which are considered to be techniques used when making photoprints.</skos:scopeNote>
     <skos:notation xml:lang="en">g</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/nonprojectedsmd#e">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gs2r-s451#e">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/nonprojectedsmd"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.gs2r-s451"/>
     <skos:prefLabel xml:lang="en">painting</skos:prefLabel>
     <skos:definition xml:lang="en">Original visual representation produced by applying paint to a
          surface.</skos:definition>
     <skos:notation xml:lang="en">e</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/nonprojectedsmd#u">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gs2r-s451#u">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/nonprojectedsmd"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.gs2r-s451"/>
     <skos:prefLabel xml:lang="en">unspecified</skos:prefLabel>
     <skos:definition xml:lang="en">Special material designation for the nonprojected graphic is
          not specified.</skos:definition>
     <skos:notation xml:lang="en">u</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/nonprojectedsmd#l">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gs2r-s451#l">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/nonprojectedsmd"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.gs2r-s451"/>
     <skos:prefLabel xml:lang="en">technical drawing</skos:prefLabel>
     <skos:definition xml:lang="en">Cross section, detail, diagram, elevation, perspective, plan,
          working plan, etc., made for use in an engineering or other technical
          context.</skos:definition>
     <skos:notation xml:lang="en">l</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/nonprojectedsmd#p">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gs2r-s451#p">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/nonprojectedsmd"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.gs2r-s451"/>
     <skos:prefLabel xml:lang="en">postcard</skos:prefLabel>
     <skos:definition xml:lang="en">Postcard.</skos:definition>
     <skos:notation xml:lang="en">p</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/nonprojectedsmd#q">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gs2r-s451#q">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/nonprojectedsmd"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.gs2r-s451"/>
     <skos:prefLabel xml:lang="en">icon</skos:prefLabel>
     <skos:definition xml:lang="en">Icon.</skos:definition>
     <skos:notation xml:lang="en">q</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/nonprojectedsmd">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gs2r-s451">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
     <dct:type rdf:resource="http://purl.org/dc/dcmitype/Dataset"/>
     <dct:title xml:lang="en">Nonprojected graphic: specific material designation</dct:title>
@@ -148,9 +148,9 @@
     <schema:version>1-0-0</schema:version>
     <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/nonprojectedsmd#h">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gs2r-s451#h">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/nonprojectedsmd"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.gs2r-s451"/>
     <skos:prefLabel xml:lang="en">photoprint</skos:prefLabel>
     <skos:definition xml:lang="en">Photoprints have a positive image made either directly or
          indirectly on a sensitized surface by the action of light or other radiant energy. The term
@@ -159,9 +159,9 @@
     <skos:scopeNote xml:lang="en">Opaque stereographs are included here.</skos:scopeNote>
     <skos:notation xml:lang="en">h</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/nonprojectedsmd#z">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gs2r-s451#z">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/nonprojectedsmd"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.gs2r-s451"/>
     <skos:prefLabel xml:lang="en">other</skos:prefLabel>
     <skos:definition xml:lang="en">Specific material designation other than activity card,
          collage, drawing, painting, photomechanical print, photonegative, photoprint, picture,
@@ -169,35 +169,35 @@
          print, or photograph type unspecified.</skos:definition>
     <skos:notation xml:lang="en">z</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/nonprojectedsmd#a">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gs2r-s451#a">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/nonprojectedsmd"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.gs2r-s451"/>
     <skos:prefLabel xml:lang="en">activity card</skos:prefLabel>
     <skos:definition xml:lang="en">A card printed with words, numerals, and/or pictures to be used
          by an individual or a group as a basis for performing a specific
          activity.</skos:definition>
     <skos:notation xml:lang="en">a</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/nonprojectedsmd#r">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gs2r-s451#r">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/nonprojectedsmd"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.gs2r-s451"/>
     <skos:prefLabel xml:lang="en">radiograph</skos:prefLabel>
     <skos:definition xml:lang="en">A photograph produced by the passage of radiation, such as X
          rays, gamma rays, or neutrons, through an opaque object.</skos:definition>
     <skos:notation xml:lang="en">r</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/nonprojectedsmd#n">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gs2r-s451#n">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/nonprojectedsmd"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.gs2r-s451"/>
     <skos:prefLabel xml:lang="en">chart</skos:prefLabel>
     <skos:definition xml:lang="en">Opaque sheet that exhibits data in graphic or tabular
          form.</skos:definition>
     <skos:scopeNote xml:lang="en">E.g., a wall chart.</skos:scopeNote>
     <skos:notation xml:lang="en">n</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/nonprojectedsmd#j">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gs2r-s451#j">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/nonprojectedsmd"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.gs2r-s451"/>
     <skos:prefLabel xml:lang="en">print</skos:prefLabel>
     <skos:definition xml:lang="en">Design or picture transferred from an engraved plate, wood
          block, lithographic stone, or other medium. Generally there are four types: planographic
