@@ -6,16 +6,16 @@
    xmlns:schema="https://schema.org/"
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
 >
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingpct#c">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.dmgc-fs34#c">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingpct"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.dmgc-fs34"/>
     <skos:prefLabel xml:lang="en">aircraft - medium altitude</skos:prefLabel>
     <skos:definition xml:lang="en">Base for the remote-sensing device was an dynamic lift aircraft
          designed for medium altitude flight (between 29,500 ft. (8,962 m.) and 49,000 ft. (14,810
          m.)).</skos:definition>
     <skos:notation xml:lang="en">c</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingpct">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.dmgc-fs34">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
     <dct:type rdf:resource="http://purl.org/dc/dcmitype/Dataset"/>
     <dct:title xml:lang="en">Remote-sensing image: platform construction type</dct:title>
@@ -39,9 +39,9 @@
     <schema:version>1-0-0</schema:version>
     <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingpct#z">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.dmgc-fs34#z">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingpct"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.dmgc-fs34"/>
     <skos:prefLabel xml:lang="en">other</skos:prefLabel>
     <skos:definition xml:lang="en">Platform construction type other than balloon, aircraft - low
          altitude, aircraft - medium altitude, aircraft - high altitude, manned spacecraft, unmanned
@@ -49,82 +49,82 @@
          submersible remote-sensing device.</skos:definition>
     <skos:notation xml:lang="en">z</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingpct#g">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.dmgc-fs34#g">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingpct"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.dmgc-fs34"/>
     <skos:prefLabel xml:lang="en">land-based remote-sensing device</skos:prefLabel>
     <skos:definition xml:lang="en">Base for the remote-sensing device was a
          land-based.</skos:definition>
     <skos:notation xml:lang="en">g</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingpct#e">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.dmgc-fs34#e">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingpct"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.dmgc-fs34"/>
     <skos:prefLabel xml:lang="en">manned spacecraft</skos:prefLabel>
     <skos:definition xml:lang="en">Base for the remote-sensing device was a manned
          spacecraft.</skos:definition>
     <skos:notation xml:lang="en">e</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingpct#f">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.dmgc-fs34#f">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingpct"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.dmgc-fs34"/>
     <skos:prefLabel xml:lang="en">unmanned spacecraft</skos:prefLabel>
     <skos:definition xml:lang="en">Base for the remote-sensing device was an unmanned
          spacecraft.</skos:definition>
     <skos:notation xml:lang="en">f</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingpct#i">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.dmgc-fs34#i">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingpct"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.dmgc-fs34"/>
     <skos:prefLabel xml:lang="en">submersible remote-sensing device</skos:prefLabel>
     <skos:definition xml:lang="en">Base for the remote-sensing device was designed to be submerged
          beneath the surface of a body of water</skos:definition>
     <skos:scopeNote xml:lang="en">E.g., a submersible vessel or platform</skos:scopeNote>
     <skos:notation xml:lang="en">i</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingpct#d">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.dmgc-fs34#d">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingpct"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.dmgc-fs34"/>
     <skos:prefLabel xml:lang="en">aircraft - high altitude</skos:prefLabel>
     <skos:definition xml:lang="en">Base for the remote-sensing device was an dynamic lift aircraft
          designed for high altitude flight (above 49,000 ft. (14,810 m.)).</skos:definition>
     <skos:notation xml:lang="en">d</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingpct#n">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.dmgc-fs34#n">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingpct"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.dmgc-fs34"/>
     <skos:prefLabel xml:lang="en">not applicable</skos:prefLabel>
     <skos:definition xml:lang="en">Not applicable.</skos:definition>
     <skos:notation xml:lang="en">n</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingpct#a">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.dmgc-fs34#a">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingpct"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.dmgc-fs34"/>
     <skos:prefLabel xml:lang="en">balloon</skos:prefLabel>
     <skos:definition xml:lang="en">Base for the remote-sensing device was a balloon or similar
          lighter-than-air platform.</skos:definition>
     <skos:notation xml:lang="en">a</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingpct#u">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.dmgc-fs34#u">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingpct"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.dmgc-fs34"/>
     <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
     <skos:definition xml:lang="en">Construction type of the platform from which the remote-sensing
          image was made is not known.</skos:definition>
     <skos:notation xml:lang="en">u</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingpct#h">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.dmgc-fs34#h">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingpct"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.dmgc-fs34"/>
     <skos:prefLabel xml:lang="en">water surface-based remote-sensing device</skos:prefLabel>
     <skos:definition xml:lang="en">Base for the remote-sensing device was designed to remain on
          the surface of a body of water.</skos:definition>
     <skos:scopeNote xml:lang="en">E.g., a ship or floating platform</skos:scopeNote>
     <skos:notation xml:lang="en">h</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingpct#b">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.dmgc-fs34#b">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingpct"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.dmgc-fs34"/>
     <skos:prefLabel xml:lang="en">aircraft - low altitude</skos:prefLabel>
     <skos:definition xml:lang="en">Base for the remote-sensing device was an dynamic lift aircraft
          designed for low altitude flight (below 29,500 ft. (8,962 m.)).</skos:definition>
