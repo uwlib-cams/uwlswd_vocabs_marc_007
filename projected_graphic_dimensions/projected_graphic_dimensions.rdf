@@ -6,55 +6,55 @@
    xmlns:schema="https://schema.org/"
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
 >
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/projecteddim#s">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.2skv-5f55#s">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/projecteddim"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.2skv-5f55"/>
     <skos:prefLabel xml:lang="en">4x5 in. or 10x13 cm. transparency</skos:prefLabel>
     <skos:definition xml:lang="en">Dimensions of the transparency are either 4x5 in. or 10x13
          cm.</skos:definition>
     <skos:notation xml:lang="en">s</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/projecteddim#j">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.2skv-5f55#j">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/projecteddim"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.2skv-5f55"/>
     <skos:prefLabel xml:lang="en">2x2 in. or 5x5 cm. slide</skos:prefLabel>
     <skos:definition xml:lang="en">Dimensions of the slide in its mounting are either 2x2 in. or
          5x5 cm.</skos:definition>
     <skos:notation xml:lang="en">j</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/projecteddim#w">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.2skv-5f55#w">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/projecteddim"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.2skv-5f55"/>
     <skos:prefLabel xml:lang="en">9x9 in. or 23x23 cm. transparency</skos:prefLabel>
     <skos:definition xml:lang="en">Dimensions of the transparency are either 9x9 in. or 23x23
          cm.</skos:definition>
     <skos:notation xml:lang="en">w</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/projecteddim#a">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.2skv-5f55#a">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/projecteddim"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.2skv-5f55"/>
     <skos:prefLabel xml:lang="en">standard 8 mm. film width</skos:prefLabel>
     <skos:definition xml:lang="en">Width of the film is standard 8 mm.</skos:definition>
     <skos:scopeNote xml:lang="en">Includes film termed Mauer 8 mm.</skos:scopeNote>
     <skos:notation xml:lang="en">a</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/projecteddim#v">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.2skv-5f55#v">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/projecteddim"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.2skv-5f55"/>
     <skos:prefLabel xml:lang="en">8x10 in. or 21x26 cm. transparency</skos:prefLabel>
     <skos:definition xml:lang="en">Dimensions of the transparency are either 8x10 in. or 21x26
          cm.</skos:definition>
     <skos:notation xml:lang="en">v</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/projecteddim#k">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.2skv-5f55#k">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/projecteddim"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.2skv-5f55"/>
     <skos:prefLabel xml:lang="en">2 1/4 x 2 1/4 in. or 6x6 cm. slide</skos:prefLabel>
     <skos:definition xml:lang="en">Dimensions of the slide in its mounting are either 2 1/4 x 2
          1/4 in. or 6x6 cm.</skos:definition>
     <skos:notation xml:lang="en">k</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/projecteddim">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.2skv-5f55">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
     <dct:type rdf:resource="http://purl.org/dc/dcmitype/Dataset"/>
     <dct:title xml:lang="en">Projected graphic: dimensions</dct:title>
@@ -78,89 +78,89 @@
     <schema:version>1-0-0</schema:version>
     <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/projecteddim#x">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.2skv-5f55#x">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/projecteddim"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.2skv-5f55"/>
     <skos:prefLabel xml:lang="en">10x10 in. or 26x26 cm. transparency</skos:prefLabel>
     <skos:definition xml:lang="en">Dimensions of the transparency are either 10x10 in. or 26x26
          cm.</skos:definition>
     <skos:notation xml:lang="en">x</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/projecteddim#f">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.2skv-5f55#f">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/projecteddim"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.2skv-5f55"/>
     <skos:prefLabel xml:lang="en">35 mm. film width</skos:prefLabel>
     <skos:definition xml:lang="en">Width of the film is 35 mm.</skos:definition>
     <skos:notation xml:lang="en">f</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/projecteddim#c">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.2skv-5f55#c">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/projecteddim"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.2skv-5f55"/>
     <skos:prefLabel xml:lang="en">9.5 mm. film width</skos:prefLabel>
     <skos:definition xml:lang="en">Width of the film is 9.5 mm.</skos:definition>
     <skos:notation xml:lang="en">c</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/projecteddim#u">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.2skv-5f55#u">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/projecteddim"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.2skv-5f55"/>
     <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
     <skos:definition xml:lang="en">Dimensions are not known.</skos:definition>
     <skos:notation xml:lang="en">u</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/projecteddim#e">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.2skv-5f55#e">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/projecteddim"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.2skv-5f55"/>
     <skos:prefLabel xml:lang="en">28 mm. film width</skos:prefLabel>
     <skos:definition xml:lang="en">Width of the film is 28 mm.</skos:definition>
     <skos:notation xml:lang="en">e</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/projecteddim#t">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.2skv-5f55#t">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/projecteddim"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.2skv-5f55"/>
     <skos:prefLabel xml:lang="en">5x7 in. or 13x18 cm. transparency</skos:prefLabel>
     <skos:definition xml:lang="en">Dimensions of the transparency are either 5x7 in. or 13x18
          cm.</skos:definition>
     <skos:notation xml:lang="en">t</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/projecteddim#ux">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.2skv-5f55#ux">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/projecteddim"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.2skv-5f55"/>
     <skos:prefLabel xml:lang="en">7x7 in. or 18x18 cm. [obsolete]</skos:prefLabel>
     <skos:notation xml:lang="en">u</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/projecteddim#yx">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.2skv-5f55#yx">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/projecteddim"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.2skv-5f55"/>
     <skos:prefLabel xml:lang="en">unknown [obsolete]</skos:prefLabel>
     <skos:notation xml:lang="en">y</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/projecteddim#d">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.2skv-5f55#d">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/projecteddim"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.2skv-5f55"/>
     <skos:prefLabel xml:lang="en">16 mm. film width</skos:prefLabel>
     <skos:definition xml:lang="en">Width of the film is 16 mm.</skos:definition>
     <skos:notation xml:lang="en">d</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/projecteddim#b">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.2skv-5f55#b">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/projecteddim"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.2skv-5f55"/>
     <skos:prefLabel xml:lang="en">super 8 mm./single 8 mm. film width</skos:prefLabel>
     <skos:definition xml:lang="en">Width of the film is super 8 mm.</skos:definition>
     <skos:scopeNote xml:lang="en">Single 8 mm. film is a Japanese equivalent of super 8 mm.
          film.</skos:scopeNote>
     <skos:notation xml:lang="en">b</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/projecteddim#y">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.2skv-5f55#y">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/projecteddim"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.2skv-5f55"/>
     <skos:prefLabel xml:lang="en">7x7 in. or 18x18 cm. transparency</skos:prefLabel>
     <skos:definition xml:lang="en">Dimensions of the transparency are either 7x7 in. or 18x18
          cm.</skos:definition>
     <skos:notation xml:lang="en">y</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/projecteddim#z">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.2skv-5f55#z">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/projecteddim"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.2skv-5f55"/>
     <skos:prefLabel xml:lang="en">other</skos:prefLabel>
     <skos:definition xml:lang="en">Dimensions other than standard 8 mm. film width, super 8
          mm./single 8 mm. film width, 9.5 mm. film width, 16 mm. film width, 28 mm. film width, 35
@@ -170,9 +170,9 @@
          transparency, or 7x7 in. or 18x18 cm. transparency.</skos:definition>
     <skos:notation xml:lang="en">z</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/projecteddim#g">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.2skv-5f55#g">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/projecteddim"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.2skv-5f55"/>
     <skos:prefLabel xml:lang="en">70 mm. film width</skos:prefLabel>
     <skos:definition xml:lang="en">Width of the film is 70 mm.</skos:definition>
     <skos:notation xml:lang="en">g</skos:notation>
