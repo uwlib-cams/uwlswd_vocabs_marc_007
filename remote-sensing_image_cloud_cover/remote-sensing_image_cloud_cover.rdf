@@ -6,7 +6,7 @@
    xmlns:schema="https://schema.org/"
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
 >
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingclo">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.xmqe-4733">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
     <dct:type rdf:resource="http://purl.org/dc/dcmitype/Dataset"/>
     <dct:title xml:lang="en">Remote-sensing image: cloud cover</dct:title>
@@ -29,95 +29,95 @@
     <schema:version>1-0-0</schema:version>
     <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingclo#0">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.xmqe-4733#0">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingclo"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.xmqe-4733"/>
     <skos:prefLabel xml:lang="en">0-9%</skos:prefLabel>
     <skos:definition xml:lang="en">Cloud cover present when an image was taken was between 0 and
          9%.</skos:definition>
     <skos:notation xml:lang="en">0</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingclo#n">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.xmqe-4733#n">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingclo"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.xmqe-4733"/>
     <skos:prefLabel xml:lang="en">not applicable</skos:prefLabel>
     <skos:definition xml:lang="en">Cloud cover is not applicable to the image.</skos:definition>
     <skos:notation xml:lang="en">n</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingclo#4">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.xmqe-4733#4">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingclo"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.xmqe-4733"/>
     <skos:prefLabel xml:lang="en">40-49%</skos:prefLabel>
     <skos:definition xml:lang="en">Cloud cover present when an image was taken was between 40 and
          49%.</skos:definition>
     <skos:notation xml:lang="en">4</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingclo#7">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.xmqe-4733#7">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingclo"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.xmqe-4733"/>
     <skos:prefLabel xml:lang="en">70-79%</skos:prefLabel>
     <skos:definition xml:lang="en">Cloud cover present when an image was taken was between 70 and
          79%.</skos:definition>
     <skos:notation xml:lang="en">7</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingclo#8">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.xmqe-4733#8">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingclo"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.xmqe-4733"/>
     <skos:prefLabel xml:lang="en">80-89%</skos:prefLabel>
     <skos:definition xml:lang="en">Cloud cover present when an image was taken was between 80 and
          89%.</skos:definition>
     <skos:notation xml:lang="en">8</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingclo#2">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.xmqe-4733#2">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingclo"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.xmqe-4733"/>
     <skos:prefLabel xml:lang="en">20-29%</skos:prefLabel>
     <skos:definition xml:lang="en">Cloud cover present when an image was taken was between 20 and
          29%.</skos:definition>
     <skos:notation xml:lang="en">2</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingclo#u">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.xmqe-4733#u">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingclo"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.xmqe-4733"/>
     <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
     <skos:definition xml:lang="en">Amount of cloud cover is not known.</skos:definition>
     <skos:notation xml:lang="en">u</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingclo#3">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.xmqe-4733#3">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingclo"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.xmqe-4733"/>
     <skos:prefLabel xml:lang="en">30-39%</skos:prefLabel>
     <skos:definition xml:lang="en">Cloud cover present when an image was taken was between 30 and
          39%.</skos:definition>
     <skos:notation xml:lang="en">3</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingclo#5">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.xmqe-4733#5">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingclo"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.xmqe-4733"/>
     <skos:prefLabel xml:lang="en">50-59%</skos:prefLabel>
     <skos:definition xml:lang="en">Cloud cover present when an image was taken was between 50 and
          59%.</skos:definition>
     <skos:notation xml:lang="en">5</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingclo#6">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.xmqe-4733#6">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingclo"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.xmqe-4733"/>
     <skos:prefLabel xml:lang="en">60-69%</skos:prefLabel>
     <skos:definition xml:lang="en">Cloud cover present when an image was taken was between 60 and
          69%.</skos:definition>
     <skos:notation xml:lang="en">6</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingclo#1">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.xmqe-4733#1">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingclo"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.xmqe-4733"/>
     <skos:prefLabel xml:lang="en">10-19%</skos:prefLabel>
     <skos:definition xml:lang="en">Cloud cover present when an image was taken was between 10 and
          19%.</skos:definition>
     <skos:notation xml:lang="en">1</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingclo#9">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.xmqe-4733#9">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingclo"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.xmqe-4733"/>
     <skos:prefLabel xml:lang="en">90-100%</skos:prefLabel>
     <skos:definition xml:lang="en">Cloud cover present when an image was taken was between 90 and
          100%.</skos:definition>
