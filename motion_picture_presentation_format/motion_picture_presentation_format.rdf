@@ -6,9 +6,9 @@
    xmlns:schema="https://schema.org/"
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
 >
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturefor#z">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.c9kk-6x09#z">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturefor"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.c9kk-6x09"/>
     <skos:prefLabel xml:lang="en">other</skos:prefLabel>
     <skos:definition xml:lang="en">Motion picture presentation format other than standard sound
          aperture (reduced frame), nonanamorphic (wide-screen), 3d, anamorphic (wide-screen), other
@@ -19,7 +19,7 @@
          ratio, but it does achieve a wide-screen effect.</skos:scopeNote>
     <skos:notation xml:lang="en">z</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturefor">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.c9kk-6x09">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
     <dct:type rdf:resource="http://purl.org/dc/dcmitype/Dataset"/>
     <dct:title xml:lang="en">Motion picture: presentation format</dct:title>
@@ -41,9 +41,9 @@
     <schema:version>1-0-0</schema:version>
     <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturefor#b">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.c9kk-6x09#b">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturefor"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.c9kk-6x09"/>
     <skos:prefLabel xml:lang="en">nonanamorphic (wide-screen)</skos:prefLabel>
     <skos:definition xml:lang="en">Wide-screen effect without optically compressing the image or
          requiring the use of special projection techniques.</skos:definition>
@@ -54,17 +54,17 @@
          aspect ratio.</skos:scopeNote>
     <skos:notation xml:lang="en">b</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturefor#u">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.c9kk-6x09#u">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturefor"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.c9kk-6x09"/>
     <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
     <skos:definition xml:lang="en">Presentation format of the motion picture is not
          known.</skos:definition>
     <skos:notation xml:lang="en">u</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturefor#c">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.c9kk-6x09#c">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturefor"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.c9kk-6x09"/>
     <skos:prefLabel xml:lang="en">3D</skos:prefLabel>
     <skos:definition xml:lang="en">Films which achieve a three-dimensional effect originally
          through the use of two projectors which superimpose two images of the film on the screen
@@ -72,15 +72,15 @@
          by viewers help to create the impression of depth and dimension.</skos:definition>
     <skos:notation xml:lang="en">c</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturefor#ex">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.c9kk-6x09#ex">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturefor"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.c9kk-6x09"/>
     <skos:prefLabel xml:lang="en">other [obsolete]</skos:prefLabel>
     <skos:notation xml:lang="en">e</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturefor#a">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.c9kk-6x09#a">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturefor"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.c9kk-6x09"/>
     <skos:prefLabel xml:lang="en">standard sound aperture (reduced frame)</skos:prefLabel>
     <skos:definition xml:lang="en">Standard sound aperture (reduced frame).</skos:definition>
     <skos:scopeNote xml:lang="en">Used for non-wide-screen formats. Includes all standard sound 35
@@ -89,9 +89,9 @@
          has been cropped to allow space for a sound track.</skos:scopeNote>
     <skos:notation xml:lang="en">a</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturefor#d">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.c9kk-6x09#d">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturefor"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.c9kk-6x09"/>
     <skos:prefLabel xml:lang="en">anamorphic (wide-screen)</skos:prefLabel>
     <skos:definition xml:lang="en">Films which achieve the wide-screen effect through the use of
          an image which is optically compressed or squeezed horizontally. It is then expanded to the
@@ -102,9 +102,9 @@
          mm. film which employs this process.</skos:scopeNote>
     <skos:notation xml:lang="en">d</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturefor#f">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.c9kk-6x09#f">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturefor"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.c9kk-6x09"/>
     <skos:prefLabel xml:lang="en">standard silent aperture (full frame)</skos:prefLabel>
     <skos:definition xml:lang="en">35 mm. film on which the exposed picture is approximately the
          width of the space between the perforation holes of the frame.</skos:definition>
@@ -113,9 +113,9 @@
          sound track.</skos:scopeNote>
     <skos:notation xml:lang="en">f</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturefor#e">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.c9kk-6x09#e">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturefor"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.c9kk-6x09"/>
     <skos:prefLabel xml:lang="en">other wide-screen format</skos:prefLabel>
     <skos:definition xml:lang="en">Any other wide-screen process not covered by other
          codes.</skos:definition>
@@ -126,9 +126,9 @@
          side-by-side.</skos:scopeNote>
     <skos:notation xml:lang="en">e</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/motionpicturefor#n">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.c9kk-6x09#n">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/motionpicturefor"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.c9kk-6x09"/>
     <skos:prefLabel xml:lang="en">not applicable [obsolete]</skos:prefLabel>
     <skos:notation xml:lang="en">n</skos:notation>
   </rdf:Description>
