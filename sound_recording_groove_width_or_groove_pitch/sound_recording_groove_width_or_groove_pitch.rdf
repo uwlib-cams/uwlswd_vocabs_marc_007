@@ -6,7 +6,7 @@
    xmlns:schema="https://schema.org/"
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
 >
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/soundrecordinggro">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.99xj-7684">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
     <dct:type rdf:resource="http://purl.org/dc/dcmitype/Dataset"/>
     <dct:title xml:lang="en">Sound recording: groove width/groove pitch</dct:title>
@@ -29,16 +29,16 @@
     <schema:version>1-0-0</schema:version>
     <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/soundrecordinggro#u">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.99xj-7684#u">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordinggro"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.99xj-7684"/>
     <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
     <skos:definition xml:lang="en">Groove width/groove pitch is not known.</skos:definition>
     <skos:notation xml:lang="en">u</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/soundrecordinggro#m">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.99xj-7684#m">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordinggro"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.99xj-7684"/>
     <skos:prefLabel xml:lang="en">microgroove/fine</skos:prefLabel>
     <skos:definition xml:lang="en">Microgroove disc or a fine cylinder.</skos:definition>
     <skos:scopeNote xml:lang="en">Discs issued at 16, 33 1/3, and 45 rpm are usually issued as
@@ -46,25 +46,25 @@
          issued as fine.</skos:scopeNote>
     <skos:notation xml:lang="en">m</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/soundrecordinggro#n">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.99xj-7684#n">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordinggro"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.99xj-7684"/>
     <skos:prefLabel xml:lang="en">not applicable</skos:prefLabel>
     <skos:definition xml:lang="en">Item does not contain grooves.</skos:definition>
     <skos:scopeNote xml:lang="en">Used for tapes and compact audio discs.</skos:scopeNote>
     <skos:notation xml:lang="en">n</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/soundrecordinggro#z">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.99xj-7684#z">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordinggro"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.99xj-7684"/>
     <skos:prefLabel xml:lang="en">other</skos:prefLabel>
     <skos:definition xml:lang="en">Groove width/groove pitch other than microgroove/fine or
          coarse/standard.</skos:definition>
     <skos:notation xml:lang="en">z</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/soundrecordinggro#s">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.99xj-7684#s">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordinggro"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.99xj-7684"/>
     <skos:prefLabel xml:lang="en">coarse/standard</skos:prefLabel>
     <skos:definition xml:lang="en">Coarse or standard groove.</skos:definition>
     <skos:scopeNote xml:lang="en">Discs issued at 78 rpm are usually coarse. Cylinders issued at
