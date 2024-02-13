@@ -6,9 +6,9 @@
    xmlns:schema="https://schema.org/"
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
 >
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/soundrecordingcut#h">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.pm5s-5m12#h">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordingcut"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.pm5s-5m12"/>
     <skos:prefLabel xml:lang="en">hill-and-dale cutting</skos:prefLabel>
     <skos:definition xml:lang="en">Vertical cutting, with no lateral information intended for
          reproduction.</skos:definition>
@@ -16,7 +16,7 @@
          cutting.</skos:scopeNote>
     <skos:notation xml:lang="en">h</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/soundrecordingcut">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.pm5s-5m12">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
     <dct:type rdf:resource="http://purl.org/dc/dcmitype/Dataset"/>
     <dct:title xml:lang="en">Sound recording: kind of cutting</dct:title>
@@ -39,25 +39,25 @@
     <schema:version>1-0-0</schema:version>
     <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/soundrecordingcut#n">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.pm5s-5m12#n">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordingcut"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.pm5s-5m12"/>
     <skos:prefLabel xml:lang="en">not applicable</skos:prefLabel>
     <skos:definition xml:lang="en">Item is not a disc or a cylinder.</skos:definition>
     <skos:scopeNote xml:lang="en">Includes compact audio discs as they are pitted rather than
          cut.</skos:scopeNote>
     <skos:notation xml:lang="en">n</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/soundrecordingcut#u">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.pm5s-5m12#u">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordingcut"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.pm5s-5m12"/>
     <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
     <skos:definition xml:lang="en">Kind of cutting is not known.</skos:definition>
     <skos:notation xml:lang="en">u</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/soundrecordingcut#l">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.pm5s-5m12#l">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordingcut"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.pm5s-5m12"/>
     <skos:prefLabel xml:lang="en">lateral or combined cutting</skos:prefLabel>
     <skos:definition xml:lang="en">Cutting containing lateral information intended for
          reproduction. Such discs may also have vertical components intended for
