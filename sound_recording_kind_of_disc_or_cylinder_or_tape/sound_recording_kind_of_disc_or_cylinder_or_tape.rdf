@@ -6,27 +6,27 @@
    xmlns:schema="https://schema.org/"
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
 >
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/soundrecordingkin#t">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4sxq-pn90#t">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordingkin"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4sxq-pn90"/>
     <skos:prefLabel xml:lang="en">test pressing</skos:prefLabel>
     <skos:definition xml:lang="en">Either one finished disc or one of a very limited pressing is
          made, designed to be examined aurally before a decision is made to proceed with a
          pressing.</skos:definition>
     <skos:notation xml:lang="en">t</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/soundrecordingkin#u">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4sxq-pn90#u">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordingkin"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4sxq-pn90"/>
     <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
     <skos:definition xml:lang="en">Type of disc, cylinder, or tape is not known.</skos:definition>
     <skos:scopeNote xml:lang="en">Also used when it cannot be determined whether the item is
          instantaneous or mass-produced.</skos:scopeNote>
     <skos:notation xml:lang="en">u</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/soundrecordingkin#r">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4sxq-pn90#r">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordingkin"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4sxq-pn90"/>
     <skos:prefLabel xml:lang="en">mother (positive)</skos:prefLabel>
     <skos:definition xml:lang="en">Exact copy of the original disc recording pressed from the disc
          master. From the metal mother a negative metal stamper is made to press discs for
@@ -34,18 +34,18 @@
     <skos:scopeNote xml:lang="en">Many stampers may be made from a single mother.</skos:scopeNote>
     <skos:notation xml:lang="en">r</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/soundrecordingkin#b">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4sxq-pn90#b">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordingkin"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4sxq-pn90"/>
     <skos:prefLabel xml:lang="en">tape duplication master</skos:prefLabel>
     <skos:definition xml:lang="en">Sound tape produced from the master tape.</skos:definition>
     <skos:scopeNote xml:lang="en">Tape duplication master is played on a tape reproducer to
          produce the sound tape for cassette, cartridge, or reel.</skos:scopeNote>
     <skos:notation xml:lang="en">b</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/soundrecordingkin#d">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4sxq-pn90#d">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordingkin"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4sxq-pn90"/>
     <skos:prefLabel xml:lang="en">disc master (negative)</skos:prefLabel>
     <skos:definition xml:lang="en">Negative disc master that is used for the preparation of the
          mother from which more serviceable and longer lasting metal stampers can be
@@ -55,16 +55,16 @@
          used, and continues to be used, for the preparation of the mother.</skos:scopeNote>
     <skos:notation xml:lang="en">d</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/soundrecordingkin#n">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4sxq-pn90#n">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordingkin"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4sxq-pn90"/>
     <skos:prefLabel xml:lang="en">not applicable</skos:prefLabel>
     <skos:definition xml:lang="en">Item is not a disc, cylinder, or tape.</skos:definition>
     <skos:notation xml:lang="en">n</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/soundrecordingkin#i">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4sxq-pn90#i">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordingkin"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4sxq-pn90"/>
     <skos:prefLabel xml:lang="en">instantaneous (recorded on the spot)</skos:prefLabel>
     <skos:definition xml:lang="en">Original recording of a sound event or performance intended for
          direct reproduction without further processing.</skos:definition>
@@ -73,16 +73,16 @@
          would be instantaneous.</skos:scopeNote>
     <skos:notation xml:lang="en">i</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/soundrecordingkin#z">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4sxq-pn90#z">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordingkin"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4sxq-pn90"/>
     <skos:prefLabel xml:lang="en">other</skos:prefLabel>
     <skos:definition xml:lang="en">Kind of disc, cylinder or tape other than master tape, tape
          duplication master, disc master (negative), instantaneous (recorded on the spot), mass
          produced, mother (positive), stamper (negative), or test pressing.</skos:definition>
     <skos:notation xml:lang="en">z</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/soundrecordingkin">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4sxq-pn90">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
     <dct:type rdf:resource="http://purl.org/dc/dcmitype/Dataset"/>
     <dct:title xml:lang="en">Sound recording: kind of disc, cylinder or tape</dct:title>
@@ -104,9 +104,9 @@
     <schema:version>1-0-0</schema:version>
     <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/soundrecordingkin#a">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4sxq-pn90#a">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordingkin"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4sxq-pn90"/>
     <skos:prefLabel xml:lang="en">master tape</skos:prefLabel>
     <skos:definition xml:lang="en">Final tape production master that is used to make a disc master
          or a tape duplication master.</skos:definition>
@@ -114,17 +114,17 @@
          equalization, compression, phasing, and sound synthesis.</skos:scopeNote>
     <skos:notation xml:lang="en">a</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/soundrecordingkin#s">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4sxq-pn90#s">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordingkin"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4sxq-pn90"/>
     <skos:prefLabel xml:lang="en">stamper (negative)</skos:prefLabel>
     <skos:definition xml:lang="en">Negative metal part, produced from the mother in an
          electroplating procedure, from which 500 to 750 discs may be pressed.</skos:definition>
     <skos:notation xml:lang="en">s</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/soundrecordingkin#m">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4sxq-pn90#m">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordingkin"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4sxq-pn90"/>
     <skos:prefLabel xml:lang="en">mass produced</skos:prefLabel>
     <skos:definition xml:lang="en">Mass produced.</skos:definition>
     <skos:scopeNote xml:lang="en">Includes discs or tapes issued as limited pressing or limited
