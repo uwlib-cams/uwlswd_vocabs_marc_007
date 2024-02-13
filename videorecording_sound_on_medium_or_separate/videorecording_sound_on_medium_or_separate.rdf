@@ -6,7 +6,7 @@
    xmlns:schema="https://schema.org/"
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
 >
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/videosom">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.vjb7-fc54">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
     <dct:type rdf:resource="http://purl.org/dc/dcmitype/Dataset"/>
     <dct:title xml:lang="en">Videorecording: sound on medium or separate</dct:title>
@@ -29,33 +29,33 @@
     <schema:version>1-0-0</schema:version>
     <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/videosom#b">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.vjb7-fc54#b">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/videosom"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.vjb7-fc54"/>
     <skos:prefLabel xml:lang="en">sound separate from medium</skos:prefLabel>
     <skos:definition xml:lang="en">Sound is on a separate medium, designed to accompany the
          images.</skos:definition>
     <skos:notation xml:lang="en">b</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/videosom#pound">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.vjb7-fc54#pound">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/videosom"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.vjb7-fc54"/>
     <skos:prefLabel xml:lang="en">no sound (silent)</skos:prefLabel>
     <skos:definition xml:lang="en">Sound is not present (i.e., the item is intended to be
          silent).</skos:definition>
     <skos:notation xml:lang="en">#</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/videosom#a">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.vjb7-fc54#a">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/videosom"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.vjb7-fc54"/>
     <skos:prefLabel xml:lang="en">sound on medium</skos:prefLabel>
     <skos:definition xml:lang="en">Sound is on the item, whether or not visual images are
          included.</skos:definition>
     <skos:notation xml:lang="en">a</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/videosom#u">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.vjb7-fc54#u">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/videosom"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.vjb7-fc54"/>
     <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
     <skos:definition xml:lang="en">Presence or absence of sound on the item is not
          known.</skos:definition>
