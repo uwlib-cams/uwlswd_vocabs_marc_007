@@ -6,13 +6,13 @@
    xmlns:schema="https://schema.org/"
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
 >
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingsmd#pound">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.fkbb-ea97#pound">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingsmd"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.fkbb-ea97"/>
     <skos:prefLabel xml:lang="en">no type specified [obsolete]</skos:prefLabel>
     <skos:notation xml:lang="en">#</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingsmd">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.fkbb-ea97">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
     <dct:type rdf:resource="http://purl.org/dc/dcmitype/Dataset"/>
     <dct:title xml:lang="en">Remote-sensing image: specfic material designation</dct:title>
@@ -35,9 +35,9 @@
     <schema:version>1-0-0</schema:version>
     <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/remotesensingsmd#u">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.fkbb-ea97#u">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/remotesensingsmd"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.fkbb-ea97"/>
     <skos:prefLabel xml:lang="en">unspecified</skos:prefLabel>
     <skos:definition xml:lang="en">Special material designation of the remote sensing image is
             not specified.</skos:definition>
