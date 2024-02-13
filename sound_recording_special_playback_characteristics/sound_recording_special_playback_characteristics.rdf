@@ -6,27 +6,27 @@
    xmlns:schema="https://schema.org/"
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
 >
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/soundrecordingspc#b">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.a3v4-v844#b">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordingspc"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.a3v4-v844"/>
     <skos:prefLabel xml:lang="en">CCIR standard</skos:prefLabel>
     <skos:definition xml:lang="en">Comité consultatif de la radiodiffusion (CCIR) standard was
          used for the transcription of the recording and CCIR playback equalization is
          required.</skos:definition>
     <skos:notation xml:lang="en">b</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/soundrecordingspc#a">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.a3v4-v844#a">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordingspc"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.a3v4-v844"/>
     <skos:prefLabel xml:lang="en">NAB standard</skos:prefLabel>
     <skos:definition xml:lang="en">National Association of Broadcasters (NAB) standard was used
          for the transcription of the recording and NAB playback equalization is
          required.</skos:definition>
     <skos:notation xml:lang="en">a</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/soundrecordingspc#g">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.a3v4-v844#g">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordingspc"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.a3v4-v844"/>
     <skos:prefLabel xml:lang="en">Dolby-C encoded</skos:prefLabel>
     <skos:definition xml:lang="en">Requires Dolby-C playback equipment.</skos:definition>
     <skos:scopeNote xml:lang="en">Used for tape recordings where the label or packaging clearly
@@ -34,7 +34,7 @@
          explanation normally indicates Dolby-B.</skos:scopeNote>
     <skos:notation xml:lang="en">g</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/soundrecordingspc">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.a3v4-v844">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
     <dct:type rdf:resource="http://purl.org/dc/dcmitype/Dataset"/>
     <dct:title xml:lang="en">Sound recording: special playback characteristics</dct:title>
@@ -59,9 +59,9 @@
     <schema:version>1-0-0</schema:version>
     <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/soundrecordingspc#h">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.a3v4-v844#h">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordingspc"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.a3v4-v844"/>
     <skos:prefLabel xml:lang="en">CX encoded</skos:prefLabel>
     <skos:definition xml:lang="en">Requires CX encoded playback equipment.</skos:definition>
     <skos:scopeNote xml:lang="en">Used for recordings where the symbol or mark CX appears. Such
@@ -69,9 +69,9 @@
          will appear with pressing dates prior to 1981.</skos:scopeNote>
     <skos:notation xml:lang="en">h</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/soundrecordingspc#f">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.a3v4-v844#f">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordingspc"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.a3v4-v844"/>
     <skos:prefLabel xml:lang="en">Dolby-A encoded</skos:prefLabel>
     <skos:definition xml:lang="en">Requires Dolby-A playback equipment.</skos:definition>
     <skos:scopeNote xml:lang="en">Used only for master tapes and other tape recordings where clear
@@ -81,17 +81,17 @@
          Dolby-B, particularly cassette recordings.)</skos:scopeNote>
     <skos:notation xml:lang="en">f</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/soundrecordingspc#n">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.a3v4-v844#n">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordingspc"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.a3v4-v844"/>
     <skos:prefLabel xml:lang="en">not applicable</skos:prefLabel>
     <skos:definition xml:lang="en">Item does not have special playback
          characteristics.</skos:definition>
     <skos:notation xml:lang="en">n</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/soundrecordingspc#e">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.a3v4-v844#e">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordingspc"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.a3v4-v844"/>
     <skos:prefLabel xml:lang="en">digital recording</skos:prefLabel>
     <skos:definition xml:lang="en">Requires digital playback equipment, such as Phillips/Sony
          Compact Discs or Sony PCM tape recordings.</skos:definition>
@@ -101,9 +101,9 @@
          during recording.</skos:scopeNote>
     <skos:notation xml:lang="en">e</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/soundrecordingspc#d">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.a3v4-v844#d">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordingspc"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.a3v4-v844"/>
     <skos:prefLabel xml:lang="en">dbx encoded</skos:prefLabel>
     <skos:definition xml:lang="en">Used for disc or tape recordings which indicate on the label or
          package that dbx decoding is required.</skos:definition>
@@ -111,9 +111,9 @@
          during recording but that standard playback equipment may be used.</skos:scopeNote>
     <skos:notation xml:lang="en">d</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/soundrecordingspc#c">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.a3v4-v844#c">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordingspc"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.a3v4-v844"/>
     <skos:prefLabel xml:lang="en">Dolby-B encoded</skos:prefLabel>
     <skos:definition xml:lang="en">Requires Dolby-B decoding playback equipment.</skos:definition>
     <skos:scopeNote xml:lang="en">Indicated on commercial recordings by the double D insignia
@@ -122,17 +122,17 @@
          on a disc recording, this code is never used for commercial discs.</skos:scopeNote>
     <skos:notation xml:lang="en">c</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/soundrecordingspc#u">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.a3v4-v844#u">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordingspc"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.a3v4-v844"/>
     <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
     <skos:definition xml:lang="en">Playback characteristics of the item are not
          known.</skos:definition>
     <skos:notation xml:lang="en">u</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/soundrecordingspc#z">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.a3v4-v844#z">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordingspc"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.a3v4-v844"/>
     <skos:prefLabel xml:lang="en">other</skos:prefLabel>
     <skos:definition xml:lang="en">Playback characteristics other than NAB standard, CCIR
          standard, Dolby-B encoded, dbx encoded, digital recording, Dolby-A encoded, Dolby-C
