@@ -6,28 +6,28 @@
    xmlns:schema="https://schema.org/"
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
 >
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/soundrecordingdim#a">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4vb3-1g85#a">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordingdim"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4vb3-1g85"/>
     <skos:prefLabel xml:lang="en">3 in. diameter</skos:prefLabel>
     <skos:definition xml:lang="en">3 in. diameter.</skos:definition>
     <skos:notation xml:lang="en">a</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/soundrecordingdim#b">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4vb3-1g85#b">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordingdim"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4vb3-1g85"/>
     <skos:prefLabel xml:lang="en">5 in. diameter</skos:prefLabel>
     <skos:definition xml:lang="en">5 in. diameter.</skos:definition>
     <skos:notation xml:lang="en">b</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/soundrecordingdim#d">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4vb3-1g85#d">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordingdim"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4vb3-1g85"/>
     <skos:prefLabel xml:lang="en">10 in. diameter</skos:prefLabel>
     <skos:definition xml:lang="en">10 in. diameter.</skos:definition>
     <skos:notation xml:lang="en">d</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/soundrecordingdim">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4vb3-1g85">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
     <dct:type rdf:resource="http://purl.org/dc/dcmitype/Dataset"/>
     <dct:title xml:lang="en">Sound recording: dimensions</dct:title>
@@ -50,81 +50,81 @@
     <schema:version>1-0-0</schema:version>
     <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/soundrecordingdim#n">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4vb3-1g85#n">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordingdim"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4vb3-1g85"/>
     <skos:prefLabel xml:lang="en">not applicable</skos:prefLabel>
     <skos:definition xml:lang="en">Sound recording is not a reel, disc, cassette, cartridge, or
          cylinder.</skos:definition>
     <skos:notation xml:lang="en">n</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/soundrecordingdim#j">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4vb3-1g85#j">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordingdim"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4vb3-1g85"/>
     <skos:prefLabel xml:lang="en">3 7/8 x 2 1/2 in.</skos:prefLabel>
     <skos:definition xml:lang="en">Height and width of the cassette are 3 7/8 x 2 1/2
          in.</skos:definition>
     <skos:scopeNote xml:lang="en">Used for a standard compact cassette.</skos:scopeNote>
     <skos:notation xml:lang="en">j</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/soundrecordingdim#z">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4vb3-1g85#z">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordingdim"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4vb3-1g85"/>
     <skos:prefLabel xml:lang="en">other</skos:prefLabel>
     <skos:definition xml:lang="en">Dimensions other than 3 in. diameter, 5 in. diameter, 7 in.
          diameter 10 in. diameter, 12 in. diameter, 16 in. diameter, 4 3/4 in. or 12 cm. diameter, 3
          7/8 x 2 1/2 in., 5 1/4 x 3 7/8 in., or 2 3/4 x 4 in.</skos:definition>
     <skos:notation xml:lang="en">z</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/soundrecordingdim#c">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4vb3-1g85#c">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordingdim"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4vb3-1g85"/>
     <skos:prefLabel xml:lang="en">7 in. diameter</skos:prefLabel>
     <skos:definition xml:lang="en">7 in. diameter.</skos:definition>
     <skos:notation xml:lang="en">c</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/soundrecordingdim#e">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4vb3-1g85#e">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordingdim"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4vb3-1g85"/>
     <skos:prefLabel xml:lang="en">12 in. diameter</skos:prefLabel>
     <skos:definition xml:lang="en">12 in. diameter.</skos:definition>
     <skos:notation xml:lang="en">e</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/soundrecordingdim#g">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4vb3-1g85#g">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordingdim"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4vb3-1g85"/>
     <skos:prefLabel xml:lang="en">4 3/4 in. or 12 cm. diameter</skos:prefLabel>
     <skos:definition xml:lang="en">4 3/4 in. or 12 cm. diameter.</skos:definition>
     <skos:notation xml:lang="en">g</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/soundrecordingdim#s">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4vb3-1g85#s">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordingdim"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4vb3-1g85"/>
     <skos:prefLabel xml:lang="en">2 3/4 x 4 in.</skos:prefLabel>
     <skos:definition xml:lang="en">Dimensions of a cylinder are 2 3/4 in. (diameter) x 4 in.
          (length).</skos:definition>
     <skos:notation xml:lang="en">s</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/soundrecordingdim#o">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4vb3-1g85#o">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordingdim"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4vb3-1g85"/>
     <skos:prefLabel xml:lang="en">5 1/4 x 3 7/8 in.</skos:prefLabel>
     <skos:definition xml:lang="en">Height and width of the cartridge are 5 1/4 x 3 7/8
          in.</skos:definition>
     <skos:scopeNote xml:lang="en">Used for a standard audio cartridge.</skos:scopeNote>
     <skos:notation xml:lang="en">o</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/soundrecordingdim#u">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4vb3-1g85#u">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordingdim"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4vb3-1g85"/>
     <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
     <skos:definition xml:lang="en">Dimensions of the sound recording are not
          known.</skos:definition>
     <skos:notation xml:lang="en">u</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/soundrecordingdim#f">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4vb3-1g85#f">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordingdim"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4vb3-1g85"/>
     <skos:prefLabel xml:lang="en">16 in. diameter</skos:prefLabel>
     <skos:definition xml:lang="en">16 in. diameter.</skos:definition>
     <skos:notation xml:lang="en">f</skos:notation>
