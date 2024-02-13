@@ -6,7 +6,7 @@
    xmlns:schema="https://schema.org/"
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
 >
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/videocol">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.d1cd-6t83">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
     <dct:type rdf:resource="http://purl.org/dc/dcmitype/Dataset"/>
     <dct:title xml:lang="en">Videorecording: color</dct:title>
@@ -28,55 +28,55 @@
     <schema:version>1-0-0</schema:version>
     <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/videocol#m">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.d1cd-6t83#m">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/videocol"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.d1cd-6t83"/>
     <skos:prefLabel xml:lang="en">mixed</skos:prefLabel>
     <skos:definition xml:lang="en">Work or collection is a combination of black-and-white,
          colored, and/or other images.</skos:definition>
     <skos:notation xml:lang="en">m</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/videocol#n">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.d1cd-6t83#n">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/videocol"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.d1cd-6t83"/>
     <skos:prefLabel xml:lang="en">not applicable</skos:prefLabel>
     <skos:definition xml:lang="en">Item has no images.</skos:definition>
     <skos:scopeNote xml:lang="en">E.g., a videorecording with sound only.</skos:scopeNote>
     <skos:notation xml:lang="en">n</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/videocol#z">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.d1cd-6t83#z">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/videocol"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.d1cd-6t83"/>
     <skos:prefLabel xml:lang="en">other</skos:prefLabel>
     <skos:definition xml:lang="en">Color other than one color, black-and-white, multicolored, or
          mixed.</skos:definition>
     <skos:notation xml:lang="en">z</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/videocol#c">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.d1cd-6t83#c">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/videocol"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.d1cd-6t83"/>
     <skos:prefLabel xml:lang="en">multicolored</skos:prefLabel>
     <skos:definition xml:lang="en">Executed in more than one color.</skos:definition>
     <skos:notation xml:lang="en">c</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/videocol#a">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.d1cd-6t83#a">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/videocol"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.d1cd-6t83"/>
     <skos:prefLabel xml:lang="en">one color</skos:prefLabel>
     <skos:definition xml:lang="en">One color.</skos:definition>
     <skos:scopeNote xml:lang="en">Not used with videorecordings.</skos:scopeNote>
     <skos:notation xml:lang="en">a</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/videocol#b">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.d1cd-6t83#b">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/videocol"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.d1cd-6t83"/>
     <skos:prefLabel xml:lang="en">black-and-white</skos:prefLabel>
     <skos:definition xml:lang="en">Executed in black-and-white.</skos:definition>
     <skos:notation xml:lang="en">b</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/videocol#u">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.d1cd-6t83#u">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/videocol"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.d1cd-6t83"/>
     <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
     <skos:definition xml:lang="en">Color characteristics of an item are not
          known.</skos:definition>
