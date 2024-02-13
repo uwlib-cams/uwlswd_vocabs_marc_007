@@ -6,14 +6,14 @@
    xmlns:schema="https://schema.org/"
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
 >
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/soundrecordingwid#u">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4j0p-0k57#u">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordingwid"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4j0p-0k57"/>
     <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
     <skos:definition xml:lang="en">Tape width is not known.</skos:definition>
     <skos:notation xml:lang="en">u</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/soundrecordingwid">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4j0p-0k57">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
     <dct:type rdf:resource="http://purl.org/dc/dcmitype/Dataset"/>
     <dct:title xml:lang="en">Sound recording: tape width</dct:title>
@@ -35,73 +35,73 @@
     <schema:version>1-0-0</schema:version>
     <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/soundrecordingwid#n">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4j0p-0k57#n">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordingwid"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4j0p-0k57"/>
     <skos:prefLabel xml:lang="en">not applicable</skos:prefLabel>
     <skos:definition xml:lang="en">Item is not a tape or does not include a
          tape.</skos:definition>
     <skos:scopeNote xml:lang="en">For example, the item is a disc.</skos:scopeNote>
     <skos:notation xml:lang="en">n</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/soundrecordingwid#l">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4j0p-0k57#l">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordingwid"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4j0p-0k57"/>
     <skos:prefLabel xml:lang="en">1/8 in.</skos:prefLabel>
     <skos:definition xml:lang="en">1/8 inch.</skos:definition>
     <skos:scopeNote xml:lang="en">Most cassettes use 1/8 in. tape.</skos:scopeNote>
     <skos:notation xml:lang="en">l</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/soundrecordingwid#z">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4j0p-0k57#z">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordingwid"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4j0p-0k57"/>
     <skos:prefLabel xml:lang="en">other</skos:prefLabel>
     <skos:definition xml:lang="en">Width other than 1/8 in., 1/4 in., 1/2 in., or 1
          in.</skos:definition>
     <skos:notation xml:lang="en">z</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/soundrecordingwid#c">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4j0p-0k57#c">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordingwid"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4j0p-0k57"/>
     <skos:prefLabel xml:lang="en">1 in. [obsolete]</skos:prefLabel>
     <skos:notation xml:lang="en">c</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/soundrecordingwid#m">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4j0p-0k57#m">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordingwid"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4j0p-0k57"/>
     <skos:prefLabel xml:lang="en">1/4 in.</skos:prefLabel>
     <skos:definition xml:lang="en">1/4 inch.</skos:definition>
     <skos:scopeNote xml:lang="en">Nonprofessional, consumer, and some professional reels, and most
          8-track cartridges use 1/4 in. tape.</skos:scopeNote>
     <skos:notation xml:lang="en">m</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/soundrecordingwid#p">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4j0p-0k57#p">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordingwid"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4j0p-0k57"/>
     <skos:prefLabel xml:lang="en">1 in.</skos:prefLabel>
     <skos:definition xml:lang="en">1 inch.</skos:definition>
     <skos:scopeNote xml:lang="en">Recording studios often use 1 inch tape. Some 8-track cartridges
          have been issued in 1 in. tape.</skos:scopeNote>
     <skos:notation xml:lang="en">p</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/soundrecordingwid#o">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4j0p-0k57#o">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordingwid"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4j0p-0k57"/>
     <skos:prefLabel xml:lang="en">1/2 in.</skos:prefLabel>
     <skos:definition xml:lang="en">1/2 inch.</skos:definition>
     <skos:scopeNote xml:lang="en">Recording studios customarily use 1/2 in. tape. Some 8-track
          cartridges have been issued in 1/2 in. tape.</skos:scopeNote>
     <skos:notation xml:lang="en">o</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/soundrecordingwid#b">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4j0p-0k57#b">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordingwid"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4j0p-0k57"/>
     <skos:prefLabel xml:lang="en">1/2 in. [obsolete]</skos:prefLabel>
     <skos:notation xml:lang="en">b</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/soundrecordingwid#a">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4j0p-0k57#a">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordingwid"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4j0p-0k57"/>
     <skos:prefLabel xml:lang="en">1/4 in. [obsolete]</skos:prefLabel>
     <skos:notation xml:lang="en">a</skos:notation>
   </rdf:Description>
