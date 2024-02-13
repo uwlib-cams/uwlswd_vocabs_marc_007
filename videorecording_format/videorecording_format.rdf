@@ -6,7 +6,7 @@
    xmlns:schema="https://schema.org/"
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
 >
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/videofor">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.b441-n943">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
     <dct:type rdf:resource="http://purl.org/dc/dcmitype/Dataset"/>
     <dct:title xml:lang="en">Videorecording: format</dct:title>
@@ -28,9 +28,9 @@
     <schema:version>1-0-0</schema:version>
     <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/videofor#h">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.b441-n943#h">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/videofor"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.b441-n943"/>
     <skos:prefLabel xml:lang="en">ced (capacitance electronic disc) videodisc</skos:prefLabel>
     <skos:definition xml:lang="en">CED videorecording system is based on a plastic disc, usually
          12 in. in diameter, on which visual information is recorded as deep pits in the bottom of
@@ -41,9 +41,9 @@
          decision to cease production of the "RCA Selectavision" players.</skos:scopeNote>
     <skos:notation xml:lang="en">h</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/videofor#c">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.b441-n943#c">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/videofor"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.b441-n943"/>
     <skos:prefLabel xml:lang="en">U-matic (3/4 in., videocassette)</skos:prefLabel>
     <skos:definition xml:lang="en">Used for a video format using Sony's trademark name which
          refers to its tape threading path in a U-shape. It is the worldwide standard for 3/4 inch
@@ -52,9 +52,9 @@
          standard.</skos:definition>
     <skos:notation xml:lang="en">c</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/videofor#s">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.b441-n943#s">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/videofor"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.b441-n943"/>
     <skos:prefLabel xml:lang="en">Blu-ray disc</skos:prefLabel>
     <skos:definition xml:lang="en">Optical disc format designed for high-definition video and data
          storage developed by Sony/Phillips. Blu-ray uses a blue-violet laser with a shorter wave
@@ -62,9 +62,9 @@
          view the disc.</skos:definition>
     <skos:notation xml:lang="en">s</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/videofor#e">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.b441-n943#e">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/videofor"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.b441-n943"/>
     <skos:prefLabel xml:lang="en">Type C (1 in., reel)</skos:prefLabel>
     <skos:definition xml:lang="en">Used for the 1 inch videotape recording system utilizing one
          video head and tape runs at 9.61 inches per second. Type B system uses 2 heads and runs at
@@ -74,15 +74,15 @@
          Sony, RCA, and others.</skos:definition>
     <skos:notation xml:lang="en">e</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/videofor#n">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.b441-n943#n">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/videofor"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.b441-n943"/>
     <skos:prefLabel xml:lang="en">not applicable [obsolete]</skos:prefLabel>
     <skos:notation xml:lang="en">n</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/videofor#v">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.b441-n943#v">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/videofor"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.b441-n943"/>
     <skos:prefLabel xml:lang="en">DVD</skos:prefLabel>
     <skos:definition xml:lang="en">Laser optical (reflective) videorecording system that uses a
          digital technique called PCM (Pulse Code Modulation) to represent video information on a
@@ -96,9 +96,9 @@
          below it). This system has been in use commercially since late 1996.</skos:scopeNote>
     <skos:notation xml:lang="en">v</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/videofor#k">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.b441-n943#k">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/videofor"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.b441-n943"/>
     <skos:prefLabel xml:lang="en">Super-VHS (1/2 in., videocassette)</skos:prefLabel>
     <skos:definition xml:lang="en">Super-VHS format, which was originally designed for the
          consumer market to encode analog signals using a helical scan on 1/2 inch ferric-oxide
@@ -112,9 +112,9 @@
          cassette into which the mini-cassette is inserted.</skos:definition>
     <skos:notation xml:lang="en">k</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/videofor#g">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.b441-n943#g">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/videofor"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.b441-n943"/>
     <skos:prefLabel xml:lang="en">laserdisc</skos:prefLabel>
     <skos:definition xml:lang="en">Laser optical (reflective) videorecording system that uses an
          analog technique called PWM (Pulse Width Modulation) to represent video information on a
@@ -133,18 +133,18 @@
          to the success of the DVD format.</skos:scopeNote>
     <skos:notation xml:lang="en">g</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/videofor#i">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.b441-n943#i">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/videofor"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.b441-n943"/>
     <skos:prefLabel xml:lang="en">Betacam (1/2 in., videocassette)</skos:prefLabel>
     <skos:definition xml:lang="en">Betacam videorecording format, a professional analog format
          using component coding recorded on 1/2 inch oxide tape, housed in a
          cassette.</skos:definition>
     <skos:notation xml:lang="en">i</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/videofor#o">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.b441-n943#o">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/videofor"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.b441-n943"/>
     <skos:prefLabel xml:lang="en">D-2 (3/4 in., videocassette)</skos:prefLabel>
     <skos:definition xml:lang="en">D-2 videorecording format, a professional digital
          videorecording format using composite coding on 3/4 inch metal particle tape, housed in a
@@ -155,9 +155,9 @@
          analog audio cue and time code.</skos:definition>
     <skos:notation xml:lang="en">o</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/videofor#z">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.b441-n943#z">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/videofor"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.b441-n943"/>
     <skos:prefLabel xml:lang="en">other</skos:prefLabel>
     <skos:definition xml:lang="en">Videorecording format other than Beta (1/2 in., videocassette),
          VHS (1/2 in., videocassette), U-matic (3/4 in., videocassette), EIAJ (1/2 in. reel), Type C
@@ -167,9 +167,9 @@
          videocassette), 8 mm., Hi-8 mm., DVD, or Blu-ray disc.</skos:definition>
     <skos:notation xml:lang="en">z</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/videofor#f">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.b441-n943#f">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/videofor"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.b441-n943"/>
     <skos:prefLabel xml:lang="en">Quadruplex (1 in. or 2 in., reel)</skos:prefLabel>
     <skos:definition xml:lang="en">As opposed to the helical scan system, which uses one head, the
          Quadruplex videorecording system uses four videorecording heads. Often referred to as Quad,
@@ -179,9 +179,9 @@
          expensive helical scan systems have begun to overtake it.</skos:scopeNote>
     <skos:notation xml:lang="en">f</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/videofor#j">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.b441-n943#j">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/videofor"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.b441-n943"/>
     <skos:prefLabel xml:lang="en">Betacam SP (1/2 in., videocassette)</skos:prefLabel>
     <skos:definition xml:lang="en">Betacam SP videorecording format, a professional analog format
          using component coding recorded on 1/2 inch metal tape, housed in a cassette. It is
@@ -190,18 +190,18 @@
          tracks plus two FM (CD quality) audio tracks.</skos:definition>
     <skos:notation xml:lang="en">j</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/videofor#q">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.b441-n943#q">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/videofor"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.b441-n943"/>
     <skos:prefLabel xml:lang="en">Hi-8 mm.</skos:prefLabel>
     <skos:definition xml:lang="en">8 mm. format designed for higher resolution than standard 8mm.
          tape. It is a consumer-market format that uses 8 mm. metal particle or evaportated metal
          tape, housed in a mini-cassette.</skos:definition>
     <skos:notation xml:lang="en">q</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/videofor#d">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.b441-n943#d">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/videofor"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.b441-n943"/>
     <skos:prefLabel xml:lang="en">EIAJ (1/2 in. reel)</skos:prefLabel>
     <skos:definition xml:lang="en">Used for the standard 1/2 inch reel-to-reel helical scan
          videotape system named for the Electronics Industries Association of Japan which set the
@@ -209,9 +209,9 @@
          trailblazer."</skos:definition>
     <skos:notation xml:lang="en">d</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/videofor#a">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.b441-n943#a">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/videofor"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.b441-n943"/>
     <skos:prefLabel xml:lang="en">Beta (1/2 in., videocassette)</skos:prefLabel>
     <skos:definition xml:lang="en">Used for the home video system introduced in 1975 by Sony for
          home videorecording and playback on 1/2 inch videotape. It is distinguished by the size of
@@ -219,9 +219,9 @@
          known as Betamax.</skos:definition>
     <skos:notation xml:lang="en">a</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/videofor#m">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.b441-n943#m">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/videofor"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.b441-n943"/>
     <skos:prefLabel xml:lang="en">M-II (1/2 in., videocassette)</skos:prefLabel>
     <skos:definition xml:lang="en">M-II videorecording format, a professional analog format using
          1/2 inch metallic tape, housed in a cassette.</skos:definition>
@@ -229,16 +229,16 @@
          format developed by Sony.</skos:scopeNote>
     <skos:notation xml:lang="en">m</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/videofor#u">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.b441-n943#u">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/videofor"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.b441-n943"/>
     <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
     <skos:definition xml:lang="en">Videorecording format is not known.</skos:definition>
     <skos:notation xml:lang="en">u</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/videofor#p">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.b441-n943#p">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/videofor"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.b441-n943"/>
     <skos:prefLabel xml:lang="en">8 mm.</skos:prefLabel>
     <skos:definition xml:lang="en">8 mm. format designed for small consumer-market
          camera/recorders (camcorders) using 8 mm. metal particle tape, housed in a mini-cassette.
@@ -246,9 +246,9 @@
          mini formats.</skos:definition>
     <skos:notation xml:lang="en">p</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/videofor#b">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.b441-n943#b">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/videofor"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.b441-n943"/>
     <skos:prefLabel xml:lang="en">VHS (1/2 in., videocassette)</skos:prefLabel>
     <skos:definition xml:lang="en">Used for the home video system introduced in 1977 by Japan
          Victor Corporation (JVC) for home videorecording and playback on 1/2 inch videotape. It is
@@ -256,9 +256,9 @@
          capabilities. VHS stands for "Video Home System."</skos:definition>
     <skos:notation xml:lang="en">b</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/videofor#pound">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.b441-n943#pound">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/videofor"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.b441-n943"/>
     <skos:prefLabel xml:lang="en">not applicable or no attempt to code [obsolete]</skos:prefLabel>
     <skos:notation xml:lang="en">#</skos:notation>
   </rdf:Description>
