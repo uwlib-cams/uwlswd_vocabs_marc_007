@@ -6,20 +6,20 @@
    xmlns:schema="https://schema.org/"
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
 >
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.kdn0-gp92#s">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.0av9-3018#s">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.kdn0-gp92"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.0av9-3018"/>
     <skos:prefLabel xml:lang="en">stereophonic</skos:prefLabel>
     <skos:definition xml:lang="en">Two separate channels.</skos:definition>
     <skos:notation xml:lang="en">s</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.kdn0-gp92#g">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.0av9-3018#g">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.kdn0-gp92"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.0av9-3018"/>
     <skos:prefLabel xml:lang="en">quadraphonic (digital) [obsolete]</skos:prefLabel>
     <skos:notation xml:lang="en">g</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.kdn0-gp92">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.0av9-3018">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
     <dct:type rdf:resource="http://purl.org/dc/dcmitype/Dataset"/>
     <dct:title xml:lang="en">Sound recording: configuration of playback channels</dct:title>
@@ -44,57 +44,57 @@
     <schema:version>1-0-0</schema:version>
     <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.kdn0-gp92#f">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.0av9-3018#f">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.kdn0-gp92"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.0av9-3018"/>
     <skos:prefLabel xml:lang="en">monaural (digital) [obsolete]</skos:prefLabel>
     <skos:notation xml:lang="en">f</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.kdn0-gp92#j">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.0av9-3018#j">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.kdn0-gp92"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.0av9-3018"/>
     <skos:prefLabel xml:lang="en">stereophonic (digital) [obsolete]</skos:prefLabel>
     <skos:notation xml:lang="en">j</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.kdn0-gp92#u">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.0av9-3018#u">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.kdn0-gp92"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.0av9-3018"/>
     <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
     <skos:definition xml:lang="en">Unknown.</skos:definition>
     <skos:notation xml:lang="en">u</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.kdn0-gp92#z">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.0av9-3018#z">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.kdn0-gp92"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.0av9-3018"/>
     <skos:prefLabel xml:lang="en">other</skos:prefLabel>
     <skos:definition xml:lang="en">Configuration other than monaural; quadraphonic, multichannel
          or surround; or stereophonic.</skos:definition>
     <skos:notation xml:lang="en">z</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.kdn0-gp92#k">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.0av9-3018#k">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.kdn0-gp92"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.0av9-3018"/>
     <skos:prefLabel xml:lang="en">other (digital) [obsolete]</skos:prefLabel>
     <skos:notation xml:lang="en">k</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.kdn0-gp92#m">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.0av9-3018#m">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.kdn0-gp92"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.0av9-3018"/>
     <skos:prefLabel xml:lang="en">monaural</skos:prefLabel>
     <skos:definition xml:lang="en">One channel.</skos:definition>
     <skos:notation xml:lang="en">m</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.kdn0-gp92#q">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.0av9-3018#q">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.kdn0-gp92"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.0av9-3018"/>
     <skos:prefLabel xml:lang="en">quadraphonic, multichannel or surround</skos:prefLabel>
     <skos:definition xml:lang="en">More than two separate channels. Use for Dolby surround sound
          tracks.</skos:definition>
     <skos:notation xml:lang="en">q</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.kdn0-gp92#a">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.0av9-3018#a">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.kdn0-gp92"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.0av9-3018"/>
     <skos:prefLabel xml:lang="en">acoustic [obsolete]</skos:prefLabel>
     <skos:notation xml:lang="en">a</skos:notation>
   </rdf:Description>
