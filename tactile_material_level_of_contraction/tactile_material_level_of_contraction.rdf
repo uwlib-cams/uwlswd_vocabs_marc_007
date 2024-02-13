@@ -6,7 +6,7 @@
    xmlns:schema="https://schema.org/"
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
 >
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/tactilelev">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.3jgj-j280">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
     <dct:type rdf:resource="http://purl.org/dc/dcmitype/Dataset"/>
     <dct:title xml:lang="en">Tactile material: level of contraction</dct:title>
@@ -30,16 +30,16 @@
     <schema:version>1-0-0</schema:version>
     <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/tactilelev#m">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.3jgj-j280#m">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/tactilelev"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.3jgj-j280"/>
     <skos:prefLabel xml:lang="en">combination</skos:prefLabel>
     <skos:definition xml:lang="en">A combination of contracted and uncontracted.</skos:definition>
     <skos:notation xml:lang="en">m</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/tactilelev#b">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.3jgj-j280#b">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/tactilelev"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.3jgj-j280"/>
     <skos:prefLabel xml:lang="en">contracted</skos:prefLabel>
     <skos:definition xml:lang="en">Contracted.</skos:definition>
     <skos:scopeNote xml:lang="en">Includes Standard English braille, the code for contracted
@@ -47,31 +47,31 @@
          the code for contracted braille of the Braille Authority of North America.</skos:scopeNote>
     <skos:notation xml:lang="en">b</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/tactilelev#n">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.3jgj-j280#n">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/tactilelev"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.3jgj-j280"/>
     <skos:prefLabel xml:lang="en">not applicable</skos:prefLabel>
     <skos:definition xml:lang="en">Item is not braille or Moon.</skos:definition>
     <skos:notation xml:lang="en">n</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/tactilelev#u">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.3jgj-j280#u">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/tactilelev"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.3jgj-j280"/>
     <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
     <skos:definition xml:lang="en">Level of contraction is not known.</skos:definition>
     <skos:notation xml:lang="en">u</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/tactilelev#z">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.3jgj-j280#z">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/tactilelev"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.3jgj-j280"/>
     <skos:prefLabel xml:lang="en">other</skos:prefLabel>
     <skos:definition xml:lang="en">Level of contraction other than uncontracted, contracted, or
          combination.</skos:definition>
     <skos:notation xml:lang="en">z</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/tactilelev#a">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.3jgj-j280#a">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/tactilelev"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.3jgj-j280"/>
     <skos:prefLabel xml:lang="en">uncontracted</skos:prefLabel>
     <skos:definition xml:lang="en">Not contracted.</skos:definition>
     <skos:scopeNote xml:lang="en">Includes grade 1 braille.</skos:scopeNote>
