@@ -6,29 +6,29 @@
    xmlns:schema="https://schema.org/"
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
 >
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/textsmd#b">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.eqmf-h666#b">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/textsmd"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.eqmf-h666"/>
     <skos:prefLabel xml:lang="en">large print</skos:prefLabel>
     <skos:definition xml:lang="en">Large print text is oversized print intended for use by the
          visually impaired.</skos:definition>
     <skos:notation xml:lang="en">b</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/textsmd#d">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.eqmf-h666#d">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/textsmd"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.eqmf-h666"/>
     <skos:prefLabel xml:lang="en">text in looseleaf binder</skos:prefLabel>
     <skos:definition xml:lang="en">Text in a loose-leaf binder.</skos:definition>
     <skos:notation xml:lang="en">d</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/textsmd#a">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.eqmf-h666#a">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/textsmd"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.eqmf-h666"/>
     <skos:prefLabel xml:lang="en">regular print</skos:prefLabel>
     <skos:definition xml:lang="en">Regular, eye-readable text.</skos:definition>
     <skos:notation xml:lang="en">a</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/textsmd">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.eqmf-h666">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
     <dct:type rdf:resource="http://purl.org/dc/dcmitype/Dataset"/>
     <dct:title xml:lang="en">Text: specific material designation</dct:title>
@@ -51,26 +51,26 @@
     <schema:version>1-0-0</schema:version>
     <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/textsmd#c">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.eqmf-h666#c">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/textsmd"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.eqmf-h666"/>
     <skos:prefLabel xml:lang="en">braille</skos:prefLabel>
     <skos:definition xml:lang="en">Braille text is embossed characters that have been formed by
          raised dots in six-dot cells; braille is intended for use by the visually
          impaired.</skos:definition>
     <skos:notation xml:lang="en">c</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/textsmd#z">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.eqmf-h666#z">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/textsmd"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.eqmf-h666"/>
     <skos:prefLabel xml:lang="en">other</skos:prefLabel>
     <skos:definition xml:lang="en">Specific material designation other than regular print, large
          print, braille, or text in looseleaf binder.</skos:definition>
     <skos:notation xml:lang="en">z</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/textsmd#u">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.eqmf-h666#u">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/textsmd"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.eqmf-h666"/>
     <skos:prefLabel xml:lang="en">unspecified</skos:prefLabel>
     <skos:definition xml:lang="en">Special material designation of the text is not
          specified.</skos:definition>
