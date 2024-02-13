@@ -6,7 +6,7 @@
    xmlns:schema="https://schema.org/"
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
 >
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/soundrecordingmat">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.hteb-5554">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
     <dct:type rdf:resource="http://purl.org/dc/dcmitype/Dataset"/>
     <dct:title xml:lang="en">Sound recording: kind of material</dct:title>
@@ -29,9 +29,9 @@
     <schema:version>1-0-0</schema:version>
     <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/soundrecordingmat#z">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.hteb-5554#z">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordingmat"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.hteb-5554"/>
     <skos:prefLabel xml:lang="en">other</skos:prefLabel>
     <skos:definition xml:lang="en">Kind of material other than lacquer coating, cellulose nitrate,
          acetate tape with ferrous oxide. glass with lacquer, aluminum with lacquer, metal, plastic
@@ -39,39 +39,39 @@
          wax.</skos:definition>
     <skos:notation xml:lang="en">z</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/soundrecordingmat#mx">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.hteb-5554#mx">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordingmat"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.hteb-5554"/>
     <skos:prefLabel xml:lang="en">molded cylinder-mass produced [obsolete]</skos:prefLabel>
     <skos:notation xml:lang="en">m</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/soundrecordingmat#w">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.hteb-5554#w">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordingmat"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.hteb-5554"/>
     <skos:prefLabel xml:lang="en">wax</skos:prefLabel>
     <skos:definition xml:lang="en">Made entirely of wax.</skos:definition>
     <skos:scopeNote xml:lang="en">Most instantaneous cylinders were made of wax.</skos:scopeNote>
     <skos:notation xml:lang="en">w</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/soundrecordingmat#a">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.hteb-5554#a">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordingmat"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.hteb-5554"/>
     <skos:prefLabel xml:lang="en">lacquer coating</skos:prefLabel>
     <skos:definition xml:lang="en">Lacquer coated, but the base material on which the lacquer is
          applied is not identified.</skos:definition>
     <skos:notation xml:lang="en">a</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/soundrecordingmat#r">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.hteb-5554#r">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordingmat"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.hteb-5554"/>
     <skos:prefLabel xml:lang="en">paper with lacquer or ferrous oxide</skos:prefLabel>
     <skos:definition xml:lang="en">Paper or cardboard disc, tape, or cylinder base with a lacquer
          or ferrous oxide coating.</skos:definition>
     <skos:notation xml:lang="en">r</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/soundrecordingmat#nx">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.hteb-5554#nx">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordingmat"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.hteb-5554"/>
     <skos:prefLabel xml:lang="en">not applicable</skos:prefLabel>
     <skos:definition xml:lang="en">Item does not have a kind of material that contains sound
          recording information.</skos:definition>
@@ -80,16 +80,16 @@
          carriers.</skos:scopeNote>
     <skos:notation xml:lang="en">n</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/soundrecordingmat#i">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.hteb-5554#i">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordingmat"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.hteb-5554"/>
     <skos:prefLabel xml:lang="en">aluminum with lacquer</skos:prefLabel>
     <skos:definition xml:lang="en">Aluminum disc base with a lacquer coating.</skos:definition>
     <skos:notation xml:lang="en">i</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/soundrecordingmat#p">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.hteb-5554#p">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordingmat"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.hteb-5554"/>
     <skos:prefLabel xml:lang="en">plastic</skos:prefLabel>
     <skos:definition xml:lang="en">Made entirely of plastic.</skos:definition>
     <skos:scopeNote xml:lang="en">Also includes mylar, polyester and vinyl materials. Since the
@@ -97,18 +97,18 @@
          cassettes, and cartridges are made of plastic.</skos:scopeNote>
     <skos:notation xml:lang="en">p</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/soundrecordingmat#m">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.hteb-5554#m">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordingmat"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.hteb-5554"/>
     <skos:prefLabel xml:lang="en">plastic with metal</skos:prefLabel>
     <skos:definition xml:lang="en">Made of plastic base with a metal coating.</skos:definition>
     <skos:scopeNote xml:lang="en">The metal part of such an item is often a thin layer applied to
          the plastic base. Includes compact audio discs (CDs).</skos:scopeNote>
     <skos:notation xml:lang="en">m</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/soundrecordingmat#l">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.hteb-5554#l">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordingmat"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.hteb-5554"/>
     <skos:prefLabel xml:lang="en">metal</skos:prefLabel>
     <skos:definition xml:lang="en">Made entirely of metal.</skos:definition>
     <skos:scopeNote xml:lang="en">Includes the earliest cylinders, which were made of tinfoil, and
@@ -116,41 +116,41 @@
          tape.</skos:scopeNote>
     <skos:notation xml:lang="en">l</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/soundrecordingmat#g">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.hteb-5554#g">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordingmat"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.hteb-5554"/>
     <skos:prefLabel xml:lang="en">glass with lacquer</skos:prefLabel>
     <skos:definition xml:lang="en">Glass disc base with a lacquer coating.</skos:definition>
     <skos:notation xml:lang="en">g</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/soundrecordingmat#b">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.hteb-5554#b">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordingmat"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.hteb-5554"/>
     <skos:prefLabel xml:lang="en">cellulose nitrate</skos:prefLabel>
     <skos:definition xml:lang="en">Cellulose nitrate base.</skos:definition>
     <skos:scopeNote xml:lang="en">used for items such as memovox discs.</skos:scopeNote>
     <skos:notation xml:lang="en">b</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/soundrecordingmat#s">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.hteb-5554#s">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordingmat"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.hteb-5554"/>
     <skos:prefLabel xml:lang="en">shellac</skos:prefLabel>
     <skos:definition xml:lang="en">Made entirely of shellac.</skos:definition>
     <skos:scopeNote xml:lang="en">Most commercial or mass-produced 78 rpm discs are made of
          shellac.</skos:scopeNote>
     <skos:notation xml:lang="en">s</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/soundrecordingmat#u">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.hteb-5554#u">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordingmat"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.hteb-5554"/>
     <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
     <skos:definition xml:lang="en">Kind of material used in the manufacture of the item is not
          known.</skos:definition>
     <skos:notation xml:lang="en">u</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/soundrecordingmat#c">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.hteb-5554#c">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordingmat"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.hteb-5554"/>
     <skos:prefLabel xml:lang="en">acetate tape with ferrous oxide</skos:prefLabel>
     <skos:definition xml:lang="en">Acetate base with a ferrous oxide coating.</skos:definition>
     <skos:scopeNote xml:lang="en">May include acetate tape and belts, such as
