@@ -6,9 +6,9 @@
    xmlns:schema="https://schema.org/"
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
 >
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/soundrecordingcap#a">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.v4qn-rb56#a">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordingcap"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.v4qn-rb56"/>
     <skos:prefLabel xml:lang="en">acoustical capture, direct storage</skos:prefLabel>
     <skos:definition xml:lang="en">Usually a disc or cylinder recording, captured using an
          acoustical horn and diaphragm and stored directly on a master surface.</skos:definition>
@@ -16,18 +16,18 @@
          electrical recording equipment became available.</skos:scopeNote>
     <skos:notation xml:lang="en">a</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/soundrecordingcap#z">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.v4qn-rb56#z">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordingcap"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.v4qn-rb56"/>
     <skos:prefLabel xml:lang="en">other</skos:prefLabel>
     <skos:definition xml:lang="en">Capture and storage technique other than acoustical capture,
          direct storage; direct storage, not acoustical; digital storage; or analog electrical
          storage.</skos:definition>
     <skos:notation xml:lang="en">z</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/soundrecordingcap#e">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.v4qn-rb56#e">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordingcap"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.v4qn-rb56"/>
     <skos:prefLabel xml:lang="en">analog electrical storage</skos:prefLabel>
     <skos:definition xml:lang="en">Sound recordings which were captured using electrical
          techniques and stored as modulations and pulses on a magnetic surface.</skos:definition>
@@ -35,9 +35,9 @@
          analog electrical recordings.</skos:scopeNote>
     <skos:notation xml:lang="en">e</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/soundrecordingcap#d">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.v4qn-rb56#d">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordingcap"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.v4qn-rb56"/>
     <skos:prefLabel xml:lang="en">digital storage</skos:prefLabel>
     <skos:definition xml:lang="en">Sound recordings which were captured electrically and stored
          using digital techniques.</skos:definition>
@@ -47,14 +47,14 @@
          Digital storage and digital playback should not be confused.</skos:scopeNote>
     <skos:notation xml:lang="en">d</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/soundrecordingcap#u">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.v4qn-rb56#u">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordingcap"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.v4qn-rb56"/>
     <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
     <skos:definition xml:lang="en">Capture and storage technique are not known.</skos:definition>
     <skos:notation xml:lang="en">u</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/soundrecordingcap">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.v4qn-rb56">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
     <dct:type rdf:resource="http://purl.org/dc/dcmitype/Dataset"/>
     <dct:title xml:lang="en">Sound recording: original capture and storage technique</dct:title>
@@ -77,9 +77,9 @@
     <schema:version>1-0-0</schema:version>
     <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://fakeIRI.edu/terms/soundrecordingcap#b">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.v4qn-rb56#b">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="http://fakeIRI.edu/terms/soundrecordingcap"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.v4qn-rb56"/>
     <skos:prefLabel xml:lang="en">direct storage, not acoustical</skos:prefLabel>
     <skos:definition xml:lang="en">Disc recordings captured using electrical equipment and stored
          directly on a master surface.</skos:definition>
