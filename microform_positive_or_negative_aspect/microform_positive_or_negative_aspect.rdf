@@ -6,30 +6,6 @@
    xmlns:schema="https://schema.org/"
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
 >
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.v2wq-nz72#b">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.v2wq-nz72"/>
-    <skos:prefLabel xml:lang="en">negative</skos:prefLabel>
-    <skos:definition xml:lang="en">Lines and characters appear light against a dark
-         background.</skos:definition>
-    <skos:notation xml:lang="en">b</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.v2wq-nz72#a">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.v2wq-nz72"/>
-    <skos:prefLabel xml:lang="en">positive</skos:prefLabel>
-    <skos:definition xml:lang="en">Lines and characters appear dark against a light
-         background.</skos:definition>
-    <skos:scopeNote xml:lang="en">Used for microopaques.</skos:scopeNote>
-    <skos:notation xml:lang="en">a</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.v2wq-nz72#u">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.v2wq-nz72"/>
-    <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
-    <skos:definition xml:lang="en">Polarity of the microform is not known.</skos:definition>
-    <skos:notation xml:lang="en">u</skos:notation>
-  </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.v2wq-nz72">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
     <dct:type rdf:resource="http://purl.org/dc/dcmitype/Dataset"/>
@@ -52,6 +28,30 @@
     <dct:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0"/>
     <schema:version>1-0-0</schema:version>
     <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.v2wq-nz72#b">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.v2wq-nz72"/>
+    <skos:prefLabel xml:lang="en">negative</skos:prefLabel>
+    <skos:definition xml:lang="en">Lines and characters appear light against a dark
+         background.</skos:definition>
+    <skos:notation xml:lang="en">b</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.v2wq-nz72#u">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.v2wq-nz72"/>
+    <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
+    <skos:definition xml:lang="en">Polarity of the microform is not known.</skos:definition>
+    <skos:notation xml:lang="en">u</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.v2wq-nz72#a">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.v2wq-nz72"/>
+    <skos:prefLabel xml:lang="en">positive</skos:prefLabel>
+    <skos:definition xml:lang="en">Lines and characters appear dark against a light
+         background.</skos:definition>
+    <skos:scopeNote xml:lang="en">Used for microopaques.</skos:scopeNote>
+    <skos:notation xml:lang="en">a</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.v2wq-nz72#m">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>

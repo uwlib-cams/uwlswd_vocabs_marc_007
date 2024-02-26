@@ -6,13 +6,13 @@
    xmlns:schema="https://schema.org/"
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
 >
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8svz-r036#u">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8svz-r036#n">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8svz-r036"/>
-    <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
-    <skos:definition xml:lang="en">Reformatting quality of the electronic resource is not
-         known.</skos:definition>
-    <skos:notation xml:lang="en">u</skos:notation>
+    <skos:prefLabel xml:lang="en">not applicable</skos:prefLabel>
+    <skos:definition xml:lang="en">Reformatting quality is not applicable to the electronic
+         resource.</skos:definition>
+    <skos:notation xml:lang="en">n</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8svz-r036">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
@@ -37,15 +37,6 @@
     <schema:version>1-0-0</schema:version>
     <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8svz-r036#r">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8svz-r036"/>
-    <skos:prefLabel xml:lang="en">replacement</skos:prefLabel>
-    <skos:definition xml:lang="en">Electronic resource is of very high quality and, when printed
-         out, viewed on screen or played via a listening device, could serve as a replacement should
-         the original be lost, damaged, or destroyed.</skos:definition>
-    <skos:notation xml:lang="en">r</skos:notation>
-  </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8svz-r036#p">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8svz-r036"/>
@@ -56,14 +47,6 @@
          files ensure high-quality, long-term electronic resources that warrant long-term
          protection.</skos:scopeNote>
     <skos:notation xml:lang="en">p</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8svz-r036#n">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8svz-r036"/>
-    <skos:prefLabel xml:lang="en">not applicable</skos:prefLabel>
-    <skos:definition xml:lang="en">Reformatting quality is not applicable to the electronic
-         resource.</skos:definition>
-    <skos:notation xml:lang="en">n</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8svz-r036#a">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -81,5 +64,22 @@
          which will be discarded in accordance with previous copyright agreements which specify a
          time limit on the retention of the electronic resource.</skos:scopeNote>
     <skos:notation xml:lang="en">a</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8svz-r036#r">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8svz-r036"/>
+    <skos:prefLabel xml:lang="en">replacement</skos:prefLabel>
+    <skos:definition xml:lang="en">Electronic resource is of very high quality and, when printed
+         out, viewed on screen or played via a listening device, could serve as a replacement should
+         the original be lost, damaged, or destroyed.</skos:definition>
+    <skos:notation xml:lang="en">r</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.8svz-r036#u">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.8svz-r036"/>
+    <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
+    <skos:definition xml:lang="en">Reformatting quality of the electronic resource is not
+         known.</skos:definition>
+    <skos:notation xml:lang="en">u</skos:notation>
   </rdf:Description>
 </rdf:RDF>

@@ -6,39 +6,6 @@
    xmlns:schema="https://schema.org/"
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
 >
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.brtx-qb17#d">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.brtx-qb17"/>
-    <skos:prefLabel xml:lang="en">file reproduced from an intermediate (not
-         microform</skos:prefLabel>
-    <skos:definition xml:lang="en">Content comprising the electronic resource has been created by
-         reformatting/digitizing from an intermediate other than microform.</skos:definition>
-    <skos:scopeNote xml:lang="en">Common examples of non-microfom intermediates for visual and
-         textual materials are: photocopies, 35 mm film, transparencies, slides, 2nd generation
-         video tape, etc. A common example of an intermediate for audio materials is 2nd generation
-         analog tapes.</skos:scopeNote>
-    <skos:notation xml:lang="en">d</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.brtx-qb17#m">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.brtx-qb17"/>
-    <skos:prefLabel xml:lang="en">mixed</skos:prefLabel>
-    <skos:definition xml:lang="en">Images comprising the electronic resource have been created
-         from mixed sources.</skos:definition>
-    <skos:scopeNote xml:lang="en">Portions scanned from original item, portions scanned from
-         microfilm, etc.</skos:scopeNote>
-    <skos:notation xml:lang="en">m</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.brtx-qb17#n">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.brtx-qb17"/>
-    <skos:prefLabel xml:lang="en">not applicable</skos:prefLabel>
-    <skos:definition xml:lang="en">Antecedent or source are not applicable to this electronic
-         resource.</skos:definition>
-    <skos:scopeNote xml:lang="en">Appropriate for electronic resources other than those created
-         during a reformatting process.</skos:scopeNote>
-    <skos:notation xml:lang="en">n</skos:notation>
-  </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.brtx-qb17#b">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.brtx-qb17"/>
@@ -76,6 +43,17 @@
     <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/electronic_resource_antecedent_or_source/electronic_resource_antecedent_or_source.jsonld"/>
     <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/electronic_resource_antecedent_or_source/electronic_resource_antecedent_or_source.html"/>
   </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.brtx-qb17#c">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.brtx-qb17"/>
+    <skos:prefLabel xml:lang="en">file reproduced from an electronic resource</skos:prefLabel>
+    <skos:definition xml:lang="en">Electronic resource has been created or copied from an existing
+         electronic resource.</skos:definition>
+    <skos:scopeNote xml:lang="en">E.g., to generate new copies or derivative copies with lower
+         resolution or smaller file size; to process an existing file with Optical Character
+         Recognition - OCR - software; etc.</skos:scopeNote>
+    <skos:notation xml:lang="en">c</skos:notation>
+  </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.brtx-qb17#u">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.brtx-qb17"/>
@@ -97,15 +75,37 @@
          the original.</skos:scopeNote>
     <skos:notation xml:lang="en">a</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.brtx-qb17#c">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.brtx-qb17#m">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.brtx-qb17"/>
-    <skos:prefLabel xml:lang="en">file reproduced from an electronic resource</skos:prefLabel>
-    <skos:definition xml:lang="en">Electronic resource has been created or copied from an existing
-         electronic resource.</skos:definition>
-    <skos:scopeNote xml:lang="en">E.g., to generate new copies or derivative copies with lower
-         resolution or smaller file size; to process an existing file with Optical Character
-         Recognition - OCR - software; etc.</skos:scopeNote>
-    <skos:notation xml:lang="en">c</skos:notation>
+    <skos:prefLabel xml:lang="en">mixed</skos:prefLabel>
+    <skos:definition xml:lang="en">Images comprising the electronic resource have been created
+         from mixed sources.</skos:definition>
+    <skos:scopeNote xml:lang="en">Portions scanned from original item, portions scanned from
+         microfilm, etc.</skos:scopeNote>
+    <skos:notation xml:lang="en">m</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.brtx-qb17#d">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.brtx-qb17"/>
+    <skos:prefLabel xml:lang="en">file reproduced from an intermediate (not
+         microform</skos:prefLabel>
+    <skos:definition xml:lang="en">Content comprising the electronic resource has been created by
+         reformatting/digitizing from an intermediate other than microform.</skos:definition>
+    <skos:scopeNote xml:lang="en">Common examples of non-microfom intermediates for visual and
+         textual materials are: photocopies, 35 mm film, transparencies, slides, 2nd generation
+         video tape, etc. A common example of an intermediate for audio materials is 2nd generation
+         analog tapes.</skos:scopeNote>
+    <skos:notation xml:lang="en">d</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.brtx-qb17#n">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.brtx-qb17"/>
+    <skos:prefLabel xml:lang="en">not applicable</skos:prefLabel>
+    <skos:definition xml:lang="en">Antecedent or source are not applicable to this electronic
+         resource.</skos:definition>
+    <skos:scopeNote xml:lang="en">Appropriate for electronic resources other than those created
+         during a reformatting process.</skos:scopeNote>
+    <skos:notation xml:lang="en">n</skos:notation>
   </rdf:Description>
 </rdf:RDF>

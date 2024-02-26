@@ -6,14 +6,6 @@
    xmlns:schema="https://schema.org/"
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
 >
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.eqmf-h666#b">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.eqmf-h666"/>
-    <skos:prefLabel xml:lang="en">large print</skos:prefLabel>
-    <skos:definition xml:lang="en">Large print text is oversized print intended for use by the
-         visually impaired.</skos:definition>
-    <skos:notation xml:lang="en">b</skos:notation>
-  </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.eqmf-h666#d">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.eqmf-h666"/>
@@ -27,6 +19,23 @@
     <skos:prefLabel xml:lang="en">regular print</skos:prefLabel>
     <skos:definition xml:lang="en">Regular, eye-readable text.</skos:definition>
     <skos:notation xml:lang="en">a</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.eqmf-h666#c">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.eqmf-h666"/>
+    <skos:prefLabel xml:lang="en">braille</skos:prefLabel>
+    <skos:definition xml:lang="en">Braille text is embossed characters that have been formed by
+         raised dots in six-dot cells; braille is intended for use by the visually
+         impaired.</skos:definition>
+    <skos:notation xml:lang="en">c</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.eqmf-h666#u">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.eqmf-h666"/>
+    <skos:prefLabel xml:lang="en">unspecified</skos:prefLabel>
+    <skos:definition xml:lang="en">Special material designation of the text is not
+         specified.</skos:definition>
+    <skos:notation xml:lang="en">u</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.eqmf-h666">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
@@ -51,15 +60,6 @@
     <schema:version>1-0-0</schema:version>
     <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.eqmf-h666#c">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.eqmf-h666"/>
-    <skos:prefLabel xml:lang="en">braille</skos:prefLabel>
-    <skos:definition xml:lang="en">Braille text is embossed characters that have been formed by
-         raised dots in six-dot cells; braille is intended for use by the visually
-         impaired.</skos:definition>
-    <skos:notation xml:lang="en">c</skos:notation>
-  </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.eqmf-h666#z">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.eqmf-h666"/>
@@ -68,12 +68,12 @@
          print, braille, or text in looseleaf binder.</skos:definition>
     <skos:notation xml:lang="en">z</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.eqmf-h666#u">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.eqmf-h666#b">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.eqmf-h666"/>
-    <skos:prefLabel xml:lang="en">unspecified</skos:prefLabel>
-    <skos:definition xml:lang="en">Special material designation of the text is not
-         specified.</skos:definition>
-    <skos:notation xml:lang="en">u</skos:notation>
+    <skos:prefLabel xml:lang="en">large print</skos:prefLabel>
+    <skos:definition xml:lang="en">Large print text is oversized print intended for use by the
+         visually impaired.</skos:definition>
+    <skos:notation xml:lang="en">b</skos:notation>
   </rdf:Description>
 </rdf:RDF>

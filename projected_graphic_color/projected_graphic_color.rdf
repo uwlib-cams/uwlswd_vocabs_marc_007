@@ -6,27 +6,15 @@
    xmlns:schema="https://schema.org/"
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
 >
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.c9fa-t776#c">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.c9fa-t776#a">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.c9fa-t776"/>
-    <skos:prefLabel xml:lang="en">multicolored</skos:prefLabel>
-    <skos:definition xml:lang="en">Image is printed or executed in more than one color. The color
-         is a result of a number of processes, either photographic or electronic, capable of
-         reproducing a reasonable range of hues, or of original application of color materials, for
-         example, paint.</skos:definition>
-    <skos:scopeNote xml:lang="en">Used for color photographic processes (motion pictures,
-         filmstrips, transparencies, and slides), color videorecordings, or multicolored overhead
-         transparencies.</skos:scopeNote>
-    <skos:notation xml:lang="en">c</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.c9fa-t776#n">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.c9fa-t776"/>
-    <skos:prefLabel xml:lang="en">not applicable</skos:prefLabel>
-    <skos:definition xml:lang="en">Item has no images.</skos:definition>
-    <skos:scopeNote xml:lang="en">For example, when the item in hand is sound track film intended
-         to accompany visual images not actually present.</skos:scopeNote>
-    <skos:notation xml:lang="en">n</skos:notation>
+    <skos:prefLabel xml:lang="en">one color</skos:prefLabel>
+    <skos:definition xml:lang="en">Image is printed or executed in a single color (i.e.,
+         monochromatic).</skos:definition>
+    <skos:scopeNote xml:lang="en">Used only for transparency sets. Does not include
+         black.</skos:scopeNote>
+    <skos:notation xml:lang="en">a</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.c9fa-t776">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
@@ -50,16 +38,6 @@
     <schema:version>1-0-0</schema:version>
     <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.c9fa-t776#a">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.c9fa-t776"/>
-    <skos:prefLabel xml:lang="en">one color</skos:prefLabel>
-    <skos:definition xml:lang="en">Image is printed or executed in a single color (i.e.,
-         monochromatic).</skos:definition>
-    <skos:scopeNote xml:lang="en">Used only for transparency sets. Does not include
-         black.</skos:scopeNote>
-    <skos:notation xml:lang="en">a</skos:notation>
-  </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.c9fa-t776#b">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.c9fa-t776"/>
@@ -71,6 +49,19 @@
          items.</skos:scopeNote>
     <skos:notation xml:lang="en">b</skos:notation>
   </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.c9fa-t776#c">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.c9fa-t776"/>
+    <skos:prefLabel xml:lang="en">multicolored</skos:prefLabel>
+    <skos:definition xml:lang="en">Image is printed or executed in more than one color. The color
+         is a result of a number of processes, either photographic or electronic, capable of
+         reproducing a reasonable range of hues, or of original application of color materials, for
+         example, paint.</skos:definition>
+    <skos:scopeNote xml:lang="en">Used for color photographic processes (motion pictures,
+         filmstrips, transparencies, and slides), color videorecordings, or multicolored overhead
+         transparencies.</skos:scopeNote>
+    <skos:notation xml:lang="en">c</skos:notation>
+  </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.c9fa-t776#u">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.c9fa-t776"/>
@@ -78,6 +69,14 @@
     <skos:definition xml:lang="en">Color characteristics of the projected graphic are not
          known.</skos:definition>
     <skos:notation xml:lang="en">u</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.c9fa-t776#m">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.c9fa-t776"/>
+    <skos:prefLabel xml:lang="en">mixed</skos:prefLabel>
+    <skos:definition xml:lang="en">A combination of one color, black and white, colored, hand
+         colored, and/or other images.</skos:definition>
+    <skos:notation xml:lang="en">m</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.c9fa-t776#h">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -89,14 +88,6 @@
          are not typically issued with hand coloring.</skos:scopeNote>
     <skos:notation xml:lang="en">h</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.c9fa-t776#m">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.c9fa-t776"/>
-    <skos:prefLabel xml:lang="en">mixed</skos:prefLabel>
-    <skos:definition xml:lang="en">A combination of one color, black and white, colored, hand
-         colored, and/or other images.</skos:definition>
-    <skos:notation xml:lang="en">m</skos:notation>
-  </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.c9fa-t776#z">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.c9fa-t776"/>
@@ -104,5 +95,14 @@
     <skos:definition xml:lang="en">Color other than one color, black-and-white, multicolored, hand
          colored, or, mixed.</skos:definition>
     <skos:notation xml:lang="en">z</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.c9fa-t776#n">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.c9fa-t776"/>
+    <skos:prefLabel xml:lang="en">not applicable</skos:prefLabel>
+    <skos:definition xml:lang="en">Item has no images.</skos:definition>
+    <skos:scopeNote xml:lang="en">For example, when the item in hand is sound track film intended
+         to accompany visual images not actually present.</skos:scopeNote>
+    <skos:notation xml:lang="en">n</skos:notation>
   </rdf:Description>
 </rdf:RDF>

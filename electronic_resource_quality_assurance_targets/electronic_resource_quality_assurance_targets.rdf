@@ -6,22 +6,6 @@
    xmlns:schema="https://schema.org/"
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
 >
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.k2b6-k011#n">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.k2b6-k011"/>
-    <skos:prefLabel xml:lang="en">not applicable</skos:prefLabel>
-    <skos:definition xml:lang="en">Inclusion of quality assurance targets is not applicable to
-         this electronic resource.</skos:definition>
-    <skos:notation xml:lang="en">n</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.k2b6-k011#a">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.k2b6-k011"/>
-    <skos:prefLabel xml:lang="en">absent</skos:prefLabel>
-    <skos:definition xml:lang="en">Quality assurance targets were not included at the time of
-         reformatting and/or are not present in the electronic resource.</skos:definition>
-    <skos:notation xml:lang="en">a</skos:notation>
-  </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.k2b6-k011">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
     <dct:type rdf:resource="http://purl.org/dc/dcmitype/Dataset"/>
@@ -56,6 +40,14 @@
          resource is not known.</skos:definition>
     <skos:notation xml:lang="en">u</skos:notation>
   </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.k2b6-k011#a">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.k2b6-k011"/>
+    <skos:prefLabel xml:lang="en">absent</skos:prefLabel>
+    <skos:definition xml:lang="en">Quality assurance targets were not included at the time of
+         reformatting and/or are not present in the electronic resource.</skos:definition>
+    <skos:notation xml:lang="en">a</skos:notation>
+  </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.k2b6-k011#p">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.k2b6-k011"/>
@@ -69,5 +61,13 @@
          quality assurance targets for re-recording/transfer of audio files include reference and
          azimuth tones.</skos:scopeNote>
     <skos:notation xml:lang="en">p</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.k2b6-k011#n">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.k2b6-k011"/>
+    <skos:prefLabel xml:lang="en">not applicable</skos:prefLabel>
+    <skos:definition xml:lang="en">Inclusion of quality assurance targets is not applicable to
+         this electronic resource.</skos:definition>
+    <skos:notation xml:lang="en">n</skos:notation>
   </rdf:Description>
 </rdf:RDF>

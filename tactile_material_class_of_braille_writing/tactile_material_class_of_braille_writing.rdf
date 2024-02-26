@@ -6,21 +6,29 @@
    xmlns:schema="https://schema.org/"
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
 >
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.0xj7-fz15#e">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.0xj7-fz15#z">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.0xj7-fz15"/>
-    <skos:prefLabel xml:lang="en">music braille</skos:prefLabel>
-    <skos:definition xml:lang="en">Braille representations for symbols used in notated
-         music.</skos:definition>
-    <skos:notation xml:lang="en">e</skos:notation>
+    <skos:prefLabel xml:lang="en">other</skos:prefLabel>
+    <skos:definition xml:lang="en">Class of braille writing other than no specified class of
+         braille writing, literary braille, format code braille, mathematics and scientific braille,
+         computer braille, music braille, or multiple braille types.</skos:definition>
+    <skos:notation xml:lang="en">z</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.0xj7-fz15#c">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.0xj7-fz15#d">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.0xj7-fz15"/>
-    <skos:prefLabel xml:lang="en">mathematics and scientific braille</skos:prefLabel>
-    <skos:definition xml:lang="en">Braille representations for symbols employed in mathematics and
-         scientific writing.</skos:definition>
-    <skos:notation xml:lang="en">c</skos:notation>
+    <skos:prefLabel xml:lang="en">computer braille</skos:prefLabel>
+    <skos:definition xml:lang="en">Braille representations for symbols used in computer programs,
+         texts, and other computer related materials.</skos:definition>
+    <skos:notation xml:lang="en">d</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.0xj7-fz15#n">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.0xj7-fz15"/>
+    <skos:prefLabel xml:lang="en">not applicable</skos:prefLabel>
+    <skos:definition xml:lang="en">Item is not braille.</skos:definition>
+    <skos:notation xml:lang="en">n</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.0xj7-fz15#u">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -53,23 +61,6 @@
     <schema:version>1-0-0</schema:version>
     <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.0xj7-fz15#z">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.0xj7-fz15"/>
-    <skos:prefLabel xml:lang="en">other</skos:prefLabel>
-    <skos:definition xml:lang="en">Class of braille writing other than no specified class of
-         braille writing, literary braille, format code braille, mathematics and scientific braille,
-         computer braille, music braille, or multiple braille types.</skos:definition>
-    <skos:notation xml:lang="en">z</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.0xj7-fz15#m">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.0xj7-fz15"/>
-    <skos:prefLabel xml:lang="en">multiple braille types</skos:prefLabel>
-    <skos:definition xml:lang="en">Multiple braille types exist and no one type
-         predominates.</skos:definition>
-    <skos:notation xml:lang="en">m</skos:notation>
-  </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.0xj7-fz15#a">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.0xj7-fz15"/>
@@ -78,21 +69,13 @@
          punctuation marks commonly used in general writing.</skos:definition>
     <skos:notation xml:lang="en">a</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.0xj7-fz15#d">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.0xj7-fz15#c">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.0xj7-fz15"/>
-    <skos:prefLabel xml:lang="en">computer braille</skos:prefLabel>
-    <skos:definition xml:lang="en">Braille representations for symbols used in computer programs,
-         texts, and other computer related materials.</skos:definition>
-    <skos:notation xml:lang="en">d</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.0xj7-fz15#b">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.0xj7-fz15"/>
-    <skos:prefLabel xml:lang="en">format code braille</skos:prefLabel>
-    <skos:definition xml:lang="en">Braille formatting rules for textbooks and related
-         materials.</skos:definition>
-    <skos:notation xml:lang="en">b</skos:notation>
+    <skos:prefLabel xml:lang="en">mathematics and scientific braille</skos:prefLabel>
+    <skos:definition xml:lang="en">Braille representations for symbols employed in mathematics and
+         scientific writing.</skos:definition>
+    <skos:notation xml:lang="en">c</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.0xj7-fz15##">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -102,11 +85,28 @@
          writing.</skos:definition>
     <skos:notation xml:lang="en">#</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.0xj7-fz15#n">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.0xj7-fz15#m">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.0xj7-fz15"/>
-    <skos:prefLabel xml:lang="en">not applicable</skos:prefLabel>
-    <skos:definition xml:lang="en">Item is not braille.</skos:definition>
-    <skos:notation xml:lang="en">n</skos:notation>
+    <skos:prefLabel xml:lang="en">multiple braille types</skos:prefLabel>
+    <skos:definition xml:lang="en">Multiple braille types exist and no one type
+         predominates.</skos:definition>
+    <skos:notation xml:lang="en">m</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.0xj7-fz15#e">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.0xj7-fz15"/>
+    <skos:prefLabel xml:lang="en">music braille</skos:prefLabel>
+    <skos:definition xml:lang="en">Braille representations for symbols used in notated
+         music.</skos:definition>
+    <skos:notation xml:lang="en">e</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.0xj7-fz15#b">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.0xj7-fz15"/>
+    <skos:prefLabel xml:lang="en">format code braille</skos:prefLabel>
+    <skos:definition xml:lang="en">Braille formatting rules for textbooks and related
+         materials.</skos:definition>
+    <skos:notation xml:lang="en">b</skos:notation>
   </rdf:Description>
 </rdf:RDF>

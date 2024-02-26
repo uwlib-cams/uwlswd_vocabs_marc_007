@@ -6,6 +6,12 @@
    xmlns:schema="https://schema.org/"
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
 >
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.zpn1-4864#b">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.zpn1-4864"/>
+    <skos:prefLabel xml:lang="en">multicolored [obsolete]</skos:prefLabel>
+    <skos:notation xml:lang="en">b</skos:notation>
+  </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.zpn1-4864">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
     <dct:type rdf:resource="http://purl.org/dc/dcmitype/Dataset"/>
@@ -29,24 +35,18 @@
     <schema:version>1-0-0</schema:version>
     <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.zpn1-4864#c">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.zpn1-4864"/>
-    <skos:prefLabel xml:lang="en">multicolored</skos:prefLabel>
-    <skos:definition xml:lang="en">Multicolored.</skos:definition>
-    <skos:notation xml:lang="en">c</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.zpn1-4864#b">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.zpn1-4864"/>
-    <skos:prefLabel xml:lang="en">multicolored [obsolete]</skos:prefLabel>
-    <skos:notation xml:lang="en">b</skos:notation>
-  </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.zpn1-4864#a">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.zpn1-4864"/>
     <skos:prefLabel xml:lang="en">one color</skos:prefLabel>
     <skos:definition xml:lang="en">One color.</skos:definition>
     <skos:notation xml:lang="en">a</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.zpn1-4864#c">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.zpn1-4864"/>
+    <skos:prefLabel xml:lang="en">multicolored</skos:prefLabel>
+    <skos:definition xml:lang="en">Multicolored.</skos:definition>
+    <skos:notation xml:lang="en">c</skos:notation>
   </rdf:Description>
 </rdf:RDF>

@@ -6,6 +6,22 @@
    xmlns:schema="https://schema.org/"
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
 >
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.qpp2-sz54#a">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.qpp2-sz54"/>
+    <skos:prefLabel xml:lang="en">sound</skos:prefLabel>
+    <skos:definition xml:lang="en">Sound.</skos:definition>
+    <skos:scopeNote xml:lang="en">Includes digitally encoded sound or is intended to produce
+         sound.</skos:scopeNote>
+    <skos:notation xml:lang="en">a</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.qpp2-sz54#pound">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.qpp2-sz54"/>
+    <skos:prefLabel xml:lang="en">no sound (silent)</skos:prefLabel>
+    <skos:definition xml:lang="en">Not intended to produce sound.</skos:definition>
+    <skos:notation xml:lang="en">#</skos:notation>
+  </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.qpp2-sz54#u">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.qpp2-sz54"/>
@@ -36,21 +52,5 @@
     <dct:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0"/>
     <schema:version>1-0-0</schema:version>
     <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.qpp2-sz54#a">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.qpp2-sz54"/>
-    <skos:prefLabel xml:lang="en">sound</skos:prefLabel>
-    <skos:definition xml:lang="en">Sound.</skos:definition>
-    <skos:scopeNote xml:lang="en">Includes digitally encoded sound or is intended to produce
-         sound.</skos:scopeNote>
-    <skos:notation xml:lang="en">a</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.qpp2-sz54#pound">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.qpp2-sz54"/>
-    <skos:prefLabel xml:lang="en">no sound (silent)</skos:prefLabel>
-    <skos:definition xml:lang="en">Not intended to produce sound.</skos:definition>
-    <skos:notation xml:lang="en">#</skos:notation>
   </rdf:Description>
 </rdf:RDF>

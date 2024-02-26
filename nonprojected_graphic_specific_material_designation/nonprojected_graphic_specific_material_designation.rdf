@@ -6,94 +6,6 @@
    xmlns:schema="https://schema.org/"
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
 >
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gs2r-s451#k">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.gs2r-s451"/>
-    <skos:prefLabel xml:lang="en">poster</skos:prefLabel>
-    <skos:definition xml:lang="en">Poster.</skos:definition>
-    <skos:notation xml:lang="en">k</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gs2r-s451#d">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.gs2r-s451"/>
-    <skos:prefLabel xml:lang="en">drawing</skos:prefLabel>
-    <skos:definition xml:lang="en">Original visual representation (other than a print or painting)
-         made with pencil, pen, chalk, or other writing instrument usually on paper or similar
-         nonrigid support.</skos:definition>
-    <skos:notation xml:lang="en">d</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gs2r-s451#s">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.gs2r-s451"/>
-    <skos:prefLabel xml:lang="en">study print</skos:prefLabel>
-    <skos:definition xml:lang="en">Study print.</skos:definition>
-    <skos:notation xml:lang="en">s</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gs2r-s451#c">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.gs2r-s451"/>
-    <skos:prefLabel xml:lang="en">collage</skos:prefLabel>
-    <skos:definition xml:lang="en">Original work created by affixing various materials (paper,
-         wood, newspaper, cloth, etc.) to a surface.</skos:definition>
-    <skos:notation xml:lang="en">c</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gs2r-s451#f">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.gs2r-s451"/>
-    <skos:prefLabel xml:lang="en">photomechanical print</skos:prefLabel>
-    <skos:definition xml:lang="en">Any picture produced in imitation of another picture through
-         the use of photographic process to transfer the image to a printing
-         surface.</skos:definition>
-    <skos:scopeNote xml:lang="en">A snapshot made to document a painting or a Xerox copy of a
-         print are considered photomechanical reproductions. Art reproductions are included
-         here.</skos:scopeNote>
-    <skos:notation xml:lang="en">f</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gs2r-s451#i">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.gs2r-s451"/>
-    <skos:prefLabel xml:lang="en">picture</skos:prefLabel>
-    <skos:definition xml:lang="en">Two-dimensional visual representation accessible to the naked
-         eye and generally on an opaque backing.</skos:definition>
-    <skos:scopeNote xml:lang="en">Used when a more specific designation is unknown or not
-         desired.</skos:scopeNote>
-    <skos:notation xml:lang="en">i</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gs2r-s451#o">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.gs2r-s451"/>
-    <skos:prefLabel xml:lang="en">flash card</skos:prefLabel>
-    <skos:definition xml:lang="en">Card or other opaque material printed with words, numerals, or
-         pictures and designed for rapid display.</skos:definition>
-    <skos:notation xml:lang="en">o</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gs2r-s451#v">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.gs2r-s451"/>
-    <skos:prefLabel xml:lang="en">photograph, type unspecified</skos:prefLabel>
-    <skos:definition xml:lang="en">Photograph, type unspecified.</skos:definition>
-    <skos:notation xml:lang="en">v</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gs2r-s451#g">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.gs2r-s451"/>
-    <skos:prefLabel xml:lang="en">photonegative</skos:prefLabel>
-    <skos:definition xml:lang="en">Piece of film, a glass plate, or pattern on which a negative
-         image appears, i.e., directly opposite to a positive image (photoprint), slide, or
-         transparency, used to produce a positive print.</skos:definition>
-    <skos:scopeNote xml:lang="en">Photonegatives do not include negative photoprints, photoprints
-         that are a combination of negative and positive images, or photograms or solarized prints,
-         all of which are considered to be techniques used when making photoprints.</skos:scopeNote>
-    <skos:notation xml:lang="en">g</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gs2r-s451#e">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.gs2r-s451"/>
-    <skos:prefLabel xml:lang="en">painting</skos:prefLabel>
-    <skos:definition xml:lang="en">Original visual representation produced by applying paint to a
-         surface.</skos:definition>
-    <skos:notation xml:lang="en">e</skos:notation>
-  </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gs2r-s451#u">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.gs2r-s451"/>
@@ -101,29 +13,6 @@
     <skos:definition xml:lang="en">Special material designation for the nonprojected graphic is
          not specified.</skos:definition>
     <skos:notation xml:lang="en">u</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gs2r-s451#l">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.gs2r-s451"/>
-    <skos:prefLabel xml:lang="en">technical drawing</skos:prefLabel>
-    <skos:definition xml:lang="en">Cross section, detail, diagram, elevation, perspective, plan,
-         working plan, etc., made for use in an engineering or other technical
-         context.</skos:definition>
-    <skos:notation xml:lang="en">l</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gs2r-s451#p">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.gs2r-s451"/>
-    <skos:prefLabel xml:lang="en">postcard</skos:prefLabel>
-    <skos:definition xml:lang="en">Postcard.</skos:definition>
-    <skos:notation xml:lang="en">p</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gs2r-s451#q">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.gs2r-s451"/>
-    <skos:prefLabel xml:lang="en">icon</skos:prefLabel>
-    <skos:definition xml:lang="en">Icon.</skos:definition>
-    <skos:notation xml:lang="en">q</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gs2r-s451">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
@@ -148,6 +37,125 @@
     <schema:version>1-0-0</schema:version>
     <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
   </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gs2r-s451#c">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.gs2r-s451"/>
+    <skos:prefLabel xml:lang="en">collage</skos:prefLabel>
+    <skos:definition xml:lang="en">Original work created by affixing various materials (paper,
+         wood, newspaper, cloth, etc.) to a surface.</skos:definition>
+    <skos:notation xml:lang="en">c</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gs2r-s451#i">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.gs2r-s451"/>
+    <skos:prefLabel xml:lang="en">picture</skos:prefLabel>
+    <skos:definition xml:lang="en">Two-dimensional visual representation accessible to the naked
+         eye and generally on an opaque backing.</skos:definition>
+    <skos:scopeNote xml:lang="en">Used when a more specific designation is unknown or not
+         desired.</skos:scopeNote>
+    <skos:notation xml:lang="en">i</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gs2r-s451#s">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.gs2r-s451"/>
+    <skos:prefLabel xml:lang="en">study print</skos:prefLabel>
+    <skos:definition xml:lang="en">Study print.</skos:definition>
+    <skos:notation xml:lang="en">s</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gs2r-s451#v">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.gs2r-s451"/>
+    <skos:prefLabel xml:lang="en">photograph, type unspecified</skos:prefLabel>
+    <skos:definition xml:lang="en">Photograph, type unspecified.</skos:definition>
+    <skos:notation xml:lang="en">v</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gs2r-s451#g">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.gs2r-s451"/>
+    <skos:prefLabel xml:lang="en">photonegative</skos:prefLabel>
+    <skos:definition xml:lang="en">Piece of film, a glass plate, or pattern on which a negative
+         image appears, i.e., directly opposite to a positive image (photoprint), slide, or
+         transparency, used to produce a positive print.</skos:definition>
+    <skos:scopeNote xml:lang="en">Photonegatives do not include negative photoprints, photoprints
+         that are a combination of negative and positive images, or photograms or solarized prints,
+         all of which are considered to be techniques used when making photoprints.</skos:scopeNote>
+    <skos:notation xml:lang="en">g</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gs2r-s451#r">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.gs2r-s451"/>
+    <skos:prefLabel xml:lang="en">radiograph</skos:prefLabel>
+    <skos:definition xml:lang="en">A photograph produced by the passage of radiation, such as X
+         rays, gamma rays, or neutrons, through an opaque object.</skos:definition>
+    <skos:notation xml:lang="en">r</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gs2r-s451#f">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.gs2r-s451"/>
+    <skos:prefLabel xml:lang="en">photomechanical print</skos:prefLabel>
+    <skos:definition xml:lang="en">Any picture produced in imitation of another picture through
+         the use of photographic process to transfer the image to a printing
+         surface.</skos:definition>
+    <skos:scopeNote xml:lang="en">A snapshot made to document a painting or a Xerox copy of a
+         print are considered photomechanical reproductions. Art reproductions are included
+         here.</skos:scopeNote>
+    <skos:notation xml:lang="en">f</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gs2r-s451#p">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.gs2r-s451"/>
+    <skos:prefLabel xml:lang="en">postcard</skos:prefLabel>
+    <skos:definition xml:lang="en">Postcard.</skos:definition>
+    <skos:notation xml:lang="en">p</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gs2r-s451#e">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.gs2r-s451"/>
+    <skos:prefLabel xml:lang="en">painting</skos:prefLabel>
+    <skos:definition xml:lang="en">Original visual representation produced by applying paint to a
+         surface.</skos:definition>
+    <skos:notation xml:lang="en">e</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gs2r-s451#o">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.gs2r-s451"/>
+    <skos:prefLabel xml:lang="en">flash card</skos:prefLabel>
+    <skos:definition xml:lang="en">Card or other opaque material printed with words, numerals, or
+         pictures and designed for rapid display.</skos:definition>
+    <skos:notation xml:lang="en">o</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gs2r-s451#d">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.gs2r-s451"/>
+    <skos:prefLabel xml:lang="en">drawing</skos:prefLabel>
+    <skos:definition xml:lang="en">Original visual representation (other than a print or painting)
+         made with pencil, pen, chalk, or other writing instrument usually on paper or similar
+         nonrigid support.</skos:definition>
+    <skos:notation xml:lang="en">d</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gs2r-s451#k">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.gs2r-s451"/>
+    <skos:prefLabel xml:lang="en">poster</skos:prefLabel>
+    <skos:definition xml:lang="en">Poster.</skos:definition>
+    <skos:notation xml:lang="en">k</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gs2r-s451#a">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.gs2r-s451"/>
+    <skos:prefLabel xml:lang="en">activity card</skos:prefLabel>
+    <skos:definition xml:lang="en">A card printed with words, numerals, and/or pictures to be used
+         by an individual or a group as a basis for performing a specific
+         activity.</skos:definition>
+    <skos:notation xml:lang="en">a</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gs2r-s451#q">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.gs2r-s451"/>
+    <skos:prefLabel xml:lang="en">icon</skos:prefLabel>
+    <skos:definition xml:lang="en">Icon.</skos:definition>
+    <skos:notation xml:lang="en">q</skos:notation>
+  </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gs2r-s451#h">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.gs2r-s451"/>
@@ -159,6 +167,15 @@
     <skos:scopeNote xml:lang="en">Opaque stereographs are included here.</skos:scopeNote>
     <skos:notation xml:lang="en">h</skos:notation>
   </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gs2r-s451#l">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.gs2r-s451"/>
+    <skos:prefLabel xml:lang="en">technical drawing</skos:prefLabel>
+    <skos:definition xml:lang="en">Cross section, detail, diagram, elevation, perspective, plan,
+         working plan, etc., made for use in an engineering or other technical
+         context.</skos:definition>
+    <skos:notation xml:lang="en">l</skos:notation>
+  </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gs2r-s451#z">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.gs2r-s451"/>
@@ -168,23 +185,6 @@
          print, poster, technical drawing, chart, flash card, postcard, icon, radiograph, study
          print, or photograph type unspecified.</skos:definition>
     <skos:notation xml:lang="en">z</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gs2r-s451#a">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.gs2r-s451"/>
-    <skos:prefLabel xml:lang="en">activity card</skos:prefLabel>
-    <skos:definition xml:lang="en">A card printed with words, numerals, and/or pictures to be used
-         by an individual or a group as a basis for performing a specific
-         activity.</skos:definition>
-    <skos:notation xml:lang="en">a</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gs2r-s451#r">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.gs2r-s451"/>
-    <skos:prefLabel xml:lang="en">radiograph</skos:prefLabel>
-    <skos:definition xml:lang="en">A photograph produced by the passage of radiation, such as X
-         rays, gamma rays, or neutrons, through an opaque object.</skos:definition>
-    <skos:notation xml:lang="en">r</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gs2r-s451#n">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>

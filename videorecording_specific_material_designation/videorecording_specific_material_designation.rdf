@@ -6,6 +6,14 @@
    xmlns:schema="https://schema.org/"
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
 >
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.n7sa-ny50#z">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.n7sa-ny50"/>
+    <skos:prefLabel xml:lang="en">other</skos:prefLabel>
+    <skos:definition xml:lang="en">Specific material designation other than videocartridge,
+         videodisc, videocassette, or videoreel.</skos:definition>
+    <skos:notation xml:lang="en">z</skos:notation>
+  </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.n7sa-ny50">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
     <dct:type rdf:resource="http://purl.org/dc/dcmitype/Dataset"/>
@@ -29,22 +37,6 @@
     <schema:version>1-0-0</schema:version>
     <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.n7sa-ny50#c">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.n7sa-ny50"/>
-    <skos:prefLabel xml:lang="en">videocartridge</skos:prefLabel>
-    <skos:definition xml:lang="en">Videorecording on tape encased in a cartridge and which has the
-         ends joined together to form a continuous loop.</skos:definition>
-    <skos:notation xml:lang="en">c</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.n7sa-ny50#f">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.n7sa-ny50"/>
-    <skos:prefLabel xml:lang="en">videocassette</skos:prefLabel>
-    <skos:definition xml:lang="en">Videorecording on tape encased in a cassette which runs
-         reel-to-reel.</skos:definition>
-    <skos:notation xml:lang="en">f</skos:notation>
-  </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.n7sa-ny50#d">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.n7sa-ny50"/>
@@ -67,13 +59,21 @@
     <skos:prefLabel xml:lang="en">not applicable [obsolete]</skos:prefLabel>
     <skos:notation xml:lang="en">n</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.n7sa-ny50#z">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.n7sa-ny50#f">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.n7sa-ny50"/>
-    <skos:prefLabel xml:lang="en">other</skos:prefLabel>
-    <skos:definition xml:lang="en">Specific material designation other than videocartridge,
-         videodisc, videocassette, or videoreel.</skos:definition>
-    <skos:notation xml:lang="en">z</skos:notation>
+    <skos:prefLabel xml:lang="en">videocassette</skos:prefLabel>
+    <skos:definition xml:lang="en">Videorecording on tape encased in a cassette which runs
+         reel-to-reel.</skos:definition>
+    <skos:notation xml:lang="en">f</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.n7sa-ny50#r">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.n7sa-ny50"/>
+    <skos:prefLabel xml:lang="en">videoreel</skos:prefLabel>
+    <skos:definition xml:lang="en">Videorecording on a spool of tape mounted on a reel and
+         designed to play from reel-to-reel across a playback pick-up device.</skos:definition>
+    <skos:notation xml:lang="en">r</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.n7sa-ny50#u">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -83,12 +83,12 @@
          specified.</skos:definition>
     <skos:notation xml:lang="en">u</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.n7sa-ny50#r">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.n7sa-ny50#c">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.n7sa-ny50"/>
-    <skos:prefLabel xml:lang="en">videoreel</skos:prefLabel>
-    <skos:definition xml:lang="en">Videorecording on a spool of tape mounted on a reel and
-         designed to play from reel-to-reel across a playback pick-up device.</skos:definition>
-    <skos:notation xml:lang="en">r</skos:notation>
+    <skos:prefLabel xml:lang="en">videocartridge</skos:prefLabel>
+    <skos:definition xml:lang="en">Videorecording on tape encased in a cartridge and which has the
+         ends joined together to form a continuous loop.</skos:definition>
+    <skos:notation xml:lang="en">c</skos:notation>
   </rdf:Description>
 </rdf:RDF>

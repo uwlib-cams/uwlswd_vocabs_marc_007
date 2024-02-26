@@ -30,12 +30,13 @@
     <schema:version>1-0-0</schema:version>
     <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.3jgj-j280#m">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.3jgj-j280#a">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.3jgj-j280"/>
-    <skos:prefLabel xml:lang="en">combination</skos:prefLabel>
-    <skos:definition xml:lang="en">A combination of contracted and uncontracted.</skos:definition>
-    <skos:notation xml:lang="en">m</skos:notation>
+    <skos:prefLabel xml:lang="en">uncontracted</skos:prefLabel>
+    <skos:definition xml:lang="en">Not contracted.</skos:definition>
+    <skos:scopeNote xml:lang="en">Includes grade 1 braille.</skos:scopeNote>
+    <skos:notation xml:lang="en">a</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.3jgj-j280#b">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -69,12 +70,11 @@
          combination.</skos:definition>
     <skos:notation xml:lang="en">z</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.3jgj-j280#a">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.3jgj-j280#m">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.3jgj-j280"/>
-    <skos:prefLabel xml:lang="en">uncontracted</skos:prefLabel>
-    <skos:definition xml:lang="en">Not contracted.</skos:definition>
-    <skos:scopeNote xml:lang="en">Includes grade 1 braille.</skos:scopeNote>
-    <skos:notation xml:lang="en">a</skos:notation>
+    <skos:prefLabel xml:lang="en">combination</skos:prefLabel>
+    <skos:definition xml:lang="en">A combination of contracted and uncontracted.</skos:definition>
+    <skos:notation xml:lang="en">m</skos:notation>
   </rdf:Description>
 </rdf:RDF>

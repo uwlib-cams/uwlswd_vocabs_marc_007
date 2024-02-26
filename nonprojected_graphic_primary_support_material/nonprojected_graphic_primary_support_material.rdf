@@ -6,22 +6,6 @@
    xmlns:schema="https://schema.org/"
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
 >
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.84qn-zz83#l">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.84qn-zz83"/>
-    <skos:prefLabel xml:lang="en">vinyl</skos:prefLabel>
-    <skos:definition xml:lang="en">Vinyl.</skos:definition>
-    <skos:notation xml:lang="en">l</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.84qn-zz83#g">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.84qn-zz83"/>
-    <skos:prefLabel xml:lang="en">textile</skos:prefLabel>
-    <skos:definition xml:lang="en">Textile.</skos:definition>
-    <skos:scopeNote xml:lang="en">Includes all natural or synthetic fibre fabrics except canvas.
-         Synthetic materials formed to resemble a fabric are considered textiles.</skos:scopeNote>
-    <skos:notation xml:lang="en">g</skos:notation>
-  </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.84qn-zz83#n">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.84qn-zz83"/>
@@ -30,12 +14,13 @@
          especially for writing or drawing on.</skos:definition>
     <skos:notation xml:lang="en">n</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.84qn-zz83#u">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.84qn-zz83#p">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.84qn-zz83"/>
-    <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
-    <skos:definition xml:lang="en">Primary support material is not known.</skos:definition>
-    <skos:notation xml:lang="en">u</skos:notation>
+    <skos:prefLabel xml:lang="en">plaster</skos:prefLabel>
+    <skos:definition xml:lang="en">Plaster.</skos:definition>
+    <skos:scopeNote xml:lang="en">Includes mixtures of ground solids and plaster.</skos:scopeNote>
+    <skos:notation xml:lang="en">p</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.84qn-zz83">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
@@ -60,12 +45,129 @@
     <schema:version>1-0-0</schema:version>
     <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
   </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.84qn-zz83#q">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.84qn-zz83"/>
+    <skos:prefLabel xml:lang="en">hardboard</skos:prefLabel>
+    <skos:definition xml:lang="en">Hardboard.</skos:definition>
+    <skos:notation xml:lang="en">q</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.84qn-zz83#g">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.84qn-zz83"/>
+    <skos:prefLabel xml:lang="en">textile</skos:prefLabel>
+    <skos:definition xml:lang="en">Textile.</skos:definition>
+    <skos:scopeNote xml:lang="en">Includes all natural or synthetic fibre fabrics except canvas.
+         Synthetic materials formed to resemble a fabric are considered textiles.</skos:scopeNote>
+    <skos:notation xml:lang="en">g</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.84qn-zz83#m">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.84qn-zz83"/>
+    <skos:prefLabel xml:lang="en">mixed collection</skos:prefLabel>
+    <skos:definition xml:lang="en">Primary support material varies for different items in a
+         collection.</skos:definition>
+    <skos:scopeNote xml:lang="en">Typically this would be used for groups of nonprojected graphics
+         on various bases.</skos:scopeNote>
+    <skos:notation xml:lang="en">m</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.84qn-zz83#b">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.84qn-zz83"/>
+    <skos:prefLabel xml:lang="en">Bristol board</skos:prefLabel>
+    <skos:definition xml:lang="en">Fine, smooth pasteboard used by artists and
+         painters.</skos:definition>
+    <skos:notation xml:lang="en">b</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.84qn-zz83#s">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.84qn-zz83"/>
+    <skos:prefLabel xml:lang="en">stone</skos:prefLabel>
+    <skos:definition xml:lang="en">Stone.</skos:definition>
+    <skos:notation xml:lang="en">s</skos:notation>
+  </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.84qn-zz83#o">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.84qn-zz83"/>
     <skos:prefLabel xml:lang="en">paper</skos:prefLabel>
     <skos:definition xml:lang="en">Any kind of cellulose-based paper.</skos:definition>
     <skos:notation xml:lang="en">o</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.84qn-zz83#d">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.84qn-zz83"/>
+    <skos:prefLabel xml:lang="en">glass</skos:prefLabel>
+    <skos:definition xml:lang="en">Glass.</skos:definition>
+    <skos:notation xml:lang="en">d</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.84qn-zz83#c">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.84qn-zz83"/>
+    <skos:prefLabel xml:lang="en">cardboard/illustration board</skos:prefLabel>
+    <skos:definition xml:lang="en">Cardboard/illustration board.</skos:definition>
+    <skos:notation xml:lang="en">c</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.84qn-zz83#a">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.84qn-zz83"/>
+    <skos:prefLabel xml:lang="en">canvas</skos:prefLabel>
+    <skos:definition xml:lang="en">Canvas.</skos:definition>
+    <skos:notation xml:lang="en">a</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.84qn-zz83#r">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.84qn-zz83"/>
+    <skos:prefLabel xml:lang="en">porcelain</skos:prefLabel>
+    <skos:definition xml:lang="en">Porcelain.</skos:definition>
+    <skos:scopeNote xml:lang="en">Used only for clay-based porcelain. Porcelain-like synthetic
+         materials are coded as synthetic.</skos:scopeNote>
+    <skos:notation xml:lang="en">r</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.84qn-zz83#f">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.84qn-zz83"/>
+    <skos:prefLabel xml:lang="en">skin</skos:prefLabel>
+    <skos:definition xml:lang="en">Skin.</skos:definition>
+    <skos:scopeNote xml:lang="en">Excludes leather, parchment, and vellum. Synthetic materials
+         that are made to resemble animal skin are coded as synthetic.</skos:scopeNote>
+    <skos:notation xml:lang="en">f</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.84qn-zz83#e">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.84qn-zz83"/>
+    <skos:prefLabel xml:lang="en">synthetic</skos:prefLabel>
+    <skos:definition xml:lang="en">Man-made substances other than textiles, plastic, and
+         vinyl.</skos:definition>
+    <skos:notation xml:lang="en">e</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.84qn-zz83#v">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.84qn-zz83"/>
+    <skos:prefLabel xml:lang="en">leather</skos:prefLabel>
+    <skos:definition xml:lang="en">Animal skin dressed for use.</skos:definition>
+    <skos:notation xml:lang="en">v</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.84qn-zz83#h">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.84qn-zz83"/>
+    <skos:prefLabel xml:lang="en">metal</skos:prefLabel>
+    <skos:definition xml:lang="en">Metal.</skos:definition>
+    <skos:notation xml:lang="en">h</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.84qn-zz83#w">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.84qn-zz83"/>
+    <skos:prefLabel xml:lang="en">parchment</skos:prefLabel>
+    <skos:definition xml:lang="en">Skin of a sheep or goat prepared for writing
+         on.</skos:definition>
+    <skos:notation xml:lang="en">w</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.84qn-zz83#u">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.84qn-zz83"/>
+    <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
+    <skos:definition xml:lang="en">Primary support material is not known.</skos:definition>
+    <skos:notation xml:lang="en">u</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.84qn-zz83#z">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -77,105 +179,6 @@
          parchment.</skos:definition>
     <skos:notation xml:lang="en">z</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.84qn-zz83#e">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.84qn-zz83"/>
-    <skos:prefLabel xml:lang="en">synthetic</skos:prefLabel>
-    <skos:definition xml:lang="en">Man-made substances other than textiles, plastic, and
-         vinyl.</skos:definition>
-    <skos:notation xml:lang="en">e</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.84qn-zz83#a">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.84qn-zz83"/>
-    <skos:prefLabel xml:lang="en">canvas</skos:prefLabel>
-    <skos:definition xml:lang="en">Canvas.</skos:definition>
-    <skos:notation xml:lang="en">a</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.84qn-zz83#f">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.84qn-zz83"/>
-    <skos:prefLabel xml:lang="en">skin</skos:prefLabel>
-    <skos:definition xml:lang="en">Skin.</skos:definition>
-    <skos:scopeNote xml:lang="en">Excludes leather, parchment, and vellum. Synthetic materials
-         that are made to resemble animal skin are coded as synthetic.</skos:scopeNote>
-    <skos:notation xml:lang="en">f</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.84qn-zz83#q">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.84qn-zz83"/>
-    <skos:prefLabel xml:lang="en">hardboard</skos:prefLabel>
-    <skos:definition xml:lang="en">Hardboard.</skos:definition>
-    <skos:notation xml:lang="en">q</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.84qn-zz83#p">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.84qn-zz83"/>
-    <skos:prefLabel xml:lang="en">plaster</skos:prefLabel>
-    <skos:definition xml:lang="en">Plaster.</skos:definition>
-    <skos:scopeNote xml:lang="en">Includes mixtures of ground solids and plaster.</skos:scopeNote>
-    <skos:notation xml:lang="en">p</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.84qn-zz83#b">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.84qn-zz83"/>
-    <skos:prefLabel xml:lang="en">Bristol board</skos:prefLabel>
-    <skos:definition xml:lang="en">Fine, smooth pasteboard used by artists and
-         painters.</skos:definition>
-    <skos:notation xml:lang="en">b</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.84qn-zz83#r">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.84qn-zz83"/>
-    <skos:prefLabel xml:lang="en">porcelain</skos:prefLabel>
-    <skos:definition xml:lang="en">Porcelain.</skos:definition>
-    <skos:scopeNote xml:lang="en">Used only for clay-based porcelain. Porcelain-like synthetic
-         materials are coded as synthetic.</skos:scopeNote>
-    <skos:notation xml:lang="en">r</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.84qn-zz83#h">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.84qn-zz83"/>
-    <skos:prefLabel xml:lang="en">metal</skos:prefLabel>
-    <skos:definition xml:lang="en">Metal.</skos:definition>
-    <skos:notation xml:lang="en">h</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.84qn-zz83#c">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.84qn-zz83"/>
-    <skos:prefLabel xml:lang="en">cardboard/illustration board</skos:prefLabel>
-    <skos:definition xml:lang="en">Cardboard/illustration board.</skos:definition>
-    <skos:notation xml:lang="en">c</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.84qn-zz83#d">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.84qn-zz83"/>
-    <skos:prefLabel xml:lang="en">glass</skos:prefLabel>
-    <skos:definition xml:lang="en">Glass.</skos:definition>
-    <skos:notation xml:lang="en">d</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.84qn-zz83#s">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.84qn-zz83"/>
-    <skos:prefLabel xml:lang="en">stone</skos:prefLabel>
-    <skos:definition xml:lang="en">Stone.</skos:definition>
-    <skos:notation xml:lang="en">s</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.84qn-zz83#w">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.84qn-zz83"/>
-    <skos:prefLabel xml:lang="en">parchment</skos:prefLabel>
-    <skos:definition xml:lang="en">Skin of a sheep or goat prepared for writing
-         on.</skos:definition>
-    <skos:notation xml:lang="en">w</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.84qn-zz83#v">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.84qn-zz83"/>
-    <skos:prefLabel xml:lang="en">leather</skos:prefLabel>
-    <skos:definition xml:lang="en">Animal skin dressed for use.</skos:definition>
-    <skos:notation xml:lang="en">v</skos:notation>
-  </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.84qn-zz83#t">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.84qn-zz83"/>
@@ -185,15 +188,12 @@
     <skos:scopeNote xml:lang="en">Consider particle board to be wood.</skos:scopeNote>
     <skos:notation xml:lang="en">t</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.84qn-zz83#m">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.84qn-zz83#l">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.84qn-zz83"/>
-    <skos:prefLabel xml:lang="en">mixed collection</skos:prefLabel>
-    <skos:definition xml:lang="en">Primary support material varies for different items in a
-         collection.</skos:definition>
-    <skos:scopeNote xml:lang="en">Typically this would be used for groups of nonprojected graphics
-         on various bases.</skos:scopeNote>
-    <skos:notation xml:lang="en">m</skos:notation>
+    <skos:prefLabel xml:lang="en">vinyl</skos:prefLabel>
+    <skos:definition xml:lang="en">Vinyl.</skos:definition>
+    <skos:notation xml:lang="en">l</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.84qn-zz83#i">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>

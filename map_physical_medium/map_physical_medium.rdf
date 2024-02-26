@@ -6,6 +6,14 @@
    xmlns:schema="https://schema.org/"
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
 >
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4r20-tp49#n">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4r20-tp49"/>
+    <skos:prefLabel xml:lang="en">vellum</skos:prefLabel>
+    <skos:definition xml:lang="en">Fine-grained unsplit lambskin, kidskin, or calfskin prepared
+         especially for writing or drawing on.</skos:definition>
+    <skos:notation xml:lang="en">n</skos:notation>
+  </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4r20-tp49">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
     <dct:type rdf:resource="http://purl.org/dc/dcmitype/Dataset"/>
@@ -29,53 +37,12 @@
     <schema:version>1-0-0</schema:version>
     <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4r20-tp49#n">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4r20-tp49#i">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4r20-tp49"/>
-    <skos:prefLabel xml:lang="en">vellum</skos:prefLabel>
-    <skos:definition xml:lang="en">Fine-grained unsplit lambskin, kidskin, or calfskin prepared
-         especially for writing or drawing on.</skos:definition>
-    <skos:notation xml:lang="en">n</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4r20-tp49#g">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4r20-tp49"/>
-    <skos:prefLabel xml:lang="en">textile</skos:prefLabel>
-    <skos:definition xml:lang="en">Textile.</skos:definition>
-    <skos:scopeNote xml:lang="en">Used for all fabrics, whether made from natural or synthetic
-         fibers.</skos:scopeNote>
-    <skos:notation xml:lang="en">g</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4r20-tp49#d">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4r20-tp49"/>
-    <skos:prefLabel xml:lang="en">metal</skos:prefLabel>
-    <skos:definition xml:lang="en">Metal.</skos:definition>
-    <skos:notation xml:lang="en">d</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4r20-tp49#r">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4r20-tp49"/>
-    <skos:prefLabel xml:lang="en">flexible base photographic, negative</skos:prefLabel>
-    <skos:definition xml:lang="en">Flexible base photographic medium designed to render a negative
-         image.</skos:definition>
-    <skos:notation xml:lang="en">r</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4r20-tp49#e">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4r20-tp49"/>
-    <skos:prefLabel xml:lang="en">synthetic</skos:prefLabel>
-    <skos:definition xml:lang="en">Man-made substances other than textiles, plastic, and
-         vinyl.</skos:definition>
-    <skos:notation xml:lang="en">e</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4r20-tp49#t">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4r20-tp49"/>
-    <skos:prefLabel xml:lang="en">non-flexible base photographic, negative</skos:prefLabel>
-    <skos:definition xml:lang="en">Non-flexible base photographic medium designed to render a
-         negative image.</skos:definition>
-    <skos:notation xml:lang="en">t</skos:notation>
+    <skos:prefLabel xml:lang="en">plastic</skos:prefLabel>
+    <skos:definition xml:lang="en">Plastic.</skos:definition>
+    <skos:notation xml:lang="en">i</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4r20-tp49#s">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -85,30 +52,36 @@
          positive image.</skos:definition>
     <skos:notation xml:lang="en">s</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4r20-tp49#v">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4r20-tp49#e">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4r20-tp49"/>
-    <skos:prefLabel xml:lang="en">leather</skos:prefLabel>
-    <skos:definition xml:lang="en">Animal skin dressed for use.</skos:definition>
-    <skos:notation xml:lang="en">v</skos:notation>
+    <skos:prefLabel xml:lang="en">synthetic</skos:prefLabel>
+    <skos:definition xml:lang="en">Man-made substances other than textiles, plastic, and
+         vinyl.</skos:definition>
+    <skos:notation xml:lang="en">e</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4r20-tp49#f">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4r20-tp49#u">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4r20-tp49"/>
-    <skos:prefLabel xml:lang="en">skin</skos:prefLabel>
-    <skos:definition xml:lang="en">Skin.</skos:definition>
-    <skos:scopeNote xml:lang="en">Excludes leather, parchment, and vellum.</skos:scopeNote>
-    <skos:scopeNote xml:lang="en">Synthetic materials that are made to resemble animal skin are
-         coded as synthetic.</skos:scopeNote>
-    <skos:notation xml:lang="en">f</skos:notation>
+    <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
+    <skos:definition xml:lang="en">Unknown.</skos:definition>
+    <skos:notation xml:lang="en">u</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4r20-tp49#q">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4r20-tp49#r">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4r20-tp49"/>
-    <skos:prefLabel xml:lang="en">flexible base photographic, positive</skos:prefLabel>
-    <skos:definition xml:lang="en">Flexible base photographic medium designed to render a positive
+    <skos:prefLabel xml:lang="en">flexible base photographic, negative</skos:prefLabel>
+    <skos:definition xml:lang="en">Flexible base photographic medium designed to render a negative
          image.</skos:definition>
-    <skos:notation xml:lang="en">q</skos:notation>
+    <skos:notation xml:lang="en">r</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4r20-tp49#b">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4r20-tp49"/>
+    <skos:prefLabel xml:lang="en">wood</skos:prefLabel>
+    <skos:scopeNote xml:lang="en">Material which is based on wood particles or fibers may or may
+         not be considered wood. Consider particle board to be wood.</skos:scopeNote>
+    <skos:notation xml:lang="en">b</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4r20-tp49#c">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -117,28 +90,19 @@
     <skos:definition xml:lang="en">Stone.</skos:definition>
     <skos:notation xml:lang="en">c</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4r20-tp49#p">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4r20-tp49#a">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4r20-tp49"/>
-    <skos:prefLabel xml:lang="en">plaster</skos:prefLabel>
-    <skos:definition xml:lang="en">Plaster.</skos:definition>
-    <skos:scopeNote xml:lang="en">Includes mixtures of ground solids and plaster.</skos:scopeNote>
-    <skos:notation xml:lang="en">p</skos:notation>
+    <skos:prefLabel xml:lang="en">paper</skos:prefLabel>
+    <skos:definition xml:lang="en">Any kind of cellulose-based paper.</skos:definition>
+    <skos:notation xml:lang="en">a</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4r20-tp49#w">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4r20-tp49#l">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4r20-tp49"/>
-    <skos:prefLabel xml:lang="en">parchment</skos:prefLabel>
-    <skos:definition xml:lang="en">Skin of a sheep or goat prepared for writing
-         on.</skos:definition>
-    <skos:notation xml:lang="en">w</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4r20-tp49#u">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4r20-tp49"/>
-    <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
-    <skos:definition xml:lang="en">Unknown.</skos:definition>
-    <skos:notation xml:lang="en">u</skos:notation>
+    <skos:prefLabel xml:lang="en">vinyl</skos:prefLabel>
+    <skos:definition xml:lang="en">Vinyl.</skos:definition>
+    <skos:notation xml:lang="en">l</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4r20-tp49#z">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -151,50 +115,46 @@
          other photographic medium.</skos:definition>
     <skos:notation xml:lang="en">z</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4r20-tp49#y">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4r20-tp49#q">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4r20-tp49"/>
-    <skos:prefLabel xml:lang="en">other photographic medium</skos:prefLabel>
-    <skos:definition xml:lang="en">Photographic medium other than flexible base photographic,
-         positive; flexible base photographic, negative; non-flexible base photographic, positive;
-         or non-flexible base photographic, negative.</skos:definition>
-    <skos:notation xml:lang="en">y</skos:notation>
+    <skos:prefLabel xml:lang="en">flexible base photographic, positive</skos:prefLabel>
+    <skos:definition xml:lang="en">Flexible base photographic medium designed to render a positive
+         image.</skos:definition>
+    <skos:notation xml:lang="en">q</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4r20-tp49#l">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4r20-tp49#f">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4r20-tp49"/>
-    <skos:prefLabel xml:lang="en">vinyl</skos:prefLabel>
-    <skos:definition xml:lang="en">Vinyl.</skos:definition>
-    <skos:notation xml:lang="en">l</skos:notation>
+    <skos:prefLabel xml:lang="en">skin</skos:prefLabel>
+    <skos:definition xml:lang="en">Skin.</skos:definition>
+    <skos:scopeNote xml:lang="en">Excludes leather, parchment, and vellum.</skos:scopeNote>
+    <skos:scopeNote xml:lang="en">Synthetic materials that are made to resemble animal skin are
+         coded as synthetic.</skos:scopeNote>
+    <skos:notation xml:lang="en">f</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4r20-tp49#j">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4r20-tp49#g">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4r20-tp49"/>
-    <skos:prefLabel xml:lang="en">glass</skos:prefLabel>
-    <skos:definition xml:lang="en">Glass.</skos:definition>
-    <skos:notation xml:lang="en">j</skos:notation>
+    <skos:prefLabel xml:lang="en">textile</skos:prefLabel>
+    <skos:definition xml:lang="en">Textile.</skos:definition>
+    <skos:scopeNote xml:lang="en">Used for all fabrics, whether made from natural or synthetic
+         fibers.</skos:scopeNote>
+    <skos:notation xml:lang="en">g</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4r20-tp49#b">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4r20-tp49#v">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4r20-tp49"/>
-    <skos:prefLabel xml:lang="en">wood</skos:prefLabel>
-    <skos:scopeNote xml:lang="en">Material which is based on wood particles or fibers may or may
-         not be considered wood. Consider particle board to be wood.</skos:scopeNote>
-    <skos:notation xml:lang="en">b</skos:notation>
+    <skos:prefLabel xml:lang="en">leather</skos:prefLabel>
+    <skos:definition xml:lang="en">Animal skin dressed for use.</skos:definition>
+    <skos:notation xml:lang="en">v</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4r20-tp49#a">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4r20-tp49#d">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4r20-tp49"/>
-    <skos:prefLabel xml:lang="en">paper</skos:prefLabel>
-    <skos:definition xml:lang="en">Any kind of cellulose-based paper.</skos:definition>
-    <skos:notation xml:lang="en">a</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4r20-tp49#i">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4r20-tp49"/>
-    <skos:prefLabel xml:lang="en">plastic</skos:prefLabel>
-    <skos:definition xml:lang="en">Plastic.</skos:definition>
-    <skos:notation xml:lang="en">i</skos:notation>
+    <skos:prefLabel xml:lang="en">metal</skos:prefLabel>
+    <skos:definition xml:lang="en">Metal.</skos:definition>
+    <skos:notation xml:lang="en">d</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4r20-tp49#x">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -204,5 +164,45 @@
          cartographic resources because it pertains to characteristics specific to physical aspects
          of carriers.</skos:definition>
     <skos:notation xml:lang="en">x</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4r20-tp49#p">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4r20-tp49"/>
+    <skos:prefLabel xml:lang="en">plaster</skos:prefLabel>
+    <skos:definition xml:lang="en">Plaster.</skos:definition>
+    <skos:scopeNote xml:lang="en">Includes mixtures of ground solids and plaster.</skos:scopeNote>
+    <skos:notation xml:lang="en">p</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4r20-tp49#t">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4r20-tp49"/>
+    <skos:prefLabel xml:lang="en">non-flexible base photographic, negative</skos:prefLabel>
+    <skos:definition xml:lang="en">Non-flexible base photographic medium designed to render a
+         negative image.</skos:definition>
+    <skos:notation xml:lang="en">t</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4r20-tp49#y">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4r20-tp49"/>
+    <skos:prefLabel xml:lang="en">other photographic medium</skos:prefLabel>
+    <skos:definition xml:lang="en">Photographic medium other than flexible base photographic,
+         positive; flexible base photographic, negative; non-flexible base photographic, positive;
+         or non-flexible base photographic, negative.</skos:definition>
+    <skos:notation xml:lang="en">y</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4r20-tp49#w">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4r20-tp49"/>
+    <skos:prefLabel xml:lang="en">parchment</skos:prefLabel>
+    <skos:definition xml:lang="en">Skin of a sheep or goat prepared for writing
+         on.</skos:definition>
+    <skos:notation xml:lang="en">w</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4r20-tp49#j">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4r20-tp49"/>
+    <skos:prefLabel xml:lang="en">glass</skos:prefLabel>
+    <skos:definition xml:lang="en">Glass.</skos:definition>
+    <skos:notation xml:lang="en">j</skos:notation>
   </rdf:Description>
 </rdf:RDF>

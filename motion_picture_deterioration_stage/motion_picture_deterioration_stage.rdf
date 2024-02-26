@@ -6,6 +6,46 @@
    xmlns:schema="https://schema.org/"
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
 >
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.dfav-1729#m">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.dfav-1729"/>
+    <skos:prefLabel xml:lang="en">non-nitrate: disaster</skos:prefLabel>
+    <skos:definition xml:lang="en">Deterioration of non-nitrate materials (safety film, etc.)
+         characterized as disaster.</skos:definition>
+    <skos:notation xml:lang="en">m</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.dfav-1729#e">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.dfav-1729"/>
+    <skos:prefLabel xml:lang="en">nitrate: sticky</skos:prefLabel>
+    <skos:definition xml:lang="en">Deterioration of nitrate materials characterized as
+         sticky.</skos:definition>
+    <skos:notation xml:lang="en">e</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.dfav-1729#h">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.dfav-1729"/>
+    <skos:prefLabel xml:lang="en">nitrate: powder</skos:prefLabel>
+    <skos:definition xml:lang="en">Deterioration of nitrate materials characterized as
+         powder.</skos:definition>
+    <skos:notation xml:lang="en">h</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.dfav-1729#d">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.dfav-1729"/>
+    <skos:prefLabel xml:lang="en">nitrate: brownish, discoloration, fading, dusty</skos:prefLabel>
+    <skos:definition xml:lang="en">Deterioration of nitrate materials characterized as brownish,
+         discoloration, fading, or dusty.</skos:definition>
+    <skos:notation xml:lang="en">d</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.dfav-1729#l">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.dfav-1729"/>
+    <skos:prefLabel xml:lang="en">non-nitrate: advanced deterioration</skos:prefLabel>
+    <skos:definition xml:lang="en">Deterioration of non-nitrate materials (safety film, etc.)
+         characterized as advanced deterioration.</skos:definition>
+    <skos:notation xml:lang="en">l</skos:notation>
+  </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.dfav-1729">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
     <dct:type rdf:resource="http://purl.org/dc/dcmitype/Dataset"/>
@@ -37,21 +77,13 @@
          congealed.</skos:definition>
     <skos:notation xml:lang="en">g</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.dfav-1729#f">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.dfav-1729#k">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.dfav-1729"/>
-    <skos:prefLabel xml:lang="en">nitrate: frothy, bubbles, blisters</skos:prefLabel>
-    <skos:definition xml:lang="en">Deterioration of nitrate materials characterized as frothy,
-         bubbles, or blisters.</skos:definition>
-    <skos:notation xml:lang="en">f</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.dfav-1729#m">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.dfav-1729"/>
-    <skos:prefLabel xml:lang="en">non-nitrate: disaster</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">non-nitrate: detectable deterioration</skos:prefLabel>
     <skos:definition xml:lang="en">Deterioration of non-nitrate materials (safety film, etc.)
-         characterized as disaster.</skos:definition>
-    <skos:notation xml:lang="en">m</skos:notation>
+         characterized as detectable deterioration.</skos:definition>
+    <skos:notation xml:lang="en">k</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.dfav-1729#a">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -61,30 +93,6 @@
          motion picture film.</skos:definition>
     <skos:notation xml:lang="en">a</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.dfav-1729#c">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.dfav-1729"/>
-    <skos:prefLabel xml:lang="en">nitrate: pungent odor</skos:prefLabel>
-    <skos:definition xml:lang="en">Deterioration of nitrate materials characterized as pungent
-         odor.</skos:definition>
-    <skos:notation xml:lang="en">c</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.dfav-1729#l">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.dfav-1729"/>
-    <skos:prefLabel xml:lang="en">non-nitrate: advanced deterioration</skos:prefLabel>
-    <skos:definition xml:lang="en">Deterioration of non-nitrate materials (safety film, etc.)
-         characterized as advanced deterioration.</skos:definition>
-    <skos:notation xml:lang="en">l</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.dfav-1729#d">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.dfav-1729"/>
-    <skos:prefLabel xml:lang="en">nitrate: brownish, discoloration, fading, dusty</skos:prefLabel>
-    <skos:definition xml:lang="en">Deterioration of nitrate materials characterized as brownish,
-         discoloration, fading, or dusty.</skos:definition>
-    <skos:notation xml:lang="en">d</skos:notation>
-  </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.dfav-1729#b">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.dfav-1729"/>
@@ -93,28 +101,20 @@
          odor.</skos:definition>
     <skos:notation xml:lang="en">b</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.dfav-1729#h">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.dfav-1729#c">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.dfav-1729"/>
-    <skos:prefLabel xml:lang="en">nitrate: powder</skos:prefLabel>
-    <skos:definition xml:lang="en">Deterioration of nitrate materials characterized as
-         powder.</skos:definition>
-    <skos:notation xml:lang="en">h</skos:notation>
+    <skos:prefLabel xml:lang="en">nitrate: pungent odor</skos:prefLabel>
+    <skos:definition xml:lang="en">Deterioration of nitrate materials characterized as pungent
+         odor.</skos:definition>
+    <skos:notation xml:lang="en">c</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.dfav-1729#e">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.dfav-1729#f">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.dfav-1729"/>
-    <skos:prefLabel xml:lang="en">nitrate: sticky</skos:prefLabel>
-    <skos:definition xml:lang="en">Deterioration of nitrate materials characterized as
-         sticky.</skos:definition>
-    <skos:notation xml:lang="en">e</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.dfav-1729#k">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.dfav-1729"/>
-    <skos:prefLabel xml:lang="en">non-nitrate: detectable deterioration</skos:prefLabel>
-    <skos:definition xml:lang="en">Deterioration of non-nitrate materials (safety film, etc.)
-         characterized as detectable deterioration.</skos:definition>
-    <skos:notation xml:lang="en">k</skos:notation>
+    <skos:prefLabel xml:lang="en">nitrate: frothy, bubbles, blisters</skos:prefLabel>
+    <skos:definition xml:lang="en">Deterioration of nitrate materials characterized as frothy,
+         bubbles, or blisters.</skos:definition>
+    <skos:notation xml:lang="en">f</skos:notation>
   </rdf:Description>
 </rdf:RDF>

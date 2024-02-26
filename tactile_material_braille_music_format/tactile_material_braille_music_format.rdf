@@ -6,6 +6,13 @@
    xmlns:schema="https://schema.org/"
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
 >
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.9t5f-qz73#l">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.9t5f-qz73"/>
+    <skos:prefLabel xml:lang="en">vertical score</skos:prefLabel>
+    <skos:definition xml:lang="en">Parts are combined and written as chords.</skos:definition>
+    <skos:notation xml:lang="en">l</skos:notation>
+  </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.9t5f-qz73">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
     <dct:type rdf:resource="http://purl.org/dc/dcmitype/Dataset"/>
@@ -30,38 +37,6 @@
     <schema:version>1-0-0</schema:version>
     <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.9t5f-qz73#l">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.9t5f-qz73"/>
-    <skos:prefLabel xml:lang="en">vertical score</skos:prefLabel>
-    <skos:definition xml:lang="en">Parts are combined and written as chords.</skos:definition>
-    <skos:notation xml:lang="en">l</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.9t5f-qz73#z">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.9t5f-qz73"/>
-    <skos:prefLabel xml:lang="en">other</skos:prefLabel>
-    <skos:definition xml:lang="en">Braille music format other than no specified braille music
-         format, bar over bar, bar by bar, line over line, paragraph, single line, section by
-         section, line by line, open score, spanner short form scoring, short form scoring, outline,
-         or vertical score.</skos:definition>
-    <skos:notation xml:lang="en">z</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.9t5f-qz73#k">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.9t5f-qz73"/>
-    <skos:prefLabel xml:lang="en">outline</skos:prefLabel>
-    <skos:definition xml:lang="en">Music is in the outline format.</skos:definition>
-    <skos:notation xml:lang="en">k</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.9t5f-qz73#d">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.9t5f-qz73"/>
-    <skos:prefLabel xml:lang="en">paragraph</skos:prefLabel>
-    <skos:definition xml:lang="en">Music is displayed in paragraphs with one part per
-         paragraph.</skos:definition>
-    <skos:notation xml:lang="en">d</skos:notation>
-  </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.9t5f-qz73#f">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.9t5f-qz73"/>
@@ -70,6 +45,49 @@
          margin.</skos:definition>
     <skos:notation xml:lang="en">f</skos:notation>
   </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.9t5f-qz73#g">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.9t5f-qz73"/>
+    <skos:prefLabel xml:lang="en">line by line</skos:prefLabel>
+    <skos:definition xml:lang="en">Lines of text alternate with lines of music for the preceding
+         text.</skos:definition>
+    <skos:notation xml:lang="en">g</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.9t5f-qz73#n">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.9t5f-qz73"/>
+    <skos:prefLabel xml:lang="en">not applicable</skos:prefLabel>
+    <skos:definition xml:lang="en">Not braille music.</skos:definition>
+    <skos:notation xml:lang="en">n</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.9t5f-qz73#e">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.9t5f-qz73"/>
+    <skos:prefLabel xml:lang="en">single line</skos:prefLabel>
+    <skos:definition xml:lang="en">Music is presented in segments of two to five lines, the
+         initial line displaying a measure number or rehearsal designation.</skos:definition>
+    <skos:scopeNote xml:lang="en">Used for single instrumental parts or solos. It is also called
+         solo instrumental format.</skos:scopeNote>
+    <skos:notation xml:lang="en">e</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.9t5f-qz73#j">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.9t5f-qz73"/>
+    <skos:prefLabel xml:lang="en">short form scoring</skos:prefLabel>
+    <skos:definition xml:lang="en">Words, chord symbols, and melody are presented in parallels,
+         and literary braille is used for the chord symbols.</skos:definition>
+    <skos:scopeNote xml:lang="en">Used chiefly for popular and folk music. This format is also
+         referred to as the American or BANA short form scoring format.</skos:scopeNote>
+    <skos:notation xml:lang="en">j</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.9t5f-qz73#c">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.9t5f-qz73"/>
+    <skos:prefLabel xml:lang="en">line over line</skos:prefLabel>
+    <skos:definition xml:lang="en">Measures are displayed in parallels, but the measures are not
+         necessarily aligned.</skos:definition>
+    <skos:notation xml:lang="en">c</skos:notation>
+  </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.9t5f-qz73#pound">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.9t5f-qz73"/>
@@ -77,13 +95,6 @@
     <skos:definition xml:lang="en">Item uses fewer than three specified braille writing
          formats.</skos:definition>
     <skos:notation xml:lang="en">#</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.9t5f-qz73#u">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.9t5f-qz73"/>
-    <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
-    <skos:definition xml:lang="en">Braille music format is not known.</skos:definition>
-    <skos:notation xml:lang="en">u</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.9t5f-qz73#i">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -96,23 +107,23 @@
          chord system.</skos:scopeNote>
     <skos:notation xml:lang="en">i</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.9t5f-qz73#c">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.9t5f-qz73#z">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.9t5f-qz73"/>
-    <skos:prefLabel xml:lang="en">line over line</skos:prefLabel>
-    <skos:definition xml:lang="en">Measures are displayed in parallels, but the measures are not
-         necessarily aligned.</skos:definition>
-    <skos:notation xml:lang="en">c</skos:notation>
+    <skos:prefLabel xml:lang="en">other</skos:prefLabel>
+    <skos:definition xml:lang="en">Braille music format other than no specified braille music
+         format, bar over bar, bar by bar, line over line, paragraph, single line, section by
+         section, line by line, open score, spanner short form scoring, short form scoring, outline,
+         or vertical score.</skos:definition>
+    <skos:notation xml:lang="en">z</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.9t5f-qz73#e">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.9t5f-qz73#b">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.9t5f-qz73"/>
-    <skos:prefLabel xml:lang="en">single line</skos:prefLabel>
-    <skos:definition xml:lang="en">Music is presented in segments of two to five lines, the
-         initial line displaying a measure number or rehearsal designation.</skos:definition>
-    <skos:scopeNote xml:lang="en">Used for single instrumental parts or solos. It is also called
-         solo instrumental format.</skos:scopeNote>
-    <skos:notation xml:lang="en">e</skos:notation>
+    <skos:prefLabel xml:lang="en">bar by bar</skos:prefLabel>
+    <skos:definition xml:lang="en">Music is displayed in indented paragraphs with all of the parts
+         for each measure written consecutively.</skos:definition>
+    <skos:notation xml:lang="en">b</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.9t5f-qz73#a">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -124,38 +135,27 @@
     <skos:scopeNote xml:lang="en">Used chiefly for keyboard music.</skos:scopeNote>
     <skos:notation xml:lang="en">a</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.9t5f-qz73#j">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.9t5f-qz73#k">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.9t5f-qz73"/>
-    <skos:prefLabel xml:lang="en">short form scoring</skos:prefLabel>
-    <skos:definition xml:lang="en">Words, chord symbols, and melody are presented in parallels,
-         and literary braille is used for the chord symbols.</skos:definition>
-    <skos:scopeNote xml:lang="en">Used chiefly for popular and folk music. This format is also
-         referred to as the American or BANA short form scoring format.</skos:scopeNote>
-    <skos:notation xml:lang="en">j</skos:notation>
+    <skos:prefLabel xml:lang="en">outline</skos:prefLabel>
+    <skos:definition xml:lang="en">Music is in the outline format.</skos:definition>
+    <skos:notation xml:lang="en">k</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.9t5f-qz73#g">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.9t5f-qz73#u">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.9t5f-qz73"/>
-    <skos:prefLabel xml:lang="en">line by line</skos:prefLabel>
-    <skos:definition xml:lang="en">Lines of text alternate with lines of music for the preceding
-         text.</skos:definition>
-    <skos:notation xml:lang="en">g</skos:notation>
+    <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
+    <skos:definition xml:lang="en">Braille music format is not known.</skos:definition>
+    <skos:notation xml:lang="en">u</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.9t5f-qz73#b">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.9t5f-qz73#d">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.9t5f-qz73"/>
-    <skos:prefLabel xml:lang="en">bar by bar</skos:prefLabel>
-    <skos:definition xml:lang="en">Music is displayed in indented paragraphs with all of the parts
-         for each measure written consecutively.</skos:definition>
-    <skos:notation xml:lang="en">b</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.9t5f-qz73#n">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.9t5f-qz73"/>
-    <skos:prefLabel xml:lang="en">not applicable</skos:prefLabel>
-    <skos:definition xml:lang="en">Not braille music.</skos:definition>
-    <skos:notation xml:lang="en">n</skos:notation>
+    <skos:prefLabel xml:lang="en">paragraph</skos:prefLabel>
+    <skos:definition xml:lang="en">Music is displayed in paragraphs with one part per
+         paragraph.</skos:definition>
+    <skos:notation xml:lang="en">d</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.9t5f-qz73#h">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>

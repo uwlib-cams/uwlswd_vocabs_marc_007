@@ -29,6 +29,14 @@
     <schema:version>1-0-0</schema:version>
     <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
   </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.er3s-pg07#u">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.er3s-pg07"/>
+    <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
+    <skos:definition xml:lang="en">Configuration of sound playback channels is not
+         known.</skos:definition>
+    <skos:notation xml:lang="en">u</skos:notation>
+  </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.er3s-pg07#q">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.er3s-pg07"/>
@@ -39,31 +47,6 @@
          techniques.</skos:scopeNote>
     <skos:notation xml:lang="en">q</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.er3s-pg07#s">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.er3s-pg07"/>
-    <skos:prefLabel xml:lang="en">stereophonic</skos:prefLabel>
-    <skos:definition xml:lang="en">Configured to be played back on two separate
-         channels.</skos:definition>
-    <skos:scopeNote xml:lang="en">Use when the medium is not monaural and when it is not possible
-         to ascertain that multiple playback sources are available or intended.</skos:scopeNote>
-    <skos:notation xml:lang="en">s</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.er3s-pg07#m">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.er3s-pg07"/>
-    <skos:prefLabel xml:lang="en">monaural</skos:prefLabel>
-    <skos:definition xml:lang="en">Configured to be played back on one channel.</skos:definition>
-    <skos:notation xml:lang="en">m</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.er3s-pg07#u">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.er3s-pg07"/>
-    <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
-    <skos:definition xml:lang="en">Configuration of sound playback channels is not
-         known.</skos:definition>
-    <skos:notation xml:lang="en">u</skos:notation>
-  </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.er3s-pg07#k">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.er3s-pg07"/>
@@ -73,6 +56,23 @@
     <skos:scopeNote xml:lang="en">An example would be a film with both monaural optical and
          stereophonic magnetic sound tracks.</skos:scopeNote>
     <skos:notation xml:lang="en">k</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.er3s-pg07#m">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.er3s-pg07"/>
+    <skos:prefLabel xml:lang="en">monaural</skos:prefLabel>
+    <skos:definition xml:lang="en">Configured to be played back on one channel.</skos:definition>
+    <skos:notation xml:lang="en">m</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.er3s-pg07#s">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.er3s-pg07"/>
+    <skos:prefLabel xml:lang="en">stereophonic</skos:prefLabel>
+    <skos:definition xml:lang="en">Configured to be played back on two separate
+         channels.</skos:definition>
+    <skos:scopeNote xml:lang="en">Use when the medium is not monaural and when it is not possible
+         to ascertain that multiple playback sources are available or intended.</skos:scopeNote>
+    <skos:notation xml:lang="en">s</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.er3s-pg07#z">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>

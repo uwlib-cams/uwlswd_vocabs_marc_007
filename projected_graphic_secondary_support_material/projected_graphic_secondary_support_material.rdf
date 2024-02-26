@@ -6,6 +6,15 @@
    xmlns:schema="https://schema.org/"
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
 >
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.n3ew-mc60#j">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.n3ew-mc60"/>
+    <skos:prefLabel xml:lang="en">metal and glass</skos:prefLabel>
+    <skos:definition xml:lang="en">Metal portion is usually a frame that holds one or two pieces
+         of glass to support the film base. Glass should not be the primary support for the film
+         emulsion.</skos:definition>
+    <skos:notation xml:lang="en">j</skos:notation>
+  </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.n3ew-mc60">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
     <dct:type rdf:resource="http://purl.org/dc/dcmitype/Dataset"/>
@@ -29,13 +38,48 @@
     <schema:version>1-0-0</schema:version>
     <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.n3ew-mc60#d">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.n3ew-mc60#k">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.n3ew-mc60"/>
-    <skos:prefLabel xml:lang="en">glass</skos:prefLabel>
-    <skos:definition xml:lang="en">Glass mount that usually covers the film base but should not be
-         the primary support for the film emulsion.</skos:definition>
-    <skos:notation xml:lang="en">d</skos:notation>
+    <skos:prefLabel xml:lang="en">synthetic and glass</skos:prefLabel>
+    <skos:definition xml:lang="en">Synthetic material is usually used as a frame to hold one or
+         two pieces of glass to support the film base. Glass should not be the primary support for
+         the film emulsion.</skos:definition>
+    <skos:scopeNote xml:lang="en">E.g. plastics, vinyl, etc.</skos:scopeNote>
+    <skos:notation xml:lang="en">k</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.n3ew-mc60#c">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.n3ew-mc60"/>
+    <skos:prefLabel xml:lang="en">cardboard</skos:prefLabel>
+    <skos:definition xml:lang="en">Cardboard mount.</skos:definition>
+    <skos:scopeNote xml:lang="en">Slides and transparencies cataloged from data sheets are assumed
+         to have cardboard mounts unless otherwise known.</skos:scopeNote>
+    <skos:notation xml:lang="en">c</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.n3ew-mc60#pound">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.n3ew-mc60"/>
+    <skos:prefLabel xml:lang="en">no secondary support</skos:prefLabel>
+    <skos:definition xml:lang="en">No secondary support.</skos:definition>
+    <skos:scopeNote xml:lang="en">Includes all filmstrips.</skos:scopeNote>
+    <skos:notation xml:lang="en">#</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.n3ew-mc60#h">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.n3ew-mc60"/>
+    <skos:prefLabel xml:lang="en">metal</skos:prefLabel>
+    <skos:definition xml:lang="en">Metal.</skos:definition>
+    <skos:scopeNote xml:lang="en">Usually used to frame larger projected graphics which need
+         better support.</skos:scopeNote>
+    <skos:notation xml:lang="en">h</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.n3ew-mc60#u">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.n3ew-mc60"/>
+    <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
+    <skos:definition xml:lang="en">Secondary support material is not known.</skos:definition>
+    <skos:notation xml:lang="en">u</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.n3ew-mc60#m">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -46,6 +90,14 @@
     <skos:scopeNote xml:lang="en">Typically this is used for groups of projected graphics on
          various secondary support materials.</skos:scopeNote>
     <skos:notation xml:lang="en">m</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.n3ew-mc60#d">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.n3ew-mc60"/>
+    <skos:prefLabel xml:lang="en">glass</skos:prefLabel>
+    <skos:definition xml:lang="en">Glass mount that usually covers the film base but should not be
+         the primary support for the film emulsion.</skos:definition>
+    <skos:notation xml:lang="en">d</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.n3ew-mc60#e">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -63,57 +115,5 @@
          synthetic, metal, metal and glass, synthetic and glass, or mixed
          collection.</skos:definition>
     <skos:notation xml:lang="en">z</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.n3ew-mc60#c">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.n3ew-mc60"/>
-    <skos:prefLabel xml:lang="en">cardboard</skos:prefLabel>
-    <skos:definition xml:lang="en">Cardboard mount.</skos:definition>
-    <skos:scopeNote xml:lang="en">Slides and transparencies cataloged from data sheets are assumed
-         to have cardboard mounts unless otherwise known.</skos:scopeNote>
-    <skos:notation xml:lang="en">c</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.n3ew-mc60#u">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.n3ew-mc60"/>
-    <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
-    <skos:definition xml:lang="en">Secondary support material is not known.</skos:definition>
-    <skos:notation xml:lang="en">u</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.n3ew-mc60#j">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.n3ew-mc60"/>
-    <skos:prefLabel xml:lang="en">metal and glass</skos:prefLabel>
-    <skos:definition xml:lang="en">Metal portion is usually a frame that holds one or two pieces
-         of glass to support the film base. Glass should not be the primary support for the film
-         emulsion.</skos:definition>
-    <skos:notation xml:lang="en">j</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.n3ew-mc60#pound">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.n3ew-mc60"/>
-    <skos:prefLabel xml:lang="en">no secondary support</skos:prefLabel>
-    <skos:definition xml:lang="en">No secondary support.</skos:definition>
-    <skos:scopeNote xml:lang="en">Includes all filmstrips.</skos:scopeNote>
-    <skos:notation xml:lang="en">#</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.n3ew-mc60#k">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.n3ew-mc60"/>
-    <skos:prefLabel xml:lang="en">synthetic and glass</skos:prefLabel>
-    <skos:definition xml:lang="en">Synthetic material is usually used as a frame to hold one or
-         two pieces of glass to support the film base. Glass should not be the primary support for
-         the film emulsion.</skos:definition>
-    <skos:scopeNote xml:lang="en">E.g. plastics, vinyl, etc.</skos:scopeNote>
-    <skos:notation xml:lang="en">k</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.n3ew-mc60#h">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.n3ew-mc60"/>
-    <skos:prefLabel xml:lang="en">metal</skos:prefLabel>
-    <skos:definition xml:lang="en">Metal.</skos:definition>
-    <skos:scopeNote xml:lang="en">Usually used to frame larger projected graphics which need
-         better support.</skos:scopeNote>
-    <skos:notation xml:lang="en">h</skos:notation>
   </rdf:Description>
 </rdf:RDF>

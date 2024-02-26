@@ -6,6 +6,16 @@
    xmlns:schema="https://schema.org/"
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
 >
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.s0ms-4p29#a">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.s0ms-4p29"/>
+    <skos:prefLabel xml:lang="en">one file format</skos:prefLabel>
+    <skos:definition xml:lang="en">File(s) which comprise(s)the electronic resource are of the
+         same format or type.</skos:definition>
+    <skos:scopeNote xml:lang="en">E.g., all .jpg; all .tif; all .txt; all .wav; all .mpg;
+         etc.</skos:scopeNote>
+    <skos:notation xml:lang="en">a</skos:notation>
+  </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.s0ms-4p29">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
     <dct:type rdf:resource="http://purl.org/dc/dcmitype/Dataset"/>
@@ -28,16 +38,6 @@
     <dct:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0"/>
     <schema:version>1-0-0</schema:version>
     <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.s0ms-4p29#a">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.s0ms-4p29"/>
-    <skos:prefLabel xml:lang="en">one file format</skos:prefLabel>
-    <skos:definition xml:lang="en">File(s) which comprise(s)the electronic resource are of the
-         same format or type.</skos:definition>
-    <skos:scopeNote xml:lang="en">E.g., all .jpg; all .tif; all .txt; all .wav; all .mpg;
-         etc.</skos:scopeNote>
-    <skos:notation xml:lang="en">a</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.s0ms-4p29#m">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>

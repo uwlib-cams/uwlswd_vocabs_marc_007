@@ -6,15 +6,6 @@
    xmlns:schema="https://schema.org/"
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
 >
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.m9z2-3g03#m">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.m9z2-3g03"/>
-    <skos:prefLabel xml:lang="en">mixed emulsion</skos:prefLabel>
-    <skos:definition xml:lang="en">Mixed emulsion.</skos:definition>
-    <skos:scopeNote xml:lang="en">For example, a microfilm may have slices of film with one type
-         of emulsion and other slices with another type of emulsion.</skos:scopeNote>
-    <skos:notation xml:lang="en">m</skos:notation>
-  </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.m9z2-3g03">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
     <dct:type rdf:resource="http://purl.org/dc/dcmitype/Dataset"/>
@@ -37,30 +28,6 @@
     <schema:version>1-0-0</schema:version>
     <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.m9z2-3g03#a">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.m9z2-3g03"/>
-    <skos:prefLabel xml:lang="en">silver halide</skos:prefLabel>
-    <skos:definition xml:lang="en">A compound of silver and halogens.</skos:definition>
-    <skos:scopeNote xml:lang="en">Silver halide microforms always appear black-and-white
-         (black-and-transparent).</skos:scopeNote>
-    <skos:notation xml:lang="en">a</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.m9z2-3g03#u">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.m9z2-3g03"/>
-    <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
-    <skos:definition xml:lang="en">Emulsion on the film is not known.</skos:definition>
-    <skos:notation xml:lang="en">u</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.m9z2-3g03#n">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.m9z2-3g03"/>
-    <skos:prefLabel xml:lang="en">not applicable</skos:prefLabel>
-    <skos:definition xml:lang="en">Item does not have emulsion on film.</skos:definition>
-    <skos:scopeNote xml:lang="en">Used for microopaques.</skos:scopeNote>
-    <skos:notation xml:lang="en">n</skos:notation>
-  </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.m9z2-3g03#z">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.m9z2-3g03"/>
@@ -68,16 +35,6 @@
     <skos:definition xml:lang="en">Emulsion on film other than silver halide, diazo, vesicular,
          mixed emulsion.</skos:definition>
     <skos:notation xml:lang="en">z</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.m9z2-3g03#b">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.m9z2-3g03"/>
-    <skos:prefLabel xml:lang="en">diazo</skos:prefLabel>
-    <skos:definition xml:lang="en">Sensitized layers composed of diazonium salts that react with
-         couplers to form dye images. The color of the image is determined by the composition of the
-         diazonium compound as well as the couplers used in the process.</skos:definition>
-    <skos:scopeNote xml:lang="en">May be black, violet, or another color.</skos:scopeNote>
-    <skos:notation xml:lang="en">b</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.m9z2-3g03#c">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -91,5 +48,48 @@
          appear to have much contrast (very high density) until projected in a microform
          reader.</skos:scopeNote>
     <skos:notation xml:lang="en">c</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.m9z2-3g03#m">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.m9z2-3g03"/>
+    <skos:prefLabel xml:lang="en">mixed emulsion</skos:prefLabel>
+    <skos:definition xml:lang="en">Mixed emulsion.</skos:definition>
+    <skos:scopeNote xml:lang="en">For example, a microfilm may have slices of film with one type
+         of emulsion and other slices with another type of emulsion.</skos:scopeNote>
+    <skos:notation xml:lang="en">m</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.m9z2-3g03#n">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.m9z2-3g03"/>
+    <skos:prefLabel xml:lang="en">not applicable</skos:prefLabel>
+    <skos:definition xml:lang="en">Item does not have emulsion on film.</skos:definition>
+    <skos:scopeNote xml:lang="en">Used for microopaques.</skos:scopeNote>
+    <skos:notation xml:lang="en">n</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.m9z2-3g03#a">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.m9z2-3g03"/>
+    <skos:prefLabel xml:lang="en">silver halide</skos:prefLabel>
+    <skos:definition xml:lang="en">A compound of silver and halogens.</skos:definition>
+    <skos:scopeNote xml:lang="en">Silver halide microforms always appear black-and-white
+         (black-and-transparent).</skos:scopeNote>
+    <skos:notation xml:lang="en">a</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.m9z2-3g03#b">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.m9z2-3g03"/>
+    <skos:prefLabel xml:lang="en">diazo</skos:prefLabel>
+    <skos:definition xml:lang="en">Sensitized layers composed of diazonium salts that react with
+         couplers to form dye images. The color of the image is determined by the composition of the
+         diazonium compound as well as the couplers used in the process.</skos:definition>
+    <skos:scopeNote xml:lang="en">May be black, violet, or another color.</skos:scopeNote>
+    <skos:notation xml:lang="en">b</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.m9z2-3g03#u">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.m9z2-3g03"/>
+    <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
+    <skos:definition xml:lang="en">Emulsion on the film is not known.</skos:definition>
+    <skos:notation xml:lang="en">u</skos:notation>
   </rdf:Description>
 </rdf:RDF>

@@ -37,6 +37,29 @@
          specified.</skos:definition>
     <skos:notation xml:lang="en">u</skos:notation>
   </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.kb0p-ta35#z">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.kb0p-ta35"/>
+    <skos:prefLabel xml:lang="en">other</skos:prefLabel>
+    <skos:definition xml:lang="en">Specific material designation other than moon; braille;
+         combination; or tactile, with no writing system.</skos:definition>
+    <skos:notation xml:lang="en">z</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.kb0p-ta35#a">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.kb0p-ta35"/>
+    <skos:prefLabel xml:lang="en">moon</skos:prefLabel>
+    <skos:definition xml:lang="en">Moon type, which is an abstraction of the
+         print.</skos:definition>
+    <skos:notation xml:lang="en">a</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.kb0p-ta35#c">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.kb0p-ta35"/>
+    <skos:prefLabel xml:lang="en">combination</skos:prefLabel>
+    <skos:definition xml:lang="en">Combination of two or more types.</skos:definition>
+    <skos:notation xml:lang="en">c</skos:notation>
+  </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.kb0p-ta35#b">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.kb0p-ta35"/>
@@ -52,28 +75,5 @@
     <skos:definition xml:lang="en">No text and only communicated as graphic, i.e. a raised line
          diagram or drawing.</skos:definition>
     <skos:notation xml:lang="en">d</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.kb0p-ta35#c">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.kb0p-ta35"/>
-    <skos:prefLabel xml:lang="en">combination</skos:prefLabel>
-    <skos:definition xml:lang="en">Combination of two or more types.</skos:definition>
-    <skos:notation xml:lang="en">c</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.kb0p-ta35#a">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.kb0p-ta35"/>
-    <skos:prefLabel xml:lang="en">moon</skos:prefLabel>
-    <skos:definition xml:lang="en">Moon type, which is an abstraction of the
-         print.</skos:definition>
-    <skos:notation xml:lang="en">a</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.kb0p-ta35#z">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.kb0p-ta35"/>
-    <skos:prefLabel xml:lang="en">other</skos:prefLabel>
-    <skos:definition xml:lang="en">Specific material designation other than moon; braille;
-         combination; or tactile, with no writing system.</skos:definition>
-    <skos:notation xml:lang="en">z</skos:notation>
   </rdf:Description>
 </rdf:RDF>

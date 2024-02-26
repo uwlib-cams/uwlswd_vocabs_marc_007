@@ -6,56 +6,6 @@
    xmlns:schema="https://schema.org/"
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
 >
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.yayd-4y11#b">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.yayd-4y11"/>
-    <skos:prefLabel xml:lang="en">magnetic sound track on motion picture film</skos:prefLabel>
-    <skos:definition xml:lang="en">Sound to accompany a projected graphic is carried on a magnetic
-         track that is part of the film.</skos:definition>
-    <skos:scopeNote xml:lang="en">70 mm. motion picture films often include magnetic sound
-         tracks.</skos:scopeNote>
-    <skos:notation xml:lang="en">b</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.yayd-4y11#f">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.yayd-4y11"/>
-    <skos:prefLabel xml:lang="en">magnetic audio tape in cassette</skos:prefLabel>
-    <skos:definition xml:lang="en">Sound to accompany an item is carried on a cassette of magnetic
-         audio tape.</skos:definition>
-    <skos:notation xml:lang="en">f</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.yayd-4y11#c">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.yayd-4y11"/>
-    <skos:prefLabel xml:lang="en">magnetic audio tape in cartridge</skos:prefLabel>
-    <skos:definition xml:lang="en">Sound to accompany an item is carried on a magnetic audio tape
-         cartridge.</skos:definition>
-    <skos:notation xml:lang="en">c</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.yayd-4y11#u">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.yayd-4y11"/>
-    <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
-    <skos:definition xml:lang="en">Medium for sound is not known.</skos:definition>
-    <skos:notation xml:lang="en">u</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.yayd-4y11#g">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.yayd-4y11"/>
-    <skos:prefLabel xml:lang="en">optical and magnetic sound track on motion picture
-         film</skos:prefLabel>
-    <skos:definition xml:lang="en">Sound to accompany a projected graphic is carried on both an
-         optical and magnetic track.</skos:definition>
-    <skos:notation xml:lang="en">g</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.yayd-4y11#e">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.yayd-4y11"/>
-    <skos:prefLabel xml:lang="en">magnetic audio tape on reel</skos:prefLabel>
-    <skos:definition xml:lang="en">Sound to accompany an item is carried on a reel of magnetic
-         audio tape.</skos:definition>
-    <skos:notation xml:lang="en">e</skos:notation>
-  </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.yayd-4y11#h">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.yayd-4y11"/>
@@ -65,6 +15,23 @@
     <skos:scopeNote xml:lang="en">Videotape is not ordinarily used to record only
          sound.</skos:scopeNote>
     <skos:notation xml:lang="en">h</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.yayd-4y11#z">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.yayd-4y11"/>
+    <skos:prefLabel xml:lang="en">other</skos:prefLabel>
+    <skos:definition xml:lang="en">Medium for sound other than no sound (silent), optical sound
+         track on motion picture film, magnetic sound track on motion picture film, magnetic audio
+         tape in cartridge, sound disc, magnetic audio tape on reel, magnetic audio tape in
+         cassette, optical and magnetic sound track on videotape, or videodisc.</skos:definition>
+    <skos:notation xml:lang="en">z</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.yayd-4y11#pound">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.yayd-4y11"/>
+    <skos:prefLabel xml:lang="en">no sound (silent)</skos:prefLabel>
+    <skos:definition xml:lang="en">Sound is not present.</skos:definition>
+    <skos:notation xml:lang="en">#</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="http://fakeIRI.edu/terms/projectedmed">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
@@ -90,6 +57,28 @@
     <schema:version>1-0-0</schema:version>
     <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
   </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.yayd-4y11#gx">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.yayd-4y11"/>
+    <skos:prefLabel xml:lang="en">other [obsolete]</skos:prefLabel>
+    <skos:notation xml:lang="en">g</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.yayd-4y11#c">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.yayd-4y11"/>
+    <skos:prefLabel xml:lang="en">magnetic audio tape in cartridge</skos:prefLabel>
+    <skos:definition xml:lang="en">Sound to accompany an item is carried on a magnetic audio tape
+         cartridge.</skos:definition>
+    <skos:notation xml:lang="en">c</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.yayd-4y11#f">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.yayd-4y11"/>
+    <skos:prefLabel xml:lang="en">magnetic audio tape in cassette</skos:prefLabel>
+    <skos:definition xml:lang="en">Sound to accompany an item is carried on a cassette of magnetic
+         audio tape.</skos:definition>
+    <skos:notation xml:lang="en">f</skos:notation>
+  </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.yayd-4y11#d">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.yayd-4y11"/>
@@ -100,12 +89,6 @@
          filmstrips. Sound discs include 7, 10, and 12 in. vinyl phonograph records and 4 3/4 in.
          compact discs.</skos:scopeNote>
     <skos:notation xml:lang="en">d</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.yayd-4y11#gx">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.yayd-4y11"/>
-    <skos:prefLabel xml:lang="en">other [obsolete]</skos:prefLabel>
-    <skos:notation xml:lang="en">g</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.yayd-4y11#i">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -120,23 +103,6 @@
          information on digital disc systems is the same.</skos:scopeNote>
     <skos:notation xml:lang="en">i</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.yayd-4y11#pound">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.yayd-4y11"/>
-    <skos:prefLabel xml:lang="en">no sound (silent)</skos:prefLabel>
-    <skos:definition xml:lang="en">Sound is not present.</skos:definition>
-    <skos:notation xml:lang="en">#</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.yayd-4y11#z">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.yayd-4y11"/>
-    <skos:prefLabel xml:lang="en">other</skos:prefLabel>
-    <skos:definition xml:lang="en">Medium for sound other than no sound (silent), optical sound
-         track on motion picture film, magnetic sound track on motion picture film, magnetic audio
-         tape in cartridge, sound disc, magnetic audio tape on reel, magnetic audio tape in
-         cassette, optical and magnetic sound track on videotape, or videodisc.</skos:definition>
-    <skos:notation xml:lang="en">z</skos:notation>
-  </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.yayd-4y11#a">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.yayd-4y11"/>
@@ -146,5 +112,39 @@
     <skos:scopeNote xml:lang="en">For 16 and 35 mm. films, it is usually assumed that sound is
          carried on an optical track.</skos:scopeNote>
     <skos:notation xml:lang="en">a</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.yayd-4y11#b">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.yayd-4y11"/>
+    <skos:prefLabel xml:lang="en">magnetic sound track on motion picture film</skos:prefLabel>
+    <skos:definition xml:lang="en">Sound to accompany a projected graphic is carried on a magnetic
+         track that is part of the film.</skos:definition>
+    <skos:scopeNote xml:lang="en">70 mm. motion picture films often include magnetic sound
+         tracks.</skos:scopeNote>
+    <skos:notation xml:lang="en">b</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.yayd-4y11#g">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.yayd-4y11"/>
+    <skos:prefLabel xml:lang="en">optical and magnetic sound track on motion picture
+         film</skos:prefLabel>
+    <skos:definition xml:lang="en">Sound to accompany a projected graphic is carried on both an
+         optical and magnetic track.</skos:definition>
+    <skos:notation xml:lang="en">g</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.yayd-4y11#e">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.yayd-4y11"/>
+    <skos:prefLabel xml:lang="en">magnetic audio tape on reel</skos:prefLabel>
+    <skos:definition xml:lang="en">Sound to accompany an item is carried on a reel of magnetic
+         audio tape.</skos:definition>
+    <skos:notation xml:lang="en">e</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.yayd-4y11#u">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.yayd-4y11"/>
+    <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
+    <skos:definition xml:lang="en">Medium for sound is not known.</skos:definition>
+    <skos:notation xml:lang="en">u</skos:notation>
   </rdf:Description>
 </rdf:RDF>

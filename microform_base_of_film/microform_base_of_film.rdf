@@ -6,15 +6,68 @@
    xmlns:schema="https://schema.org/"
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
 >
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.404b-ss58#c">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.404b-ss58#m">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.404b-ss58"/>
-    <skos:prefLabel xml:lang="en">safety base, acetate undetermined</skos:prefLabel>
-    <skos:definition xml:lang="en">Acetate safety base film whose exact type cannot be
-         determined.</skos:definition>
-    <skos:scopeNote xml:lang="en">I.e., where it is unknown if the type is diacetate or
-         triacetate.</skos:scopeNote>
-    <skos:notation xml:lang="en">c</skos:notation>
+    <skos:prefLabel xml:lang="en">mixed base (nitrate and safety)</skos:prefLabel>
+    <skos:definition xml:lang="en">Combination of nitrate base and safety base
+         film.</skos:definition>
+    <skos:notation xml:lang="en">m</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.404b-ss58#n">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.404b-ss58"/>
+    <skos:prefLabel xml:lang="en">not applicable</skos:prefLabel>
+    <skos:definition xml:lang="en">On a reflective rather than a transparent
+         base.</skos:definition>
+    <skos:scopeNote xml:lang="en">Used for microopaques (which can be termed microcard or
+         microprint).</skos:scopeNote>
+    <skos:notation xml:lang="en">n</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.404b-ss58#z">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.404b-ss58"/>
+    <skos:prefLabel xml:lang="en">other</skos:prefLabel>
+    <skos:definition xml:lang="en">Base of film other than safety base, undetermined, safety base,
+         acetate undetermined, safety base, diacetate, nitrate base, mixed base (nitrate and
+         safety), not applicable, safety base, polyester, safety base, mixed, safety base, or
+         triacetate.</skos:definition>
+    <skos:notation xml:lang="en">z</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.404b-ss58#b">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.404b-ss58"/>
+    <skos:prefLabel xml:lang="en">not safety base [obsolete]</skos:prefLabel>
+    <skos:notation xml:lang="en">b</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.404b-ss58#d">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.404b-ss58"/>
+    <skos:prefLabel xml:lang="en">safety base, diacetate</skos:prefLabel>
+    <skos:definition xml:lang="en">Cellulose diacetate film base.</skos:definition>
+    <skos:notation xml:lang="en">d</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.404b-ss58#r">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.404b-ss58"/>
+    <skos:prefLabel xml:lang="en">safety base, mixed</skos:prefLabel>
+    <skos:definition xml:lang="en">Mixed safety base films are spliced together; no nitrate
+         film.</skos:definition>
+    <skos:notation xml:lang="en">r</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.404b-ss58#a">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.404b-ss58"/>
+    <skos:prefLabel xml:lang="en">safety base, undetermined</skos:prefLabel>
+    <skos:definition xml:lang="en">Type has not been identified.</skos:definition>
+    <skos:notation xml:lang="en">a</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.404b-ss58#i">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.404b-ss58"/>
+    <skos:prefLabel xml:lang="en">nitrate base</skos:prefLabel>
+    <skos:definition xml:lang="en">Cellulose nitrate film.</skos:definition>
+    <skos:notation xml:lang="en">i</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.404b-ss58">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
@@ -46,40 +99,11 @@
          estar).</skos:definition>
     <skos:notation xml:lang="en">p</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.404b-ss58#z">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.404b-ss58#u">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.404b-ss58"/>
-    <skos:prefLabel xml:lang="en">other</skos:prefLabel>
-    <skos:definition xml:lang="en">Base of film other than safety base, undetermined, safety base,
-         acetate undetermined, safety base, diacetate, nitrate base, mixed base (nitrate and
-         safety), not applicable, safety base, polyester, safety base, mixed, safety base, or
-         triacetate.</skos:definition>
-    <skos:notation xml:lang="en">z</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.404b-ss58#m">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.404b-ss58"/>
-    <skos:prefLabel xml:lang="en">mixed base (nitrate and safety)</skos:prefLabel>
-    <skos:definition xml:lang="en">Combination of nitrate base and safety base
-         film.</skos:definition>
-    <skos:notation xml:lang="en">m</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.404b-ss58#d">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.404b-ss58"/>
-    <skos:prefLabel xml:lang="en">safety base, diacetate</skos:prefLabel>
-    <skos:definition xml:lang="en">Cellulose diacetate film base.</skos:definition>
-    <skos:notation xml:lang="en">d</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.404b-ss58#n">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.404b-ss58"/>
-    <skos:prefLabel xml:lang="en">not applicable</skos:prefLabel>
-    <skos:definition xml:lang="en">On a reflective rather than a transparent
-         base.</skos:definition>
-    <skos:scopeNote xml:lang="en">Used for microopaques (which can be termed microcard or
-         microprint).</skos:scopeNote>
-    <skos:notation xml:lang="en">n</skos:notation>
+    <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
+    <skos:notation xml:lang="en">u</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.404b-ss58#t">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -88,38 +112,14 @@
     <skos:definition xml:lang="en">Cellulose triacetate film base.</skos:definition>
     <skos:notation xml:lang="en">t</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.404b-ss58#i">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.404b-ss58#c">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.404b-ss58"/>
-    <skos:prefLabel xml:lang="en">nitrate base</skos:prefLabel>
-    <skos:definition xml:lang="en">Cellulose nitrate film.</skos:definition>
-    <skos:notation xml:lang="en">i</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.404b-ss58#r">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.404b-ss58"/>
-    <skos:prefLabel xml:lang="en">safety base, mixed</skos:prefLabel>
-    <skos:definition xml:lang="en">Mixed safety base films are spliced together; no nitrate
-         film.</skos:definition>
-    <skos:notation xml:lang="en">r</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.404b-ss58#u">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.404b-ss58"/>
-    <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
-    <skos:notation xml:lang="en">u</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.404b-ss58#a">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.404b-ss58"/>
-    <skos:prefLabel xml:lang="en">safety base, undetermined</skos:prefLabel>
-    <skos:definition xml:lang="en">Type has not been identified.</skos:definition>
-    <skos:notation xml:lang="en">a</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.404b-ss58#b">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.404b-ss58"/>
-    <skos:prefLabel xml:lang="en">not safety base [obsolete]</skos:prefLabel>
-    <skos:notation xml:lang="en">b</skos:notation>
+    <skos:prefLabel xml:lang="en">safety base, acetate undetermined</skos:prefLabel>
+    <skos:definition xml:lang="en">Acetate safety base film whose exact type cannot be
+         determined.</skos:definition>
+    <skos:scopeNote xml:lang="en">I.e., where it is unknown if the type is diacetate or
+         triacetate.</skos:scopeNote>
+    <skos:notation xml:lang="en">c</skos:notation>
   </rdf:Description>
 </rdf:RDF>

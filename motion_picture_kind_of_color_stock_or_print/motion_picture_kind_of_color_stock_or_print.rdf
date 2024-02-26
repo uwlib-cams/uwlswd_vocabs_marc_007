@@ -6,36 +6,12 @@
    xmlns:schema="https://schema.org/"
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
 >
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.6h5g-mr73#a">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.6h5g-mr73#n">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.6h5g-mr73"/>
-    <skos:prefLabel xml:lang="en">imbibition dye transfer prints</skos:prefLabel>
-    <skos:definition xml:lang="en">Film color prints created by the transfer of two or more
-         differently colored dye images to a single strip of blank film. The dye transfer process
-         was used only to produce prints. Imbibition dye transfer prints can be produced from film
-         originally shot on either multi-strip or multi-layer film.</skos:definition>
-    <skos:scopeNote xml:lang="en">The process was used only by the Technicolor Company from ca.
-         1928 to ca. 1975. The patents were sold to the People's Republic of China, and since ca.
-         1980, the process has been available only in China.</skos:scopeNote>
-    <skos:notation xml:lang="en">a</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.6h5g-mr73#d">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.6h5g-mr73"/>
-    <skos:prefLabel xml:lang="en">duplitized stock</skos:prefLabel>
-    <skos:definition xml:lang="en">Color print stock with emulsion on both sides. Usually one side
-         is dyed red, and the other side is dyed or toned blue.</skos:definition>
-    <skos:notation xml:lang="en">d</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.6h5g-mr73#b">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.6h5g-mr73"/>
-    <skos:prefLabel xml:lang="en">three layer stock</skos:prefLabel>
-    <skos:definition xml:lang="en">Color film stock with three layers of emulsion: cyan, magenta
-         and yellow. Each layer is sensitive to its own primary color.</skos:definition>
-    <skos:scopeNote xml:lang="en">Since the early 1950s, most color films have been both shot and
-         printed on this stock. It is also called multilayer film stock.</skos:scopeNote>
-    <skos:notation xml:lang="en">b</skos:notation>
+    <skos:prefLabel xml:lang="en">not applicable</skos:prefLabel>
+    <skos:definition xml:lang="en">Item is not a color film.</skos:definition>
+    <skos:notation xml:lang="en">n</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.6h5g-mr73#u">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -43,15 +19,6 @@
     <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
     <skos:definition xml:lang="en">Type of color film stock is not known.</skos:definition>
     <skos:notation xml:lang="en">u</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.6h5g-mr73#z">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.6h5g-mr73"/>
-    <skos:prefLabel xml:lang="en">other</skos:prefLabel>
-    <skos:definition xml:lang="en">Kind of color stock or print other than imbibition dye transfer
-         prints, three layer stock, three layer stock, low fade, or duplitized
-         stock.</skos:definition>
-    <skos:notation xml:lang="en">z</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.6h5g-mr73">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
@@ -76,12 +43,45 @@
     <schema:version>1-0-0</schema:version>
     <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.6h5g-mr73#n">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.6h5g-mr73#b">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.6h5g-mr73"/>
-    <skos:prefLabel xml:lang="en">not applicable</skos:prefLabel>
-    <skos:definition xml:lang="en">Item is not a color film.</skos:definition>
-    <skos:notation xml:lang="en">n</skos:notation>
+    <skos:prefLabel xml:lang="en">three layer stock</skos:prefLabel>
+    <skos:definition xml:lang="en">Color film stock with three layers of emulsion: cyan, magenta
+         and yellow. Each layer is sensitive to its own primary color.</skos:definition>
+    <skos:scopeNote xml:lang="en">Since the early 1950s, most color films have been both shot and
+         printed on this stock. It is also called multilayer film stock.</skos:scopeNote>
+    <skos:notation xml:lang="en">b</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.6h5g-mr73#a">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.6h5g-mr73"/>
+    <skos:prefLabel xml:lang="en">imbibition dye transfer prints</skos:prefLabel>
+    <skos:definition xml:lang="en">Film color prints created by the transfer of two or more
+         differently colored dye images to a single strip of blank film. The dye transfer process
+         was used only to produce prints. Imbibition dye transfer prints can be produced from film
+         originally shot on either multi-strip or multi-layer film.</skos:definition>
+    <skos:scopeNote xml:lang="en">The process was used only by the Technicolor Company from ca.
+         1928 to ca. 1975. The patents were sold to the People's Republic of China, and since ca.
+         1980, the process has been available only in China.</skos:scopeNote>
+    <skos:notation xml:lang="en">a</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.6h5g-mr73#z">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.6h5g-mr73"/>
+    <skos:prefLabel xml:lang="en">other</skos:prefLabel>
+    <skos:definition xml:lang="en">Kind of color stock or print other than imbibition dye transfer
+         prints, three layer stock, three layer stock, low fade, or duplitized
+         stock.</skos:definition>
+    <skos:notation xml:lang="en">z</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.6h5g-mr73#d">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.6h5g-mr73"/>
+    <skos:prefLabel xml:lang="en">duplitized stock</skos:prefLabel>
+    <skos:definition xml:lang="en">Color print stock with emulsion on both sides. Usually one side
+         is dyed red, and the other side is dyed or toned blue.</skos:definition>
+    <skos:notation xml:lang="en">d</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.6h5g-mr73#c">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>

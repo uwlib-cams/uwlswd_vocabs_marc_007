@@ -13,22 +13,28 @@
     <skos:definition xml:lang="en">Width of the motion picture film is 35 mm.</skos:definition>
     <skos:notation xml:lang="en">f</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.xn0j-bx06#b">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.xn0j-bx06#d">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.xn0j-bx06"/>
-    <skos:prefLabel xml:lang="en">super 8 mm./single 8 mm.</skos:prefLabel>
-    <skos:definition xml:lang="en">Width of the motion picture film is super 8
-         mm.</skos:definition>
-    <skos:scopeNote xml:lang="en">Single 8 mm. motion picture film is a Japanese equivalent of
-         super 8 mm. motion picture film.</skos:scopeNote>
-    <skos:notation xml:lang="en">b</skos:notation>
+    <skos:prefLabel xml:lang="en">16 mm.</skos:prefLabel>
+    <skos:definition xml:lang="en">Width of the motion picture film is 16 mm.</skos:definition>
+    <skos:notation xml:lang="en">d</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.xn0j-bx06#e">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.xn0j-bx06#u">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.xn0j-bx06"/>
-    <skos:prefLabel xml:lang="en">28 mm.</skos:prefLabel>
-    <skos:definition xml:lang="en">Width of the motion picture film is 28 mm.</skos:definition>
-    <skos:notation xml:lang="en">e</skos:notation>
+    <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
+    <skos:definition xml:lang="en">Dimensions are not known.</skos:definition>
+    <skos:notation xml:lang="en">u</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.xn0j-bx06#a">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.xn0j-bx06"/>
+    <skos:prefLabel xml:lang="en">standard 8 mm.</skos:prefLabel>
+    <skos:definition xml:lang="en">Width of the motion picture film is standard 8
+         mm.</skos:definition>
+    <skos:scopeNote xml:lang="en">Includes motion pictures termed Mauer 8 mm.</skos:scopeNote>
+    <skos:notation xml:lang="en">a</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.xn0j-bx06">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
@@ -52,34 +58,6 @@
     <schema:version>1-0-0</schema:version>
     <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.xn0j-bx06#c">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.xn0j-bx06"/>
-    <skos:prefLabel xml:lang="en">9.5 mm.</skos:prefLabel>
-    <skos:definition xml:lang="en">Width of the motion picture film is 9.5 mm.</skos:definition>
-    <skos:notation xml:lang="en">c</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.xn0j-bx06#g">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.xn0j-bx06"/>
-    <skos:prefLabel xml:lang="en">70 mm.</skos:prefLabel>
-    <skos:definition xml:lang="en">Width of the motion picture film is 70 mm.</skos:definition>
-    <skos:notation xml:lang="en">g</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.xn0j-bx06#u">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.xn0j-bx06"/>
-    <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
-    <skos:definition xml:lang="en">Dimensions are not known.</skos:definition>
-    <skos:notation xml:lang="en">u</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.xn0j-bx06#d">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.xn0j-bx06"/>
-    <skos:prefLabel xml:lang="en">16 mm.</skos:prefLabel>
-    <skos:definition xml:lang="en">Width of the motion picture film is 16 mm.</skos:definition>
-    <skos:notation xml:lang="en">d</skos:notation>
-  </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.xn0j-bx06#z">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.xn0j-bx06"/>
@@ -88,13 +66,35 @@
          9.5 mm., 16 mm., 28 mm., 35 mm., or 70 mm.</skos:definition>
     <skos:notation xml:lang="en">z</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.xn0j-bx06#a">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.xn0j-bx06#c">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.xn0j-bx06"/>
-    <skos:prefLabel xml:lang="en">standard 8 mm.</skos:prefLabel>
-    <skos:definition xml:lang="en">Width of the motion picture film is standard 8
+    <skos:prefLabel xml:lang="en">9.5 mm.</skos:prefLabel>
+    <skos:definition xml:lang="en">Width of the motion picture film is 9.5 mm.</skos:definition>
+    <skos:notation xml:lang="en">c</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.xn0j-bx06#e">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.xn0j-bx06"/>
+    <skos:prefLabel xml:lang="en">28 mm.</skos:prefLabel>
+    <skos:definition xml:lang="en">Width of the motion picture film is 28 mm.</skos:definition>
+    <skos:notation xml:lang="en">e</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.xn0j-bx06#g">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.xn0j-bx06"/>
+    <skos:prefLabel xml:lang="en">70 mm.</skos:prefLabel>
+    <skos:definition xml:lang="en">Width of the motion picture film is 70 mm.</skos:definition>
+    <skos:notation xml:lang="en">g</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.xn0j-bx06#b">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.xn0j-bx06"/>
+    <skos:prefLabel xml:lang="en">super 8 mm./single 8 mm.</skos:prefLabel>
+    <skos:definition xml:lang="en">Width of the motion picture film is super 8
          mm.</skos:definition>
-    <skos:scopeNote xml:lang="en">Includes motion pictures termed Mauer 8 mm.</skos:scopeNote>
-    <skos:notation xml:lang="en">a</skos:notation>
+    <skos:scopeNote xml:lang="en">Single 8 mm. motion picture film is a Japanese equivalent of
+         super 8 mm. motion picture film.</skos:scopeNote>
+    <skos:notation xml:lang="en">b</skos:notation>
   </rdf:Description>
 </rdf:RDF>

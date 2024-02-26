@@ -6,22 +6,15 @@
    xmlns:schema="https://schema.org/"
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
 >
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.r74w-5w82#s">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.r74w-5w82#q">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.r74w-5w82"/>
-    <skos:prefLabel xml:lang="en">stereophonic</skos:prefLabel>
-    <skos:definition xml:lang="en">Configured to be played back on two separate
+    <skos:prefLabel xml:lang="en">quadraphonic, multichannel, or surround</skos:prefLabel>
+    <skos:definition xml:lang="en">Configured to be played back on more than two
          channels.</skos:definition>
-    <skos:scopeNote xml:lang="en">Use when the medium is not monaural and it is not possible to
-         ascertain that multiple playback sources are available or intended.</skos:scopeNote>
-    <skos:notation xml:lang="en">s</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.r74w-5w82#m">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.r74w-5w82"/>
-    <skos:prefLabel xml:lang="en">monaural</skos:prefLabel>
-    <skos:definition xml:lang="en">Configured to be played back on one channel.</skos:definition>
-    <skos:notation xml:lang="en">m</skos:notation>
+    <skos:scopeNote xml:lang="en">Use for Dolby surround sound tracks and other multichannel
+         techniques.</skos:scopeNote>
+    <skos:notation xml:lang="en">q</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.r74w-5w82">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
@@ -46,6 +39,16 @@
     <schema:version>1-0-0</schema:version>
     <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
   </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.r74w-5w82#s">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.r74w-5w82"/>
+    <skos:prefLabel xml:lang="en">stereophonic</skos:prefLabel>
+    <skos:definition xml:lang="en">Configured to be played back on two separate
+         channels.</skos:definition>
+    <skos:scopeNote xml:lang="en">Use when the medium is not monaural and it is not possible to
+         ascertain that multiple playback sources are available or intended.</skos:scopeNote>
+    <skos:notation xml:lang="en">s</skos:notation>
+  </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.r74w-5w82#n">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.r74w-5w82"/>
@@ -53,14 +56,6 @@
     <skos:definition xml:lang="en">Videorecording has no sound or sound is on separate
          medium.</skos:definition>
     <skos:notation xml:lang="en">n</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.r74w-5w82#z">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.r74w-5w82"/>
-    <skos:prefLabel xml:lang="en">other</skos:prefLabel>
-    <skos:definition xml:lang="en">Configuration of playback channels other than mixed; monaural;
-         quadraphonic, multichannel, or surround; or stereophonic.</skos:definition>
-    <skos:notation xml:lang="en">z</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.r74w-5w82#u">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -80,14 +75,19 @@
          sound tracks.</skos:scopeNote>
     <skos:notation xml:lang="en">k</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.r74w-5w82#q">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.r74w-5w82#m">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.r74w-5w82"/>
-    <skos:prefLabel xml:lang="en">quadraphonic, multichannel, or surround</skos:prefLabel>
-    <skos:definition xml:lang="en">Configured to be played back on more than two
-         channels.</skos:definition>
-    <skos:scopeNote xml:lang="en">Use for Dolby surround sound tracks and other multichannel
-         techniques.</skos:scopeNote>
-    <skos:notation xml:lang="en">q</skos:notation>
+    <skos:prefLabel xml:lang="en">monaural</skos:prefLabel>
+    <skos:definition xml:lang="en">Configured to be played back on one channel.</skos:definition>
+    <skos:notation xml:lang="en">m</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.r74w-5w82#z">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.r74w-5w82"/>
+    <skos:prefLabel xml:lang="en">other</skos:prefLabel>
+    <skos:definition xml:lang="en">Configuration of playback channels other than mixed; monaural;
+         quadraphonic, multichannel, or surround; or stereophonic.</skos:definition>
+    <skos:notation xml:lang="en">z</skos:notation>
   </rdf:Description>
 </rdf:RDF>

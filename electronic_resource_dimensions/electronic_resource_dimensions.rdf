@@ -6,24 +6,14 @@
    xmlns:schema="https://schema.org/"
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
 >
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.v463-4g79#n">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.v463-4g79#v">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.v463-4g79"/>
-    <skos:prefLabel xml:lang="en">not applicable</skos:prefLabel>
-    <skos:definition xml:lang="en">Physical dimensions are not applicable to the electronic
-         resource.</skos:definition>
-    <skos:scopeNote xml:lang="en">Appropriate for remote electronic resources and electronic
-         resources whose specific medium varies.</skos:scopeNote>
-    <skos:notation xml:lang="en">n</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.v463-4g79#i">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.v463-4g79"/>
-    <skos:prefLabel xml:lang="en">1 1/8 x 2 3/8 in.</skos:prefLabel>
-    <skos:definition xml:lang="en">Dimensions of the container used for the medium are 1 1/8 x 2
-         3/8 inches.</skos:definition>
-    <skos:scopeNote xml:lang="en">Usually refers to cartridges.</skos:scopeNote>
-    <skos:notation xml:lang="en">i</skos:notation>
+    <skos:prefLabel xml:lang="en">8 in.</skos:prefLabel>
+    <skos:definition xml:lang="en">Diameter of the medium is 8 inches.</skos:definition>
+    <skos:scopeNote xml:lang="en">Usually refers to the diameter of a magnetic disk or optical
+         disc.</skos:scopeNote>
+    <skos:notation xml:lang="en">v</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.v463-4g79">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
@@ -48,33 +38,32 @@
     <schema:version>1-0-0</schema:version>
     <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.v463-4g79#o">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.v463-4g79#a">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.v463-4g79"/>
-    <skos:prefLabel xml:lang="en">5 1/4 in.</skos:prefLabel>
-    <skos:definition xml:lang="en">Diameter of the medium is 5 1/4 inches.</skos:definition>
-    <skos:scopeNote xml:lang="en">Usually refers to the dimensions of a magnetic
+    <skos:prefLabel xml:lang="en">3 1/2 in.</skos:prefLabel>
+    <skos:definition xml:lang="en">Diameter of the medium is 3 1/2 inches.</skos:definition>
+    <skos:scopeNote xml:lang="en">Usually refers to the diameter of a magnetic
          disk.</skos:scopeNote>
-    <skos:notation xml:lang="en">o</skos:notation>
+    <skos:notation xml:lang="en">a</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.v463-4g79#v">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.v463-4g79#n">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.v463-4g79"/>
-    <skos:prefLabel xml:lang="en">8 in.</skos:prefLabel>
-    <skos:definition xml:lang="en">Diameter of the medium is 8 inches.</skos:definition>
-    <skos:scopeNote xml:lang="en">Usually refers to the diameter of a magnetic disk or optical
-         disc.</skos:scopeNote>
-    <skos:notation xml:lang="en">v</skos:notation>
+    <skos:prefLabel xml:lang="en">not applicable</skos:prefLabel>
+    <skos:definition xml:lang="en">Physical dimensions are not applicable to the electronic
+         resource.</skos:definition>
+    <skos:scopeNote xml:lang="en">Appropriate for remote electronic resources and electronic
+         resources whose specific medium varies.</skos:scopeNote>
+    <skos:notation xml:lang="en">n</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.v463-4g79#g">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.v463-4g79#z">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.v463-4g79"/>
-    <skos:prefLabel xml:lang="en">4 3/4 in. or 12 cm.</skos:prefLabel>
-    <skos:definition xml:lang="en">Diameter of the medium is 4 3/4 inches (or 12
-         cm.).</skos:definition>
-    <skos:scopeNote xml:lang="en">Usually refers to optical or magneto-optical
-         disc.</skos:scopeNote>
-    <skos:notation xml:lang="en">g</skos:notation>
+    <skos:prefLabel xml:lang="en">other</skos:prefLabel>
+    <skos:definition xml:lang="en">Dimensions other than 3 1/2 in., 12 in., 4 3/4 in. or 12 cm., 1
+         1/8 x 2 3/8 in., 3 7/8 x 2 1/2 in., 5 1/4 in., or 8 in.</skos:definition>
+    <skos:notation xml:lang="en">z</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.v463-4g79#j">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -84,14 +73,6 @@
          1/2 inches.</skos:definition>
     <skos:scopeNote xml:lang="en">Usually refers to cartridges.</skos:scopeNote>
     <skos:notation xml:lang="en">j</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.v463-4g79#z">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.v463-4g79"/>
-    <skos:prefLabel xml:lang="en">other</skos:prefLabel>
-    <skos:definition xml:lang="en">Dimensions other than 3 1/2 in., 12 in., 4 3/4 in. or 12 cm., 1
-         1/8 x 2 3/8 in., 3 7/8 x 2 1/2 in., 5 1/4 in., or 8 in.</skos:definition>
-    <skos:notation xml:lang="en">z</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.v463-4g79#u">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -110,13 +91,32 @@
          disc.</skos:scopeNote>
     <skos:notation xml:lang="en">e</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.v463-4g79#a">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.v463-4g79#g">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.v463-4g79"/>
-    <skos:prefLabel xml:lang="en">3 1/2 in.</skos:prefLabel>
-    <skos:definition xml:lang="en">Diameter of the medium is 3 1/2 inches.</skos:definition>
-    <skos:scopeNote xml:lang="en">Usually refers to the diameter of a magnetic
+    <skos:prefLabel xml:lang="en">4 3/4 in. or 12 cm.</skos:prefLabel>
+    <skos:definition xml:lang="en">Diameter of the medium is 4 3/4 inches (or 12
+         cm.).</skos:definition>
+    <skos:scopeNote xml:lang="en">Usually refers to optical or magneto-optical
+         disc.</skos:scopeNote>
+    <skos:notation xml:lang="en">g</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.v463-4g79#o">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.v463-4g79"/>
+    <skos:prefLabel xml:lang="en">5 1/4 in.</skos:prefLabel>
+    <skos:definition xml:lang="en">Diameter of the medium is 5 1/4 inches.</skos:definition>
+    <skos:scopeNote xml:lang="en">Usually refers to the dimensions of a magnetic
          disk.</skos:scopeNote>
-    <skos:notation xml:lang="en">a</skos:notation>
+    <skos:notation xml:lang="en">o</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.v463-4g79#i">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.v463-4g79"/>
+    <skos:prefLabel xml:lang="en">1 1/8 x 2 3/8 in.</skos:prefLabel>
+    <skos:definition xml:lang="en">Dimensions of the container used for the medium are 1 1/8 x 2
+         3/8 inches.</skos:definition>
+    <skos:scopeNote xml:lang="en">Usually refers to cartridges.</skos:scopeNote>
+    <skos:notation xml:lang="en">i</skos:notation>
   </rdf:Description>
 </rdf:RDF>

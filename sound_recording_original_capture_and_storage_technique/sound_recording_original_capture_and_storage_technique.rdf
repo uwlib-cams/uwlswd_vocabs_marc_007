@@ -6,46 +6,17 @@
    xmlns:schema="https://schema.org/"
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
 >
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.v4qn-rb56#a">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.v4qn-rb56#b">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.v4qn-rb56"/>
-    <skos:prefLabel xml:lang="en">acoustical capture, direct storage</skos:prefLabel>
-    <skos:definition xml:lang="en">Usually a disc or cylinder recording, captured using an
-         acoustical horn and diaphragm and stored directly on a master surface.</skos:definition>
-    <skos:scopeNote xml:lang="en">Most acoustical recordings date from before 1927/29 when
-         electrical recording equipment became available.</skos:scopeNote>
-    <skos:notation xml:lang="en">a</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.v4qn-rb56#z">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.v4qn-rb56"/>
-    <skos:prefLabel xml:lang="en">other</skos:prefLabel>
-    <skos:definition xml:lang="en">Capture and storage technique other than acoustical capture,
-         direct storage; direct storage, not acoustical; digital storage; or analog electrical
-         storage.</skos:definition>
-    <skos:notation xml:lang="en">z</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.v4qn-rb56#e">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.v4qn-rb56"/>
-    <skos:prefLabel xml:lang="en">analog electrical storage</skos:prefLabel>
-    <skos:definition xml:lang="en">Sound recordings which were captured using electrical
-         techniques and stored as modulations and pulses on a magnetic surface.</skos:definition>
-    <skos:scopeNote xml:lang="en">Most recordings made from the late 1940s until early 1980s are
-         analog electrical recordings.</skos:scopeNote>
-    <skos:notation xml:lang="en">e</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.v4qn-rb56#d">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.v4qn-rb56"/>
-    <skos:prefLabel xml:lang="en">digital storage</skos:prefLabel>
-    <skos:definition xml:lang="en">Sound recordings which were captured electrically and stored
-         using digital techniques.</skos:definition>
-    <skos:scopeNote xml:lang="en">Such recordings, which became available in the 1980s, are
-         normally identified as "digitally recorded" or some similar phrase on the label or package.
-         "Digital remaster" or "digital mixing" does not imply original digital storage. Note that
-         Digital storage and digital playback should not be confused.</skos:scopeNote>
-    <skos:notation xml:lang="en">d</skos:notation>
+    <skos:prefLabel xml:lang="en">direct storage, not acoustical</skos:prefLabel>
+    <skos:definition xml:lang="en">Disc recordings captured using electrical equipment and stored
+         directly on a master surface.</skos:definition>
+    <skos:scopeNote xml:lang="en">All recordings made with microphones and other electrical
+         equipment prior to the availability of magnetic recording techniques in the late 1940s used
+         direct storage. Commercial recordings marked "direct to disc" or some equivalent phrase
+         also use this technique. Also known as electromechanical recording.</skos:scopeNote>
+    <skos:notation xml:lang="en">b</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.v4qn-rb56#u">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -77,16 +48,45 @@
     <schema:version>1-0-0</schema:version>
     <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.v4qn-rb56#b">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.v4qn-rb56#z">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.v4qn-rb56"/>
-    <skos:prefLabel xml:lang="en">direct storage, not acoustical</skos:prefLabel>
-    <skos:definition xml:lang="en">Disc recordings captured using electrical equipment and stored
-         directly on a master surface.</skos:definition>
-    <skos:scopeNote xml:lang="en">All recordings made with microphones and other electrical
-         equipment prior to the availability of magnetic recording techniques in the late 1940s used
-         direct storage. Commercial recordings marked "direct to disc" or some equivalent phrase
-         also use this technique. Also known as electromechanical recording.</skos:scopeNote>
-    <skos:notation xml:lang="en">b</skos:notation>
+    <skos:prefLabel xml:lang="en">other</skos:prefLabel>
+    <skos:definition xml:lang="en">Capture and storage technique other than acoustical capture,
+         direct storage; direct storage, not acoustical; digital storage; or analog electrical
+         storage.</skos:definition>
+    <skos:notation xml:lang="en">z</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.v4qn-rb56#a">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.v4qn-rb56"/>
+    <skos:prefLabel xml:lang="en">acoustical capture, direct storage</skos:prefLabel>
+    <skos:definition xml:lang="en">Usually a disc or cylinder recording, captured using an
+         acoustical horn and diaphragm and stored directly on a master surface.</skos:definition>
+    <skos:scopeNote xml:lang="en">Most acoustical recordings date from before 1927/29 when
+         electrical recording equipment became available.</skos:scopeNote>
+    <skos:notation xml:lang="en">a</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.v4qn-rb56#d">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.v4qn-rb56"/>
+    <skos:prefLabel xml:lang="en">digital storage</skos:prefLabel>
+    <skos:definition xml:lang="en">Sound recordings which were captured electrically and stored
+         using digital techniques.</skos:definition>
+    <skos:scopeNote xml:lang="en">Such recordings, which became available in the 1980s, are
+         normally identified as "digitally recorded" or some similar phrase on the label or package.
+         "Digital remaster" or "digital mixing" does not imply original digital storage. Note that
+         Digital storage and digital playback should not be confused.</skos:scopeNote>
+    <skos:notation xml:lang="en">d</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.v4qn-rb56#e">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.v4qn-rb56"/>
+    <skos:prefLabel xml:lang="en">analog electrical storage</skos:prefLabel>
+    <skos:definition xml:lang="en">Sound recordings which were captured using electrical
+         techniques and stored as modulations and pulses on a magnetic surface.</skos:definition>
+    <skos:scopeNote xml:lang="en">Most recordings made from the late 1940s until early 1980s are
+         analog electrical recordings.</skos:scopeNote>
+    <skos:notation xml:lang="en">e</skos:notation>
   </rdf:Description>
 </rdf:RDF>

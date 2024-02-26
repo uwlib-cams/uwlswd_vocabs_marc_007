@@ -29,22 +29,6 @@
     <schema:version>1-0-0</schema:version>
     <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.vjb7-fc54#b">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.vjb7-fc54"/>
-    <skos:prefLabel xml:lang="en">sound separate from medium</skos:prefLabel>
-    <skos:definition xml:lang="en">Sound is on a separate medium, designed to accompany the
-         images.</skos:definition>
-    <skos:notation xml:lang="en">b</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.vjb7-fc54#pound">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.vjb7-fc54"/>
-    <skos:prefLabel xml:lang="en">no sound (silent)</skos:prefLabel>
-    <skos:definition xml:lang="en">Sound is not present (i.e., the item is intended to be
-         silent).</skos:definition>
-    <skos:notation xml:lang="en">#</skos:notation>
-  </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.vjb7-fc54#a">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.vjb7-fc54"/>
@@ -53,6 +37,14 @@
          included.</skos:definition>
     <skos:notation xml:lang="en">a</skos:notation>
   </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.vjb7-fc54#b">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.vjb7-fc54"/>
+    <skos:prefLabel xml:lang="en">sound separate from medium</skos:prefLabel>
+    <skos:definition xml:lang="en">Sound is on a separate medium, designed to accompany the
+         images.</skos:definition>
+    <skos:notation xml:lang="en">b</skos:notation>
+  </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.vjb7-fc54#u">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.vjb7-fc54"/>
@@ -60,5 +52,13 @@
     <skos:definition xml:lang="en">Presence or absence of sound on the item is not
          known.</skos:definition>
     <skos:notation xml:lang="en">u</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.vjb7-fc54#pound">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.vjb7-fc54"/>
+    <skos:prefLabel xml:lang="en">no sound (silent)</skos:prefLabel>
+    <skos:definition xml:lang="en">Sound is not present (i.e., the item is intended to be
+         silent).</skos:definition>
+    <skos:notation xml:lang="en">#</skos:notation>
   </rdf:Description>
 </rdf:RDF>

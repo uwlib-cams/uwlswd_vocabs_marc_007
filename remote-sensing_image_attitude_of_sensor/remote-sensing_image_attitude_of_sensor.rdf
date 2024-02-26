@@ -37,6 +37,14 @@
          being imaged than perpendicular.</skos:definition>
     <skos:notation xml:lang="en">a</skos:notation>
   </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.06cw-h775#c">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.06cw-h775"/>
+    <skos:prefLabel xml:lang="en">vertical</skos:prefLabel>
+    <skos:definition xml:lang="en">Angle of the remote-sensing device is vertical to the surface
+         being imaged.</skos:definition>
+    <skos:notation xml:lang="en">c</skos:notation>
+  </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.06cw-h775#u">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.06cw-h775"/>
@@ -44,14 +52,6 @@
     <skos:definition xml:lang="en">Angle of the remote-sensing device is not
          known.</skos:definition>
     <skos:notation xml:lang="en">u</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.06cw-h775#n">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.06cw-h775"/>
-    <skos:prefLabel xml:lang="en">not applicable</skos:prefLabel>
-    <skos:definition xml:lang="en">Angle of the remote-sensing device is not applicable,
-         generally, because the attitude does not affect the image.</skos:definition>
-    <skos:notation xml:lang="en">n</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.06cw-h775#b">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -61,12 +61,12 @@
          than parallel.</skos:definition>
     <skos:notation xml:lang="en">b</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.06cw-h775#c">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.06cw-h775#n">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.06cw-h775"/>
-    <skos:prefLabel xml:lang="en">vertical</skos:prefLabel>
-    <skos:definition xml:lang="en">Angle of the remote-sensing device is vertical to the surface
-         being imaged.</skos:definition>
-    <skos:notation xml:lang="en">c</skos:notation>
+    <skos:prefLabel xml:lang="en">not applicable</skos:prefLabel>
+    <skos:definition xml:lang="en">Angle of the remote-sensing device is not applicable,
+         generally, because the attitude does not affect the image.</skos:definition>
+    <skos:notation xml:lang="en">n</skos:notation>
   </rdf:Description>
 </rdf:RDF>

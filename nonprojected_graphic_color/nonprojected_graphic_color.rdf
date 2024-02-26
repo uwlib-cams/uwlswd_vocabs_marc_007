@@ -6,6 +6,15 @@
    xmlns:schema="https://schema.org/"
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
 >
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.3z3f-7k53#a">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.3z3f-7k53"/>
+    <skos:prefLabel xml:lang="en">one color</skos:prefLabel>
+    <skos:definition xml:lang="en">Printed or executed in a single color.</skos:definition>
+    <skos:scopeNote xml:lang="en">Used for monochrome art works. It is not used with photographic
+         materials. Does not include black.</skos:scopeNote>
+    <skos:notation xml:lang="en">a</skos:notation>
+  </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.3z3f-7k53#z">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.3z3f-7k53"/>
@@ -16,15 +25,6 @@
          photographic items).</skos:scopeNote>
     <skos:notation xml:lang="en">z</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.3z3f-7k53#a">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.3z3f-7k53"/>
-    <skos:prefLabel xml:lang="en">one color</skos:prefLabel>
-    <skos:definition xml:lang="en">Printed or executed in a single color.</skos:definition>
-    <skos:scopeNote xml:lang="en">Used for monochrome art works. It is not used with photographic
-         materials. Does not include black.</skos:scopeNote>
-    <skos:notation xml:lang="en">a</skos:notation>
-  </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.3z3f-7k53#b">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.3z3f-7k53"/>
@@ -34,13 +34,31 @@
          black-and-white.</skos:scopeNote>
     <skos:notation xml:lang="en">b</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.3z3f-7k53#u">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.3z3f-7k53#c">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.3z3f-7k53"/>
-    <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
-    <skos:definition xml:lang="en">Color characteristics of the item are not
-         known.</skos:definition>
-    <skos:notation xml:lang="en">u</skos:notation>
+    <skos:prefLabel xml:lang="en">multicolored</skos:prefLabel>
+    <skos:definition xml:lang="en">Printed or executed in more than one color.</skos:definition>
+    <skos:scopeNote xml:lang="en">Used for color photographic processes.</skos:scopeNote>
+    <skos:notation xml:lang="en">c</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.3z3f-7k53#n">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.3z3f-7k53"/>
+    <skos:prefLabel xml:lang="en">mixed</skos:prefLabel>
+    <skos:definition xml:lang="en">Work or collection is a combination of one color,
+         black-and-white, multicolored, hand colored, and/or other images.</skos:definition>
+    <skos:notation xml:lang="en">n</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.3z3f-7k53#h">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.3z3f-7k53"/>
+    <skos:prefLabel xml:lang="en">hand colored</skos:prefLabel>
+    <skos:definition xml:lang="en">Image, produced by a printing or photographic process, is hand
+         colored.</skos:definition>
+    <skos:scopeNote xml:lang="en">Rarely used with commercial visual materials since these are not
+         typically issued with hand coloring.</skos:scopeNote>
+    <skos:notation xml:lang="en">h</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.3z3f-7k53">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
@@ -65,30 +83,12 @@
     <schema:version>1-0-0</schema:version>
     <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.3z3f-7k53#n">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.3z3f-7k53#u">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.3z3f-7k53"/>
-    <skos:prefLabel xml:lang="en">mixed</skos:prefLabel>
-    <skos:definition xml:lang="en">Work or collection is a combination of one color,
-         black-and-white, multicolored, hand colored, and/or other images.</skos:definition>
-    <skos:notation xml:lang="en">n</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.3z3f-7k53#h">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.3z3f-7k53"/>
-    <skos:prefLabel xml:lang="en">hand colored</skos:prefLabel>
-    <skos:definition xml:lang="en">Image, produced by a printing or photographic process, is hand
-         colored.</skos:definition>
-    <skos:scopeNote xml:lang="en">Rarely used with commercial visual materials since these are not
-         typically issued with hand coloring.</skos:scopeNote>
-    <skos:notation xml:lang="en">h</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.3z3f-7k53#c">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.3z3f-7k53"/>
-    <skos:prefLabel xml:lang="en">multicolored</skos:prefLabel>
-    <skos:definition xml:lang="en">Printed or executed in more than one color.</skos:definition>
-    <skos:scopeNote xml:lang="en">Used for color photographic processes.</skos:scopeNote>
-    <skos:notation xml:lang="en">c</skos:notation>
+    <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
+    <skos:definition xml:lang="en">Color characteristics of the item are not
+         known.</skos:definition>
+    <skos:notation xml:lang="en">u</skos:notation>
   </rdf:Description>
 </rdf:RDF>

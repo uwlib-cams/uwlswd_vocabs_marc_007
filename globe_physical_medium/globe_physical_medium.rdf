@@ -6,39 +6,6 @@
    xmlns:schema="https://schema.org/"
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
 >
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.db6k-dw63#a">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.db6k-dw63"/>
-    <skos:prefLabel xml:lang="en">paper</skos:prefLabel>
-    <skos:definition xml:lang="en">Any kind of cellulose-based paper.</skos:definition>
-    <skos:notation xml:lang="en">a</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.db6k-dw63#v">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.db6k-dw63"/>
-    <skos:prefLabel xml:lang="en">leather</skos:prefLabel>
-    <skos:definition xml:lang="en">Animal skin dressed for use.</skos:definition>
-    <skos:notation xml:lang="en">v</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.db6k-dw63#f">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.db6k-dw63"/>
-    <skos:prefLabel xml:lang="en">skin</skos:prefLabel>
-    <skos:definition xml:lang="en">Skin.</skos:definition>
-    <skos:scopeNote xml:lang="en">Excludes leather, parchment, and vellum.</skos:scopeNote>
-    <skos:scopeNote xml:lang="en">Synthetic materials that are made to resemble animal skin are
-         coded as synthetic.</skos:scopeNote>
-    <skos:notation xml:lang="en">f</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.db6k-dw63#b">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.db6k-dw63"/>
-    <skos:prefLabel xml:lang="en">wood</skos:prefLabel>
-    <skos:definition xml:lang="en">Wood.</skos:definition>
-    <skos:scopeNote xml:lang="en">A material that is based on wood particles or fibers may or may
-         not be considered wood. Consider particle board to be wood.</skos:scopeNote>
-    <skos:notation xml:lang="en">b</skos:notation>
-  </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.db6k-dw63">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
     <dct:type rdf:resource="http://purl.org/dc/dcmitype/Dataset"/>
@@ -61,13 +28,13 @@
     <schema:version>1-0-0</schema:version>
     <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.db6k-dw63#e">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.db6k-dw63#n">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.db6k-dw63"/>
-    <skos:prefLabel xml:lang="en">synthetic</skos:prefLabel>
-    <skos:definition xml:lang="en">Man-made substances other than textiles, plastic, and
-         vinyl.</skos:definition>
-    <skos:notation xml:lang="en">e</skos:notation>
+    <skos:prefLabel xml:lang="en">vellum</skos:prefLabel>
+    <skos:definition xml:lang="en">Fine-grained unsplit lambskin, kidskin, or calfskin prepared
+         especially for writing or drawing on.</skos:definition>
+    <skos:notation xml:lang="en">n</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.db6k-dw63#d">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -75,6 +42,43 @@
     <skos:prefLabel xml:lang="en">metal</skos:prefLabel>
     <skos:definition xml:lang="en">Metal.</skos:definition>
     <skos:notation xml:lang="en">d</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.db6k-dw63#c">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.db6k-dw63"/>
+    <skos:prefLabel xml:lang="en">stone</skos:prefLabel>
+    <skos:definition xml:lang="en">Stone.</skos:definition>
+    <skos:notation xml:lang="en">c</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.db6k-dw63#l">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.db6k-dw63"/>
+    <skos:prefLabel xml:lang="en">vinyl</skos:prefLabel>
+    <skos:definition xml:lang="en">Vinyl.</skos:definition>
+    <skos:notation xml:lang="en">l</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.db6k-dw63#a">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.db6k-dw63"/>
+    <skos:prefLabel xml:lang="en">paper</skos:prefLabel>
+    <skos:definition xml:lang="en">Any kind of cellulose-based paper.</skos:definition>
+    <skos:notation xml:lang="en">a</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.db6k-dw63#z">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.db6k-dw63"/>
+    <skos:prefLabel xml:lang="en">other</skos:prefLabel>
+    <skos:definition xml:lang="en">Physical medium other than paper, wood, stone, metal,
+         synthetic, skin, textile, vinyl, vellum, plaster, leather, or parchment.</skos:definition>
+    <skos:notation xml:lang="en">z</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.db6k-dw63#e">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.db6k-dw63"/>
+    <skos:prefLabel xml:lang="en">synthetic</skos:prefLabel>
+    <skos:definition xml:lang="en">Man-made substances other than textiles, plastic, and
+         vinyl.</skos:definition>
+    <skos:notation xml:lang="en">e</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.db6k-dw63#p">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -85,22 +89,6 @@
          plaster.</skos:scopeNote>
     <skos:notation xml:lang="en">p</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.db6k-dw63#n">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.db6k-dw63"/>
-    <skos:prefLabel xml:lang="en">vellum</skos:prefLabel>
-    <skos:definition xml:lang="en">Fine-grained unsplit lambskin, kidskin, or calfskin prepared
-         especially for writing or drawing on.</skos:definition>
-    <skos:notation xml:lang="en">n</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.db6k-dw63#w">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.db6k-dw63"/>
-    <skos:prefLabel xml:lang="en">parchment</skos:prefLabel>
-    <skos:definition xml:lang="en">Skin of a sheep or goat prepared for writing
-         on.</skos:definition>
-    <skos:notation xml:lang="en">w</skos:notation>
-  </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.db6k-dw63#g">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.db6k-dw63"/>
@@ -110,12 +98,39 @@
          fibers.</skos:scopeNote>
     <skos:notation xml:lang="en">g</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.db6k-dw63#c">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.db6k-dw63#v">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.db6k-dw63"/>
-    <skos:prefLabel xml:lang="en">stone</skos:prefLabel>
-    <skos:definition xml:lang="en">Stone.</skos:definition>
-    <skos:notation xml:lang="en">c</skos:notation>
+    <skos:prefLabel xml:lang="en">leather</skos:prefLabel>
+    <skos:definition xml:lang="en">Animal skin dressed for use.</skos:definition>
+    <skos:notation xml:lang="en">v</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.db6k-dw63#w">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.db6k-dw63"/>
+    <skos:prefLabel xml:lang="en">parchment</skos:prefLabel>
+    <skos:definition xml:lang="en">Skin of a sheep or goat prepared for writing
+         on.</skos:definition>
+    <skos:notation xml:lang="en">w</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.db6k-dw63#b">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.db6k-dw63"/>
+    <skos:prefLabel xml:lang="en">wood</skos:prefLabel>
+    <skos:definition xml:lang="en">Wood.</skos:definition>
+    <skos:scopeNote xml:lang="en">A material that is based on wood particles or fibers may or may
+         not be considered wood. Consider particle board to be wood.</skos:scopeNote>
+    <skos:notation xml:lang="en">b</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.db6k-dw63#f">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.db6k-dw63"/>
+    <skos:prefLabel xml:lang="en">skin</skos:prefLabel>
+    <skos:definition xml:lang="en">Skin.</skos:definition>
+    <skos:scopeNote xml:lang="en">Excludes leather, parchment, and vellum.</skos:scopeNote>
+    <skos:scopeNote xml:lang="en">Synthetic materials that are made to resemble animal skin are
+         coded as synthetic.</skos:scopeNote>
+    <skos:notation xml:lang="en">f</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.db6k-dw63#u">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -124,20 +139,5 @@
     <skos:definition xml:lang="en">Physical medium of which the globe is made is not
          known.</skos:definition>
     <skos:notation xml:lang="en">u</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.db6k-dw63#l">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.db6k-dw63"/>
-    <skos:prefLabel xml:lang="en">vinyl</skos:prefLabel>
-    <skos:definition xml:lang="en">Vinyl.</skos:definition>
-    <skos:notation xml:lang="en">l</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.db6k-dw63#z">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.db6k-dw63"/>
-    <skos:prefLabel xml:lang="en">other</skos:prefLabel>
-    <skos:definition xml:lang="en">Physical medium other than paper, wood, stone, metal,
-         synthetic, skin, textile, vinyl, vellum, plaster, leather, or parchment.</skos:definition>
-    <skos:notation xml:lang="en">z</skos:notation>
   </rdf:Description>
 </rdf:RDF>

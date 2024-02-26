@@ -6,16 +6,6 @@
    xmlns:schema="https://schema.org/"
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
 >
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.pm5s-5m12#h">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.pm5s-5m12"/>
-    <skos:prefLabel xml:lang="en">hill-and-dale cutting</skos:prefLabel>
-    <skos:definition xml:lang="en">Vertical cutting, with no lateral information intended for
-         reproduction.</skos:definition>
-    <skos:scopeNote xml:lang="en">All cylinders and some early discs have this
-         cutting.</skos:scopeNote>
-    <skos:notation xml:lang="en">h</skos:notation>
-  </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.pm5s-5m12">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
     <dct:type rdf:resource="http://purl.org/dc/dcmitype/Dataset"/>
@@ -47,6 +37,16 @@
     <skos:scopeNote xml:lang="en">Includes compact audio discs as they are pitted rather than
          cut.</skos:scopeNote>
     <skos:notation xml:lang="en">n</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.pm5s-5m12#h">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.pm5s-5m12"/>
+    <skos:prefLabel xml:lang="en">hill-and-dale cutting</skos:prefLabel>
+    <skos:definition xml:lang="en">Vertical cutting, with no lateral information intended for
+         reproduction.</skos:definition>
+    <skos:scopeNote xml:lang="en">All cylinders and some early discs have this
+         cutting.</skos:scopeNote>
+    <skos:notation xml:lang="en">h</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.pm5s-5m12#u">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>

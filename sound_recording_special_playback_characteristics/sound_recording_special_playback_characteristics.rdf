@@ -6,33 +6,13 @@
    xmlns:schema="https://schema.org/"
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
 >
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.a3v4-v844#b">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.a3v4-v844#n">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.a3v4-v844"/>
-    <skos:prefLabel xml:lang="en">CCIR standard</skos:prefLabel>
-    <skos:definition xml:lang="en">Comité consultatif de la radiodiffusion (CCIR) standard was
-         used for the transcription of the recording and CCIR playback equalization is
-         required.</skos:definition>
-    <skos:notation xml:lang="en">b</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.a3v4-v844#a">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.a3v4-v844"/>
-    <skos:prefLabel xml:lang="en">NAB standard</skos:prefLabel>
-    <skos:definition xml:lang="en">National Association of Broadcasters (NAB) standard was used
-         for the transcription of the recording and NAB playback equalization is
-         required.</skos:definition>
-    <skos:notation xml:lang="en">a</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.a3v4-v844#g">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.a3v4-v844"/>
-    <skos:prefLabel xml:lang="en">Dolby-C encoded</skos:prefLabel>
-    <skos:definition xml:lang="en">Requires Dolby-C playback equipment.</skos:definition>
-    <skos:scopeNote xml:lang="en">Used for tape recordings where the label or packaging clearly
-         indicates that Dolby-C is required. "Dolby" or the double-D symbol without specific
-         explanation normally indicates Dolby-B.</skos:scopeNote>
-    <skos:notation xml:lang="en">g</skos:notation>
+    <skos:prefLabel xml:lang="en">not applicable</skos:prefLabel>
+    <skos:definition xml:lang="en">Item does not have special playback
+         characteristics.</skos:definition>
+    <skos:notation xml:lang="en">n</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.a3v4-v844">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
@@ -59,47 +39,14 @@
     <schema:version>1-0-0</schema:version>
     <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.a3v4-v844#h">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.a3v4-v844#b">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.a3v4-v844"/>
-    <skos:prefLabel xml:lang="en">CX encoded</skos:prefLabel>
-    <skos:definition xml:lang="en">Requires CX encoded playback equipment.</skos:definition>
-    <skos:scopeNote xml:lang="en">Used for recordings where the symbol or mark CX appears. Such
-         recordings may be labelled as compatible with standard playback equipment. No CX recordings
-         will appear with pressing dates prior to 1981.</skos:scopeNote>
-    <skos:notation xml:lang="en">h</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.a3v4-v844#f">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.a3v4-v844"/>
-    <skos:prefLabel xml:lang="en">Dolby-A encoded</skos:prefLabel>
-    <skos:definition xml:lang="en">Requires Dolby-A playback equipment.</skos:definition>
-    <skos:scopeNote xml:lang="en">Used only for master tapes and other tape recordings where clear
-         indication is given that the professional Dolby-A encoding was applied, and that Dolby-A
-         decoding is required. Dolby-A encoding is never used for commercial tape or discs.
-         (Instantaneous tape recordings labelled "Dolby" without other indication are normally
-         Dolby-B, particularly cassette recordings.)</skos:scopeNote>
-    <skos:notation xml:lang="en">f</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.a3v4-v844#n">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.a3v4-v844"/>
-    <skos:prefLabel xml:lang="en">not applicable</skos:prefLabel>
-    <skos:definition xml:lang="en">Item does not have special playback
-         characteristics.</skos:definition>
-    <skos:notation xml:lang="en">n</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.a3v4-v844#e">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.a3v4-v844"/>
-    <skos:prefLabel xml:lang="en">digital recording</skos:prefLabel>
-    <skos:definition xml:lang="en">Requires digital playback equipment, such as Phillips/Sony
-         Compact Discs or Sony PCM tape recordings.</skos:definition>
-    <skos:scopeNote xml:lang="en">Not used when there is indication that digital equipment was
-         used during recording, but that analog playback equipment may be used. No commercial
-         recordings prior to 1982, and no analog disc or tape recordings use digitial equipment
-         during recording.</skos:scopeNote>
-    <skos:notation xml:lang="en">e</skos:notation>
+    <skos:prefLabel xml:lang="en">CCIR standard</skos:prefLabel>
+    <skos:definition xml:lang="en">Comité consultatif de la radiodiffusion (CCIR) standard was
+         used for the transcription of the recording and CCIR playback equalization is
+         required.</skos:definition>
+    <skos:notation xml:lang="en">b</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.a3v4-v844#d">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -122,6 +69,16 @@
          on a disc recording, this code is never used for commercial discs.</skos:scopeNote>
     <skos:notation xml:lang="en">c</skos:notation>
   </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.a3v4-v844#g">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.a3v4-v844"/>
+    <skos:prefLabel xml:lang="en">Dolby-C encoded</skos:prefLabel>
+    <skos:definition xml:lang="en">Requires Dolby-C playback equipment.</skos:definition>
+    <skos:scopeNote xml:lang="en">Used for tape recordings where the label or packaging clearly
+         indicates that Dolby-C is required. "Dolby" or the double-D symbol without specific
+         explanation normally indicates Dolby-B.</skos:scopeNote>
+    <skos:notation xml:lang="en">g</skos:notation>
+  </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.a3v4-v844#u">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.a3v4-v844"/>
@@ -129,6 +86,39 @@
     <skos:definition xml:lang="en">Playback characteristics of the item are not
          known.</skos:definition>
     <skos:notation xml:lang="en">u</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.a3v4-v844#e">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.a3v4-v844"/>
+    <skos:prefLabel xml:lang="en">digital recording</skos:prefLabel>
+    <skos:definition xml:lang="en">Requires digital playback equipment, such as Phillips/Sony
+         Compact Discs or Sony PCM tape recordings.</skos:definition>
+    <skos:scopeNote xml:lang="en">Not used when there is indication that digital equipment was
+         used during recording, but that analog playback equipment may be used. No commercial
+         recordings prior to 1982, and no analog disc or tape recordings use digitial equipment
+         during recording.</skos:scopeNote>
+    <skos:notation xml:lang="en">e</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.a3v4-v844#a">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.a3v4-v844"/>
+    <skos:prefLabel xml:lang="en">NAB standard</skos:prefLabel>
+    <skos:definition xml:lang="en">National Association of Broadcasters (NAB) standard was used
+         for the transcription of the recording and NAB playback equalization is
+         required.</skos:definition>
+    <skos:notation xml:lang="en">a</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.a3v4-v844#f">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.a3v4-v844"/>
+    <skos:prefLabel xml:lang="en">Dolby-A encoded</skos:prefLabel>
+    <skos:definition xml:lang="en">Requires Dolby-A playback equipment.</skos:definition>
+    <skos:scopeNote xml:lang="en">Used only for master tapes and other tape recordings where clear
+         indication is given that the professional Dolby-A encoding was applied, and that Dolby-A
+         decoding is required. Dolby-A encoding is never used for commercial tape or discs.
+         (Instantaneous tape recordings labelled "Dolby" without other indication are normally
+         Dolby-B, particularly cassette recordings.)</skos:scopeNote>
+    <skos:notation xml:lang="en">f</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.a3v4-v844#z">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -138,5 +128,15 @@
          standard, Dolby-B encoded, dbx encoded, digital recording, Dolby-A encoded, Dolby-C
          encoded, or CX encoded.</skos:definition>
     <skos:notation xml:lang="en">z</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.a3v4-v844#h">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.a3v4-v844"/>
+    <skos:prefLabel xml:lang="en">CX encoded</skos:prefLabel>
+    <skos:definition xml:lang="en">Requires CX encoded playback equipment.</skos:definition>
+    <skos:scopeNote xml:lang="en">Used for recordings where the symbol or mark CX appears. Such
+         recordings may be labelled as compatible with standard playback equipment. No CX recordings
+         will appear with pressing dates prior to 1981.</skos:scopeNote>
+    <skos:notation xml:lang="en">h</skos:notation>
   </rdf:Description>
 </rdf:RDF>

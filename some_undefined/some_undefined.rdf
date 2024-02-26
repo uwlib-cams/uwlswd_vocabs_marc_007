@@ -7,6 +7,24 @@
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
    xmlns:uwp="https://doi.org/10.6069/uwlib.55.d.3#"
 >
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.5v8e-jr80#f">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.5v8e-jr80"/>
+    <skos:prefLabel xml:lang="en">facsimile [obsolete]</skos:prefLabel>
+    <skos:notation xml:lang="en">f</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.5v8e-jr80#u">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.5v8e-jr80"/>
+    <skos:prefLabel xml:lang="en">unknown [obsolete]</skos:prefLabel>
+    <skos:notation xml:lang="en">u</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.5v8e-jr80#r">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.5v8e-jr80"/>
+    <skos:prefLabel xml:lang="en">reproduction [obsolete]</skos:prefLabel>
+    <skos:notation xml:lang="en">r</skos:notation>
+  </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.5v8e-jr80">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
     <dct:type rdf:resource="http://purl.org/dc/dcmitype/Dataset"/>
@@ -38,28 +56,10 @@
     <uwp:appliesToMaterial>sound recording</uwp:appliesToMaterial>
     <uwp:appliesToMaterial>videorecording</uwp:appliesToMaterial>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.5v8e-jr80#u">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.5v8e-jr80"/>
-    <skos:prefLabel xml:lang="en">unknown [obsolete]</skos:prefLabel>
-    <skos:notation xml:lang="en">u</skos:notation>
-  </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.5v8e-jr80#o">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.5v8e-jr80"/>
     <skos:prefLabel xml:lang="en">oringinal [obsolete]</skos:prefLabel>
     <skos:notation xml:lang="en">o</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.5v8e-jr80#f">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.5v8e-jr80"/>
-    <skos:prefLabel xml:lang="en">facsimile [obsolete]</skos:prefLabel>
-    <skos:notation xml:lang="en">f</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.5v8e-jr80#r">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.5v8e-jr80"/>
-    <skos:prefLabel xml:lang="en">reproduction [obsolete]</skos:prefLabel>
-    <skos:notation xml:lang="en">r</skos:notation>
   </rdf:Description>
 </rdf:RDF>
