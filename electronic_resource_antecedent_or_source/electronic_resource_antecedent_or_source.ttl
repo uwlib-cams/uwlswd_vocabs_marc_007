@@ -1,0 +1,99 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix schema: <https://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://doi.org/10.6069/uwlswd.brtx-qb17#a> a skos:Concept ;
+    skos:definition """Content (image, audio, or video) comprising the electronic
+         resource has been created by digitization of the original item."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.brtx-qb17> ;
+    skos:notation "a"@en ;
+    skos:prefLabel "file reproduced from original"@en ;
+    skos:scopeNote """Common examples of original objects include: printed or
+         manuscript texts and/or images that are made on paper or on vellum; photographic prints
+         (and in some instances photographic negatives, depending on creator's intent); analog audio
+         formats; and video formats. This value does not pertain to microform even if microform is
+         the original."""@en .
+
+<https://doi.org/10.6069/uwlswd.brtx-qb17#b> a skos:Concept ;
+    skos:definition """Content comprising the electronic resource has been created by
+         scanning from microform."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.brtx-qb17> ;
+    skos:notation "b"@en ;
+    skos:prefLabel "file reproduced from microform"@en ;
+    skos:scopeNote """Examples of microform are: 16mm microfilm, 35mm microfilm, 105mm
+         microfiche, microcard, micro-opaque, etc."""@en .
+
+<https://doi.org/10.6069/uwlswd.brtx-qb17#c> a skos:Concept ;
+    skos:definition """Electronic resource has been created or copied from an existing
+         electronic resource."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.brtx-qb17> ;
+    skos:notation "c"@en ;
+    skos:prefLabel "file reproduced from an electronic resource"@en ;
+    skos:scopeNote """E.g., to generate new copies or derivative copies with lower
+         resolution or smaller file size; to process an existing file with Optical Character
+         Recognition - OCR - software; etc."""@en .
+
+<https://doi.org/10.6069/uwlswd.brtx-qb17#d> a skos:Concept ;
+    skos:definition """Content comprising the electronic resource has been created by
+         reformatting/digitizing from an intermediate other than microform."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.brtx-qb17> ;
+    skos:notation "d"@en ;
+    skos:prefLabel """file reproduced from an intermediate (not
+         microform"""@en ;
+    skos:scopeNote """Common examples of non-microfom intermediates for visual and
+         textual materials are: photocopies, 35 mm film, transparencies, slides, 2nd generation
+         video tape, etc. A common example of an intermediate for audio materials is 2nd generation
+         analog tapes."""@en .
+
+<https://doi.org/10.6069/uwlswd.brtx-qb17#m> a skos:Concept ;
+    skos:definition """Images comprising the electronic resource have been created
+         from mixed sources."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.brtx-qb17> ;
+    skos:notation "m"@en ;
+    skos:prefLabel "mixed"@en ;
+    skos:scopeNote """Portions scanned from original item, portions scanned from
+         microfilm, etc."""@en .
+
+<https://doi.org/10.6069/uwlswd.brtx-qb17#n> a skos:Concept ;
+    skos:definition """Antecedent or source are not applicable to this electronic
+         resource."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.brtx-qb17> ;
+    skos:notation "n"@en ;
+    skos:prefLabel "not applicable"@en ;
+    skos:scopeNote """Appropriate for electronic resources other than those created
+         during a reformatting process."""@en .
+
+<https://doi.org/10.6069/uwlswd.brtx-qb17#u> a skos:Concept ;
+    skos:definition """Antecedent or source of this reformatted electronic resource is
+         not known."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.brtx-qb17> ;
+    skos:notation "u"@en ;
+    skos:prefLabel "unknown"@en .
+
+<https://doi.org/10.6069/uwlswd.brtx-qb17> a skos:ConceptScheme ;
+    dc:contributor "Metadata Management Associates"@en ;
+    dc:language "en" ;
+    dct:alternative """MARC21 007/11 values for electronic resources expressed using
+         RDF"""@en ;
+    dct:contributor <http://viaf.org/viaf/151962300> ;
+    dct:creator <http://viaf.org/viaf/139541794> ;
+    dct:description """Information about the source of a digital file important to the
+         creation, use and management of digitally reformatted materials."""@en ;
+    dct:format <http://www.w3.org/ns/formats/Turtle> ;
+    dct:hasFormat <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/electronic_resource_antecedent_or_source/electronic_resource_antecedent_or_source.html>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/electronic_resource_antecedent_or_source/electronic_resource_antecedent_or_source.jsonld>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/electronic_resource_antecedent_or_source/electronic_resource_antecedent_or_source.nt>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/electronic_resource_antecedent_or_source/electronic_resource_antecedent_or_source.rdf> ;
+    dct:issued "2024" ;
+    dct:license <http://creativecommons.org/publicdomain/zero/1.0> ;
+    dct:provenance <https://doi.org/10.6069/uwlswd.2e2b-y833> ;
+    dct:publisher <http://viaf.org/viaf/139541794> ;
+    dct:source <http://marc21rdf.info>,
+        <https://www.loc.gov/marc/bibliographic/bd007.html> ;
+    dct:title "Electronic resource: antecedent/source"@en ;
+    dct:type <http://purl.org/dc/dcmitype/Dataset> ;
+    schema:disambiguatingDescription """SKOS Concept Scheme for MARC 00X
+         Values""" ;
+    schema:version "1-0-0" .
+
