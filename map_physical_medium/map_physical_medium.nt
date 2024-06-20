@@ -1,0 +1,136 @@
+<https://doi.org/10.6069/uwlswd.4r20-tp49#l> <http://www.w3.org/2004/02/skos/core#prefLabel> "vinyl"@en .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#p> <http://www.w3.org/2004/02/skos/core#definition> "Plaster."@en .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#t> <http://www.w3.org/2004/02/skos/core#prefLabel> "non-flexible base photographic, negative"@en .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#g> <http://www.w3.org/2004/02/skos/core#scopeNote> "Used for all fabrics, whether made from natural or synthetic\n         fibers."@en .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#s> <http://www.w3.org/2004/02/skos/core#definition> "Non-flexible base photographic medium designed to render a\n         positive image."@en .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#p> <http://www.w3.org/2004/02/skos/core#prefLabel> "plaster"@en .
+<https://doi.org/10.6069/uwlswd.4r20-tp49> <http://purl.org/dc/terms/source> <https://www.loc.gov/marc/bibliographic/bd007.html> .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#d> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4r20-tp49> .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#d> <http://www.w3.org/2004/02/skos/core#notation> "d" .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#f> <http://www.w3.org/2004/02/skos/core#scopeNote> "Excludes leather, parchment, and vellum."@en .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#i> <http://www.w3.org/2004/02/skos/core#notation> "i" .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#c> <http://www.w3.org/2004/02/skos/core#prefLabel> "stone"@en .
+<https://doi.org/10.6069/uwlswd.4r20-tp49> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/zero/1.0> .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#v> <http://www.w3.org/2004/02/skos/core#prefLabel> "leather"@en .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#j> <http://www.w3.org/2004/02/skos/core#prefLabel> "glass"@en .
+<https://doi.org/10.6069/uwlswd.4r20-tp49> <http://purl.org/dc/terms/publisher> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#p> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#y> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.4r20-tp49> <http://purl.org/dc/elements/1.1/language> "en" .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#x> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4r20-tp49> .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#g> <http://www.w3.org/2004/02/skos/core#definition> "Textile."@en .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#f> <http://www.w3.org/2004/02/skos/core#scopeNote> "Synthetic materials that are made to resemble animal skin are\n         coded as synthetic."@en .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#x> <http://www.w3.org/2004/02/skos/core#definition> "Physical medium is not applicable to remote digital\n         cartographic resources because it pertains to characteristics specific to physical aspects\n         of carriers."@en .
+<https://doi.org/10.6069/uwlswd.4r20-tp49> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#b> <http://www.w3.org/2004/02/skos/core#scopeNote> "Material which is based on wood particles or fibers may or may\n         not be considered wood. Consider particle board to be wood."@en .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#c> <http://www.w3.org/2004/02/skos/core#notation> "c" .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#l> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4r20-tp49> .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#t> <http://www.w3.org/2004/02/skos/core#definition> "Non-flexible base photographic medium designed to render a\n         negative image."@en .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.4r20-tp49> <https://schema.org/disambiguatingDescription> "SKOS Concept Scheme for MARC 00X\n         Values"@en .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#n> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#s> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#g> <http://www.w3.org/2004/02/skos/core#prefLabel> "textile"@en .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#v> <http://www.w3.org/2004/02/skos/core#notation> "v" .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#s> <http://www.w3.org/2004/02/skos/core#prefLabel> "non-flexible base photographic, positive"@en .
+<https://doi.org/10.6069/uwlswd.4r20-tp49> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/map_physical_medium/map_physical_medium.ttl> .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#n> <http://www.w3.org/2004/02/skos/core#notation> "n" .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#u> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4r20-tp49> .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#d> <http://www.w3.org/2004/02/skos/core#prefLabel> "metal"@en .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#e> <http://www.w3.org/2004/02/skos/core#notation> "e" .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#n> <http://www.w3.org/2004/02/skos/core#definition> "Fine-grained unsplit lambskin, kidskin, or calfskin prepared\n         especially for writing or drawing on."@en .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#l> <http://www.w3.org/2004/02/skos/core#notation> "l" .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#q> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4r20-tp49> .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#g> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#v> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#p> <http://www.w3.org/2004/02/skos/core#scopeNote> "Includes mixtures of ground solids and plaster."@en .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#b> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4r20-tp49> .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#z> <http://www.w3.org/2004/02/skos/core#notation> "z" .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#z> <http://www.w3.org/2004/02/skos/core#definition> "Physical medium other than paper; wood; stone; metal;\n         synthetic; skin; textile; plastic; glass; vinyl; vellum; plaster; flexible base\n         photographic, positive; flexible base photographic, negative; non-flexible base\n         photographic, positive; non-flexible base photographic, negative; leather; parchment; or\n         other photographic medium."@en .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#a> <http://www.w3.org/2004/02/skos/core#prefLabel> "paper"@en .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#j> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#y> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4r20-tp49> .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#f> <http://www.w3.org/2004/02/skos/core#prefLabel> "skin"@en .
+<https://doi.org/10.6069/uwlswd.4r20-tp49> <https://schema.org/version> "1-0-0" .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#a> <http://www.w3.org/2004/02/skos/core#definition> "Any kind of cellulose-based paper."@en .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#u> <http://www.w3.org/2004/02/skos/core#notation> "u" .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#y> <http://www.w3.org/2004/02/skos/core#definition> "Photographic medium other than flexible base photographic,\n         positive; flexible base photographic, negative; non-flexible base photographic, positive;\n         or non-flexible base photographic, negative."@en .
+<https://doi.org/10.6069/uwlswd.4r20-tp49> <http://purl.org/dc/terms/issued> "2024" .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.4r20-tp49> <http://purl.org/dc/terms/type> <http://purl.org/dc/dcmitype/Dataset> .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#x> <http://www.w3.org/2004/02/skos/core#prefLabel> "not applicable"@en .
+<https://doi.org/10.6069/uwlswd.4r20-tp49> <http://purl.org/dc/elements/1.1/contributor> "Metadata Management Associates"@en .
+<https://doi.org/10.6069/uwlswd.4r20-tp49> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/map_physical_medium/map_physical_medium.html> .
+<https://doi.org/10.6069/uwlswd.4r20-tp49> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/map_physical_medium/map_physical_medium.rdf> .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#r> <http://www.w3.org/2004/02/skos/core#prefLabel> "flexible base photographic, negative"@en .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#c> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4r20-tp49> .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#q> <http://www.w3.org/2004/02/skos/core#prefLabel> "flexible base photographic, positive"@en .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#b> <http://www.w3.org/2004/02/skos/core#notation> "b" .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#n> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4r20-tp49> .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#r> <http://www.w3.org/2004/02/skos/core#definition> "Flexible base photographic medium designed to render a negative\n         image."@en .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#i> <http://www.w3.org/2004/02/skos/core#definition> "Plastic."@en .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#i> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#x> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#u> <http://www.w3.org/2004/02/skos/core#prefLabel> "unknown"@en .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#b> <http://www.w3.org/2004/02/skos/core#prefLabel> "wood"@en .
+<https://doi.org/10.6069/uwlswd.4r20-tp49> <http://purl.org/dc/terms/creator> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#e> <http://www.w3.org/2004/02/skos/core#definition> "Man-made substances other than textiles, plastic, and\n         vinyl."@en .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#g> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4r20-tp49> .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#t> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#f> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4r20-tp49> .
+<https://doi.org/10.6069/uwlswd.4r20-tp49> <http://purl.org/dc/terms/provenance> <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#l> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#e> <http://www.w3.org/2004/02/skos/core#prefLabel> "synthetic"@en .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#l> <http://www.w3.org/2004/02/skos/core#definition> "Vinyl."@en .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#v> <http://www.w3.org/2004/02/skos/core#definition> "Animal skin dressed for use."@en .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#p> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4r20-tp49> .
+<https://doi.org/10.6069/uwlswd.4r20-tp49> <http://purl.org/dc/terms/source> <http://marc21rdf.info> .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#r> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#g> <http://www.w3.org/2004/02/skos/core#notation> "g" .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#t> <http://www.w3.org/2004/02/skos/core#notation> "t" .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#c> <http://www.w3.org/2004/02/skos/core#definition> "Stone."@en .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#e> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4r20-tp49> .
+<https://doi.org/10.6069/uwlswd.4r20-tp49> <http://purl.org/dc/terms/format> <http://www.w3.org/ns/formats/N-Triples> .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#w> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#w> <http://www.w3.org/2004/02/skos/core#prefLabel> "parchment"@en .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#d> <http://www.w3.org/2004/02/skos/core#definition> "Metal."@en .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#j> <http://www.w3.org/2004/02/skos/core#definition> "Glass."@en .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#f> <http://www.w3.org/2004/02/skos/core#notation> "f" .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#f> <http://www.w3.org/2004/02/skos/core#definition> "Skin."@en .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#z> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4r20-tp49> .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#q> <http://www.w3.org/2004/02/skos/core#notation> "q" .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#n> <http://www.w3.org/2004/02/skos/core#prefLabel> "vellum"@en .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#a> <http://www.w3.org/2004/02/skos/core#notation> "a" .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#u> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.4r20-tp49> <http://purl.org/dc/terms/alternative> "MARC21 007/04 values for maps expressed using\n         RDF"@en .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#i> <http://www.w3.org/2004/02/skos/core#prefLabel> "plastic"@en .
+<https://doi.org/10.6069/uwlswd.4r20-tp49> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/map_physical_medium/map_physical_medium.jsonld> .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#s> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4r20-tp49> .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#q> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#x> <http://www.w3.org/2004/02/skos/core#notation> "x" .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#u> <http://www.w3.org/2004/02/skos/core#definition> "Unknown."@en .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#w> <http://www.w3.org/2004/02/skos/core#definition> "Skin of a sheep or goat prepared for writing\n         on."@en .
+<https://doi.org/10.6069/uwlswd.4r20-tp49> <http://purl.org/dc/terms/description> "Material out of which the cartographic item is\n         made."@en .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#r> <http://www.w3.org/2004/02/skos/core#notation> "r" .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#i> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4r20-tp49> .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#a> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4r20-tp49> .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#p> <http://www.w3.org/2004/02/skos/core#notation> "p" .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#t> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4r20-tp49> .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#j> <http://www.w3.org/2004/02/skos/core#notation> "j" .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#z> <http://www.w3.org/2004/02/skos/core#prefLabel> "other"@en .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#y> <http://www.w3.org/2004/02/skos/core#notation> "y" .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#v> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4r20-tp49> .
+<https://doi.org/10.6069/uwlswd.4r20-tp49> <http://purl.org/dc/terms/contributor> <http://viaf.org/viaf/151962300> .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#w> <http://www.w3.org/2004/02/skos/core#notation> "w" .
+<https://doi.org/10.6069/uwlswd.4r20-tp49> <http://purl.org/dc/terms/title> "Map: physical medium"@en .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#r> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4r20-tp49> .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#y> <http://www.w3.org/2004/02/skos/core#prefLabel> "other photographic medium"@en .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#s> <http://www.w3.org/2004/02/skos/core#notation> "s" .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#q> <http://www.w3.org/2004/02/skos/core#definition> "Flexible base photographic medium designed to render a positive\n         image."@en .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#j> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4r20-tp49> .
+<https://doi.org/10.6069/uwlswd.4r20-tp49#w> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4r20-tp49> .

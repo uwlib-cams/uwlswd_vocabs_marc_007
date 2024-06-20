@@ -1,0 +1,100 @@
+<https://doi.org/10.6069/uwlswd.q8qv-nz89#f> <http://www.w3.org/2004/02/skos/core#definition> "Removable module, somewhat like an audio cassette, that\n         contains magnetic tape that can be written on and read from by a tape\n         drive."@en .
+<https://doi.org/10.6069/uwlswd.q8qv-nz89#o> <http://www.w3.org/2004/02/skos/core#notation> "o" .
+<https://doi.org/10.6069/uwlswd.q8qv-nz89#r> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.q8qv-nz89> .
+<https://doi.org/10.6069/uwlswd.q8qv-nz89> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/electronic_resource_specific_material_designation/electronic_resource_specific_material_designation.html> .
+<https://doi.org/10.6069/uwlswd.q8qv-nz89#j> <http://www.w3.org/2004/02/skos/core#definition> "Digital information storage medium usually consisting of a thin\n         Mylar disk coated with a magnetic material that permits the recording of data. Magnetic\n         disks come in various sizes. They are also known as floppy disks, stiffy disks, computer\n         diskettes, or floppy diskettes."@en .
+<https://doi.org/10.6069/uwlswd.q8qv-nz89> <http://purl.org/dc/terms/title> "Electronic resource: specific material designation"@en .
+<https://doi.org/10.6069/uwlswd.q8qv-nz89#r> <http://www.w3.org/2004/02/skos/core#prefLabel> "remote"@en .
+<https://doi.org/10.6069/uwlswd.q8qv-nz89#j> <http://www.w3.org/2004/02/skos/core#prefLabel> "magnetic disk"@en .
+<https://doi.org/10.6069/uwlswd.q8qv-nz89#m> <http://www.w3.org/2004/02/skos/core#definition> "Erasable or semi-erasable storage medium, similar to a CD-ROM\n         disc, capable of storing data at a very high density. The disc is written to and read from\n         using a laser beam used to heat the recording surface to a point at which regions of the\n         surface of the disk become magnetically aligned to store bits of data."@en .
+<https://doi.org/10.6069/uwlswd.q8qv-nz89#o> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.q8qv-nz89> .
+<https://doi.org/10.6069/uwlswd.q8qv-nz89#f> <http://www.w3.org/2004/02/skos/core#prefLabel> "tape cassette"@en .
+<https://doi.org/10.6069/uwlswd.q8qv-nz89#b> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.q8qv-nz89> .
+<https://doi.org/10.6069/uwlswd.q8qv-nz89> <http://purl.org/dc/terms/publisher> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.q8qv-nz89#a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.q8qv-nz89#u> <http://www.w3.org/2004/02/skos/core#notation> "u" .
+<https://doi.org/10.6069/uwlswd.q8qv-nz89#a> <http://www.w3.org/2004/02/skos/core#prefLabel> "tape cartridge"@en .
+<https://doi.org/10.6069/uwlswd.q8qv-nz89#h> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.q8qv-nz89> .
+<https://doi.org/10.6069/uwlswd.q8qv-nz89#b> <http://www.w3.org/2004/02/skos/core#notation> "b" .
+<https://doi.org/10.6069/uwlswd.q8qv-nz89#r> <http://www.w3.org/2004/02/skos/core#definition> "Electronic resource that is accessed, processed, executed, etc.\n         remotely. In this case the electronic resource is used via input/output devices connected\n         electronically to a computer. Frequently this involves connection through a computer\n         network."@en .
+<https://doi.org/10.6069/uwlswd.q8qv-nz89#h> <http://www.w3.org/2004/02/skos/core#notation> "h" .
+<https://doi.org/10.6069/uwlswd.q8qv-nz89#d> <http://www.w3.org/2004/02/skos/core#notation> "d" .
+<https://doi.org/10.6069/uwlswd.q8qv-nz89#k> <http://www.w3.org/2004/02/skos/core#definition> "Computer card."@en .
+<https://doi.org/10.6069/uwlswd.q8qv-nz89#e> <http://www.w3.org/2004/02/skos/core#definition> "A disc cartridge whose type is not specified."@en .
+<https://doi.org/10.6069/uwlswd.q8qv-nz89#k> <http://www.w3.org/2004/02/skos/core#prefLabel> "computer card"@en .
+<https://doi.org/10.6069/uwlswd.q8qv-nz89> <http://purl.org/dc/terms/alternative> "MARC21 007/01 values for electronic resources expressed using\n         RDF"@en .
+<https://doi.org/10.6069/uwlswd.q8qv-nz89#j> <http://www.w3.org/2004/02/skos/core#notation> "j" .
+<https://doi.org/10.6069/uwlswd.q8qv-nz89#u> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.q8qv-nz89> .
+<https://doi.org/10.6069/uwlswd.q8qv-nz89> <http://purl.org/dc/terms/contributor> <http://viaf.org/viaf/151962300> .
+<https://doi.org/10.6069/uwlswd.q8qv-nz89#e> <http://www.w3.org/2004/02/skos/core#prefLabel> "computer disc cartridge, type unspecified"@en .
+<https://doi.org/10.6069/uwlswd.q8qv-nz89#o> <http://www.w3.org/2004/02/skos/core#scopeNote> "Commonly found computer optical disc formats include: CD-A,\n         CD-I, CD-R, CD-ROM, CD-ROM-XA, DVD-ROM and Photo CD."@en .
+<https://doi.org/10.6069/uwlswd.q8qv-nz89#j> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.q8qv-nz89> <https://schema.org/version> "1-0-0" .
+<https://doi.org/10.6069/uwlswd.q8qv-nz89#k> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.q8qv-nz89> .
+<https://doi.org/10.6069/uwlswd.q8qv-nz89> <http://purl.org/dc/terms/source> <http://marc21rdf.info> .
+<https://doi.org/10.6069/uwlswd.q8qv-nz89> <http://purl.org/dc/terms/format> <http://www.w3.org/ns/formats/N-Triples> .
+<https://doi.org/10.6069/uwlswd.q8qv-nz89> <http://purl.org/dc/terms/issued> "2024" .
+<https://doi.org/10.6069/uwlswd.q8qv-nz89#u> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.q8qv-nz89#z> <http://www.w3.org/2004/02/skos/core#prefLabel> "other"@en .
+<https://doi.org/10.6069/uwlswd.q8qv-nz89#h> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.q8qv-nz89#c> <http://www.w3.org/2004/02/skos/core#notation> "c" .
+<https://doi.org/10.6069/uwlswd.q8qv-nz89> <http://purl.org/dc/elements/1.1/contributor> "Metadata Management Associates"@en .
+<https://doi.org/10.6069/uwlswd.q8qv-nz89#k> <http://www.w3.org/2004/02/skos/core#notation> "k" .
+<https://doi.org/10.6069/uwlswd.q8qv-nz89#e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.q8qv-nz89> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/electronic_resource_specific_material_designation/electronic_resource_specific_material_designation.ttl> .
+<https://doi.org/10.6069/uwlswd.q8qv-nz89#z> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.q8qv-nz89> .
+<https://doi.org/10.6069/uwlswd.q8qv-nz89#e> <http://www.w3.org/2004/02/skos/core#notation> "e" .
+<https://doi.org/10.6069/uwlswd.q8qv-nz89#c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.q8qv-nz89#u> <http://www.w3.org/2004/02/skos/core#prefLabel> "unspecified"@en .
+<https://doi.org/10.6069/uwlswd.q8qv-nz89> <http://purl.org/dc/terms/type> <http://purl.org/dc/dcmitype/Dataset> .
+<https://doi.org/10.6069/uwlswd.q8qv-nz89#c> <http://www.w3.org/2004/02/skos/core#prefLabel> "computer optical disc cartridge"@en .
+<https://doi.org/10.6069/uwlswd.q8qv-nz89> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/electronic_resource_specific_material_designation/electronic_resource_specific_material_designation.jsonld> .
+<https://doi.org/10.6069/uwlswd.q8qv-nz89#z> <http://www.w3.org/2004/02/skos/core#definition> "Specific material designation other than tape cartridge, chip\n         cartridge, computer optical disc cartridge, computer disc, type unspecified, computer disc\n         cartridge, type unspecified, tape cassette, tape reel, magnetic disk, computer card,\n         magneto-optical disc, optical disc, remote, or standalone device."@en .
+<https://doi.org/10.6069/uwlswd.q8qv-nz89#a> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.q8qv-nz89> .
+<https://doi.org/10.6069/uwlswd.q8qv-nz89#d> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.q8qv-nz89> .
+<https://doi.org/10.6069/uwlswd.q8qv-nz89#m> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.q8qv-nz89#o> <http://www.w3.org/2004/02/skos/core#prefLabel> "optical disc"@en .
+<https://doi.org/10.6069/uwlswd.q8qv-nz89#b> <http://www.w3.org/2004/02/skos/core#definition> "Removable module containing a miniaturized electronic circuit,\n         mass-produced on a tiny chip or wafer of silicon, designed to provide additional processing\n         or memory capacity to a computer."@en .
+<https://doi.org/10.6069/uwlswd.q8qv-nz89#s> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.q8qv-nz89#z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.q8qv-nz89> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/zero/1.0> .
+<https://doi.org/10.6069/uwlswd.q8qv-nz89#r> <http://www.w3.org/2004/02/skos/core#notation> "r" .
+<https://doi.org/10.6069/uwlswd.q8qv-nz89> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/electronic_resource_specific_material_designation/electronic_resource_specific_material_designation.rdf> .
+<https://doi.org/10.6069/uwlswd.q8qv-nz89#f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.q8qv-nz89> <http://purl.org/dc/terms/description> "Special class of material (usually the class of physical\n         object) to which an item belongs (e.g., a magnetic disk)."@en .
+<https://doi.org/10.6069/uwlswd.q8qv-nz89#j> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.q8qv-nz89> .
+<https://doi.org/10.6069/uwlswd.q8qv-nz89#r> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.q8qv-nz89#c> <http://www.w3.org/2004/02/skos/core#definition> "Removable module containing one or more nonmagnetic discs used\n         to store digital information."@en .
+<https://doi.org/10.6069/uwlswd.q8qv-nz89> <http://purl.org/dc/terms/creator> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.q8qv-nz89#a> <http://www.w3.org/2004/02/skos/core#definition> "Removable module containing secondary storage medium such as\n         magnetic tape or magnetic disks."@en .
+<https://doi.org/10.6069/uwlswd.q8qv-nz89#m> <http://www.w3.org/2004/02/skos/core#prefLabel> "magneto-optical disc"@en .
+<https://doi.org/10.6069/uwlswd.q8qv-nz89#d> <http://www.w3.org/2004/02/skos/core#definition> "A disc whose type is not specified."@en .
+<https://doi.org/10.6069/uwlswd.q8qv-nz89#d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.q8qv-nz89#o> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.q8qv-nz89> <http://purl.org/dc/terms/provenance> <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> .
+<https://doi.org/10.6069/uwlswd.q8qv-nz89#h> <http://www.w3.org/2004/02/skos/core#definition> "Removable spool containing magnetic tape that can be written to\n         and read from by a tape drive."@en .
+<https://doi.org/10.6069/uwlswd.q8qv-nz89#o> <http://www.w3.org/2004/02/skos/core#definition> "Medium that uses a series of laser-burned micron-sized holes\n         (pits) on a special recording surface to store data. Recorded data is read optically. These\n         discs are usually a read-only medium."@en .
+<https://doi.org/10.6069/uwlswd.q8qv-nz89#u> <http://www.w3.org/2004/02/skos/core#definition> "Special material designation for the electronic resource is not\n         specified."@en .
+<https://doi.org/10.6069/uwlswd.q8qv-nz89#b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.q8qv-nz89#u> <http://www.w3.org/2004/02/skos/core#scopeNote> "E.g., it may be an electronic resource that changes its medium\n         over time."@en .
+<https://doi.org/10.6069/uwlswd.q8qv-nz89> <http://purl.org/dc/elements/1.1/language> "en" .
+<https://doi.org/10.6069/uwlswd.q8qv-nz89#e> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.q8qv-nz89> .
+<https://doi.org/10.6069/uwlswd.q8qv-nz89#b> <http://www.w3.org/2004/02/skos/core#prefLabel> "chip cartridge"@en .
+<https://doi.org/10.6069/uwlswd.q8qv-nz89#s> <http://www.w3.org/2004/02/skos/core#prefLabel> "standalone device"@en .
+<https://doi.org/10.6069/uwlswd.q8qv-nz89#s> <http://www.w3.org/2004/02/skos/core#definition> "Consists of storage and reader components as an integrated\n         standalone device. The data storage medium cannot be removed from the playback device with\n         which it is issued. The data carried on the medium can only be read using the integrated\n         special-purpose device."@en .
+<https://doi.org/10.6069/uwlswd.q8qv-nz89> <https://schema.org/disambiguatingDescription> "SKOS Concept Scheme for MARC 00X\n         Values"@en .
+<https://doi.org/10.6069/uwlswd.q8qv-nz89#s> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.q8qv-nz89> .
+<https://doi.org/10.6069/uwlswd.q8qv-nz89#f> <http://www.w3.org/2004/02/skos/core#notation> "f" .
+<https://doi.org/10.6069/uwlswd.q8qv-nz89#s> <http://www.w3.org/2004/02/skos/core#notation> "s" .
+<https://doi.org/10.6069/uwlswd.q8qv-nz89#m> <http://www.w3.org/2004/02/skos/core#notation> "m" .
+<https://doi.org/10.6069/uwlswd.q8qv-nz89#c> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.q8qv-nz89> .
+<https://doi.org/10.6069/uwlswd.q8qv-nz89#z> <http://www.w3.org/2004/02/skos/core#notation> "z" .
+<https://doi.org/10.6069/uwlswd.q8qv-nz89#b> <http://www.w3.org/2004/02/skos/core#scopeNote> "Includes several types of solid-state, memory/storage devices\n         such as non-rewritable ROM-chip cartridges and rewritable flash drives (e.g. USB\n         keys)."@en .
+<https://doi.org/10.6069/uwlswd.q8qv-nz89#d> <http://www.w3.org/2004/02/skos/core#prefLabel> "computer disc, type unspecified"@en .
+<https://doi.org/10.6069/uwlswd.q8qv-nz89#h> <http://www.w3.org/2004/02/skos/core#prefLabel> "tape reel"@en .
+<https://doi.org/10.6069/uwlswd.q8qv-nz89> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<https://doi.org/10.6069/uwlswd.q8qv-nz89#m> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.q8qv-nz89> .
+<https://doi.org/10.6069/uwlswd.q8qv-nz89#k> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.q8qv-nz89#f> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.q8qv-nz89> .
+<https://doi.org/10.6069/uwlswd.q8qv-nz89> <http://purl.org/dc/terms/source> <https://www.loc.gov/marc/bibliographic/bd007.html> .
+<https://doi.org/10.6069/uwlswd.q8qv-nz89#a> <http://www.w3.org/2004/02/skos/core#notation> "a" .

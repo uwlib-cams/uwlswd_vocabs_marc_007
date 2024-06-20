@@ -1,0 +1,80 @@
+<https://doi.org/10.6069/uwlswd.v463-4g79#z> <http://www.w3.org/2004/02/skos/core#definition> "Dimensions other than 3 1/2 in., 12 in., 4 3/4 in. or 12 cm., 1\n         1/8 x 2 3/8 in., 3 7/8 x 2 1/2 in., 5 1/4 in., or 8 in."@en .
+<https://doi.org/10.6069/uwlswd.v463-4g79#g> <http://www.w3.org/2004/02/skos/core#definition> "Diameter of the medium is 4 3/4 inches (or 12\n         cm.)."@en .
+<https://doi.org/10.6069/uwlswd.v463-4g79#o> <http://www.w3.org/2004/02/skos/core#prefLabel> "5 1/4 in."@en .
+<https://doi.org/10.6069/uwlswd.v463-4g79> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/electronic_resource_dimensions/electronic_resource_dimensions.jsonld> .
+<https://doi.org/10.6069/uwlswd.v463-4g79#n> <http://www.w3.org/2004/02/skos/core#notation> "n" .
+<https://doi.org/10.6069/uwlswd.v463-4g79> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/electronic_resource_dimensions/electronic_resource_dimensions.ttl> .
+<https://doi.org/10.6069/uwlswd.v463-4g79#e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.v463-4g79> <http://purl.org/dc/terms/issued> "2024" .
+<https://doi.org/10.6069/uwlswd.v463-4g79> <http://purl.org/dc/elements/1.1/language> "en" .
+<https://doi.org/10.6069/uwlswd.v463-4g79#v> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.v463-4g79> .
+<https://doi.org/10.6069/uwlswd.v463-4g79#z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.v463-4g79#o> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.v463-4g79> .
+<https://doi.org/10.6069/uwlswd.v463-4g79#i> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.v463-4g79> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<https://doi.org/10.6069/uwlswd.v463-4g79> <http://purl.org/dc/terms/title> "Electronic resource: dimensions"@en .
+<https://doi.org/10.6069/uwlswd.v463-4g79#i> <http://www.w3.org/2004/02/skos/core#scopeNote> "Usually refers to cartridges."@en .
+<https://doi.org/10.6069/uwlswd.v463-4g79> <http://purl.org/dc/terms/source> <https://www.loc.gov/marc/bibliographic/bd007.html> .
+<https://doi.org/10.6069/uwlswd.v463-4g79#n> <http://www.w3.org/2004/02/skos/core#prefLabel> "not applicable"@en .
+<https://doi.org/10.6069/uwlswd.v463-4g79#n> <http://www.w3.org/2004/02/skos/core#scopeNote> "Appropriate for remote electronic resources and electronic\n         resources whose specific medium varies."@en .
+<https://doi.org/10.6069/uwlswd.v463-4g79#g> <http://www.w3.org/2004/02/skos/core#scopeNote> "Usually refers to optical or magneto-optical\n         disc."@en .
+<https://doi.org/10.6069/uwlswd.v463-4g79> <http://purl.org/dc/terms/description> "Dimensions of the medium used to encode the electronic\n         resource."@en .
+<https://doi.org/10.6069/uwlswd.v463-4g79> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/zero/1.0> .
+<https://doi.org/10.6069/uwlswd.v463-4g79#e> <http://www.w3.org/2004/02/skos/core#prefLabel> "12 in."@en .
+<https://doi.org/10.6069/uwlswd.v463-4g79#z> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.v463-4g79> .
+<https://doi.org/10.6069/uwlswd.v463-4g79#v> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.v463-4g79#g> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.v463-4g79> .
+<https://doi.org/10.6069/uwlswd.v463-4g79#u> <http://www.w3.org/2004/02/skos/core#prefLabel> "unknown"@en .
+<https://doi.org/10.6069/uwlswd.v463-4g79#u> <http://www.w3.org/2004/02/skos/core#notation> "u" .
+<https://doi.org/10.6069/uwlswd.v463-4g79> <http://purl.org/dc/terms/creator> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.v463-4g79#z> <http://www.w3.org/2004/02/skos/core#prefLabel> "other"@en .
+<https://doi.org/10.6069/uwlswd.v463-4g79#n> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.v463-4g79#j> <http://www.w3.org/2004/02/skos/core#prefLabel> "3 7/8 x 2 1/2 in."@en .
+<https://doi.org/10.6069/uwlswd.v463-4g79> <http://purl.org/dc/terms/publisher> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.v463-4g79#g> <http://www.w3.org/2004/02/skos/core#prefLabel> "4 3/4 in. or 12 cm."@en .
+<https://doi.org/10.6069/uwlswd.v463-4g79#v> <http://www.w3.org/2004/02/skos/core#scopeNote> "Usually refers to the diameter of a magnetic disk or optical\n         disc."@en .
+<https://doi.org/10.6069/uwlswd.v463-4g79> <http://purl.org/dc/terms/provenance> <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> .
+<https://doi.org/10.6069/uwlswd.v463-4g79#i> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.v463-4g79> .
+<https://doi.org/10.6069/uwlswd.v463-4g79#u> <http://www.w3.org/2004/02/skos/core#definition> "Dimensions of the medium used for the electronic resource are\n         not known."@en .
+<https://doi.org/10.6069/uwlswd.v463-4g79#v> <http://www.w3.org/2004/02/skos/core#notation> "v" .
+<https://doi.org/10.6069/uwlswd.v463-4g79#z> <http://www.w3.org/2004/02/skos/core#notation> "z" .
+<https://doi.org/10.6069/uwlswd.v463-4g79#u> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.v463-4g79> .
+<https://doi.org/10.6069/uwlswd.v463-4g79#n> <http://www.w3.org/2004/02/skos/core#definition> "Physical dimensions are not applicable to the electronic\n         resource."@en .
+<https://doi.org/10.6069/uwlswd.v463-4g79#a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.v463-4g79#a> <http://www.w3.org/2004/02/skos/core#scopeNote> "Usually refers to the diameter of a magnetic\n         disk."@en .
+<https://doi.org/10.6069/uwlswd.v463-4g79> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/electronic_resource_dimensions/electronic_resource_dimensions.rdf> .
+<https://doi.org/10.6069/uwlswd.v463-4g79#e> <http://www.w3.org/2004/02/skos/core#notation> "e" .
+<https://doi.org/10.6069/uwlswd.v463-4g79> <http://purl.org/dc/terms/source> <http://marc21rdf.info> .
+<https://doi.org/10.6069/uwlswd.v463-4g79#o> <http://www.w3.org/2004/02/skos/core#notation> "o" .
+<https://doi.org/10.6069/uwlswd.v463-4g79> <http://purl.org/dc/terms/format> <http://www.w3.org/ns/formats/N-Triples> .
+<https://doi.org/10.6069/uwlswd.v463-4g79> <http://purl.org/dc/terms/contributor> <http://viaf.org/viaf/151962300> .
+<https://doi.org/10.6069/uwlswd.v463-4g79#u> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.v463-4g79#g> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.v463-4g79> <https://schema.org/version> "1-0-0" .
+<https://doi.org/10.6069/uwlswd.v463-4g79> <https://schema.org/disambiguatingDescription> "SKOS Concept Scheme for MARC 00X\n         Values"@en .
+<https://doi.org/10.6069/uwlswd.v463-4g79#a> <http://www.w3.org/2004/02/skos/core#prefLabel> "3 1/2 in."@en .
+<https://doi.org/10.6069/uwlswd.v463-4g79#j> <http://www.w3.org/2004/02/skos/core#definition> "Dimensions of the container used for the medium are 3 7/8 x 2\n         1/2 inches."@en .
+<https://doi.org/10.6069/uwlswd.v463-4g79#o> <http://www.w3.org/2004/02/skos/core#definition> "Diameter of the medium is 5 1/4 inches."@en .
+<https://doi.org/10.6069/uwlswd.v463-4g79#i> <http://www.w3.org/2004/02/skos/core#notation> "i" .
+<https://doi.org/10.6069/uwlswd.v463-4g79> <http://purl.org/dc/terms/type> <http://purl.org/dc/dcmitype/Dataset> .
+<https://doi.org/10.6069/uwlswd.v463-4g79#v> <http://www.w3.org/2004/02/skos/core#prefLabel> "8 in."@en .
+<https://doi.org/10.6069/uwlswd.v463-4g79#e> <http://www.w3.org/2004/02/skos/core#scopeNote> "Usually refers to optical or magneto-optical\n         disc."@en .
+<https://doi.org/10.6069/uwlswd.v463-4g79> <http://purl.org/dc/elements/1.1/contributor> "Metadata Management Associates"@en .
+<https://doi.org/10.6069/uwlswd.v463-4g79#j> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.v463-4g79> .
+<https://doi.org/10.6069/uwlswd.v463-4g79#n> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.v463-4g79> .
+<https://doi.org/10.6069/uwlswd.v463-4g79#i> <http://www.w3.org/2004/02/skos/core#definition> "Dimensions of the container used for the medium are 1 1/8 x 2\n         3/8 inches."@en .
+<https://doi.org/10.6069/uwlswd.v463-4g79#o> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.v463-4g79#a> <http://www.w3.org/2004/02/skos/core#notation> "a" .
+<https://doi.org/10.6069/uwlswd.v463-4g79#g> <http://www.w3.org/2004/02/skos/core#notation> "g" .
+<https://doi.org/10.6069/uwlswd.v463-4g79> <http://purl.org/dc/terms/alternative> "MARC21 007/04 values for electronic resources expressed using\n         RDF"@en .
+<https://doi.org/10.6069/uwlswd.v463-4g79#a> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.v463-4g79> .
+<https://doi.org/10.6069/uwlswd.v463-4g79#e> <http://www.w3.org/2004/02/skos/core#definition> "Diameter of the medium is 12 inches."@en .
+<https://doi.org/10.6069/uwlswd.v463-4g79#e> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.v463-4g79> .
+<https://doi.org/10.6069/uwlswd.v463-4g79#j> <http://www.w3.org/2004/02/skos/core#scopeNote> "Usually refers to cartridges."@en .
+<https://doi.org/10.6069/uwlswd.v463-4g79#i> <http://www.w3.org/2004/02/skos/core#prefLabel> "1 1/8 x 2 3/8 in."@en .
+<https://doi.org/10.6069/uwlswd.v463-4g79> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/electronic_resource_dimensions/electronic_resource_dimensions.html> .
+<https://doi.org/10.6069/uwlswd.v463-4g79#j> <http://www.w3.org/2004/02/skos/core#notation> "j" .
+<https://doi.org/10.6069/uwlswd.v463-4g79#o> <http://www.w3.org/2004/02/skos/core#scopeNote> "Usually refers to the dimensions of a magnetic\n         disk."@en .
+<https://doi.org/10.6069/uwlswd.v463-4g79#j> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.v463-4g79#v> <http://www.w3.org/2004/02/skos/core#definition> "Diameter of the medium is 8 inches."@en .
+<https://doi.org/10.6069/uwlswd.v463-4g79#a> <http://www.w3.org/2004/02/skos/core#definition> "Diameter of the medium is 3 1/2 inches."@en .

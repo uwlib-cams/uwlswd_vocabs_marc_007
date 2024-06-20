@@ -1,0 +1,130 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix schema: <https://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://doi.org/10.6069/uwlswd.a3v4-v844#a> a skos:Concept ;
+    skos:definition """National Association of Broadcasters (NAB) standard was used
+         for the transcription of the recording and NAB playback equalization is
+         required."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.a3v4-v844> ;
+    skos:notation "a" ;
+    skos:prefLabel "NAB standard"@en .
+
+<https://doi.org/10.6069/uwlswd.a3v4-v844#b> a skos:Concept ;
+    skos:definition """Comité consultatif de la radiodiffusion (CCIR) standard was
+         used for the transcription of the recording and CCIR playback equalization is
+         required."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.a3v4-v844> ;
+    skos:notation "b" ;
+    skos:prefLabel "CCIR standard"@en .
+
+<https://doi.org/10.6069/uwlswd.a3v4-v844#c> a skos:Concept ;
+    skos:definition "Requires Dolby-B decoding playback equipment."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.a3v4-v844> ;
+    skos:notation "c" ;
+    skos:prefLabel "Dolby-B encoded"@en ;
+    skos:scopeNote """Indicated on commercial recordings by the double D insignia
+         (without indication of Dolby-C encoding). If Dolby is used on a tape recording without
+         other indication, Dolby-B may be assumed. Despite the presence of the double-D or "Dolby"
+         on a disc recording, this code is never used for commercial discs."""@en .
+
+<https://doi.org/10.6069/uwlswd.a3v4-v844#d> a skos:Concept ;
+    skos:definition """Used for disc or tape recordings which indicate on the label or
+         package that dbx decoding is required."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.a3v4-v844> ;
+    skos:notation "d" ;
+    skos:prefLabel "dbx encoded"@en ;
+    skos:scopeNote """Not used if descriptive material indicates that dbx was used
+         during recording but that standard playback equipment may be used."""@en .
+
+<https://doi.org/10.6069/uwlswd.a3v4-v844#e> a skos:Concept ;
+    skos:definition """Requires digital playback equipment, such as Phillips/Sony
+         Compact Discs or Sony PCM tape recordings."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.a3v4-v844> ;
+    skos:notation "e" ;
+    skos:prefLabel "digital recording"@en ;
+    skos:scopeNote """Not used when there is indication that digital equipment was
+         used during recording, but that analog playback equipment may be used. No commercial
+         recordings prior to 1982, and no analog disc or tape recordings use digitial equipment
+         during recording."""@en .
+
+<https://doi.org/10.6069/uwlswd.a3v4-v844#f> a skos:Concept ;
+    skos:definition "Requires Dolby-A playback equipment."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.a3v4-v844> ;
+    skos:notation "f" ;
+    skos:prefLabel "Dolby-A encoded"@en ;
+    skos:scopeNote """Used only for master tapes and other tape recordings where clear
+         indication is given that the professional Dolby-A encoding was applied, and that Dolby-A
+         decoding is required. Dolby-A encoding is never used for commercial tape or discs.
+         (Instantaneous tape recordings labelled "Dolby" without other indication are normally
+         Dolby-B, particularly cassette recordings.)"""@en .
+
+<https://doi.org/10.6069/uwlswd.a3v4-v844#g> a skos:Concept ;
+    skos:definition "Requires Dolby-C playback equipment."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.a3v4-v844> ;
+    skos:notation "g" ;
+    skos:prefLabel "Dolby-C encoded"@en ;
+    skos:scopeNote """Used for tape recordings where the label or packaging clearly
+         indicates that Dolby-C is required. "Dolby" or the double-D symbol without specific
+         explanation normally indicates Dolby-B."""@en .
+
+<https://doi.org/10.6069/uwlswd.a3v4-v844#h> a skos:Concept ;
+    skos:definition "Requires CX encoded playback equipment."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.a3v4-v844> ;
+    skos:notation "h" ;
+    skos:prefLabel "CX encoded"@en ;
+    skos:scopeNote """Used for recordings where the symbol or mark CX appears. Such
+         recordings may be labelled as compatible with standard playback equipment. No CX recordings
+         will appear with pressing dates prior to 1981."""@en .
+
+<https://doi.org/10.6069/uwlswd.a3v4-v844#n> a skos:Concept ;
+    skos:definition """Item does not have special playback
+         characteristics."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.a3v4-v844> ;
+    skos:notation "n" ;
+    skos:prefLabel "not applicable"@en .
+
+<https://doi.org/10.6069/uwlswd.a3v4-v844#u> a skos:Concept ;
+    skos:definition """Playback characteristics of the item are not
+         known."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.a3v4-v844> ;
+    skos:notation "u" ;
+    skos:prefLabel "unknown"@en .
+
+<https://doi.org/10.6069/uwlswd.a3v4-v844#z> a skos:Concept ;
+    skos:definition """Playback characteristics other than NAB standard, CCIR
+         standard, Dolby-B encoded, dbx encoded, digital recording, Dolby-A encoded, Dolby-C
+         encoded, or CX encoded."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.a3v4-v844> ;
+    skos:notation "z" ;
+    skos:prefLabel "other"@en .
+
+<https://doi.org/10.6069/uwlswd.a3v4-v844> a skos:ConceptScheme ;
+    dc:contributor "Metadata Management Associates"@en ;
+    dc:language "en" ;
+    dct:alternative """MARC21 007/12 values for sound recordings expressed using
+         RDF"""@en ;
+    dct:contributor <http://viaf.org/viaf/151962300> ;
+    dct:creator <http://viaf.org/viaf/139541794> ;
+    dct:description """Playback characteristics for sound recordings, including
+         special equipment or equalization necessary for proper playback. Not used to indicate
+         special processes used during recording unless those processes must be applied during
+         playback."""@en ;
+    dct:format <http://www.w3.org/ns/formats/Turtle> ;
+    dct:hasFormat <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/sound_recording_special_playback_characteristics/sound_recording_special_playback_characteristics.html>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/sound_recording_special_playback_characteristics/sound_recording_special_playback_characteristics.jsonld>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/sound_recording_special_playback_characteristics/sound_recording_special_playback_characteristics.nt>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/sound_recording_special_playback_characteristics/sound_recording_special_playback_characteristics.rdf> ;
+    dct:issued "2024" ;
+    dct:license <http://creativecommons.org/publicdomain/zero/1.0> ;
+    dct:provenance <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> ;
+    dct:publisher <http://viaf.org/viaf/139541794> ;
+    dct:source <http://marc21rdf.info>,
+        <https://www.loc.gov/marc/bibliographic/bd007.html> ;
+    dct:title "Sound recording: special playback characteristics"@en ;
+    dct:type <http://purl.org/dc/dcmitype/Dataset> ;
+    schema:disambiguatingDescription """SKOS Concept Scheme for MARC 00X
+         Values"""@en ;
+    schema:version "1-0-0" .
+

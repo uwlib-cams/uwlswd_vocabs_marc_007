@@ -1,0 +1,186 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix schema: <https://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://doi.org/10.6069/uwlswd.gs2r-s451#a> a skos:Concept ;
+    skos:definition """A card printed with words, numerals, and/or pictures to be used
+         by an individual or a group as a basis for performing a specific
+         activity."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.gs2r-s451> ;
+    skos:notation "a" ;
+    skos:prefLabel "activity card"@en .
+
+<https://doi.org/10.6069/uwlswd.gs2r-s451#c> a skos:Concept ;
+    skos:definition """Original work created by affixing various materials (paper,
+         wood, newspaper, cloth, etc.) to a surface."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.gs2r-s451> ;
+    skos:notation "c" ;
+    skos:prefLabel "collage"@en .
+
+<https://doi.org/10.6069/uwlswd.gs2r-s451#d> a skos:Concept ;
+    skos:definition """Original visual representation (other than a print or painting)
+         made with pencil, pen, chalk, or other writing instrument usually on paper or similar
+         nonrigid support."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.gs2r-s451> ;
+    skos:notation "d" ;
+    skos:prefLabel "drawing"@en .
+
+<https://doi.org/10.6069/uwlswd.gs2r-s451#e> a skos:Concept ;
+    skos:definition """Original visual representation produced by applying paint to a
+         surface."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.gs2r-s451> ;
+    skos:notation "e" ;
+    skos:prefLabel "painting"@en .
+
+<https://doi.org/10.6069/uwlswd.gs2r-s451#f> a skos:Concept ;
+    skos:definition """Any picture produced in imitation of another picture through
+         the use of photographic process to transfer the image to a printing
+         surface."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.gs2r-s451> ;
+    skos:notation "f" ;
+    skos:prefLabel "photomechanical print"@en ;
+    skos:scopeNote """A snapshot made to document a painting or a Xerox copy of a
+         print are considered photomechanical reproductions. Art reproductions are included
+         here."""@en .
+
+<https://doi.org/10.6069/uwlswd.gs2r-s451#g> a skos:Concept ;
+    skos:definition """Piece of film, a glass plate, or pattern on which a negative
+         image appears, i.e., directly opposite to a positive image (photoprint), slide, or
+         transparency, used to produce a positive print."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.gs2r-s451> ;
+    skos:notation "g" ;
+    skos:prefLabel "photonegative"@en ;
+    skos:scopeNote """Photonegatives do not include negative photoprints, photoprints
+         that are a combination of negative and positive images, or photograms or solarized prints,
+         all of which are considered to be techniques used when making photoprints."""@en .
+
+<https://doi.org/10.6069/uwlswd.gs2r-s451#h> a skos:Concept ;
+    skos:definition """Photoprints have a positive image made either directly or
+         indirectly on a sensitized surface by the action of light or other radiant energy. The term
+         photoprint rather than photograph is used here as a more precise term than photograph,
+         which technically can cover both the print and the negative."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.gs2r-s451> ;
+    skos:notation "h" ;
+    skos:prefLabel "photoprint"@en ;
+    skos:scopeNote "Opaque stereographs are included here."@en .
+
+<https://doi.org/10.6069/uwlswd.gs2r-s451#i> a skos:Concept ;
+    skos:definition """Two-dimensional visual representation accessible to the naked
+         eye and generally on an opaque backing."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.gs2r-s451> ;
+    skos:notation "i" ;
+    skos:prefLabel "picture"@en ;
+    skos:scopeNote """Used when a more specific designation is unknown or not
+         desired."""@en .
+
+<https://doi.org/10.6069/uwlswd.gs2r-s451#j> a skos:Concept ;
+    skos:definition """Design or picture transferred from an engraved plate, wood
+         block, lithographic stone, or other medium. Generally there are four types: planographic
+         print, relief print, intaglio print, and stencil print."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.gs2r-s451> ;
+    skos:notation "j" ;
+    skos:prefLabel "print"@en .
+
+<https://doi.org/10.6069/uwlswd.gs2r-s451#k> a skos:Concept ;
+    skos:definition "Poster."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.gs2r-s451> ;
+    skos:notation "k" ;
+    skos:prefLabel "poster"@en .
+
+<https://doi.org/10.6069/uwlswd.gs2r-s451#l> a skos:Concept ;
+    skos:definition """Cross section, detail, diagram, elevation, perspective, plan,
+         working plan, etc., made for use in an engineering or other technical
+         context."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.gs2r-s451> ;
+    skos:notation "l" ;
+    skos:prefLabel "technical drawing"@en .
+
+<https://doi.org/10.6069/uwlswd.gs2r-s451#n> a skos:Concept ;
+    skos:definition """Opaque sheet that exhibits data in graphic or tabular
+         form."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.gs2r-s451> ;
+    skos:notation "n" ;
+    skos:prefLabel "chart"@en ;
+    skos:scopeNote "E.g., a wall chart."@en .
+
+<https://doi.org/10.6069/uwlswd.gs2r-s451#o> a skos:Concept ;
+    skos:definition """Card or other opaque material printed with words, numerals, or
+         pictures and designed for rapid display."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.gs2r-s451> ;
+    skos:notation "o" ;
+    skos:prefLabel "flash card"@en .
+
+<https://doi.org/10.6069/uwlswd.gs2r-s451#p> a skos:Concept ;
+    skos:definition "Postcard."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.gs2r-s451> ;
+    skos:notation "p" ;
+    skos:prefLabel "postcard"@en .
+
+<https://doi.org/10.6069/uwlswd.gs2r-s451#q> a skos:Concept ;
+    skos:definition "Icon."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.gs2r-s451> ;
+    skos:notation "q" ;
+    skos:prefLabel "icon"@en .
+
+<https://doi.org/10.6069/uwlswd.gs2r-s451#r> a skos:Concept ;
+    skos:definition """A photograph produced by the passage of radiation, such as X
+         rays, gamma rays, or neutrons, through an opaque object."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.gs2r-s451> ;
+    skos:notation "r" ;
+    skos:prefLabel "radiograph"@en .
+
+<https://doi.org/10.6069/uwlswd.gs2r-s451#s> a skos:Concept ;
+    skos:definition "Study print."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.gs2r-s451> ;
+    skos:notation "s" ;
+    skos:prefLabel "study print"@en .
+
+<https://doi.org/10.6069/uwlswd.gs2r-s451#u> a skos:Concept ;
+    skos:definition """Special material designation for the nonprojected graphic is
+         not specified."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.gs2r-s451> ;
+    skos:notation "u" ;
+    skos:prefLabel "unspecified"@en .
+
+<https://doi.org/10.6069/uwlswd.gs2r-s451#v> a skos:Concept ;
+    skos:definition "Photograph, type unspecified."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.gs2r-s451> ;
+    skos:notation "v" ;
+    skos:prefLabel "photograph, type unspecified"@en .
+
+<https://doi.org/10.6069/uwlswd.gs2r-s451#z> a skos:Concept ;
+    skos:definition """Specific material designation other than activity card,
+         collage, drawing, painting, photomechanical print, photonegative, photoprint, picture,
+         print, poster, technical drawing, chart, flash card, postcard, icon, radiograph, study
+         print, or photograph type unspecified."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.gs2r-s451> ;
+    skos:notation "z" ;
+    skos:prefLabel "other"@en .
+
+<https://doi.org/10.6069/uwlswd.gs2r-s451> a skos:ConceptScheme ;
+    dc:contributor "Metadata Management Associates"@en ;
+    dc:language "en" ;
+    dct:alternative """MARC21 007/01 values for nonprojected graphics expressed using
+         RDF"""@en ;
+    dct:contributor <http://viaf.org/viaf/151962300> ;
+    dct:creator <http://viaf.org/viaf/139541794> ;
+    dct:description """Special class of nonprojected graphic to which the item
+         belongs, (e.g., a picture)."""@en ;
+    dct:format <http://www.w3.org/ns/formats/Turtle> ;
+    dct:hasFormat <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/nonprojected_graphic_specific_material_designation/nonprojected_graphic_specific_material_designation.html>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/nonprojected_graphic_specific_material_designation/nonprojected_graphic_specific_material_designation.jsonld>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/nonprojected_graphic_specific_material_designation/nonprojected_graphic_specific_material_designation.nt>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/nonprojected_graphic_specific_material_designation/nonprojected_graphic_specific_material_designation.rdf> ;
+    dct:issued "2024" ;
+    dct:license <http://creativecommons.org/publicdomain/zero/1.0> ;
+    dct:provenance <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> ;
+    dct:publisher <http://viaf.org/viaf/139541794> ;
+    dct:source <http://marc21rdf.info>,
+        <https://www.loc.gov/marc/bibliographic/bd007.html> ;
+    dct:title "Nonprojected graphic: specific material designation"@en ;
+    dct:type <http://purl.org/dc/dcmitype/Dataset> ;
+    schema:disambiguatingDescription """SKOS Concept Scheme for MARC 00X
+         Values"""@en ;
+    schema:version "1-0-0" .
+

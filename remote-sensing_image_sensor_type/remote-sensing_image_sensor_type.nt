@@ -1,0 +1,42 @@
+<https://doi.org/10.6069/uwlswd.sqyb-w185#a> <http://www.w3.org/2004/02/skos/core#prefLabel> "active"@en .
+<https://doi.org/10.6069/uwlswd.sqyb-w185> <http://purl.org/dc/terms/publisher> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.sqyb-w185> <http://purl.org/dc/terms/creator> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.sqyb-w185#z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.sqyb-w185> <http://purl.org/dc/terms/provenance> <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> .
+<https://doi.org/10.6069/uwlswd.sqyb-w185> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/remote-sensing_image_sensor_type/remote-sensing_image_sensor_type.html> .
+<https://doi.org/10.6069/uwlswd.sqyb-w185#z> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.sqyb-w185> .
+<https://doi.org/10.6069/uwlswd.sqyb-w185#a> <http://www.w3.org/2004/02/skos/core#notation> "a" .
+<https://doi.org/10.6069/uwlswd.sqyb-w185> <http://purl.org/dc/terms/format> <http://www.w3.org/ns/formats/N-Triples> .
+<https://doi.org/10.6069/uwlswd.sqyb-w185#u> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.sqyb-w185#a> <http://www.w3.org/2004/02/skos/core#definition> "Sensor measures the strength of reflections of its\n         transmissions sent to a remote target."@en .
+<https://doi.org/10.6069/uwlswd.sqyb-w185> <http://purl.org/dc/terms/issued> "2024" .
+<https://doi.org/10.6069/uwlswd.sqyb-w185#u> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.sqyb-w185> .
+<https://doi.org/10.6069/uwlswd.sqyb-w185> <http://purl.org/dc/terms/contributor> <http://viaf.org/viaf/151962300> .
+<https://doi.org/10.6069/uwlswd.sqyb-w185> <https://schema.org/disambiguatingDescription> "SKOS Concept Scheme for MARC 00X\n         Values"@en .
+<https://doi.org/10.6069/uwlswd.sqyb-w185> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/remote-sensing_image_sensor_type/remote-sensing_image_sensor_type.jsonld> .
+<https://doi.org/10.6069/uwlswd.sqyb-w185> <http://purl.org/dc/terms/source> <http://marc21rdf.info> .
+<https://doi.org/10.6069/uwlswd.sqyb-w185> <http://purl.org/dc/elements/1.1/language> "en" .
+<https://doi.org/10.6069/uwlswd.sqyb-w185> <http://purl.org/dc/terms/title> "Remote-sensing image: sensor type"@en .
+<https://doi.org/10.6069/uwlswd.sqyb-w185> <https://schema.org/version> "1-0-0" .
+<https://doi.org/10.6069/uwlswd.sqyb-w185#b> <http://www.w3.org/2004/02/skos/core#prefLabel> "passive"@en .
+<https://doi.org/10.6069/uwlswd.sqyb-w185> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/remote-sensing_image_sensor_type/remote-sensing_image_sensor_type.ttl> .
+<https://doi.org/10.6069/uwlswd.sqyb-w185#b> <http://www.w3.org/2004/02/skos/core#notation> "b" .
+<https://doi.org/10.6069/uwlswd.sqyb-w185#z> <http://www.w3.org/2004/02/skos/core#definition> "Sensor type other than active or passive."@en .
+<https://doi.org/10.6069/uwlswd.sqyb-w185> <http://purl.org/dc/terms/alternative> "MARC21 007/08 values for remote-sensing images expressed using\n         RDF"@en .
+<https://doi.org/10.6069/uwlswd.sqyb-w185#b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.sqyb-w185#u> <http://www.w3.org/2004/02/skos/core#prefLabel> "unknown"@en .
+<https://doi.org/10.6069/uwlswd.sqyb-w185> <http://purl.org/dc/elements/1.1/contributor> "Metadata Management Associates"@en .
+<https://doi.org/10.6069/uwlswd.sqyb-w185> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<https://doi.org/10.6069/uwlswd.sqyb-w185#z> <http://www.w3.org/2004/02/skos/core#prefLabel> "other"@en .
+<https://doi.org/10.6069/uwlswd.sqyb-w185#b> <http://www.w3.org/2004/02/skos/core#definition> "Sensor measures the strength of transmissions (e.g., radiation)\n         emitted by a remote target without stimulation by the sensor."@en .
+<https://doi.org/10.6069/uwlswd.sqyb-w185> <http://purl.org/dc/terms/type> <http://purl.org/dc/dcmitype/Dataset> .
+<https://doi.org/10.6069/uwlswd.sqyb-w185> <http://purl.org/dc/terms/source> <https://www.loc.gov/marc/bibliographic/bd007.html> .
+<https://doi.org/10.6069/uwlswd.sqyb-w185#u> <http://www.w3.org/2004/02/skos/core#definition> "Involvement of remote-sensing device in the creation of the\n         transmission it measured is not known."@en .
+<https://doi.org/10.6069/uwlswd.sqyb-w185> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/zero/1.0> .
+<https://doi.org/10.6069/uwlswd.sqyb-w185#b> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.sqyb-w185> .
+<https://doi.org/10.6069/uwlswd.sqyb-w185#z> <http://www.w3.org/2004/02/skos/core#notation> "z" .
+<https://doi.org/10.6069/uwlswd.sqyb-w185> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/remote-sensing_image_sensor_type/remote-sensing_image_sensor_type.rdf> .
+<https://doi.org/10.6069/uwlswd.sqyb-w185#a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.sqyb-w185#u> <http://www.w3.org/2004/02/skos/core#notation> "u" .
+<https://doi.org/10.6069/uwlswd.sqyb-w185#a> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.sqyb-w185> .
+<https://doi.org/10.6069/uwlswd.sqyb-w185> <http://purl.org/dc/terms/description> "For the recording mode of the remote-sensing device,\n         specifically, whether the sensor is involved in the creation of the transmission it\n         eventually measures."@en .

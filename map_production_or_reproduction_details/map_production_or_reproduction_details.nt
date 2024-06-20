@@ -1,0 +1,53 @@
+<https://doi.org/10.6069/uwlswd.d36s-9s16> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/map_production_or_reproduction_details/map_production_or_reproduction_details.html> .
+<https://doi.org/10.6069/uwlswd.d36s-9s16#b> <http://www.w3.org/2004/02/skos/core#prefLabel> "photocopy"@en .
+<https://doi.org/10.6069/uwlswd.d36s-9s16> <http://purl.org/dc/terms/creator> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.d36s-9s16#a> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.d36s-9s16> .
+<https://doi.org/10.6069/uwlswd.d36s-9s16#d> <http://www.w3.org/2004/02/skos/core#notation> "d" .
+<https://doi.org/10.6069/uwlswd.d36s-9s16#b> <http://www.w3.org/2004/02/skos/core#definition> "Photocopy."@en .
+<https://doi.org/10.6069/uwlswd.d36s-9s16> <http://purl.org/dc/terms/publisher> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.d36s-9s16> <http://purl.org/dc/terms/description> "Technique used to produce the cartographic\n         resource."@en .
+<https://doi.org/10.6069/uwlswd.d36s-9s16#a> <http://www.w3.org/2004/02/skos/core#definition> "A blueline image on a white background and reproduced by the\n         whiteprint process."@en .
+<https://doi.org/10.6069/uwlswd.d36s-9s16#d> <http://www.w3.org/2004/02/skos/core#definition> "Film copy of the original."@en .
+<https://doi.org/10.6069/uwlswd.d36s-9s16> <http://purl.org/dc/terms/provenance> <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> .
+<https://doi.org/10.6069/uwlswd.d36s-9s16#z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.d36s-9s16#b> <http://www.w3.org/2004/02/skos/core#notation> "b" .
+<https://doi.org/10.6069/uwlswd.d36s-9s16#u> <http://www.w3.org/2004/02/skos/core#notation> "u" .
+<https://doi.org/10.6069/uwlswd.d36s-9s16#c> <http://www.w3.org/2004/02/skos/core#prefLabel> "photographic pre-production"@en .
+<https://doi.org/10.6069/uwlswd.d36s-9s16#c> <http://www.w3.org/2004/02/skos/core#notation> "c" .
+<https://doi.org/10.6069/uwlswd.d36s-9s16#d> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.d36s-9s16> .
+<https://doi.org/10.6069/uwlswd.d36s-9s16#b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.d36s-9s16> <http://purl.org/dc/elements/1.1/language> "en" .
+<https://doi.org/10.6069/uwlswd.d36s-9s16> <http://purl.org/dc/terms/format> <http://www.w3.org/ns/formats/N-Triples> .
+<https://doi.org/10.6069/uwlswd.d36s-9s16#a> <http://www.w3.org/2004/02/skos/core#notation> "a" .
+<https://doi.org/10.6069/uwlswd.d36s-9s16#c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.d36s-9s16> <http://purl.org/dc/terms/issued> "2024" .
+<https://doi.org/10.6069/uwlswd.d36s-9s16> <http://purl.org/dc/terms/contributor> <http://viaf.org/viaf/151962300> .
+<https://doi.org/10.6069/uwlswd.d36s-9s16> <https://schema.org/disambiguatingDescription> "SKOS Concept Scheme for MARC 00X\n         Values"@en .
+<https://doi.org/10.6069/uwlswd.d36s-9s16> <http://purl.org/dc/terms/source> <http://marc21rdf.info> .
+<https://doi.org/10.6069/uwlswd.d36s-9s16> <https://schema.org/version> "1-0-0" .
+<https://doi.org/10.6069/uwlswd.d36s-9s16> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/map_production_or_reproduction_details/map_production_or_reproduction_details.jsonld> .
+<https://doi.org/10.6069/uwlswd.d36s-9s16> <http://purl.org/dc/terms/alternative> "MARC21 007/06 values for maps expressed using\n         RDF"@en .
+<https://doi.org/10.6069/uwlswd.d36s-9s16#u> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.d36s-9s16#z> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.d36s-9s16> .
+<https://doi.org/10.6069/uwlswd.d36s-9s16#z> <http://www.w3.org/2004/02/skos/core#definition> "Production or reproduction details other than photocopy,\n         blueline print, photocopy, photographic pre-production, or film."@en .
+<https://doi.org/10.6069/uwlswd.d36s-9s16> <http://purl.org/dc/elements/1.1/contributor> "Metadata Management Associates"@en .
+<https://doi.org/10.6069/uwlswd.d36s-9s16> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/map_production_or_reproduction_details/map_production_or_reproduction_details.ttl> .
+<https://doi.org/10.6069/uwlswd.d36s-9s16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<https://doi.org/10.6069/uwlswd.d36s-9s16#b> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.d36s-9s16> .
+<https://doi.org/10.6069/uwlswd.d36s-9s16> <http://purl.org/dc/terms/title> "Map: production/reproduction details"@en .
+<https://doi.org/10.6069/uwlswd.d36s-9s16#d> <http://www.w3.org/2004/02/skos/core#prefLabel> "film"@en .
+<https://doi.org/10.6069/uwlswd.d36s-9s16#z> <http://www.w3.org/2004/02/skos/core#prefLabel> "other"@en .
+<https://doi.org/10.6069/uwlswd.d36s-9s16> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/map_production_or_reproduction_details/map_production_or_reproduction_details.rdf> .
+<https://doi.org/10.6069/uwlswd.d36s-9s16#c> <http://www.w3.org/2004/02/skos/core#definition> "Photographic pre-production (proof) copy intended for\n         review."@en .
+<https://doi.org/10.6069/uwlswd.d36s-9s16#u> <http://www.w3.org/2004/02/skos/core#definition> "Production/reproduction details are not\n         known."@en .
+<https://doi.org/10.6069/uwlswd.d36s-9s16> <http://purl.org/dc/terms/type> <http://purl.org/dc/dcmitype/Dataset> .
+<https://doi.org/10.6069/uwlswd.d36s-9s16> <http://purl.org/dc/terms/source> <https://www.loc.gov/marc/bibliographic/bd007.html> .
+<https://doi.org/10.6069/uwlswd.d36s-9s16#a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.d36s-9s16#u> <http://www.w3.org/2004/02/skos/core#prefLabel> "unknown"@en .
+<https://doi.org/10.6069/uwlswd.d36s-9s16> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/zero/1.0> .
+<https://doi.org/10.6069/uwlswd.d36s-9s16#d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.d36s-9s16#c> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.d36s-9s16> .
+<https://doi.org/10.6069/uwlswd.d36s-9s16#z> <http://www.w3.org/2004/02/skos/core#notation> "z" .
+<https://doi.org/10.6069/uwlswd.d36s-9s16#a> <http://www.w3.org/2004/02/skos/core#scopeNote> "Bluelines are made from vellum, film positives, or any\n         translucent or transparent original on which an image has been made."@en .
+<https://doi.org/10.6069/uwlswd.d36s-9s16#u> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.d36s-9s16> .
+<https://doi.org/10.6069/uwlswd.d36s-9s16#a> <http://www.w3.org/2004/02/skos/core#prefLabel> "photocopy, blueline print"@en .

@@ -1,0 +1,56 @@
+<https://doi.org/10.6069/uwlswd.4ehm-fa55#u> <http://www.w3.org/2004/02/skos/core#definition> "Generation stage of the film is not known."@en .
+<https://doi.org/10.6069/uwlswd.4ehm-fa55#o> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4ehm-fa55> .
+<https://doi.org/10.6069/uwlswd.4ehm-fa55> <http://purl.org/dc/terms/description> "How far away from the original material the item is (e.g., the\n         actual negative film or original videotape in the camera)."@en .
+<https://doi.org/10.6069/uwlswd.4ehm-fa55#z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.4ehm-fa55#o> <http://www.w3.org/2004/02/skos/core#prefLabel> "original"@en .
+<https://doi.org/10.6069/uwlswd.4ehm-fa55#o> <http://www.w3.org/2004/02/skos/core#notation> "o" .
+<https://doi.org/10.6069/uwlswd.4ehm-fa55#z> <http://www.w3.org/2004/02/skos/core#definition> "Generation other than duplicate, master original, reference\n         print/viewing copy."@en .
+<https://doi.org/10.6069/uwlswd.4ehm-fa55> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/zero/1.0> .
+<https://doi.org/10.6069/uwlswd.4ehm-fa55> <http://purl.org/dc/terms/alternative> "MARC21 007/11 values for motion pictures expressed using\n         RDF"@en .
+<https://doi.org/10.6069/uwlswd.4ehm-fa55#e> <http://www.w3.org/2004/02/skos/core#scopeNote> "The master is normally considered second generation\n         material."@en .
+<https://doi.org/10.6069/uwlswd.4ehm-fa55#r> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.4ehm-fa55#e> <http://www.w3.org/2004/02/skos/core#definition> "Master that is usually positive and referred to as a master\n         positive. It is a specially prepared positive print made from an earlier generation\n         negative film and used for the preparation of duplicate negatives rather than for\n         projection."@en .
+<https://doi.org/10.6069/uwlswd.4ehm-fa55> <http://purl.org/dc/terms/title> "Motion picture: generation"@en .
+<https://doi.org/10.6069/uwlswd.4ehm-fa55#o> <http://www.w3.org/2004/02/skos/core#definition> "Original that is usually negative. It is film exposed in a\n         camera and thus of better quality than any subsequent generation or\n         derivative."@en .
+<https://doi.org/10.6069/uwlswd.4ehm-fa55#r> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4ehm-fa55> .
+<https://doi.org/10.6069/uwlswd.4ehm-fa55#z> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4ehm-fa55> .
+<https://doi.org/10.6069/uwlswd.4ehm-fa55#u> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.4ehm-fa55> <http://purl.org/dc/terms/publisher> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.4ehm-fa55> <http://purl.org/dc/terms/creator> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.4ehm-fa55#r> <http://www.w3.org/2004/02/skos/core#scopeNote> "It is not original, master, or duplicate\n         material."@en .
+<https://doi.org/10.6069/uwlswd.4ehm-fa55#d> <http://www.w3.org/2004/02/skos/core#prefLabel> "duplicate"@en .
+<https://doi.org/10.6069/uwlswd.4ehm-fa55> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/motion_picture_generation/motion_picture_generation.jsonld> .
+<https://doi.org/10.6069/uwlswd.4ehm-fa55> <http://purl.org/dc/terms/source> <https://www.loc.gov/marc/bibliographic/bd007.html> .
+<https://doi.org/10.6069/uwlswd.4ehm-fa55#d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.4ehm-fa55> <http://purl.org/dc/terms/provenance> <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> .
+<https://doi.org/10.6069/uwlswd.4ehm-fa55#o> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.4ehm-fa55#d> <http://www.w3.org/2004/02/skos/core#scopeNote> "A duplicate is at least three generations from the original.\n         Duplicate negatives may be prepared either to obtain characteristics not present in the\n         original image, as in special effects work, or to protect and extend the production\n         availability of the assembled original negative as when duplicate negatives are prepared\n         for release printing simultaneously at different labs."@en .
+<https://doi.org/10.6069/uwlswd.4ehm-fa55#r> <http://www.w3.org/2004/02/skos/core#prefLabel> "reference print/viewing copy"@en .
+<https://doi.org/10.6069/uwlswd.4ehm-fa55> <http://purl.org/dc/terms/contributor> <http://viaf.org/viaf/151962300> .
+<https://doi.org/10.6069/uwlswd.4ehm-fa55#e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.4ehm-fa55#o> <http://www.w3.org/2004/02/skos/core#scopeNote> "When referring to older film, an original is almost always a\n         negative. However, the original film may also be a reversal positive."@en .
+<https://doi.org/10.6069/uwlswd.4ehm-fa55> <http://purl.org/dc/terms/source> <http://marc21rdf.info> .
+<https://doi.org/10.6069/uwlswd.4ehm-fa55> <http://purl.org/dc/elements/1.1/language> "en" .
+<https://doi.org/10.6069/uwlswd.4ehm-fa55> <https://schema.org/version> "1-0-0" .
+<https://doi.org/10.6069/uwlswd.4ehm-fa55#z> <http://www.w3.org/2004/02/skos/core#prefLabel> "other"@en .
+<https://doi.org/10.6069/uwlswd.4ehm-fa55#d> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4ehm-fa55> .
+<https://doi.org/10.6069/uwlswd.4ehm-fa55#e> <http://www.w3.org/2004/02/skos/core#notation> "e" .
+<https://doi.org/10.6069/uwlswd.4ehm-fa55#u> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4ehm-fa55> .
+<https://doi.org/10.6069/uwlswd.4ehm-fa55#d> <http://www.w3.org/2004/02/skos/core#notation> "d" .
+<https://doi.org/10.6069/uwlswd.4ehm-fa55> <http://purl.org/dc/terms/issued> "2024" .
+<https://doi.org/10.6069/uwlswd.4ehm-fa55> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/motion_picture_generation/motion_picture_generation.ttl> .
+<https://doi.org/10.6069/uwlswd.4ehm-fa55> <https://schema.org/disambiguatingDescription> "SKOS Concept Scheme for MARC 00X\n         Values"@en .
+<https://doi.org/10.6069/uwlswd.4ehm-fa55> <http://purl.org/dc/terms/format> <http://www.w3.org/ns/formats/N-Triples> .
+<https://doi.org/10.6069/uwlswd.4ehm-fa55> <http://purl.org/dc/elements/1.1/contributor> "Metadata Management Associates"@en .
+<https://doi.org/10.6069/uwlswd.4ehm-fa55#r> <http://www.w3.org/2004/02/skos/core#definition> "Reference print (ref print) that is defined technically as a\n         release print which has been approved by the producer and director of a film. A reference\n         print may also mean a print kept as a reference print to evaluate the quality of subsequent\n         prints. In film archives, the term is used to indicate that a film may be viewed by\n         researchers."@en .
+<https://doi.org/10.6069/uwlswd.4ehm-fa55#d> <http://www.w3.org/2004/02/skos/core#definition> "Duplicate that is usually negative, referred to as a dupe neg,\n         and is a reproduction of the original picture or sound track. A duplicate negative is made\n         from a master positive, which in turn was made from an earlier negative."@en .
+<https://doi.org/10.6069/uwlswd.4ehm-fa55#u> <http://www.w3.org/2004/02/skos/core#prefLabel> "unknown"@en .
+<https://doi.org/10.6069/uwlswd.4ehm-fa55> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<https://doi.org/10.6069/uwlswd.4ehm-fa55#r> <http://www.w3.org/2004/02/skos/core#notation> "r" .
+<https://doi.org/10.6069/uwlswd.4ehm-fa55> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/motion_picture_generation/motion_picture_generation.html> .
+<https://doi.org/10.6069/uwlswd.4ehm-fa55#e> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4ehm-fa55> .
+<https://doi.org/10.6069/uwlswd.4ehm-fa55#e> <http://www.w3.org/2004/02/skos/core#prefLabel> "master"@en .
+<https://doi.org/10.6069/uwlswd.4ehm-fa55#u> <http://www.w3.org/2004/02/skos/core#notation> "u" .
+<https://doi.org/10.6069/uwlswd.4ehm-fa55> <http://purl.org/dc/terms/type> <http://purl.org/dc/dcmitype/Dataset> .
+<https://doi.org/10.6069/uwlswd.4ehm-fa55#z> <http://www.w3.org/2004/02/skos/core#notation> "z" .
+<https://doi.org/10.6069/uwlswd.4ehm-fa55> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/motion_picture_generation/motion_picture_generation.rdf> .

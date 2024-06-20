@@ -1,0 +1,101 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix schema: <https://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://doi.org/10.6069/uwlswd.0xj7-fz15##> a skos:Concept ;
+    skos:definition """Item consists of fewer than two specified classes of braille
+         writing."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.0xj7-fz15> ;
+    skos:notation "#" ;
+    skos:prefLabel "no specified class of braille writing"@en .
+
+<https://doi.org/10.6069/uwlswd.0xj7-fz15#a> a skos:Concept ;
+    skos:definition """Braille representation for the alphabet, numbers, and
+         punctuation marks commonly used in general writing."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.0xj7-fz15> ;
+    skos:notation "a" ;
+    skos:prefLabel "literary braille"@en .
+
+<https://doi.org/10.6069/uwlswd.0xj7-fz15#b> a skos:Concept ;
+    skos:definition """Braille formatting rules for textbooks and related
+         materials."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.0xj7-fz15> ;
+    skos:notation "b" ;
+    skos:prefLabel "format code braille"@en .
+
+<https://doi.org/10.6069/uwlswd.0xj7-fz15#c> a skos:Concept ;
+    skos:definition """Braille representations for symbols employed in mathematics and
+         scientific writing."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.0xj7-fz15> ;
+    skos:notation "c" ;
+    skos:prefLabel "mathematics and scientific braille"@en .
+
+<https://doi.org/10.6069/uwlswd.0xj7-fz15#d> a skos:Concept ;
+    skos:definition """Braille representations for symbols used in computer programs,
+         texts, and other computer related materials."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.0xj7-fz15> ;
+    skos:notation "d" ;
+    skos:prefLabel "computer braille"@en .
+
+<https://doi.org/10.6069/uwlswd.0xj7-fz15#e> a skos:Concept ;
+    skos:definition """Braille representations for symbols used in notated
+         music."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.0xj7-fz15> ;
+    skos:notation "e" ;
+    skos:prefLabel "music braille"@en .
+
+<https://doi.org/10.6069/uwlswd.0xj7-fz15#m> a skos:Concept ;
+    skos:definition """Multiple braille types exist and no one type
+         predominates."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.0xj7-fz15> ;
+    skos:notation "m" ;
+    skos:prefLabel "multiple braille types"@en .
+
+<https://doi.org/10.6069/uwlswd.0xj7-fz15#n> a skos:Concept ;
+    skos:definition "Item is not braille."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.0xj7-fz15> ;
+    skos:notation "n" ;
+    skos:prefLabel "not applicable"@en .
+
+<https://doi.org/10.6069/uwlswd.0xj7-fz15#u> a skos:Concept ;
+    skos:definition "Class of braille writing is not known."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.0xj7-fz15> ;
+    skos:notation "u" ;
+    skos:prefLabel "unknown"@en .
+
+<https://doi.org/10.6069/uwlswd.0xj7-fz15#z> a skos:Concept ;
+    skos:definition """Class of braille writing other than no specified class of
+         braille writing, literary braille, format code braille, mathematics and scientific braille,
+         computer braille, music braille, or multiple braille types."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.0xj7-fz15> ;
+    skos:notation "z" ;
+    skos:prefLabel "other"@en .
+
+<https://doi.org/10.6069/uwlswd.0xj7-fz15> a skos:ConceptScheme ;
+    dc:contributor "Metadata Management Associates"@en ;
+    dc:language "en" ;
+    dct:alternative """MARC21 007/03-04 values for tactile material expressed using
+         RDF"""@en ;
+    dct:contributor <http://viaf.org/viaf/151962300> ;
+    dct:creator <http://viaf.org/viaf/139541794> ;
+    dct:description """Family of braille to which the item belongs. This is not the
+         particular braille code, but the type of braille code used, representing different types of
+         written symbols."""@en ;
+    dct:format <http://www.w3.org/ns/formats/Turtle> ;
+    dct:hasFormat <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/tactile_material_class_of_braille_writing/tactile_material_class_of_braille_writing.html>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/tactile_material_class_of_braille_writing/tactile_material_class_of_braille_writing.jsonld>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/tactile_material_class_of_braille_writing/tactile_material_class_of_braille_writing.nt>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/tactile_material_class_of_braille_writing/tactile_material_class_of_braille_writing.rdf> ;
+    dct:issued "2024" ;
+    dct:license <http://creativecommons.org/publicdomain/zero/1.0> ;
+    dct:provenance <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> ;
+    dct:publisher <http://viaf.org/viaf/139541794> ;
+    dct:source <http://marc21rdf.info>,
+        <https://www.loc.gov/marc/bibliographic/bd007.html> ;
+    dct:title "Tactile material: class of braille writing"@en ;
+    dct:type <http://purl.org/dc/dcmitype/Dataset> ;
+    schema:disambiguatingDescription """SKOS Concept Scheme for MARC 00X
+         Values"""@en ;
+    schema:version "1-0-0" .
+

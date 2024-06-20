@@ -1,0 +1,56 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix schema: <https://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://doi.org/10.6069/uwlswd.3x83-se08#f> a skos:Concept ;
+    skos:definition """Facsimile which resembles the original in all aspects possible,
+         but it is not the original."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.3x83-se08> ;
+    skos:notation "f" ;
+    skos:prefLabel "facsimile"@en .
+
+<https://doi.org/10.6069/uwlswd.3x83-se08#n> a skos:Concept ;
+    skos:definition "Not a reproduction."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.3x83-se08> ;
+    skos:notation "n" ;
+    skos:prefLabel "not applicable"@en .
+
+<https://doi.org/10.6069/uwlswd.3x83-se08#u> a skos:Concept ;
+    skos:definition "Type of reproduction is not known."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.3x83-se08> ;
+    skos:notation "u" ;
+    skos:prefLabel "unknown"@en .
+
+<https://doi.org/10.6069/uwlswd.3x83-se08#z> a skos:Concept ;
+    skos:definition "Type of reproduction other than facsimile."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.3x83-se08> ;
+    skos:notation "z" ;
+    skos:prefLabel "other"@en .
+
+<https://doi.org/10.6069/uwlswd.3x83-se08> a skos:ConceptScheme ;
+    dc:contributor "Metadata Management Associates"@en ;
+    dc:language "en" ;
+    dct:alternative """MARC21 007/05 values for globes expressed using
+         RDF"""@en ;
+    dct:contributor <http://viaf.org/viaf/151962300> ;
+    dct:creator <http://viaf.org/viaf/139541794> ;
+    dct:description """Whether the globe is a facsimile or other type of
+         reproduction."""@en ;
+    dct:format <http://www.w3.org/ns/formats/Turtle> ;
+    dct:hasFormat <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/globe_type_of_reproduction/globe_type_of_reproduction.html>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/globe_type_of_reproduction/globe_type_of_reproduction.jsonld>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/globe_type_of_reproduction/globe_type_of_reproduction.nt>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/globe_type_of_reproduction/globe_type_of_reproduction.rdf> ;
+    dct:issued "2024" ;
+    dct:license <http://creativecommons.org/publicdomain/zero/1.0> ;
+    dct:provenance <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> ;
+    dct:publisher <http://viaf.org/viaf/139541794> ;
+    dct:source <http://marc21rdf.info>,
+        <https://www.loc.gov/marc/bibliographic/bd007.html> ;
+    dct:title "Globe: type of reproduction"@en ;
+    dct:type <http://purl.org/dc/dcmitype/Dataset> ;
+    schema:disambiguatingDescription """SKOS Concept Scheme for MARC 00X
+         Values"""@en ;
+    schema:version "1-0-0" .
+

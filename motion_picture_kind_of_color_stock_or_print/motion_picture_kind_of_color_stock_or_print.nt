@@ -1,0 +1,60 @@
+<https://doi.org/10.6069/uwlswd.6h5g-mr73#n> <http://www.w3.org/2004/02/skos/core#prefLabel> "not applicable"@en .
+<https://doi.org/10.6069/uwlswd.6h5g-mr73#b> <http://www.w3.org/2004/02/skos/core#prefLabel> "three layer stock"@en .
+<https://doi.org/10.6069/uwlswd.6h5g-mr73#a> <http://www.w3.org/2004/02/skos/core#scopeNote> "The process was used only by the Technicolor Company from ca.\n         1928 to ca. 1975. The patents were sold to the People's Republic of China, and since ca.\n         1980, the process has been available only in China."@en .
+<https://doi.org/10.6069/uwlswd.6h5g-mr73> <http://purl.org/dc/elements/1.1/language> "en" .
+<https://doi.org/10.6069/uwlswd.6h5g-mr73> <http://purl.org/dc/terms/title> "Motion picture: kind of color stock or print"@en .
+<https://doi.org/10.6069/uwlswd.6h5g-mr73> <http://purl.org/dc/elements/1.1/contributor> "Metadata Management Associates"@en .
+<https://doi.org/10.6069/uwlswd.6h5g-mr73#c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.6h5g-mr73> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/motion_picture_kind_of_color_stock_or_print/motion_picture_kind_of_color_stock_or_print.html> .
+<https://doi.org/10.6069/uwlswd.6h5g-mr73> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/motion_picture_kind_of_color_stock_or_print/motion_picture_kind_of_color_stock_or_print.rdf> .
+<https://doi.org/10.6069/uwlswd.6h5g-mr73#a> <http://www.w3.org/2004/02/skos/core#prefLabel> "imbibition dye transfer prints"@en .
+<https://doi.org/10.6069/uwlswd.6h5g-mr73#a> <http://www.w3.org/2004/02/skos/core#notation> "a" .
+<https://doi.org/10.6069/uwlswd.6h5g-mr73> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<https://doi.org/10.6069/uwlswd.6h5g-mr73> <http://purl.org/dc/terms/source> <https://www.loc.gov/marc/bibliographic/bd007.html> .
+<https://doi.org/10.6069/uwlswd.6h5g-mr73> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/motion_picture_kind_of_color_stock_or_print/motion_picture_kind_of_color_stock_or_print.jsonld> .
+<https://doi.org/10.6069/uwlswd.6h5g-mr73> <http://purl.org/dc/terms/type> <http://purl.org/dc/dcmitype/Dataset> .
+<https://doi.org/10.6069/uwlswd.6h5g-mr73#u> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.6h5g-mr73#a> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.6h5g-mr73> .
+<https://doi.org/10.6069/uwlswd.6h5g-mr73#n> <http://www.w3.org/2004/02/skos/core#definition> "Item is not a color film."@en .
+<https://doi.org/10.6069/uwlswd.6h5g-mr73#d> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.6h5g-mr73> .
+<https://doi.org/10.6069/uwlswd.6h5g-mr73#n> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.6h5g-mr73> .
+<https://doi.org/10.6069/uwlswd.6h5g-mr73#b> <http://www.w3.org/2004/02/skos/core#definition> "Color film stock with three layers of emulsion: cyan, magenta\n         and yellow. Each layer is sensitive to its own primary color."@en .
+<https://doi.org/10.6069/uwlswd.6h5g-mr73> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/zero/1.0> .
+<https://doi.org/10.6069/uwlswd.6h5g-mr73#u> <http://www.w3.org/2004/02/skos/core#prefLabel> "unknown"@en .
+<https://doi.org/10.6069/uwlswd.6h5g-mr73> <http://purl.org/dc/terms/publisher> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.6h5g-mr73#a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.6h5g-mr73#c> <http://www.w3.org/2004/02/skos/core#prefLabel> "three layer stock, low fade"@en .
+<https://doi.org/10.6069/uwlswd.6h5g-mr73#c> <http://www.w3.org/2004/02/skos/core#definition> "Color film stock with three layers of emulsion: cyan, magenta\n         and yellow. Each layer is sensitive to its own primary color and stabilized to reduce color\n         fading as much as possible."@en .
+<https://doi.org/10.6069/uwlswd.6h5g-mr73> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/motion_picture_kind_of_color_stock_or_print/motion_picture_kind_of_color_stock_or_print.ttl> .
+<https://doi.org/10.6069/uwlswd.6h5g-mr73#b> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.6h5g-mr73> .
+<https://doi.org/10.6069/uwlswd.6h5g-mr73> <http://purl.org/dc/terms/creator> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.6h5g-mr73#d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.6h5g-mr73#n> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.6h5g-mr73#b> <http://www.w3.org/2004/02/skos/core#scopeNote> "Since the early 1950s, most color films have been both shot and\n         printed on this stock. It is also called multilayer film stock."@en .
+<https://doi.org/10.6069/uwlswd.6h5g-mr73#u> <http://www.w3.org/2004/02/skos/core#definition> "Type of color film stock is not known."@en .
+<https://doi.org/10.6069/uwlswd.6h5g-mr73#z> <http://www.w3.org/2004/02/skos/core#prefLabel> "other"@en .
+<https://doi.org/10.6069/uwlswd.6h5g-mr73#u> <http://www.w3.org/2004/02/skos/core#notation> "u" .
+<https://doi.org/10.6069/uwlswd.6h5g-mr73> <http://purl.org/dc/terms/provenance> <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> .
+<https://doi.org/10.6069/uwlswd.6h5g-mr73> <http://purl.org/dc/terms/format> <http://www.w3.org/ns/formats/N-Triples> .
+<https://doi.org/10.6069/uwlswd.6h5g-mr73#z> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.6h5g-mr73> .
+<https://doi.org/10.6069/uwlswd.6h5g-mr73#c> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.6h5g-mr73> .
+<https://doi.org/10.6069/uwlswd.6h5g-mr73#d> <http://www.w3.org/2004/02/skos/core#definition> "Color print stock with emulsion on both sides. Usually one side\n         is dyed red, and the other side is dyed or toned blue."@en .
+<https://doi.org/10.6069/uwlswd.6h5g-mr73#c> <http://www.w3.org/2004/02/skos/core#notation> "c" .
+<https://doi.org/10.6069/uwlswd.6h5g-mr73#a> <http://www.w3.org/2004/02/skos/core#definition> "Film color prints created by the transfer of two or more\n         differently colored dye images to a single strip of blank film. The dye transfer process\n         was used only to produce prints. Imbibition dye transfer prints can be produced from film\n         originally shot on either multi-strip or multi-layer film."@en .
+<https://doi.org/10.6069/uwlswd.6h5g-mr73> <http://purl.org/dc/terms/description> "Type of color film stock or color print the item\n         represents."@en .
+<https://doi.org/10.6069/uwlswd.6h5g-mr73> <http://purl.org/dc/terms/contributor> <http://viaf.org/viaf/151962300> .
+<https://doi.org/10.6069/uwlswd.6h5g-mr73#d> <http://www.w3.org/2004/02/skos/core#notation> "d" .
+<https://doi.org/10.6069/uwlswd.6h5g-mr73#z> <http://www.w3.org/2004/02/skos/core#notation> "z" .
+<https://doi.org/10.6069/uwlswd.6h5g-mr73> <http://purl.org/dc/terms/alternative> "MARC21 007/14 values for motion pictures expressed using\n         RDF"@en .
+<https://doi.org/10.6069/uwlswd.6h5g-mr73#n> <http://www.w3.org/2004/02/skos/core#notation> "n" .
+<https://doi.org/10.6069/uwlswd.6h5g-mr73> <http://purl.org/dc/terms/issued> "2024" .
+<https://doi.org/10.6069/uwlswd.6h5g-mr73> <https://schema.org/version> "1-0-0" .
+<https://doi.org/10.6069/uwlswd.6h5g-mr73#c> <http://www.w3.org/2004/02/skos/core#scopeNote> "It has been available since ca. 1983."@en .
+<https://doi.org/10.6069/uwlswd.6h5g-mr73#u> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.6h5g-mr73> .
+<https://doi.org/10.6069/uwlswd.6h5g-mr73> <https://schema.org/disambiguatingDescription> "SKOS Concept Scheme for MARC 00X\n         Values"@en .
+<https://doi.org/10.6069/uwlswd.6h5g-mr73#b> <http://www.w3.org/2004/02/skos/core#notation> "b" .
+<https://doi.org/10.6069/uwlswd.6h5g-mr73> <http://purl.org/dc/terms/source> <http://marc21rdf.info> .
+<https://doi.org/10.6069/uwlswd.6h5g-mr73#d> <http://www.w3.org/2004/02/skos/core#prefLabel> "duplitized stock"@en .
+<https://doi.org/10.6069/uwlswd.6h5g-mr73#z> <http://www.w3.org/2004/02/skos/core#definition> "Kind of color stock or print other than imbibition dye transfer\n         prints, three layer stock, three layer stock, low fade, or duplitized\n         stock."@en .
+<https://doi.org/10.6069/uwlswd.6h5g-mr73#z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.6h5g-mr73#b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .

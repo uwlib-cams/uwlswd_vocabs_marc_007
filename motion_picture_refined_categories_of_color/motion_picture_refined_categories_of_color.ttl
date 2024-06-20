@@ -1,0 +1,247 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix schema: <https://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://doi.org/10.6069/uwlswd.gdvf-z086#a> a skos:Concept ;
+    skos:definition """Three layers of emulsion: cyan, magenta, and yellow. Each layer
+         is sensitive to its own primary color."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.gdvf-z086> ;
+    skos:notation "a" ;
+    skos:prefLabel "3 layer color"@en ;
+    skos:scopeNote """Beginning in the early 1950s, color film work has been done
+         primarily on 3 layer, also called multilayer, film. This process is also known as integral
+         tri-pack."""@en .
+
+<https://doi.org/10.6069/uwlswd.gdvf-z086#b> a skos:Concept ;
+    skos:definition """Single strip of film was exposed with pairs of images by means
+         of a beam-splitter prism. One of the pairs of images was exposed through a red filter and
+         one through a green filter. The resulting negative was used to produce both prints
+         consisting of two strips cemented together, and, later in the history of the process, two
+         color dye transfer prints."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.gdvf-z086> ;
+    skos:notation "b" ;
+    skos:prefLabel "2 color, single strip"@en ;
+    skos:scopeNote """Also known as red and green Technicolor, the process was used
+         exclusively by Technicolor and had its heyday between 1922 and 1933, although it was used
+         until 1936 for animated cartoons."""@en .
+
+<https://doi.org/10.6069/uwlswd.gdvf-z086#c> a skos:Concept ;
+    skos:definition """System of color reproduction, which cannot be specifically
+         identified, in which the visible spectrum is divided either into blue and red regions or
+         into green and red regions for recording and presentation."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.gdvf-z086> ;
+    skos:notation "c" ;
+    skos:prefLabel "undetermined 2 color"@en ;
+    skos:scopeNote """Although extensively used in early color film processes, the
+         inherent inability of two components to reproduce a satisfactory range of hues rendered all
+         such systems obsolete when three-color processes became readily available and relatively
+         inexpensive."""@en .
+
+<https://doi.org/10.6069/uwlswd.gdvf-z086#d> a skos:Concept ;
+    skos:definition """System of color reproduction, which cannot be specifically
+         identified, in which the visible spectrum is divided into three sections, normally red,
+         green, and blue, for the purposes of recording and presentation."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.gdvf-z086> ;
+    skos:notation "d" ;
+    skos:prefLabel "undetermined 3 color"@en .
+
+<https://doi.org/10.6069/uwlswd.gdvf-z086#e> a skos:Concept ;
+    skos:definition """Color system in which three color-separation negatives were
+         produced on black-and-white film."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.gdvf-z086> ;
+    skos:notation "e" ;
+    skos:prefLabel "3 strip color"@en ;
+    skos:scopeNote """3 strip color is often used synonymously with the trademark
+         Technicolor. In the Technicolor three-component system, light reflected from the subject
+         matter is transmitted through the single lens of a special camera where it strikes a prism.
+         One part of the light is passed through the prism and a green filter to produce a green
+         record. The remainder of the light is reflected from the prism and absorbed by negatives to
+         produce red and blue records. Each of the negatives is developed to produce new negatives
+         which resemble black-and-white negatives."""@en .
+
+<https://doi.org/10.6069/uwlswd.gdvf-z086#f> a skos:Concept ;
+    skos:definition """Color system in which two strips of film, one to record red
+         light and one to record blue, were run through the camera simultaneously and exposed
+         through the base of the front piece of film. These two strips of negatives were then used
+         to produce prints of duplitized film stock (film stock with emulsion on both sides of the
+         base), with a red-dyed image on one side, and a blue-dyed or -toned image on the
+         other."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.gdvf-z086> ;
+    skos:notation "f" ;
+    skos:prefLabel "2 strip color"@en ;
+    skos:scopeNote """Although extensively used in early color film processes, the
+         inherent inability of two components to reproduce the visible color spectrum rendered all
+         such systems obsolete when three-color processes became readily available. The process used
+         from about 1929 to about 1950 by, among others, the following companies: Cinecolor,
+         Magnacolor, and Multicolor."""@en .
+
+<https://doi.org/10.6069/uwlswd.gdvf-z086#g> a skos:Concept ;
+    skos:definition """Cinecolor process, in which the color separation record of
+         blue-green light prints as red. In the Super Cinecolor process, the color separation record
+         of green light which prints as magenta (called "red" by Cinecolor). In the two-color
+         Technicolor process, the color separation record of green light which prints as
+         red."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.gdvf-z086> ;
+    skos:notation "g" ;
+    skos:prefLabel "red strip"@en .
+
+<https://doi.org/10.6069/uwlswd.gdvf-z086#h> a skos:Concept ;
+    skos:definition """Cinecolor process and the Super Cinecolor process, in which the
+         blue strip is the color separation record of red light which prints as blue-green (called
+         "blue" by Cinecolor). In the two-color Technicolor process, the green strip is the color
+         separation record of magenta-red light which prints as green."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.gdvf-z086> ;
+    skos:notation "h" ;
+    skos:prefLabel "blue or green strip"@en .
+
+<https://doi.org/10.6069/uwlswd.gdvf-z086#i> a skos:Concept ;
+    skos:definition """Color separation record of red light which prints as
+         cyan."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.gdvf-z086> ;
+    skos:notation "i" ;
+    skos:prefLabel "cyan strip"@en .
+
+<https://doi.org/10.6069/uwlswd.gdvf-z086#j> a skos:Concept ;
+    skos:definition """Color separation record of green light which prints as
+         magenta."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.gdvf-z086> ;
+    skos:notation "j" ;
+    skos:prefLabel "magenta strip"@en .
+
+<https://doi.org/10.6069/uwlswd.gdvf-z086#k> a skos:Concept ;
+    skos:definition """Color separation record of blue light which prints as
+         yellow."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.gdvf-z086> ;
+    skos:notation "k" ;
+    skos:prefLabel "yellow strip"@en .
+
+<https://doi.org/10.6069/uwlswd.gdvf-z086#l> a skos:Concept ;
+    skos:definition """Successive exposure negative 2. S E N 2 is a method of motion
+         picture color photography in which two color separation negative images were recorded on
+         one strip of film by photographing each frame two times successively through red and blue
+         filters. The resultant negative was subsequently optically printed by the use of a
+         skip-frame mechanism."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.gdvf-z086> ;
+    skos:notation "l" ;
+    skos:prefLabel "S E N 2"@en ;
+    skos:scopeNote """The process was restricted to the photography of animated
+         cartoon and puppet subjects in which the movement from frame to frame could be controlled.
+         The successive exposure process was rendered obsolete by the introduction of 3 layer
+         (multilayer) color negative film."""@en .
+
+<https://doi.org/10.6069/uwlswd.gdvf-z086#m> a skos:Concept ;
+    skos:definition """Successive exposure negative 3. S E N 3 is a method of motion
+         picture color photography in which three color separation negative images were recorded on
+         one strip of film by photographing each frame three times successively through red, blue,
+         and green filters. The resultant negative was subsequently optically printed by the use of
+         a skip-frame mechanism."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.gdvf-z086> ;
+    skos:notation "m" ;
+    skos:prefLabel "S E N 3"@en ;
+    skos:scopeNote """The process was usually restricted to the photography of
+         animated cartoon and puppet subjects in which the movement from frame to frame could be
+         controlled. The successive exposure process was rarely used after the introduction of 3
+         layer (multilayer) color negative film."""@en .
+
+<https://doi.org/10.6069/uwlswd.gdvf-z086#n> a skos:Concept ;
+    skos:definition "Item is not a color film."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.gdvf-z086> ;
+    skos:notation "n" ;
+    skos:prefLabel "not applicable"@en .
+
+<https://doi.org/10.6069/uwlswd.gdvf-z086#p> a skos:Concept ;
+    skos:definition """A conversion of a black-and-white image in silver to sepia (a
+         brownish grey to dark olive brown) by metallic compounds."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.gdvf-z086> ;
+    skos:notation "p" ;
+    skos:prefLabel "sepia tone"@en ;
+    skos:scopeNote """Sepia was the most common tone used, and was used in
+         black-and-white prints of films for special sequences to enhance the dramatic or pictorial
+         effect."""@en .
+
+<https://doi.org/10.6069/uwlswd.gdvf-z086#q> a skos:Concept ;
+    skos:definition """Color created by chemically altering the color, for example,
+         uranium produces red, or increasing the brilliance of a print. Toning differs from tinting
+         in that the clear portions of the film remain unaffected. Only the silver image of the
+         positive film becomes colored."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.gdvf-z086> ;
+    skos:notation "q" ;
+    skos:prefLabel "other tone"@en .
+
+<https://doi.org/10.6069/uwlswd.gdvf-z086#r> a skos:Concept ;
+    skos:definition """Early in the history of tinting, a tint was created by dipping
+         film in a bath of chemical dyes to get a dominant hue. Later raw stock became available
+         already tinted in eleven stock shades: peach blow, blue for moonlight, amber for firelight,
+         etc."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.gdvf-z086> ;
+    skos:notation "r" ;
+    skos:prefLabel "tint"@en ;
+    skos:scopeNote """The tinting of a film may be in whole or in part. Tinting was
+         common until the advent of sound."""@en .
+
+<https://doi.org/10.6069/uwlswd.gdvf-z086#s> a skos:Concept ;
+    skos:definition """Color has been added to a film by using a tinted base and a
+         toned emulsion."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.gdvf-z086> ;
+    skos:notation "s" ;
+    skos:prefLabel "tinted and toned"@en .
+
+<https://doi.org/10.6069/uwlswd.gdvf-z086#t> a skos:Concept ;
+    skos:definition """Color is added using stencils, one cut for each
+         color."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.gdvf-z086> ;
+    skos:notation "t" ;
+    skos:prefLabel "stencil color"@en ;
+    skos:scopeNote """Stencil color replaced the hand-coloring used in earlier
+         years."""@en .
+
+<https://doi.org/10.6069/uwlswd.gdvf-z086#u> a skos:Concept ;
+    skos:definition "Refined category of color is not known."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.gdvf-z086> ;
+    skos:notation "u" ;
+    skos:prefLabel "unknown"@en .
+
+<https://doi.org/10.6069/uwlswd.gdvf-z086#v> a skos:Concept ;
+    skos:definition """Image, produced by a photographic process, is hand
+         colored."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.gdvf-z086> ;
+    skos:notation "v" ;
+    skos:prefLabel "hand colored"@en .
+
+<https://doi.org/10.6069/uwlswd.gdvf-z086#z> a skos:Concept ;
+    skos:definition """Refined categories of color other than 3 layer color, 2 color
+         single strip, undetermined 2 color, undetermined 3 color, 3 strip color 2 strip color, red
+         strip, blue or green strip, cyan strip, magenta strip, yellow strip, S E N 2, S E N 3,
+         sepia tone, other tone, tint, tinted and toned, stencil color, or hand
+         colored."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.gdvf-z086> ;
+    skos:notation "z" ;
+    skos:prefLabel "other"@en .
+
+<https://doi.org/10.6069/uwlswd.gdvf-z086> a skos:ConceptScheme ;
+    dc:contributor "Metadata Management Associates"@en ;
+    dc:language "en" ;
+    dct:alternative """MARC21 007/13 values for motion pictures expressed using
+         RDF"""@en ;
+    dct:contributor <http://viaf.org/viaf/151962300> ;
+    dct:creator <http://viaf.org/viaf/139541794> ;
+    dct:description """Specific color characteristics of the moving
+         image."""@en ;
+    dct:format <http://www.w3.org/ns/formats/Turtle> ;
+    dct:hasFormat <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/motion_picture_refined_categories_of_color/motion_picture_refined_categories_of_color.html>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/motion_picture_refined_categories_of_color/motion_picture_refined_categories_of_color.jsonld>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/motion_picture_refined_categories_of_color/motion_picture_refined_categories_of_color.nt>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/motion_picture_refined_categories_of_color/motion_picture_refined_categories_of_color.rdf> ;
+    dct:issued "2024" ;
+    dct:license <http://creativecommons.org/publicdomain/zero/1.0> ;
+    dct:provenance <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> ;
+    dct:publisher <http://viaf.org/viaf/139541794> ;
+    dct:source <http://marc21rdf.info>,
+        <https://www.loc.gov/marc/bibliographic/bd007.html> ;
+    dct:title "Motion picture: refined categories of color"@en ;
+    dct:type <http://purl.org/dc/dcmitype/Dataset> ;
+    schema:disambiguatingDescription """SKOS Concept Scheme for MARC 00X
+         Values"""@en ;
+    schema:version "1-0-0" .
+

@@ -1,0 +1,302 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix schema: <https://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#aa> a skos:Concept ;
+    skos:definition "Visible light."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.ftkp-4k39> ;
+    skos:notation "aa" ;
+    skos:prefLabel "visible light"@en .
+
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#da> a skos:Concept ;
+    skos:definition "Near infrared."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.ftkp-4k39> ;
+    skos:notation "da" ;
+    skos:prefLabel "near infrared"@en .
+
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#db> a skos:Concept ;
+    skos:definition "Middle infrared."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.ftkp-4k39> ;
+    skos:notation "db" ;
+    skos:prefLabel "middle infrared"@en .
+
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#dc> a skos:Concept ;
+    skos:definition "Far infrared."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.ftkp-4k39> ;
+    skos:notation "dc" ;
+    skos:prefLabel "far infrared"@en .
+
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#dd> a skos:Concept ;
+    skos:definition "Thermal infrared."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.ftkp-4k39> ;
+    skos:notation "dd" ;
+    skos:prefLabel "thermal infrared"@en .
+
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#de> a skos:Concept ;
+    skos:definition "Shortwave infrared (SWIR)."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.ftkp-4k39> ;
+    skos:notation "de" ;
+    skos:prefLabel "shortwave infrared (SWIR)"@en .
+
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#df> a skos:Concept ;
+    skos:definition "Reflective infrared."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.ftkp-4k39> ;
+    skos:notation "df" ;
+    skos:prefLabel "reflective infrared"@en .
+
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#dv> a skos:Concept ;
+    skos:definition "Combinations."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.ftkp-4k39> ;
+    skos:notation "dv" ;
+    skos:prefLabel "combinations"@en .
+
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#dz> a skos:Concept ;
+    skos:definition "Other infrared data."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.ftkp-4k39> ;
+    skos:notation "dz" ;
+    skos:prefLabel "other infrared data"@en .
+
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#ga> a skos:Concept ;
+    skos:definition "Sidelooking airborne radar (SLAR)."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.ftkp-4k39> ;
+    skos:notation "ga" ;
+    skos:prefLabel "sidelooking airborne radar (SLAR)"@en .
+
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#gb> a skos:Concept ;
+    skos:definition """Synthetic aperture radar (SAR)-Single
+         frequency."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.ftkp-4k39> ;
+    skos:notation "gb" ;
+    skos:prefLabel "synthetic aperture radar (SAR)-Single frequency"@en .
+
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#gc> a skos:Concept ;
+    skos:definition "SAR-multi-frequency (multichannel)."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.ftkp-4k39> ;
+    skos:notation "gc" ;
+    skos:prefLabel "SAR-multi-frequency (multichannel)"@en .
+
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#gd> a skos:Concept ;
+    skos:definition "SAR-like polarization."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.ftkp-4k39> ;
+    skos:notation "gd" ;
+    skos:prefLabel "SAR-like polarization"@en .
+
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#ge> a skos:Concept ;
+    skos:definition "SAR-cross polarization."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.ftkp-4k39> ;
+    skos:notation "ge" ;
+    skos:prefLabel "SAR-cross polarization"@en .
+
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#gf> a skos:Concept ;
+    skos:definition "Infometric SAR."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.ftkp-4k39> ;
+    skos:notation "gf" ;
+    skos:prefLabel "infometric SAR"@en .
+
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#gg> a skos:Concept ;
+    skos:definition "Polarmetric SAR."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.ftkp-4k39> ;
+    skos:notation "gg" ;
+    skos:prefLabel "polarmetric SAR"@en .
+
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#gu> a skos:Concept ;
+    skos:definition "Passive microwave mapping."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.ftkp-4k39> ;
+    skos:notation "gu" ;
+    skos:prefLabel "passive microwave mapping"@en .
+
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#gz> a skos:Concept ;
+    skos:definition "Other microwave data."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.ftkp-4k39> ;
+    skos:notation "gz" ;
+    skos:prefLabel "other microwave data"@en .
+
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#ja> a skos:Concept ;
+    skos:definition "Far ultraviolet."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.ftkp-4k39> ;
+    skos:notation "ja" ;
+    skos:prefLabel "far ultraviolet"@en .
+
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#jb> a skos:Concept ;
+    skos:definition "Middle ultraviolet."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.ftkp-4k39> ;
+    skos:notation "jb" ;
+    skos:prefLabel "middle ultraviolet"@en .
+
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#jc> a skos:Concept ;
+    skos:definition "Near ultraviolet."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.ftkp-4k39> ;
+    skos:notation "jc" ;
+    skos:prefLabel "near ultraviolet"@en .
+
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#jv> a skos:Concept ;
+    skos:definition "Ultraviolet combinations."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.ftkp-4k39> ;
+    skos:notation "jv" ;
+    skos:prefLabel "ultraviolet combinations"@en .
+
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#jz> a skos:Concept ;
+    skos:definition "Other ultraviolet data."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.ftkp-4k39> ;
+    skos:notation "jz" ;
+    skos:prefLabel "other ultraviolet data"@en .
+
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#ma> a skos:Concept ;
+    skos:definition "Multi-spectral, multidata."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.ftkp-4k39> ;
+    skos:notation "ma" ;
+    skos:prefLabel "multi-spectral, multidata"@en .
+
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#mb> a skos:Concept ;
+    skos:definition "Multi-temporal."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.ftkp-4k39> ;
+    skos:notation "mb" ;
+    skos:prefLabel "multi-temporal"@en .
+
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#mm> a skos:Concept ;
+    skos:definition """More than one data type is applicable to the remote-sensing
+         image."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.ftkp-4k39> ;
+    skos:notation "mm" ;
+    skos:prefLabel "combination of various data types"@en .
+
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#nn> a skos:Concept ;
+    skos:definition """Data type is not applicable to the remote-sensing image being
+         described."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.ftkp-4k39> ;
+    skos:notation "nn" ;
+    skos:prefLabel "not applicable"@en .
+
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#pa> a skos:Concept ;
+    skos:definition """Acoustical data type for the remote-sensing image for water
+         depth is sonar."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.ftkp-4k39> ;
+    skos:notation "pa" ;
+    skos:prefLabel "sonar - water depth"@en ;
+    skos:scopeNote "Used for echo-sounding images."@en .
+
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#pb> a skos:Concept ;
+    skos:definition """Acoustical data type for the remote-sensing image is sidescan
+         imaging."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.ftkp-4k39> ;
+    skos:notation "pb" ;
+    skos:prefLabel "sonar - bottom topography images, sidescan"@en ;
+    skos:scopeNote """Includes both near-surface and near-bottom sensing
+         data."""@en .
+
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#pc> a skos:Concept ;
+    skos:definition """Acoustical data type for the remote-sensing image is
+         near-surface."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.ftkp-4k39> ;
+    skos:notation "pc" ;
+    skos:prefLabel "sonar - bottom topography, near surface"@en .
+
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#pd> a skos:Concept ;
+    skos:definition """Acoustical data type for the remote-sensing image is
+         near-bottom (i.e., taken from 10-150 m. (33-494 ft.) from the bottom)."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.ftkp-4k39> ;
+    skos:notation "pd" ;
+    skos:prefLabel "sonar - bottom topography, near bottom"@en .
+
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#pe> a skos:Concept ;
+    skos:definition "Seismic surveys"@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.ftkp-4k39> ;
+    skos:notation "pe" ;
+    skos:prefLabel "seismic surveys"@en .
+
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#pz> a skos:Concept ;
+    skos:definition "Other acoustical data"@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.ftkp-4k39> ;
+    skos:notation "pz" ;
+    skos:prefLabel "other acoustical data"@en .
+
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#ra> a skos:Concept ;
+    skos:definition "Gravity anomalies (general)"@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.ftkp-4k39> ;
+    skos:notation "ra" ;
+    skos:prefLabel "gravity anomalies (general)"@en .
+
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#rb> a skos:Concept ;
+    skos:definition "Free-air"@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.ftkp-4k39> ;
+    skos:notation "rb" ;
+    skos:prefLabel "free-air"@en .
+
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#rc> a skos:Concept ;
+    skos:definition "Bouger"@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.ftkp-4k39> ;
+    skos:notation "rc" ;
+    skos:prefLabel "bouger"@en .
+
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#rd> a skos:Concept ;
+    skos:definition "Isostatic"@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.ftkp-4k39> ;
+    skos:notation "rd" ;
+    skos:prefLabel "isostatic"@en .
+
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#sa> a skos:Concept ;
+    skos:definition "Magnetic field"@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.ftkp-4k39> ;
+    skos:notation "sa" ;
+    skos:prefLabel "magnetic field"@en ;
+    skos:scopeNote """Includes inclination, declination, and
+         anomalies."""@en .
+
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#ta> a skos:Concept ;
+    skos:definition "Radiometric surveys"@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.ftkp-4k39> ;
+    skos:notation "ta" ;
+    skos:prefLabel "radiometric surveys"@en .
+
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#uu> a skos:Concept ;
+    skos:definition """Data type for the remote-sensing image is not
+         known."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.ftkp-4k39> ;
+    skos:notation "uu" ;
+    skos:prefLabel "unknown"@en .
+
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#zz> a skos:Concept ;
+    skos:definition """Data type other than visible light; near infrared; middle
+         infrared; far infrared; thermal infrared; shortwave infrared (SWIR); reflective infrared;
+         combinations; other infrared data; sidelooking airborne radar (SLAR); synthetic aperture
+         radar (SAR)-single frequency; SAR-multi-frequency (multichannel); SAR-like polarization;
+         SAR-cross polarization; infometric SAR; polarmetric SAR; passive microwave mapping; other
+         microwave data; far ultraviolet; middle ultraviolet; near ultraviolet; ultraviolet
+         combinations; other ultraviolet data; multi-spectral, multidata; multi-temporal;
+         combination of various data types; sonar - water depth; sonar - bottom topography images,
+         sidescan; sonar - bottom topography, near surface; sonar - bottom topography, near bottom;
+         seismic surveys; other acoustical data; gravity anomalies (general); free-air; bouger;
+         isostatic; magnetic field; or radiometric surveys."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.ftkp-4k39> ;
+    skos:notation "zz" ;
+    skos:prefLabel "other"@en .
+
+<https://doi.org/10.6069/uwlswd.ftkp-4k39> a skos:ConceptScheme ;
+    dc:contributor "Metadata Management Associates"@en ;
+    dc:language "en" ;
+    dct:alternative """MARC21 007/09-10 values for remote-sensing images expressed
+         using RDF"""@en ;
+    dct:contributor <http://viaf.org/viaf/151962300> ;
+    dct:creator <http://viaf.org/viaf/139541794> ;
+    dct:description """Spectral, acoustic, or magnetic characteristics of the data
+         received by the device producing the remote-sensing image. It can be used to indicate both
+         the wave length of radiation measured and the type of sensor used to measure
+         it."""@en ;
+    dct:format <http://www.w3.org/ns/formats/Turtle> ;
+    dct:hasFormat <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/remote-sensing_image_data_type/remote-sensing_image_data_type.html>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/remote-sensing_image_data_type/remote-sensing_image_data_type.jsonld>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/remote-sensing_image_data_type/remote-sensing_image_data_type.nt>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/remote-sensing_image_data_type/remote-sensing_image_data_type.rdf> ;
+    dct:issued "2024" ;
+    dct:license <http://creativecommons.org/publicdomain/zero/1.0> ;
+    dct:provenance <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> ;
+    dct:publisher <http://viaf.org/viaf/139541794> ;
+    dct:source <http://marc21rdf.info>,
+        <https://www.loc.gov/marc/bibliographic/bd007.html> ;
+    dct:title "Remote-sensing image: data type"@en ;
+    dct:type <http://purl.org/dc/dcmitype/Dataset> ;
+    schema:disambiguatingDescription """SKOS Concept Scheme for MARC 00X
+         Values"""@en ;
+    schema:version "1-0-0" .
+

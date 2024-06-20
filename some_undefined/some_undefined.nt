@@ -1,0 +1,47 @@
+<https://doi.org/10.6069/uwlswd.5v8e-jr80#u> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.5v8e-jr80> <https://doi.org/10.6069/uwlib.55.d.3#appliesToMaterial> "nonprojected graphic" .
+<https://doi.org/10.6069/uwlswd.5v8e-jr80> <https://doi.org/10.6069/uwlib.55.d.3#appliesToMaterial> "sound recording" .
+<https://doi.org/10.6069/uwlswd.5v8e-jr80#o> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.5v8e-jr80#o> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.5v8e-jr80> .
+<https://doi.org/10.6069/uwlswd.5v8e-jr80> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/zero/1.0> .
+<https://doi.org/10.6069/uwlswd.5v8e-jr80> <https://doi.org/10.6069/uwlib.55.d.3#appliesToMaterial> "motion picture" .
+<https://doi.org/10.6069/uwlswd.5v8e-jr80#f> <http://www.w3.org/2004/02/skos/core#notation> "f" .
+<https://doi.org/10.6069/uwlswd.5v8e-jr80> <https://doi.org/10.6069/uwlib.55.d.3#appliesToMaterial> "videorecording" .
+<https://doi.org/10.6069/uwlswd.5v8e-jr80> <http://purl.org/dc/terms/description> "Contains blank (#) or a fill character (|)."@en .
+<https://doi.org/10.6069/uwlswd.5v8e-jr80> <http://purl.org/dc/terms/publisher> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.5v8e-jr80> <http://purl.org/dc/terms/creator> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.5v8e-jr80#u> <http://www.w3.org/2004/02/skos/core#prefLabel> "unknown [obsolete]"@en .
+<https://doi.org/10.6069/uwlswd.5v8e-jr80#o> <http://www.w3.org/2004/02/skos/core#prefLabel> "oringinal [obsolete]"@en .
+<https://doi.org/10.6069/uwlswd.5v8e-jr80> <https://doi.org/10.6069/uwlib.55.d.3#appliesToMaterial> "projected graphic" .
+<https://doi.org/10.6069/uwlswd.5v8e-jr80#f> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.5v8e-jr80> .
+<https://doi.org/10.6069/uwlswd.5v8e-jr80#f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.5v8e-jr80> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/some_undefined/some_undefined.ttl> .
+<https://doi.org/10.6069/uwlswd.5v8e-jr80> <http://purl.org/dc/terms/provenance> <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> .
+<https://doi.org/10.6069/uwlswd.5v8e-jr80> <http://purl.org/dc/terms/alternative> "MARC21 007/02 values for some materials expressed using\n            RDF"@en .
+<https://doi.org/10.6069/uwlswd.5v8e-jr80#u> <http://www.w3.org/2004/02/skos/core#notation> "u" .
+<https://doi.org/10.6069/uwlswd.5v8e-jr80#f> <http://www.w3.org/2004/02/skos/core#prefLabel> "facsimile [obsolete]"@en .
+<https://doi.org/10.6069/uwlswd.5v8e-jr80> <http://purl.org/dc/terms/contributor> <http://viaf.org/viaf/151962300> .
+<https://doi.org/10.6069/uwlswd.5v8e-jr80> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/some_undefined/some_undefined.rdf> .
+<https://doi.org/10.6069/uwlswd.5v8e-jr80> <http://purl.org/dc/terms/title> "Some: undefined"@en .
+<https://doi.org/10.6069/uwlswd.5v8e-jr80> <http://purl.org/dc/terms/source> <http://marc21rdf.info> .
+<https://doi.org/10.6069/uwlswd.5v8e-jr80> <http://purl.org/dc/elements/1.1/language> "en" .
+<https://doi.org/10.6069/uwlswd.5v8e-jr80> <https://schema.org/version> "1-0-0" .
+<https://doi.org/10.6069/uwlswd.5v8e-jr80> <http://purl.org/dc/terms/format> <http://www.w3.org/ns/formats/N-Triples> .
+<https://doi.org/10.6069/uwlswd.5v8e-jr80#o> <http://www.w3.org/2004/02/skos/core#notation> "o" .
+<https://doi.org/10.6069/uwlswd.5v8e-jr80#r> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.5v8e-jr80> <http://purl.org/dc/terms/issued> "2024" .
+<https://doi.org/10.6069/uwlswd.5v8e-jr80#r> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.5v8e-jr80> .
+<https://doi.org/10.6069/uwlswd.5v8e-jr80#r> <http://www.w3.org/2004/02/skos/core#notation> "r" .
+<https://doi.org/10.6069/uwlswd.5v8e-jr80> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/some_undefined/some_undefined.html> .
+<https://doi.org/10.6069/uwlswd.5v8e-jr80> <https://doi.org/10.6069/uwlib.55.d.3#appliesToMaterial> "electronic resource" .
+<https://doi.org/10.6069/uwlswd.5v8e-jr80> <http://purl.org/dc/elements/1.1/contributor> "Metadata Management Associates"@en .
+<https://doi.org/10.6069/uwlswd.5v8e-jr80> <https://doi.org/10.6069/uwlib.55.d.3#appliesToMaterial> "microform" .
+<https://doi.org/10.6069/uwlswd.5v8e-jr80> <https://schema.org/disambiguatingDescription> "SKOS Concept Scheme for MARC 00X\n            Values"@en .
+<https://doi.org/10.6069/uwlswd.5v8e-jr80> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<https://doi.org/10.6069/uwlswd.5v8e-jr80> <https://doi.org/10.6069/uwlib.55.d.3#appliesToMaterial> "globe" .
+<https://doi.org/10.6069/uwlswd.5v8e-jr80> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/some_undefined/some_undefined.jsonld> .
+<https://doi.org/10.6069/uwlswd.5v8e-jr80> <http://purl.org/dc/terms/type> <http://purl.org/dc/dcmitype/Dataset> .
+<https://doi.org/10.6069/uwlswd.5v8e-jr80> <http://purl.org/dc/terms/source> <https://www.loc.gov/marc/bibliographic/bd007.html> .
+<https://doi.org/10.6069/uwlswd.5v8e-jr80#u> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.5v8e-jr80> .
+<https://doi.org/10.6069/uwlswd.5v8e-jr80#r> <http://www.w3.org/2004/02/skos/core#prefLabel> "reproduction [obsolete]"@en .
+<https://doi.org/10.6069/uwlswd.5v8e-jr80> <https://doi.org/10.6069/uwlib.55.d.3#appliesToMaterial> "map" .

@@ -1,22 +1,17 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schema="https://schema.org/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:uwp="https://doi.org/10.6069/uwlib.55.d.3#">
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.5v8e-jr80#f">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.5v8e-jr80"/>
-    <skos:prefLabel xml:lang="en">facsimile [obsolete]</skos:prefLabel>
-    <skos:notation>f</skos:notation>
-  </rdf:Description>
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:dct="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:schema="https://schema.org/"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+   xmlns:uwp="https://doi.org/10.6069/uwlib.55.d.3#"
+>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.5v8e-jr80#u">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.5v8e-jr80"/>
     <skos:prefLabel xml:lang="en">unknown [obsolete]</skos:prefLabel>
     <skos:notation>u</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.5v8e-jr80#r">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.5v8e-jr80"/>
-    <skos:prefLabel xml:lang="en">reproduction [obsolete]</skos:prefLabel>
-    <skos:notation>r</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.5v8e-jr80">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
@@ -48,11 +43,27 @@
     <uwp:appliesToMaterial>motion picture</uwp:appliesToMaterial>
     <uwp:appliesToMaterial>sound recording</uwp:appliesToMaterial>
     <uwp:appliesToMaterial>videorecording</uwp:appliesToMaterial>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/some_undefined/some_undefined.ttl"/>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/some_undefined/some_undefined.nt"/>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/some_undefined/some_undefined.jsonld"/>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/some_undefined/some_undefined.html"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.5v8e-jr80#o">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.5v8e-jr80"/>
     <skos:prefLabel xml:lang="en">oringinal [obsolete]</skos:prefLabel>
     <skos:notation>o</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.5v8e-jr80#f">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.5v8e-jr80"/>
+    <skos:prefLabel xml:lang="en">facsimile [obsolete]</skos:prefLabel>
+    <skos:notation>f</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.5v8e-jr80#r">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.5v8e-jr80"/>
+    <skos:prefLabel xml:lang="en">reproduction [obsolete]</skos:prefLabel>
+    <skos:notation>r</skos:notation>
   </rdf:Description>
 </rdf:RDF>

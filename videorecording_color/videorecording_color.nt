@@ -1,0 +1,59 @@
+<https://doi.org/10.6069/uwlswd.d1cd-6t83#z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.d1cd-6t83> <http://purl.org/dc/terms/description> "Color characteristics of a videorecording."@en .
+<https://doi.org/10.6069/uwlswd.d1cd-6t83> <http://purl.org/dc/terms/issued> "2024" .
+<https://doi.org/10.6069/uwlswd.d1cd-6t83> <http://purl.org/dc/terms/source> <http://marc21rdf.info> .
+<https://doi.org/10.6069/uwlswd.d1cd-6t83#u> <http://www.w3.org/2004/02/skos/core#definition> "Color characteristics of an item are not\n         known."@en .
+<https://doi.org/10.6069/uwlswd.d1cd-6t83> <http://purl.org/dc/elements/1.1/language> "en" .
+<https://doi.org/10.6069/uwlswd.d1cd-6t83> <https://schema.org/disambiguatingDescription> "SKOS Concept Scheme for MARC 00X\n         Values"@en .
+<https://doi.org/10.6069/uwlswd.d1cd-6t83#b> <http://www.w3.org/2004/02/skos/core#definition> "Executed in black-and-white."@en .
+<https://doi.org/10.6069/uwlswd.d1cd-6t83> <http://purl.org/dc/elements/1.1/contributor> "Metadata Management Associates"@en .
+<https://doi.org/10.6069/uwlswd.d1cd-6t83#u> <http://www.w3.org/2004/02/skos/core#prefLabel> "unknown"@en .
+<https://doi.org/10.6069/uwlswd.d1cd-6t83> <http://purl.org/dc/terms/type> <http://purl.org/dc/dcmitype/Dataset> .
+<https://doi.org/10.6069/uwlswd.d1cd-6t83#a> <http://www.w3.org/2004/02/skos/core#notation> "a" .
+<https://doi.org/10.6069/uwlswd.d1cd-6t83#n> <http://www.w3.org/2004/02/skos/core#definition> "Item has no images."@en .
+<https://doi.org/10.6069/uwlswd.d1cd-6t83#n> <http://www.w3.org/2004/02/skos/core#prefLabel> "not applicable"@en .
+<https://doi.org/10.6069/uwlswd.d1cd-6t83#u> <http://www.w3.org/2004/02/skos/core#notation> "u" .
+<https://doi.org/10.6069/uwlswd.d1cd-6t83#a> <http://www.w3.org/2004/02/skos/core#definition> "One color."@en .
+<https://doi.org/10.6069/uwlswd.d1cd-6t83> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<https://doi.org/10.6069/uwlswd.d1cd-6t83> <http://purl.org/dc/terms/source> <https://www.loc.gov/marc/bibliographic/bd007.html> .
+<https://doi.org/10.6069/uwlswd.d1cd-6t83> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/videorecording_color/videorecording_color.ttl> .
+<https://doi.org/10.6069/uwlswd.d1cd-6t83#b> <http://www.w3.org/2004/02/skos/core#prefLabel> "black-and-white"@en .
+<https://doi.org/10.6069/uwlswd.d1cd-6t83#n> <http://www.w3.org/2004/02/skos/core#scopeNote> "E.g., a videorecording with sound only."@en .
+<https://doi.org/10.6069/uwlswd.d1cd-6t83#b> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.d1cd-6t83> .
+<https://doi.org/10.6069/uwlswd.d1cd-6t83#a> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.d1cd-6t83> .
+<https://doi.org/10.6069/uwlswd.d1cd-6t83#c> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.d1cd-6t83> .
+<https://doi.org/10.6069/uwlswd.d1cd-6t83> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/zero/1.0> .
+<https://doi.org/10.6069/uwlswd.d1cd-6t83#b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.d1cd-6t83> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/videorecording_color/videorecording_color.jsonld> .
+<https://doi.org/10.6069/uwlswd.d1cd-6t83> <http://purl.org/dc/terms/title> "Videorecording: color"@en .
+<https://doi.org/10.6069/uwlswd.d1cd-6t83> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/videorecording_color/videorecording_color.html> .
+<https://doi.org/10.6069/uwlswd.d1cd-6t83#m> <http://www.w3.org/2004/02/skos/core#prefLabel> "mixed"@en .
+<https://doi.org/10.6069/uwlswd.d1cd-6t83#c> <http://www.w3.org/2004/02/skos/core#notation> "c" .
+<https://doi.org/10.6069/uwlswd.d1cd-6t83#b> <http://www.w3.org/2004/02/skos/core#notation> "b" .
+<https://doi.org/10.6069/uwlswd.d1cd-6t83#z> <http://www.w3.org/2004/02/skos/core#prefLabel> "other"@en .
+<https://doi.org/10.6069/uwlswd.d1cd-6t83#z> <http://www.w3.org/2004/02/skos/core#notation> "z" .
+<https://doi.org/10.6069/uwlswd.d1cd-6t83#z> <http://www.w3.org/2004/02/skos/core#definition> "Color other than one color, black-and-white, multicolored, or\n         mixed."@en .
+<https://doi.org/10.6069/uwlswd.d1cd-6t83#u> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.d1cd-6t83> .
+<https://doi.org/10.6069/uwlswd.d1cd-6t83#n> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.d1cd-6t83> .
+<https://doi.org/10.6069/uwlswd.d1cd-6t83#z> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.d1cd-6t83> .
+<https://doi.org/10.6069/uwlswd.d1cd-6t83#a> <http://www.w3.org/2004/02/skos/core#prefLabel> "one color"@en .
+<https://doi.org/10.6069/uwlswd.d1cd-6t83#m> <http://www.w3.org/2004/02/skos/core#notation> "m" .
+<https://doi.org/10.6069/uwlswd.d1cd-6t83#m> <http://www.w3.org/2004/02/skos/core#definition> "Work or collection is a combination of black-and-white,\n         colored, and/or other images."@en .
+<https://doi.org/10.6069/uwlswd.d1cd-6t83#m> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.d1cd-6t83> <http://purl.org/dc/terms/creator> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.d1cd-6t83#a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.d1cd-6t83#c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.d1cd-6t83> <http://purl.org/dc/terms/publisher> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.d1cd-6t83#m> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.d1cd-6t83> .
+<https://doi.org/10.6069/uwlswd.d1cd-6t83#u> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.d1cd-6t83> <http://purl.org/dc/terms/provenance> <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> .
+<https://doi.org/10.6069/uwlswd.d1cd-6t83#n> <http://www.w3.org/2004/02/skos/core#notation> "n" .
+<https://doi.org/10.6069/uwlswd.d1cd-6t83> <http://purl.org/dc/terms/contributor> <http://viaf.org/viaf/151962300> .
+<https://doi.org/10.6069/uwlswd.d1cd-6t83> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/videorecording_color/videorecording_color.rdf> .
+<https://doi.org/10.6069/uwlswd.d1cd-6t83#a> <http://www.w3.org/2004/02/skos/core#scopeNote> "Not used with videorecordings."@en .
+<https://doi.org/10.6069/uwlswd.d1cd-6t83#c> <http://www.w3.org/2004/02/skos/core#definition> "Executed in more than one color."@en .
+<https://doi.org/10.6069/uwlswd.d1cd-6t83#c> <http://www.w3.org/2004/02/skos/core#prefLabel> "multicolored"@en .
+<https://doi.org/10.6069/uwlswd.d1cd-6t83> <https://schema.org/version> "1-0-0" .
+<https://doi.org/10.6069/uwlswd.d1cd-6t83> <http://purl.org/dc/terms/format> <http://www.w3.org/ns/formats/N-Triples> .
+<https://doi.org/10.6069/uwlswd.d1cd-6t83> <http://purl.org/dc/terms/alternative> "MARC21 007/03 values for videorecordings expressed using\n         RDF"@en .
+<https://doi.org/10.6069/uwlswd.d1cd-6t83#n> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .

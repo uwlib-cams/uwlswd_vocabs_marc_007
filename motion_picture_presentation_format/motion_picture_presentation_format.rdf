@@ -1,37 +1,23 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schema="https://schema.org/" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.c9kk-6x09#ex">
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:dct="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:schema="https://schema.org/"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.c9kk-6x09#d">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.c9kk-6x09"/>
-    <skos:prefLabel xml:lang="en">other [obsolete]</skos:prefLabel>
-    <skos:notation>e</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.c9kk-6x09#c">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.c9kk-6x09"/>
-    <skos:prefLabel xml:lang="en">3D</skos:prefLabel>
-    <skos:definition xml:lang="en">Films which achieve a three-dimensional effect originally
-         through the use of two projectors which superimpose two images of the film on the screen
-         (usually a wide screen). It is usually associated with 35 mm. film. Polarized lenses worn
-         by viewers help to create the impression of depth and dimension.</skos:definition>
-    <skos:notation>c</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.c9kk-6x09#f">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.c9kk-6x09"/>
-    <skos:prefLabel xml:lang="en">standard silent aperture (full frame)</skos:prefLabel>
-    <skos:definition xml:lang="en">35 mm. film on which the exposed picture is approximately the
-         width of the space between the perforation holes of the frame.</skos:definition>
-    <skos:scopeNote xml:lang="en">Standard format for silent film from about 1899 until the late
-         1920s when sound film was introduced and the frame size decreased to make room for the
-         sound track.</skos:scopeNote>
-    <skos:notation>f</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.c9kk-6x09#n">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.c9kk-6x09"/>
-    <skos:prefLabel xml:lang="en">not applicable [obsolete]</skos:prefLabel>
-    <skos:notation>n</skos:notation>
+    <skos:prefLabel xml:lang="en">anamorphic (wide-screen)</skos:prefLabel>
+    <skos:definition xml:lang="en">Films which achieve the wide-screen effect through the use of
+         an image which is optically compressed or squeezed horizontally. It is then expanded to the
+         correct proportions by projection on a wide screen with the use of special lenses that give
+         greater magnification laterally than vertically.</skos:definition>
+    <skos:scopeNote xml:lang="en">Introduced and adopted for commercial use in 1953 under the name
+         of Cinemascope, followed by Techniscope (1963), Naturama, Panavision, etc. Also used for 16
+         mm. film which employs this process.</skos:scopeNote>
+    <skos:notation>d</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.c9kk-6x09">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
@@ -54,17 +40,10 @@
     <dct:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0"/>
     <schema:version>1-0-0</schema:version>
     <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.c9kk-6x09#a">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.c9kk-6x09"/>
-    <skos:prefLabel xml:lang="en">standard sound aperture (reduced frame)</skos:prefLabel>
-    <skos:definition xml:lang="en">Standard sound aperture (reduced frame).</skos:definition>
-    <skos:scopeNote xml:lang="en">Used for non-wide-screen formats. Includes all standard sound 35
-         mm., 16 mm., and super 8 mm. film. Should be used even for silent films in which a space
-         has been left for the inclusion of a sound track, i.e., where a full frame silent picture
-         has been cropped to allow space for a sound track.</skos:scopeNote>
-    <skos:notation>a</skos:notation>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/motion_picture_presentation_format/motion_picture_presentation_format.ttl"/>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/motion_picture_presentation_format/motion_picture_presentation_format.nt"/>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/motion_picture_presentation_format/motion_picture_presentation_format.jsonld"/>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/motion_picture_presentation_format/motion_picture_presentation_format.html"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.c9kk-6x09#e">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -79,13 +58,51 @@
          side-by-side.</skos:scopeNote>
     <skos:notation>e</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.c9kk-6x09#u">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.c9kk-6x09#n">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.c9kk-6x09"/>
-    <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
-    <skos:definition xml:lang="en">Presentation format of the motion picture is not
-         known.</skos:definition>
-    <skos:notation>u</skos:notation>
+    <skos:prefLabel xml:lang="en">not applicable [obsolete]</skos:prefLabel>
+    <skos:notation>n</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.c9kk-6x09#z">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.c9kk-6x09"/>
+    <skos:prefLabel xml:lang="en">other</skos:prefLabel>
+    <skos:definition xml:lang="en">Motion picture presentation format other than standard sound
+         aperture (reduced frame), nonanamorphic (wide-screen), 3d, anamorphic (wide-screen), other
+         wide-screen format, or standard silent aperture (full frame).</skos:definition>
+    <skos:scopeNote xml:lang="en">An example of this is the 70 mm. Imax format which is a
+         non-rectangular, circular 180 degree limited use format that is not standardized. Imax may
+         not technically be considered a wide-screen format because it does not have an aspect
+         ratio, but it does achieve a wide-screen effect.</skos:scopeNote>
+    <skos:notation>z</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.c9kk-6x09#c">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.c9kk-6x09"/>
+    <skos:prefLabel xml:lang="en">3D</skos:prefLabel>
+    <skos:definition xml:lang="en">Films which achieve a three-dimensional effect originally
+         through the use of two projectors which superimpose two images of the film on the screen
+         (usually a wide screen). It is usually associated with 35 mm. film. Polarized lenses worn
+         by viewers help to create the impression of depth and dimension.</skos:definition>
+    <skos:notation>c</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.c9kk-6x09#ex">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.c9kk-6x09"/>
+    <skos:prefLabel xml:lang="en">other [obsolete]</skos:prefLabel>
+    <skos:notation>e</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.c9kk-6x09#f">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.c9kk-6x09"/>
+    <skos:prefLabel xml:lang="en">standard silent aperture (full frame)</skos:prefLabel>
+    <skos:definition xml:lang="en">35 mm. film on which the exposed picture is approximately the
+         width of the space between the perforation holes of the frame.</skos:definition>
+    <skos:scopeNote xml:lang="en">Standard format for silent film from about 1899 until the late
+         1920s when sound film was introduced and the frame size decreased to make room for the
+         sound track.</skos:scopeNote>
+    <skos:notation>f</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.c9kk-6x09#b">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -100,30 +117,23 @@
          aspect ratio.</skos:scopeNote>
     <skos:notation>b</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.c9kk-6x09#d">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.c9kk-6x09#a">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.c9kk-6x09"/>
-    <skos:prefLabel xml:lang="en">anamorphic (wide-screen)</skos:prefLabel>
-    <skos:definition xml:lang="en">Films which achieve the wide-screen effect through the use of
-         an image which is optically compressed or squeezed horizontally. It is then expanded to the
-         correct proportions by projection on a wide screen with the use of special lenses that give
-         greater magnification laterally than vertically.</skos:definition>
-    <skos:scopeNote xml:lang="en">Introduced and adopted for commercial use in 1953 under the name
-         of Cinemascope, followed by Techniscope (1963), Naturama, Panavision, etc. Also used for 16
-         mm. film which employs this process.</skos:scopeNote>
-    <skos:notation>d</skos:notation>
+    <skos:prefLabel xml:lang="en">standard sound aperture (reduced frame)</skos:prefLabel>
+    <skos:definition xml:lang="en">Standard sound aperture (reduced frame).</skos:definition>
+    <skos:scopeNote xml:lang="en">Used for non-wide-screen formats. Includes all standard sound 35
+         mm., 16 mm., and super 8 mm. film. Should be used even for silent films in which a space
+         has been left for the inclusion of a sound track, i.e., where a full frame silent picture
+         has been cropped to allow space for a sound track.</skos:scopeNote>
+    <skos:notation>a</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.c9kk-6x09#z">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.c9kk-6x09#u">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.c9kk-6x09"/>
-    <skos:prefLabel xml:lang="en">other</skos:prefLabel>
-    <skos:definition xml:lang="en">Motion picture presentation format other than standard sound
-         aperture (reduced frame), nonanamorphic (wide-screen), 3d, anamorphic (wide-screen), other
-         wide-screen format, or standard silent aperture (full frame).</skos:definition>
-    <skos:scopeNote xml:lang="en">An example of this is the 70 mm. Imax format which is a
-         non-rectangular, circular 180 degree limited use format that is not standardized. Imax may
-         not technically be considered a wide-screen format because it does not have an aspect
-         ratio, but it does achieve a wide-screen effect.</skos:scopeNote>
-    <skos:notation>z</skos:notation>
+    <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
+    <skos:definition xml:lang="en">Presentation format of the motion picture is not
+         known.</skos:definition>
+    <skos:notation>u</skos:notation>
   </rdf:Description>
 </rdf:RDF>

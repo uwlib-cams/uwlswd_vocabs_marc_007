@@ -1,0 +1,74 @@
+<https://doi.org/10.6069/uwlswd.4j0p-0k57#l> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4j0p-0k57> .
+<https://doi.org/10.6069/uwlswd.4j0p-0k57#n> <http://www.w3.org/2004/02/skos/core#prefLabel> "not applicable"@en .
+<https://doi.org/10.6069/uwlswd.4j0p-0k57#o> <http://www.w3.org/2004/02/skos/core#definition> "1/2 inch."@en .
+<https://doi.org/10.6069/uwlswd.4j0p-0k57> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/sound_recording_tape_width/sound_recording_tape_width.html> .
+<https://doi.org/10.6069/uwlswd.4j0p-0k57#u> <http://www.w3.org/2004/02/skos/core#prefLabel> "unknown"@en .
+<https://doi.org/10.6069/uwlswd.4j0p-0k57#u> <http://www.w3.org/2004/02/skos/core#definition> "Tape width is not known."@en .
+<https://doi.org/10.6069/uwlswd.4j0p-0k57#l> <http://www.w3.org/2004/02/skos/core#prefLabel> "1/8 in."@en .
+<https://doi.org/10.6069/uwlswd.4j0p-0k57#m> <http://www.w3.org/2004/02/skos/core#prefLabel> "1/4 in."@en .
+<https://doi.org/10.6069/uwlswd.4j0p-0k57#c> <http://www.w3.org/2004/02/skos/core#notation> "c" .
+<https://doi.org/10.6069/uwlswd.4j0p-0k57#b> <http://www.w3.org/2004/02/skos/core#prefLabel> "1/2 in. [obsolete]"@en .
+<https://doi.org/10.6069/uwlswd.4j0p-0k57#u> <http://www.w3.org/2004/02/skos/core#notation> "u" .
+<https://doi.org/10.6069/uwlswd.4j0p-0k57#a> <http://www.w3.org/2004/02/skos/core#notation> "a" .
+<https://doi.org/10.6069/uwlswd.4j0p-0k57#z> <http://www.w3.org/2004/02/skos/core#prefLabel> "other"@en .
+<https://doi.org/10.6069/uwlswd.4j0p-0k57#p> <http://www.w3.org/2004/02/skos/core#scopeNote> "Recording studios often use 1 inch tape. Some 8-track cartridges\n         have been issued in 1 in. tape."@en .
+<https://doi.org/10.6069/uwlswd.4j0p-0k57#o> <http://www.w3.org/2004/02/skos/core#scopeNote> "Recording studios customarily use 1/2 in. tape. Some 8-track\n         cartridges have been issued in 1/2 in. tape."@en .
+<https://doi.org/10.6069/uwlswd.4j0p-0k57#b> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4j0p-0k57> .
+<https://doi.org/10.6069/uwlswd.4j0p-0k57#c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.4j0p-0k57#n> <http://www.w3.org/2004/02/skos/core#scopeNote> "For example, the item is a disc."@en .
+<https://doi.org/10.6069/uwlswd.4j0p-0k57#l> <http://www.w3.org/2004/02/skos/core#notation> "l" .
+<https://doi.org/10.6069/uwlswd.4j0p-0k57> <http://purl.org/dc/terms/contributor> <http://viaf.org/viaf/151962300> .
+<https://doi.org/10.6069/uwlswd.4j0p-0k57#a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.4j0p-0k57#m> <http://www.w3.org/2004/02/skos/core#scopeNote> "Nonprofessional, consumer, and some professional reels, and most\n         8-track cartridges use 1/4 in. tape."@en .
+<https://doi.org/10.6069/uwlswd.4j0p-0k57> <http://purl.org/dc/terms/source> <http://marc21rdf.info> .
+<https://doi.org/10.6069/uwlswd.4j0p-0k57#n> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.4j0p-0k57> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/sound_recording_tape_width/sound_recording_tape_width.ttl> .
+<https://doi.org/10.6069/uwlswd.4j0p-0k57#z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.4j0p-0k57#m> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.4j0p-0k57#m> <http://www.w3.org/2004/02/skos/core#definition> "1/4 inch."@en .
+<https://doi.org/10.6069/uwlswd.4j0p-0k57> <https://schema.org/version> "1-0-0" .
+<https://doi.org/10.6069/uwlswd.4j0p-0k57#z> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4j0p-0k57> .
+<https://doi.org/10.6069/uwlswd.4j0p-0k57#a> <http://www.w3.org/2004/02/skos/core#prefLabel> "1/4 in. [obsolete]"@en .
+<https://doi.org/10.6069/uwlswd.4j0p-0k57> <http://purl.org/dc/terms/source> <https://www.loc.gov/marc/bibliographic/bd007.html> .
+<https://doi.org/10.6069/uwlswd.4j0p-0k57#n> <http://www.w3.org/2004/02/skos/core#definition> "Item is not a tape or does not include a\n         tape."@en .
+<https://doi.org/10.6069/uwlswd.4j0p-0k57> <http://purl.org/dc/terms/type> <http://purl.org/dc/dcmitype/Dataset> .
+<https://doi.org/10.6069/uwlswd.4j0p-0k57#l> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.4j0p-0k57> <http://purl.org/dc/terms/alternative> "MARC21 007/07 values for sound recordings expressed using\n         RDF"@en .
+<https://doi.org/10.6069/uwlswd.4j0p-0k57#o> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4j0p-0k57> .
+<https://doi.org/10.6069/uwlswd.4j0p-0k57#p> <http://www.w3.org/2004/02/skos/core#prefLabel> "1 in."@en .
+<https://doi.org/10.6069/uwlswd.4j0p-0k57> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/zero/1.0> .
+<https://doi.org/10.6069/uwlswd.4j0p-0k57> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/sound_recording_tape_width/sound_recording_tape_width.jsonld> .
+<https://doi.org/10.6069/uwlswd.4j0p-0k57#l> <http://www.w3.org/2004/02/skos/core#definition> "1/8 inch."@en .
+<https://doi.org/10.6069/uwlswd.4j0p-0k57#l> <http://www.w3.org/2004/02/skos/core#scopeNote> "Most cassettes use 1/8 in. tape."@en .
+<https://doi.org/10.6069/uwlswd.4j0p-0k57#z> <http://www.w3.org/2004/02/skos/core#definition> "Width other than 1/8 in., 1/4 in., 1/2 in., or 1\n         in."@en .
+<https://doi.org/10.6069/uwlswd.4j0p-0k57> <http://purl.org/dc/terms/title> "Sound recording: tape width"@en .
+<https://doi.org/10.6069/uwlswd.4j0p-0k57> <http://purl.org/dc/terms/creator> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.4j0p-0k57> <http://purl.org/dc/terms/publisher> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.4j0p-0k57#b> <http://www.w3.org/2004/02/skos/core#notation> "b" .
+<https://doi.org/10.6069/uwlswd.4j0p-0k57> <http://purl.org/dc/terms/provenance> <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> .
+<https://doi.org/10.6069/uwlswd.4j0p-0k57#z> <http://www.w3.org/2004/02/skos/core#notation> "z" .
+<https://doi.org/10.6069/uwlswd.4j0p-0k57#b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.4j0p-0k57> <http://purl.org/dc/terms/description> "Width of the tape."@en .
+<https://doi.org/10.6069/uwlswd.4j0p-0k57> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/sound_recording_tape_width/sound_recording_tape_width.rdf> .
+<https://doi.org/10.6069/uwlswd.4j0p-0k57#o> <http://www.w3.org/2004/02/skos/core#notation> "o" .
+<https://doi.org/10.6069/uwlswd.4j0p-0k57#m> <http://www.w3.org/2004/02/skos/core#notation> "m" .
+<https://doi.org/10.6069/uwlswd.4j0p-0k57#c> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4j0p-0k57> .
+<https://doi.org/10.6069/uwlswd.4j0p-0k57> <http://purl.org/dc/terms/issued> "2024" .
+<https://doi.org/10.6069/uwlswd.4j0p-0k57> <http://purl.org/dc/terms/format> <http://www.w3.org/ns/formats/N-Triples> .
+<https://doi.org/10.6069/uwlswd.4j0p-0k57#u> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.4j0p-0k57#a> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4j0p-0k57> .
+<https://doi.org/10.6069/uwlswd.4j0p-0k57#c> <http://www.w3.org/2004/02/skos/core#prefLabel> "1 in. [obsolete]"@en .
+<https://doi.org/10.6069/uwlswd.4j0p-0k57#n> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4j0p-0k57> .
+<https://doi.org/10.6069/uwlswd.4j0p-0k57#p> <http://www.w3.org/2004/02/skos/core#definition> "1 inch."@en .
+<https://doi.org/10.6069/uwlswd.4j0p-0k57#p> <http://www.w3.org/2004/02/skos/core#notation> "p" .
+<https://doi.org/10.6069/uwlswd.4j0p-0k57#p> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4j0p-0k57> .
+<https://doi.org/10.6069/uwlswd.4j0p-0k57#n> <http://www.w3.org/2004/02/skos/core#notation> "n" .
+<https://doi.org/10.6069/uwlswd.4j0p-0k57#m> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4j0p-0k57> .
+<https://doi.org/10.6069/uwlswd.4j0p-0k57> <https://schema.org/disambiguatingDescription> "SKOS Concept Scheme for MARC 00X\n         Values"@en .
+<https://doi.org/10.6069/uwlswd.4j0p-0k57#u> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.4j0p-0k57> .
+<https://doi.org/10.6069/uwlswd.4j0p-0k57> <http://purl.org/dc/elements/1.1/language> "en" .
+<https://doi.org/10.6069/uwlswd.4j0p-0k57#o> <http://www.w3.org/2004/02/skos/core#prefLabel> "1/2 in."@en .
+<https://doi.org/10.6069/uwlswd.4j0p-0k57#p> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.4j0p-0k57> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<https://doi.org/10.6069/uwlswd.4j0p-0k57> <http://purl.org/dc/elements/1.1/contributor> "Metadata Management Associates"@en .
+<https://doi.org/10.6069/uwlswd.4j0p-0k57#o> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .

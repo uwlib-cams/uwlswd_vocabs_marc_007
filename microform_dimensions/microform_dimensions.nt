@@ -1,0 +1,77 @@
+<https://doi.org/10.6069/uwlswd.epe4-z216> <http://purl.org/dc/terms/title> "Microform: dimensions"@en .
+<https://doi.org/10.6069/uwlswd.epe4-z216#h> <http://www.w3.org/2004/02/skos/core#definition> "105 mm."@en .
+<https://doi.org/10.6069/uwlswd.epe4-z216#z> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.epe4-z216> .
+<https://doi.org/10.6069/uwlswd.epe4-z216> <http://purl.org/dc/terms/provenance> <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> .
+<https://doi.org/10.6069/uwlswd.epe4-z216#p> <http://www.w3.org/2004/02/skos/core#definition> "3 1/4 x 7 3/8 in. or 9x19 cm."@en .
+<https://doi.org/10.6069/uwlswd.epe4-z216#f> <http://www.w3.org/2004/02/skos/core#notation> "f" .
+<https://doi.org/10.6069/uwlswd.epe4-z216#d> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.epe4-z216> .
+<https://doi.org/10.6069/uwlswd.epe4-z216> <http://purl.org/dc/terms/issued> "2024" .
+<https://doi.org/10.6069/uwlswd.epe4-z216#p> <http://www.w3.org/2004/02/skos/core#notation> "p" .
+<https://doi.org/10.6069/uwlswd.epe4-z216#a> <http://www.w3.org/2004/02/skos/core#notation> "a" .
+<https://doi.org/10.6069/uwlswd.epe4-z216#m> <http://www.w3.org/2004/02/skos/core#definition> "4x6 in. or 11x15 cm."@en .
+<https://doi.org/10.6069/uwlswd.epe4-z216> <https://schema.org/version> "1-0-0" .
+<https://doi.org/10.6069/uwlswd.epe4-z216#a> <http://www.w3.org/2004/02/skos/core#prefLabel> "8 mm."@en .
+<https://doi.org/10.6069/uwlswd.epe4-z216#l> <http://www.w3.org/2004/02/skos/core#definition> "3x5 in. or 8x13 cm."@en .
+<https://doi.org/10.6069/uwlswd.epe4-z216#p> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.epe4-z216> .
+<https://doi.org/10.6069/uwlswd.epe4-z216#l> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.epe4-z216> .
+<https://doi.org/10.6069/uwlswd.epe4-z216> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/microform_dimensions/microform_dimensions.ttl> .
+<https://doi.org/10.6069/uwlswd.epe4-z216#u> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.epe4-z216> .
+<https://doi.org/10.6069/uwlswd.epe4-z216#o> <http://www.w3.org/2004/02/skos/core#notation> "o" .
+<https://doi.org/10.6069/uwlswd.epe4-z216#a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.epe4-z216#z> <http://www.w3.org/2004/02/skos/core#prefLabel> "other"@en .
+<https://doi.org/10.6069/uwlswd.epe4-z216> <http://purl.org/dc/terms/alternative> "MARC21 007/04 values for microform expressed using\n         RDF"@en .
+<https://doi.org/10.6069/uwlswd.epe4-z216#g> <http://www.w3.org/2004/02/skos/core#prefLabel> "70 mm."@en .
+<https://doi.org/10.6069/uwlswd.epe4-z216> <http://purl.org/dc/terms/source> <https://www.loc.gov/marc/bibliographic/bd007.html> .
+<https://doi.org/10.6069/uwlswd.epe4-z216#h> <http://www.w3.org/2004/02/skos/core#notation> "h" .
+<https://doi.org/10.6069/uwlswd.epe4-z216#o> <http://www.w3.org/2004/02/skos/core#prefLabel> "6x9 in. or 16x23 cm."@en .
+<https://doi.org/10.6069/uwlswd.epe4-z216> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/zero/1.0> .
+<https://doi.org/10.6069/uwlswd.epe4-z216> <http://purl.org/dc/terms/description> "Dimensions of the microform; does not indicate the dimensions\n         of the image."@en .
+<https://doi.org/10.6069/uwlswd.epe4-z216> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/microform_dimensions/microform_dimensions.rdf> .
+<https://doi.org/10.6069/uwlswd.epe4-z216#f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.epe4-z216#l> <http://www.w3.org/2004/02/skos/core#prefLabel> "3x5 in. or 8x13 cm."@en .
+<https://doi.org/10.6069/uwlswd.epe4-z216#a> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.epe4-z216> .
+<https://doi.org/10.6069/uwlswd.epe4-z216#l> <http://www.w3.org/2004/02/skos/core#notation> "l" .
+<https://doi.org/10.6069/uwlswd.epe4-z216#a> <http://www.w3.org/2004/02/skos/core#definition> "8 mm."@en .
+<https://doi.org/10.6069/uwlswd.epe4-z216> <http://purl.org/dc/terms/creator> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.epe4-z216#u> <http://www.w3.org/2004/02/skos/core#notation> "u" .
+<https://doi.org/10.6069/uwlswd.epe4-z216> <http://purl.org/dc/terms/publisher> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.epe4-z216#z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.epe4-z216#h> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.epe4-z216> .
+<https://doi.org/10.6069/uwlswd.epe4-z216#m> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.epe4-z216> .
+<https://doi.org/10.6069/uwlswd.epe4-z216> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/microform_dimensions/microform_dimensions.jsonld> .
+<https://doi.org/10.6069/uwlswd.epe4-z216#o> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.epe4-z216> .
+<https://doi.org/10.6069/uwlswd.epe4-z216#d> <http://www.w3.org/2004/02/skos/core#definition> "16 mm."@en .
+<https://doi.org/10.6069/uwlswd.epe4-z216#d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.epe4-z216#g> <http://www.w3.org/2004/02/skos/core#definition> "70 mm."@en .
+<https://doi.org/10.6069/uwlswd.epe4-z216> <http://purl.org/dc/elements/1.1/language> "en" .
+<https://doi.org/10.6069/uwlswd.epe4-z216> <http://purl.org/dc/terms/format> <http://www.w3.org/ns/formats/N-Triples> .
+<https://doi.org/10.6069/uwlswd.epe4-z216> <http://purl.org/dc/terms/contributor> <http://viaf.org/viaf/151962300> .
+<https://doi.org/10.6069/uwlswd.epe4-z216#p> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.epe4-z216#d> <http://www.w3.org/2004/02/skos/core#notation> "d" .
+<https://doi.org/10.6069/uwlswd.epe4-z216> <https://schema.org/disambiguatingDescription> "SKOS Concept Scheme for MARC 00X\n         Values"@en .
+<https://doi.org/10.6069/uwlswd.epe4-z216> <http://purl.org/dc/terms/source> <http://marc21rdf.info> .
+<https://doi.org/10.6069/uwlswd.epe4-z216#o> <http://www.w3.org/2004/02/skos/core#definition> "6x9 in. or 16x23 cm."@en .
+<https://doi.org/10.6069/uwlswd.epe4-z216#f> <http://www.w3.org/2004/02/skos/core#prefLabel> "35 mm."@en .
+<https://doi.org/10.6069/uwlswd.epe4-z216#h> <http://www.w3.org/2004/02/skos/core#prefLabel> "105 mm."@en .
+<https://doi.org/10.6069/uwlswd.epe4-z216> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<https://doi.org/10.6069/uwlswd.epe4-z216#g> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.epe4-z216#g> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.epe4-z216> .
+<https://doi.org/10.6069/uwlswd.epe4-z216> <http://purl.org/dc/elements/1.1/contributor> "Metadata Management Associates"@en .
+<https://doi.org/10.6069/uwlswd.epe4-z216#l> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.epe4-z216#m> <http://www.w3.org/2004/02/skos/core#notation> "m" .
+<https://doi.org/10.6069/uwlswd.epe4-z216#u> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.epe4-z216#z> <http://www.w3.org/2004/02/skos/core#definition> "Dimensions other than 8 mm., 16 mm., 35 mm., 70 mm., 105 mm.,\n         3x5 in. or 8x13 cm., 4x6 in. or 11x15 cm., 6x9 in. or 16x23 cm., or 3 1/4 x 7 3/8 in. or\n         9x19 cm."@en .
+<https://doi.org/10.6069/uwlswd.epe4-z216> <http://purl.org/dc/terms/type> <http://purl.org/dc/dcmitype/Dataset> .
+<https://doi.org/10.6069/uwlswd.epe4-z216> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/microform_dimensions/microform_dimensions.html> .
+<https://doi.org/10.6069/uwlswd.epe4-z216#g> <http://www.w3.org/2004/02/skos/core#notation> "g" .
+<https://doi.org/10.6069/uwlswd.epe4-z216#p> <http://www.w3.org/2004/02/skos/core#prefLabel> "3 1/4 x 7 3/8 in. or 9x19 cm."@en .
+<https://doi.org/10.6069/uwlswd.epe4-z216#d> <http://www.w3.org/2004/02/skos/core#prefLabel> "16 mm."@en .
+<https://doi.org/10.6069/uwlswd.epe4-z216#f> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.epe4-z216> .
+<https://doi.org/10.6069/uwlswd.epe4-z216#m> <http://www.w3.org/2004/02/skos/core#prefLabel> "4x6 in. or 11x15 cm."@en .
+<https://doi.org/10.6069/uwlswd.epe4-z216#u> <http://www.w3.org/2004/02/skos/core#prefLabel> "unknown"@en .
+<https://doi.org/10.6069/uwlswd.epe4-z216#h> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.epe4-z216#m> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.epe4-z216#f> <http://www.w3.org/2004/02/skos/core#definition> "35 mm."@en .
+<https://doi.org/10.6069/uwlswd.epe4-z216#z> <http://www.w3.org/2004/02/skos/core#notation> "z" .
+<https://doi.org/10.6069/uwlswd.epe4-z216#o> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.epe4-z216#u> <http://www.w3.org/2004/02/skos/core#definition> "Dimensions are not known."@en .

@@ -1,12 +1,11 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schema="https://schema.org/" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.d36s-9s16#d">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.d36s-9s16"/>
-    <skos:prefLabel xml:lang="en">film</skos:prefLabel>
-    <skos:definition xml:lang="en">Film copy of the original.</skos:definition>
-    <skos:notation>d</skos:notation>
-  </rdf:Description>
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:dct="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:schema="https://schema.org/"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.d36s-9s16">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
     <dct:type rdf:resource="http://purl.org/dc/dcmitype/Dataset"/>
@@ -29,22 +28,17 @@
     <dct:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0"/>
     <schema:version>1-0-0</schema:version>
     <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/map_production_or_reproduction_details/map_production_or_reproduction_details.ttl"/>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/map_production_or_reproduction_details/map_production_or_reproduction_details.nt"/>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/map_production_or_reproduction_details/map_production_or_reproduction_details.jsonld"/>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/map_production_or_reproduction_details/map_production_or_reproduction_details.html"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.d36s-9s16#z">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.d36s-9s16#b">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.d36s-9s16"/>
-    <skos:prefLabel xml:lang="en">other</skos:prefLabel>
-    <skos:definition xml:lang="en">Production or reproduction details other than photocopy,
-         blueline print, photocopy, photographic pre-production, or film.</skos:definition>
-    <skos:notation>z</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.d36s-9s16#c">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.d36s-9s16"/>
-    <skos:prefLabel xml:lang="en">photographic pre-production</skos:prefLabel>
-    <skos:definition xml:lang="en">Photographic pre-production (proof) copy intended for
-         review.</skos:definition>
-    <skos:notation>c</skos:notation>
+    <skos:prefLabel xml:lang="en">photocopy</skos:prefLabel>
+    <skos:definition xml:lang="en">Photocopy.</skos:definition>
+    <skos:notation>b</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.d36s-9s16#a">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -56,6 +50,21 @@
          translucent or transparent original on which an image has been made.</skos:scopeNote>
     <skos:notation>a</skos:notation>
   </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.d36s-9s16#d">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.d36s-9s16"/>
+    <skos:prefLabel xml:lang="en">film</skos:prefLabel>
+    <skos:definition xml:lang="en">Film copy of the original.</skos:definition>
+    <skos:notation>d</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.d36s-9s16#z">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.d36s-9s16"/>
+    <skos:prefLabel xml:lang="en">other</skos:prefLabel>
+    <skos:definition xml:lang="en">Production or reproduction details other than photocopy,
+         blueline print, photocopy, photographic pre-production, or film.</skos:definition>
+    <skos:notation>z</skos:notation>
+  </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.d36s-9s16#u">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.d36s-9s16"/>
@@ -64,11 +73,12 @@
          known.</skos:definition>
     <skos:notation>u</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.d36s-9s16#b">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.d36s-9s16#c">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.d36s-9s16"/>
-    <skos:prefLabel xml:lang="en">photocopy</skos:prefLabel>
-    <skos:definition xml:lang="en">Photocopy.</skos:definition>
-    <skos:notation>b</skos:notation>
+    <skos:prefLabel xml:lang="en">photographic pre-production</skos:prefLabel>
+    <skos:definition xml:lang="en">Photographic pre-production (proof) copy intended for
+         review.</skos:definition>
+    <skos:notation>c</skos:notation>
   </rdf:Description>
 </rdf:RDF>

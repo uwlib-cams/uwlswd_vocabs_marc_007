@@ -1,0 +1,108 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix schema: <https://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://doi.org/10.6069/uwlswd.dfav-1729#a> a skos:Concept ;
+    skos:definition """No deterioration is apparent on either nitrate or non-nitrate
+         motion picture film."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.dfav-1729> ;
+    skos:notation "a" ;
+    skos:prefLabel "none apparent"@en .
+
+<https://doi.org/10.6069/uwlswd.dfav-1729#b> a skos:Concept ;
+    skos:definition """Deterioration of nitrate materials characterized as suspicious
+         odor."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.dfav-1729> ;
+    skos:notation "b" ;
+    skos:prefLabel "nitrate: suspicious odor"@en .
+
+<https://doi.org/10.6069/uwlswd.dfav-1729#c> a skos:Concept ;
+    skos:definition """Deterioration of nitrate materials characterized as pungent
+         odor."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.dfav-1729> ;
+    skos:notation "c" ;
+    skos:prefLabel "nitrate: pungent odor"@en .
+
+<https://doi.org/10.6069/uwlswd.dfav-1729#d> a skos:Concept ;
+    skos:definition """Deterioration of nitrate materials characterized as brownish,
+         discoloration, fading, or dusty."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.dfav-1729> ;
+    skos:notation "d" ;
+    skos:prefLabel "nitrate: brownish, discoloration, fading, dusty"@en .
+
+<https://doi.org/10.6069/uwlswd.dfav-1729#e> a skos:Concept ;
+    skos:definition """Deterioration of nitrate materials characterized as
+         sticky."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.dfav-1729> ;
+    skos:notation "e" ;
+    skos:prefLabel "nitrate: sticky"@en .
+
+<https://doi.org/10.6069/uwlswd.dfav-1729#f> a skos:Concept ;
+    skos:definition """Deterioration of nitrate materials characterized as frothy,
+         bubbles, or blisters."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.dfav-1729> ;
+    skos:notation "f" ;
+    skos:prefLabel "nitrate: frothy, bubbles, blisters"@en .
+
+<https://doi.org/10.6069/uwlswd.dfav-1729#g> a skos:Concept ;
+    skos:definition """Deterioration of nitrate materials characterized as
+         congealed."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.dfav-1729> ;
+    skos:notation "g" ;
+    skos:prefLabel "nitrate: congealed"@en .
+
+<https://doi.org/10.6069/uwlswd.dfav-1729#h> a skos:Concept ;
+    skos:definition """Deterioration of nitrate materials characterized as
+         powder."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.dfav-1729> ;
+    skos:notation "h" ;
+    skos:prefLabel "nitrate: powder"@en .
+
+<https://doi.org/10.6069/uwlswd.dfav-1729#k> a skos:Concept ;
+    skos:definition """Deterioration of non-nitrate materials (safety film, etc.)
+         characterized as detectable deterioration."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.dfav-1729> ;
+    skos:notation "k" ;
+    skos:prefLabel "non-nitrate: detectable deterioration"@en .
+
+<https://doi.org/10.6069/uwlswd.dfav-1729#l> a skos:Concept ;
+    skos:definition """Deterioration of non-nitrate materials (safety film, etc.)
+         characterized as advanced deterioration."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.dfav-1729> ;
+    skos:notation "l" ;
+    skos:prefLabel "non-nitrate: advanced deterioration"@en .
+
+<https://doi.org/10.6069/uwlswd.dfav-1729#m> a skos:Concept ;
+    skos:definition """Deterioration of non-nitrate materials (safety film, etc.)
+         characterized as disaster."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.dfav-1729> ;
+    skos:notation "m" ;
+    skos:prefLabel "non-nitrate: disaster"@en .
+
+<https://doi.org/10.6069/uwlswd.dfav-1729> a skos:ConceptScheme ;
+    dc:contributor "Metadata Management Associates"@en ;
+    dc:language "en" ;
+    dct:alternative """MARC21 007/15 values for motion pictures expressed using
+         RDF"""@en ;
+    dct:contributor <http://viaf.org/viaf/151962300> ;
+    dct:creator <http://viaf.org/viaf/139541794> ;
+    dct:description """Level of deterioration of the motion picture
+         film."""@en ;
+    dct:format <http://www.w3.org/ns/formats/Turtle> ;
+    dct:hasFormat <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/motion_picture_deterioration_stage/motion_picture_deterioration_stage.html>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/motion_picture_deterioration_stage/motion_picture_deterioration_stage.jsonld>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/motion_picture_deterioration_stage/motion_picture_deterioration_stage.nt>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/motion_picture_deterioration_stage/motion_picture_deterioration_stage.rdf> ;
+    dct:issued "2024" ;
+    dct:license <http://creativecommons.org/publicdomain/zero/1.0> ;
+    dct:provenance <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> ;
+    dct:publisher <http://viaf.org/viaf/139541794> ;
+    dct:source <http://marc21rdf.info>,
+        <https://www.loc.gov/marc/bibliographic/bd007.html> ;
+    dct:title "Motion picture: deterioration stage"@en ;
+    dct:type <http://purl.org/dc/dcmitype/Dataset> ;
+    schema:disambiguatingDescription """SKOS Concept Scheme for MARC 00X
+         Values"""@en ;
+    schema:version "1-0-0" .
+

@@ -1,0 +1,49 @@
+<https://doi.org/10.6069/uwlswd.hwb2-j275#m> <http://www.w3.org/2004/02/skos/core#notation> "m" .
+<https://doi.org/10.6069/uwlswd.hwb2-j275#d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.hwb2-j275#m> <http://www.w3.org/2004/02/skos/core#prefLabel> "mixed"@en .
+<https://doi.org/10.6069/uwlswd.hwb2-j275> <http://purl.org/dc/terms/publisher> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.hwb2-j275#a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.hwb2-j275> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/electronic_resource_level_of_compression/electronic_resource_level_of_compression.jsonld> .
+<https://doi.org/10.6069/uwlswd.hwb2-j275> <http://purl.org/dc/terms/alternative> "MARC21 007/12 values for electronic resources expressed using\n         RDF"@en .
+<https://doi.org/10.6069/uwlswd.hwb2-j275> <http://purl.org/dc/terms/creator> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.hwb2-j275#d> <http://www.w3.org/2004/02/skos/core#notation> "d" .
+<https://doi.org/10.6069/uwlswd.hwb2-j275#u> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.hwb2-j275> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/electronic_resource_level_of_compression/electronic_resource_level_of_compression.html> .
+<https://doi.org/10.6069/uwlswd.hwb2-j275#b> <http://www.w3.org/2004/02/skos/core#scopeNote> "An example of a lossless compression scheme would be TIFF Group\n         4 compression employed on bitonal image files."@en .
+<https://doi.org/10.6069/uwlswd.hwb2-j275> <http://purl.org/dc/terms/provenance> <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> .
+<https://doi.org/10.6069/uwlswd.hwb2-j275#m> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.hwb2-j275#d> <http://www.w3.org/2004/02/skos/core#prefLabel> "lossy"@en .
+<https://doi.org/10.6069/uwlswd.hwb2-j275#b> <http://www.w3.org/2004/02/skos/core#notation> "b" .
+<https://doi.org/10.6069/uwlswd.hwb2-j275> <http://purl.org/dc/terms/contributor> <http://viaf.org/viaf/151962300> .
+<https://doi.org/10.6069/uwlswd.hwb2-j275#a> <http://www.w3.org/2004/02/skos/core#definition> "Electronic resource has not been compressed through the use of\n         any compression technique."@en .
+<https://doi.org/10.6069/uwlswd.hwb2-j275> <http://purl.org/dc/terms/source> <http://marc21rdf.info> .
+<https://doi.org/10.6069/uwlswd.hwb2-j275> <http://purl.org/dc/terms/title> "Electronic resource: level of compression"@en .
+<https://doi.org/10.6069/uwlswd.hwb2-j275> <http://purl.org/dc/elements/1.1/language> "en" .
+<https://doi.org/10.6069/uwlswd.hwb2-j275> <https://schema.org/version> "1-0-0" .
+<https://doi.org/10.6069/uwlswd.hwb2-j275#b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.hwb2-j275> <http://purl.org/dc/terms/format> <http://www.w3.org/ns/formats/N-Triples> .
+<https://doi.org/10.6069/uwlswd.hwb2-j275#d> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.hwb2-j275> .
+<https://doi.org/10.6069/uwlswd.hwb2-j275#b> <http://www.w3.org/2004/02/skos/core#prefLabel> "lossless"@en .
+<https://doi.org/10.6069/uwlswd.hwb2-j275> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<https://doi.org/10.6069/uwlswd.hwb2-j275#u> <http://www.w3.org/2004/02/skos/core#prefLabel> "unknown"@en .
+<https://doi.org/10.6069/uwlswd.hwb2-j275> <http://purl.org/dc/terms/issued> "2024" .
+<https://doi.org/10.6069/uwlswd.hwb2-j275> <http://purl.org/dc/terms/type> <http://purl.org/dc/dcmitype/Dataset> .
+<https://doi.org/10.6069/uwlswd.hwb2-j275> <https://schema.org/disambiguatingDescription> "SKOS Concept Scheme for MARC 00X\n         Values"@en .
+<https://doi.org/10.6069/uwlswd.hwb2-j275> <http://purl.org/dc/elements/1.1/contributor> "Metadata Management Associates"@en .
+<https://doi.org/10.6069/uwlswd.hwb2-j275#d> <http://www.w3.org/2004/02/skos/core#scopeNote> "Examples of lossy compression schemes include JPEG, and Kodak\n         ImagePac (Photo CD), AC-3 (Dolby Digital) and MPEG."@en .
+<https://doi.org/10.6069/uwlswd.hwb2-j275#a> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.hwb2-j275> .
+<https://doi.org/10.6069/uwlswd.hwb2-j275> <http://purl.org/dc/terms/description> "Kind of compression the electronic resource has been subjected\n         to."@en .
+<https://doi.org/10.6069/uwlswd.hwb2-j275#u> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.hwb2-j275> .
+<https://doi.org/10.6069/uwlswd.hwb2-j275> <http://purl.org/dc/terms/source> <https://www.loc.gov/marc/bibliographic/bd007.html> .
+<https://doi.org/10.6069/uwlswd.hwb2-j275#b> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.hwb2-j275> .
+<https://doi.org/10.6069/uwlswd.hwb2-j275> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/electronic_resource_level_of_compression/electronic_resource_level_of_compression.ttl> .
+<https://doi.org/10.6069/uwlswd.hwb2-j275#m> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.hwb2-j275> .
+<https://doi.org/10.6069/uwlswd.hwb2-j275#m> <http://www.w3.org/2004/02/skos/core#definition> "A mixture of techniques has been used to compress various parts\n         of the electronic resource."@en .
+<https://doi.org/10.6069/uwlswd.hwb2-j275#d> <http://www.w3.org/2004/02/skos/core#definition> "Lossy compression schemes employ techniques which average or\n         discard some of the encoded digital information. When the file is decompressed, it will not\n         be an exact replica of the original file."@en .
+<https://doi.org/10.6069/uwlswd.hwb2-j275#u> <http://www.w3.org/2004/02/skos/core#definition> "Compression techniques are not known."@en .
+<https://doi.org/10.6069/uwlswd.hwb2-j275> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/electronic_resource_level_of_compression/electronic_resource_level_of_compression.rdf> .
+<https://doi.org/10.6069/uwlswd.hwb2-j275#a> <http://www.w3.org/2004/02/skos/core#notation> "a" .
+<https://doi.org/10.6069/uwlswd.hwb2-j275#b> <http://www.w3.org/2004/02/skos/core#definition> "Lossless compression will allow an electronic resource to be\n         compressed and decompressed with absolute fidelity each time. To be considered lossless, no\n         informational loss may occur during this process."@en .
+<https://doi.org/10.6069/uwlswd.hwb2-j275#a> <http://www.w3.org/2004/02/skos/core#prefLabel> "uncompressed"@en .
+<https://doi.org/10.6069/uwlswd.hwb2-j275#u> <http://www.w3.org/2004/02/skos/core#notation> "u" .
+<https://doi.org/10.6069/uwlswd.hwb2-j275> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/zero/1.0> .

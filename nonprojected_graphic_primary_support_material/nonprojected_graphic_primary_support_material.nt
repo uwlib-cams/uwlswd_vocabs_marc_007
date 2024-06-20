@@ -1,0 +1,138 @@
+<https://doi.org/10.6069/uwlswd.84qn-zz83#n> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.84qn-zz83> .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#u> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#g> <http://www.w3.org/2004/02/skos/core#definition> "Textile."@en .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#z> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.84qn-zz83> .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#a> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.84qn-zz83> .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#g> <http://www.w3.org/2004/02/skos/core#notation> "g" .
+<https://doi.org/10.6069/uwlswd.84qn-zz83> <http://purl.org/dc/terms/source> <https://www.loc.gov/marc/bibliographic/bd007.html> .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#s> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#u> <http://www.w3.org/2004/02/skos/core#definition> "Primary support material is not known."@en .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#g> <http://www.w3.org/2004/02/skos/core#scopeNote> "Includes all natural or synthetic fibre fabrics except canvas.\n         Synthetic materials formed to resemble a fabric are considered textiles."@en .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#b> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bristol board"@en .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#d> <http://www.w3.org/2004/02/skos/core#definition> "Glass."@en .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#l> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.84qn-zz83> .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#t> <http://www.w3.org/2004/02/skos/core#scopeNote> "Consider particle board to be wood."@en .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#n> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#w> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.84qn-zz83> .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#t> <http://www.w3.org/2004/02/skos/core#prefLabel> "wood"@en .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#r> <http://www.w3.org/2004/02/skos/core#notation> "r" .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#s> <http://www.w3.org/2004/02/skos/core#definition> "Stone."@en .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#v> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#t> <http://www.w3.org/2004/02/skos/core#notation> "t" .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#m> <http://www.w3.org/2004/02/skos/core#prefLabel> "mixed collection"@en .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#e> <http://www.w3.org/2004/02/skos/core#definition> "Man-made substances other than textiles, plastic, and\n         vinyl."@en .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#q> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.84qn-zz83> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#c> <http://www.w3.org/2004/02/skos/core#prefLabel> "cardboard/illustration board"@en .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#w> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#b> <http://www.w3.org/2004/02/skos/core#definition> "Fine, smooth pasteboard used by artists and\n         painters."@en .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#h> <http://www.w3.org/2004/02/skos/core#notation> "h" .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#g> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.84qn-zz83> .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#i> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.84qn-zz83> .
+<https://doi.org/10.6069/uwlswd.84qn-zz83> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/nonprojected_graphic_primary_support_material/nonprojected_graphic_primary_support_material.html> .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#f> <http://www.w3.org/2004/02/skos/core#definition> "Skin."@en .
+<https://doi.org/10.6069/uwlswd.84qn-zz83> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/zero/1.0> .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#q> <http://www.w3.org/2004/02/skos/core#definition> "Hardboard."@en .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#o> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.84qn-zz83> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/nonprojected_graphic_primary_support_material/nonprojected_graphic_primary_support_material.jsonld> .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#d> <http://www.w3.org/2004/02/skos/core#notation> "d" .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#a> <http://www.w3.org/2004/02/skos/core#prefLabel> "canvas"@en .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#s> <http://www.w3.org/2004/02/skos/core#prefLabel> "stone"@en .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#z> <http://www.w3.org/2004/02/skos/core#notation> "z" .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#u> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.84qn-zz83> .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#a> <http://www.w3.org/2004/02/skos/core#definition> "Canvas."@en .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#w> <http://www.w3.org/2004/02/skos/core#definition> "Skin of a sheep or goat prepared for writing\n         on."@en .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#u> <http://www.w3.org/2004/02/skos/core#notation> "u" .
+<https://doi.org/10.6069/uwlswd.84qn-zz83> <http://purl.org/dc/terms/publisher> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#m> <http://www.w3.org/2004/02/skos/core#definition> "Primary support material varies for different items in a\n         collection."@en .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#i> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#d> <http://www.w3.org/2004/02/skos/core#prefLabel> "glass"@en .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#h> <http://www.w3.org/2004/02/skos/core#prefLabel> "metal"@en .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#n> <http://www.w3.org/2004/02/skos/core#definition> "Fine-grained unsplit lambskin, kidskin, or calfskin prepared\n         especially for writing or drawing on."@en .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#t> <http://www.w3.org/2004/02/skos/core#definition> "Material that is based on wood particles or fibers may or may\n         not be considered wood."@en .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#o> <http://www.w3.org/2004/02/skos/core#prefLabel> "paper"@en .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#h> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.84qn-zz83> .
+<https://doi.org/10.6069/uwlswd.84qn-zz83> <http://purl.org/dc/elements/1.1/language> "en" .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#i> <http://www.w3.org/2004/02/skos/core#definition> "Plastic."@en .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#o> <http://www.w3.org/2004/02/skos/core#definition> "Any kind of cellulose-based paper."@en .
+<https://doi.org/10.6069/uwlswd.84qn-zz83> <http://purl.org/dc/terms/issued> "2024" .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#p> <http://www.w3.org/2004/02/skos/core#scopeNote> "Includes mixtures of ground solids and plaster."@en .
+<https://doi.org/10.6069/uwlswd.84qn-zz83> <https://schema.org/version> "1-0-0" .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#m> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.84qn-zz83> .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#e> <http://www.w3.org/2004/02/skos/core#notation> "e" .
+<https://doi.org/10.6069/uwlswd.84qn-zz83> <https://schema.org/disambiguatingDescription> "SKOS Concept Scheme for MARC 00X\n         Values"@en .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#p> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#t> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.84qn-zz83> .
+<https://doi.org/10.6069/uwlswd.84qn-zz83> <http://purl.org/dc/terms/alternative> "MARC21 007/04 values for nonprojected graphics expressed using\n         RDF"@en .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#c> <http://www.w3.org/2004/02/skos/core#definition> "Cardboard/illustration board."@en .
+<https://doi.org/10.6069/uwlswd.84qn-zz83> <http://purl.org/dc/terms/type> <http://purl.org/dc/dcmitype/Dataset> .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#l> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.84qn-zz83> <http://purl.org/dc/elements/1.1/contributor> "Metadata Management Associates"@en .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#m> <http://www.w3.org/2004/02/skos/core#notation> "m" .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#r> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.84qn-zz83> .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#w> <http://www.w3.org/2004/02/skos/core#prefLabel> "parchment"@en .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#g> <http://www.w3.org/2004/02/skos/core#prefLabel> "textile"@en .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#h> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#q> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.84qn-zz83> .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#c> <http://www.w3.org/2004/02/skos/core#notation> "c" .
+<https://doi.org/10.6069/uwlswd.84qn-zz83> <http://purl.org/dc/terms/creator> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#i> <http://www.w3.org/2004/02/skos/core#prefLabel> "plastic"@en .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#a> <http://www.w3.org/2004/02/skos/core#notation> "a" .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#m> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#u> <http://www.w3.org/2004/02/skos/core#prefLabel> "unknown"@en .
+<https://doi.org/10.6069/uwlswd.84qn-zz83> <http://purl.org/dc/terms/provenance> <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#e> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.84qn-zz83> .
+<https://doi.org/10.6069/uwlswd.84qn-zz83> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/nonprojected_graphic_primary_support_material/nonprojected_graphic_primary_support_material.ttl> .
+<https://doi.org/10.6069/uwlswd.84qn-zz83> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/nonprojected_graphic_primary_support_material/nonprojected_graphic_primary_support_material.rdf> .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#b> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.84qn-zz83> .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#z> <http://www.w3.org/2004/02/skos/core#definition> "Primary support material other than canvas, bristol board,\n         cardboard/illustration board, glass, synthetic, skin, textile, metal, plastic, vinyl, mixed\n         collection, vellum, paper, plaster, hardboard, porcelain, stone, wood, leather, or\n         parchment."@en .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#f> <http://www.w3.org/2004/02/skos/core#scopeNote> "Excludes leather, parchment, and vellum. Synthetic materials\n         that are made to resemble animal skin are coded as synthetic."@en .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#n> <http://www.w3.org/2004/02/skos/core#notation> "n" .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#g> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#s> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.84qn-zz83> .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#o> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.84qn-zz83> .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#r> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#r> <http://www.w3.org/2004/02/skos/core#definition> "Porcelain."@en .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#f> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.84qn-zz83> .
+<https://doi.org/10.6069/uwlswd.84qn-zz83> <http://purl.org/dc/terms/description> "Type of material used for the support or base on which an image\n         is printed or executed."@en .
+<https://doi.org/10.6069/uwlswd.84qn-zz83> <http://purl.org/dc/terms/source> <http://marc21rdf.info> .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#s> <http://www.w3.org/2004/02/skos/core#notation> "s" .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#f> <http://www.w3.org/2004/02/skos/core#notation> "f" .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#w> <http://www.w3.org/2004/02/skos/core#notation> "w" .
+<https://doi.org/10.6069/uwlswd.84qn-zz83> <http://purl.org/dc/terms/title> "Nonprojected graphic: primary support material"@en .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#b> <http://www.w3.org/2004/02/skos/core#notation> "b" .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#c> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.84qn-zz83> .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#m> <http://www.w3.org/2004/02/skos/core#scopeNote> "Typically this would be used for groups of nonprojected graphics\n         on various bases."@en .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#p> <http://www.w3.org/2004/02/skos/core#definition> "Plaster."@en .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#l> <http://www.w3.org/2004/02/skos/core#definition> "Vinyl."@en .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#v> <http://www.w3.org/2004/02/skos/core#definition> "Animal skin dressed for use."@en .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#p> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.84qn-zz83> .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#l> <http://www.w3.org/2004/02/skos/core#prefLabel> "vinyl"@en .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#p> <http://www.w3.org/2004/02/skos/core#prefLabel> "plaster"@en .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#v> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.84qn-zz83> .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#e> <http://www.w3.org/2004/02/skos/core#prefLabel> "synthetic"@en .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#z> <http://www.w3.org/2004/02/skos/core#prefLabel> "other"@en .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#r> <http://www.w3.org/2004/02/skos/core#prefLabel> "porcelain"@en .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#t> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#n> <http://www.w3.org/2004/02/skos/core#prefLabel> "vellum"@en .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#v> <http://www.w3.org/2004/02/skos/core#notation> "v" .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#h> <http://www.w3.org/2004/02/skos/core#definition> "Metal."@en .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#d> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.84qn-zz83> .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#i> <http://www.w3.org/2004/02/skos/core#notation> "i" .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#q> <http://www.w3.org/2004/02/skos/core#notation> "q" .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#l> <http://www.w3.org/2004/02/skos/core#notation> "l" .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#v> <http://www.w3.org/2004/02/skos/core#prefLabel> "leather"@en .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#f> <http://www.w3.org/2004/02/skos/core#prefLabel> "skin"@en .
+<https://doi.org/10.6069/uwlswd.84qn-zz83> <http://purl.org/dc/terms/format> <http://www.w3.org/ns/formats/N-Triples> .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#o> <http://www.w3.org/2004/02/skos/core#notation> "o" .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#r> <http://www.w3.org/2004/02/skos/core#scopeNote> "Used only for clay-based porcelain. Porcelain-like synthetic\n         materials are coded as synthetic."@en .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#p> <http://www.w3.org/2004/02/skos/core#notation> "p" .
+<https://doi.org/10.6069/uwlswd.84qn-zz83> <http://purl.org/dc/terms/contributor> <http://viaf.org/viaf/151962300> .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.84qn-zz83#q> <http://www.w3.org/2004/02/skos/core#prefLabel> "hardboard"@en .

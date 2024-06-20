@@ -1,0 +1,83 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix schema: <https://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://doi.org/10.6069/uwlswd.4s9w-5e47#b> a skos:Concept ;
+    skos:definition "Printed or executed in black-and-white."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.4s9w-5e47> ;
+    skos:notation "b" ;
+    skos:prefLabel "black-and-white"@en .
+
+<https://doi.org/10.6069/uwlswd.4s9w-5e47#c> a skos:Concept ;
+    skos:definition "Printed or executed in more than one color."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.4s9w-5e47> ;
+    skos:notation "c" ;
+    skos:prefLabel "multicolored"@en ;
+    skos:scopeNote "Used for color photographic processes."@en .
+
+<https://doi.org/10.6069/uwlswd.4s9w-5e47#h> a skos:Concept ;
+    skos:definition """Motion picture, produced by a printing or photographic process,
+         is hand colored."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.4s9w-5e47> ;
+    skos:notation "h" ;
+    skos:prefLabel "hand colored"@en ;
+    skos:scopeNote """Rarely used with commercial films since these are not typically
+         issued with hand coloring."""@en .
+
+<https://doi.org/10.6069/uwlswd.4s9w-5e47#m> a skos:Concept ;
+    skos:definition """Work or collection is a combination of black-and-white,
+         multicolored, hand colored, and/or other images."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.4s9w-5e47> ;
+    skos:notation "m" ;
+    skos:prefLabel "mixed"@en .
+
+<https://doi.org/10.6069/uwlswd.4s9w-5e47#n> a skos:Concept ;
+    skos:definition """Color characteristics are not applicable because the item has
+         no images."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.4s9w-5e47> ;
+    skos:notation "n" ;
+    skos:prefLabel "not applicable"@en ;
+    skos:scopeNote """Used, for example, when the item in hand is sound track film
+         intended to accompany visual images not actually present."""@en .
+
+<https://doi.org/10.6069/uwlswd.4s9w-5e47#u> a skos:Concept ;
+    skos:definition """Color characteristics of the motion picture are not
+         known."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.4s9w-5e47> ;
+    skos:notation "u" ;
+    skos:prefLabel "unknown"@en .
+
+<https://doi.org/10.6069/uwlswd.4s9w-5e47#z> a skos:Concept ;
+    skos:definition """Color other than black-and-white, multicolored, hand colored,
+         or mixed."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.4s9w-5e47> ;
+    skos:notation "z" ;
+    skos:prefLabel "other"@en ;
+    skos:scopeNote "E.g., toned, stained, tinted, etc."@en .
+
+<https://doi.org/10.6069/uwlswd.4s9w-5e47> a skos:ConceptScheme ;
+    dc:contributor "Metadata Management Associates"@en ;
+    dc:language "en" ;
+    dct:alternative """MARC21 007/03 values for motion pictures expressed using
+         RDF"""@en ;
+    dct:contributor <http://viaf.org/viaf/151962300> ;
+    dct:creator <http://viaf.org/viaf/139541794> ;
+    dct:description "Color characteristics of a motion picture."@en ;
+    dct:format <http://www.w3.org/ns/formats/Turtle> ;
+    dct:hasFormat <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/motion_picture_color/motion_picture_color.html>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/motion_picture_color/motion_picture_color.jsonld>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/motion_picture_color/motion_picture_color.nt>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/motion_picture_color/motion_picture_color.rdf> ;
+    dct:issued "2024" ;
+    dct:license <http://creativecommons.org/publicdomain/zero/1.0> ;
+    dct:provenance <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> ;
+    dct:publisher <http://viaf.org/viaf/139541794> ;
+    dct:source <http://marc21rdf.info>,
+        <https://www.loc.gov/marc/bibliographic/bd007.html> ;
+    dct:title "Motion picture: color"@en ;
+    dct:type <http://purl.org/dc/dcmitype/Dataset> ;
+    schema:disambiguatingDescription """SKOS Concept Scheme for MARC 00X
+         Values"""@en ;
+    schema:version "1-0-0" .
+

@@ -1,15 +1,11 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schema="https://schema.org/" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.s0ms-4p29#a">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.s0ms-4p29"/>
-    <skos:prefLabel xml:lang="en">one file format</skos:prefLabel>
-    <skos:definition xml:lang="en">File(s) which comprise(s)the electronic resource are of the
-         same format or type.</skos:definition>
-    <skos:scopeNote xml:lang="en">E.g., all .jpg; all .tif; all .txt; all .wav; all .mpg;
-         etc.</skos:scopeNote>
-    <skos:notation>a</skos:notation>
-  </rdf:Description>
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:dct="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:schema="https://schema.org/"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.s0ms-4p29">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
     <dct:type rdf:resource="http://purl.org/dc/dcmitype/Dataset"/>
@@ -32,6 +28,10 @@
     <dct:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0"/>
     <schema:version>1-0-0</schema:version>
     <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/electronic_resource_file_formats/electronic_resource_file_formats.ttl"/>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/electronic_resource_file_formats/electronic_resource_file_formats.nt"/>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/electronic_resource_file_formats/electronic_resource_file_formats.jsonld"/>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/electronic_resource_file_formats/electronic_resource_file_formats.html"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.s0ms-4p29#m">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -50,5 +50,15 @@
     <skos:definition xml:lang="en">Format(s) of the file(s) which comprise(s) the electronic
          resource are not known.</skos:definition>
     <skos:notation>u</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.s0ms-4p29#a">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.s0ms-4p29"/>
+    <skos:prefLabel xml:lang="en">one file format</skos:prefLabel>
+    <skos:definition xml:lang="en">File(s) which comprise(s)the electronic resource are of the
+         same format or type.</skos:definition>
+    <skos:scopeNote xml:lang="en">E.g., all .jpg; all .tif; all .txt; all .wav; all .mpg;
+         etc.</skos:scopeNote>
+    <skos:notation>a</skos:notation>
   </rdf:Description>
 </rdf:RDF>

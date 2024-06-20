@@ -1,14 +1,11 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schema="https://schema.org/" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4sxq-pn90#b">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4sxq-pn90"/>
-    <skos:prefLabel xml:lang="en">tape duplication master</skos:prefLabel>
-    <skos:definition xml:lang="en">Sound tape produced from the master tape.</skos:definition>
-    <skos:scopeNote xml:lang="en">Tape duplication master is played on a tape reproducer to
-         produce the sound tape for cassette, cartridge, or reel.</skos:scopeNote>
-    <skos:notation>b</skos:notation>
-  </rdf:Description>
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:dct="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:schema="https://schema.org/"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4sxq-pn90#s">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4sxq-pn90"/>
@@ -17,14 +14,17 @@
          electroplating procedure, from which 500 to 750 discs may be pressed.</skos:definition>
     <skos:notation>s</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4sxq-pn90#t">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4sxq-pn90#d">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4sxq-pn90"/>
-    <skos:prefLabel xml:lang="en">test pressing</skos:prefLabel>
-    <skos:definition xml:lang="en">Either one finished disc or one of a very limited pressing is
-         made, designed to be examined aurally before a decision is made to proceed with a
-         pressing.</skos:definition>
-    <skos:notation>t</skos:notation>
+    <skos:prefLabel xml:lang="en">disc master (negative)</skos:prefLabel>
+    <skos:definition xml:lang="en">Negative disc master that is used for the preparation of the
+         mother from which more serviceable and longer lasting metal stampers can be
+         made.</skos:definition>
+    <skos:scopeNote xml:lang="en">In the early years of recording, discs were pressed from the
+         metal-plated disc master or matrix. As commercial recording developed, the disc master was
+         used, and continues to be used, for the preparation of the mother.</skos:scopeNote>
+    <skos:notation>d</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4sxq-pn90#z">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -34,15 +34,6 @@
          duplication master, disc master (negative), instantaneous (recorded on the spot), mass
          produced, mother (positive), stamper (negative), or test pressing.</skos:definition>
     <skos:notation>z</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4sxq-pn90#u">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4sxq-pn90"/>
-    <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
-    <skos:definition xml:lang="en">Type of disc, cylinder, or tape is not known.</skos:definition>
-    <skos:scopeNote xml:lang="en">Also used when it cannot be determined whether the item is
-         instantaneous or mass-produced.</skos:scopeNote>
-    <skos:notation>u</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4sxq-pn90">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
@@ -65,6 +56,58 @@
     <dct:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0"/>
     <schema:version>1-0-0</schema:version>
     <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/sound_recording_kind_of_disc_or_cylinder_or_tape/sound_recording_kind_of_disc_or_cylinder_or_tape.ttl"/>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/sound_recording_kind_of_disc_or_cylinder_or_tape/sound_recording_kind_of_disc_or_cylinder_or_tape.nt"/>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/sound_recording_kind_of_disc_or_cylinder_or_tape/sound_recording_kind_of_disc_or_cylinder_or_tape.jsonld"/>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/sound_recording_kind_of_disc_or_cylinder_or_tape/sound_recording_kind_of_disc_or_cylinder_or_tape.html"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4sxq-pn90#t">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4sxq-pn90"/>
+    <skos:prefLabel xml:lang="en">test pressing</skos:prefLabel>
+    <skos:definition xml:lang="en">Either one finished disc or one of a very limited pressing is
+         made, designed to be examined aurally before a decision is made to proceed with a
+         pressing.</skos:definition>
+    <skos:notation>t</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4sxq-pn90#i">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4sxq-pn90"/>
+    <skos:prefLabel xml:lang="en">instantaneous (recorded on the spot)</skos:prefLabel>
+    <skos:definition xml:lang="en">Original recording of a sound event or performance intended for
+         direct reproduction without further processing.</skos:definition>
+    <skos:scopeNote xml:lang="en">In the early years of recording, a single sound event was
+         sometimes recorded simultaneously on several cylinders or discs. All of these recordings
+         would be instantaneous.</skos:scopeNote>
+    <skos:notation>i</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4sxq-pn90#r">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4sxq-pn90"/>
+    <skos:prefLabel xml:lang="en">mother (positive)</skos:prefLabel>
+    <skos:definition xml:lang="en">Exact copy of the original disc recording pressed from the disc
+         master. From the metal mother a negative metal stamper is made to press discs for
+         distribution.</skos:definition>
+    <skos:scopeNote xml:lang="en">Many stampers may be made from a single mother.</skos:scopeNote>
+    <skos:notation>r</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4sxq-pn90#b">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4sxq-pn90"/>
+    <skos:prefLabel xml:lang="en">tape duplication master</skos:prefLabel>
+    <skos:definition xml:lang="en">Sound tape produced from the master tape.</skos:definition>
+    <skos:scopeNote xml:lang="en">Tape duplication master is played on a tape reproducer to
+         produce the sound tape for cassette, cartridge, or reel.</skos:scopeNote>
+    <skos:notation>b</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4sxq-pn90#u">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4sxq-pn90"/>
+    <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
+    <skos:definition xml:lang="en">Type of disc, cylinder, or tape is not known.</skos:definition>
+    <skos:scopeNote xml:lang="en">Also used when it cannot be determined whether the item is
+         instantaneous or mass-produced.</skos:scopeNote>
+    <skos:notation>u</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4sxq-pn90#m">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -80,46 +123,6 @@
          the container in which the disc, tape, or cylinder is packaged.</skos:scopeNote>
     <skos:notation>m</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4sxq-pn90#d">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4sxq-pn90"/>
-    <skos:prefLabel xml:lang="en">disc master (negative)</skos:prefLabel>
-    <skos:definition xml:lang="en">Negative disc master that is used for the preparation of the
-         mother from which more serviceable and longer lasting metal stampers can be
-         made.</skos:definition>
-    <skos:scopeNote xml:lang="en">In the early years of recording, discs were pressed from the
-         metal-plated disc master or matrix. As commercial recording developed, the disc master was
-         used, and continues to be used, for the preparation of the mother.</skos:scopeNote>
-    <skos:notation>d</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4sxq-pn90#r">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4sxq-pn90"/>
-    <skos:prefLabel xml:lang="en">mother (positive)</skos:prefLabel>
-    <skos:definition xml:lang="en">Exact copy of the original disc recording pressed from the disc
-         master. From the metal mother a negative metal stamper is made to press discs for
-         distribution.</skos:definition>
-    <skos:scopeNote xml:lang="en">Many stampers may be made from a single mother.</skos:scopeNote>
-    <skos:notation>r</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4sxq-pn90#n">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4sxq-pn90"/>
-    <skos:prefLabel xml:lang="en">not applicable</skos:prefLabel>
-    <skos:definition xml:lang="en">Item is not a disc, cylinder, or tape.</skos:definition>
-    <skos:notation>n</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4sxq-pn90#i">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4sxq-pn90"/>
-    <skos:prefLabel xml:lang="en">instantaneous (recorded on the spot)</skos:prefLabel>
-    <skos:definition xml:lang="en">Original recording of a sound event or performance intended for
-         direct reproduction without further processing.</skos:definition>
-    <skos:scopeNote xml:lang="en">In the early years of recording, a single sound event was
-         sometimes recorded simultaneously on several cylinders or discs. All of these recordings
-         would be instantaneous.</skos:scopeNote>
-    <skos:notation>i</skos:notation>
-  </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4sxq-pn90#a">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4sxq-pn90"/>
@@ -129,5 +132,12 @@
     <skos:scopeNote xml:lang="en">Represents the final mix including special processing such as
          equalization, compression, phasing, and sound synthesis.</skos:scopeNote>
     <skos:notation>a</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4sxq-pn90#n">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4sxq-pn90"/>
+    <skos:prefLabel xml:lang="en">not applicable</skos:prefLabel>
+    <skos:definition xml:lang="en">Item is not a disc, cylinder, or tape.</skos:definition>
+    <skos:notation>n</skos:notation>
   </rdf:Description>
 </rdf:RDF>

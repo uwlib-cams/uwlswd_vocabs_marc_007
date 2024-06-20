@@ -1,0 +1,82 @@
+<https://doi.org/10.6069/uwlswd.404b-ss58#z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.404b-ss58#z> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.404b-ss58> .
+<https://doi.org/10.6069/uwlswd.404b-ss58> <http://purl.org/dc/terms/issued> "2024" .
+<https://doi.org/10.6069/uwlswd.404b-ss58> <http://purl.org/dc/terms/contributor> <http://viaf.org/viaf/151962300> .
+<https://doi.org/10.6069/uwlswd.404b-ss58#p> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.404b-ss58#a> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.404b-ss58> .
+<https://doi.org/10.6069/uwlswd.404b-ss58#i> <http://www.w3.org/2004/02/skos/core#definition> "Cellulose nitrate film."@en .
+<https://doi.org/10.6069/uwlswd.404b-ss58#d> <http://www.w3.org/2004/02/skos/core#notation> "d" .
+<https://doi.org/10.6069/uwlswd.404b-ss58#t> <http://www.w3.org/2004/02/skos/core#definition> "Cellulose triacetate film base."@en .
+<https://doi.org/10.6069/uwlswd.404b-ss58#i> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.404b-ss58#i> <http://www.w3.org/2004/02/skos/core#notation> "i" .
+<https://doi.org/10.6069/uwlswd.404b-ss58> <http://purl.org/dc/elements/1.1/contributor> "Metadata Management Associates"@en .
+<https://doi.org/10.6069/uwlswd.404b-ss58> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<https://doi.org/10.6069/uwlswd.404b-ss58#n> <http://www.w3.org/2004/02/skos/core#definition> "On a reflective rather than a transparent\n         base."@en .
+<https://doi.org/10.6069/uwlswd.404b-ss58> <http://purl.org/dc/terms/source> <https://www.loc.gov/marc/bibliographic/bd007.html> .
+<https://doi.org/10.6069/uwlswd.404b-ss58#a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.404b-ss58> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/zero/1.0> .
+<https://doi.org/10.6069/uwlswd.404b-ss58#u> <http://www.w3.org/2004/02/skos/core#prefLabel> "unknown"@en .
+<https://doi.org/10.6069/uwlswd.404b-ss58#t> <http://www.w3.org/2004/02/skos/core#notation> "t" .
+<https://doi.org/10.6069/uwlswd.404b-ss58#c> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.404b-ss58> .
+<https://doi.org/10.6069/uwlswd.404b-ss58#m> <http://www.w3.org/2004/02/skos/core#notation> "m" .
+<https://doi.org/10.6069/uwlswd.404b-ss58> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/microform_base_of_film/microform_base_of_film.html> .
+<https://doi.org/10.6069/uwlswd.404b-ss58#c> <http://www.w3.org/2004/02/skos/core#notation> "c" .
+<https://doi.org/10.6069/uwlswd.404b-ss58#m> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.404b-ss58> .
+<https://doi.org/10.6069/uwlswd.404b-ss58#r> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.404b-ss58#c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.404b-ss58#d> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.404b-ss58> .
+<https://doi.org/10.6069/uwlswd.404b-ss58#m> <http://www.w3.org/2004/02/skos/core#prefLabel> "mixed base (nitrate and safety)"@en .
+<https://doi.org/10.6069/uwlswd.404b-ss58#c> <http://www.w3.org/2004/02/skos/core#definition> "Acetate safety base film whose exact type cannot be\n         determined."@en .
+<https://doi.org/10.6069/uwlswd.404b-ss58#i> <http://www.w3.org/2004/02/skos/core#prefLabel> "nitrate base"@en .
+<https://doi.org/10.6069/uwlswd.404b-ss58#b> <http://www.w3.org/2004/02/skos/core#prefLabel> "not safety base [obsolete]"@en .
+<https://doi.org/10.6069/uwlswd.404b-ss58#b> <http://www.w3.org/2004/02/skos/core#notation> "b" .
+<https://doi.org/10.6069/uwlswd.404b-ss58> <http://purl.org/dc/terms/provenance> <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> .
+<https://doi.org/10.6069/uwlswd.404b-ss58#t> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.404b-ss58> .
+<https://doi.org/10.6069/uwlswd.404b-ss58#a> <http://www.w3.org/2004/02/skos/core#prefLabel> "safety base, undetermined"@en .
+<https://doi.org/10.6069/uwlswd.404b-ss58#p> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.404b-ss58> .
+<https://doi.org/10.6069/uwlswd.404b-ss58#a> <http://www.w3.org/2004/02/skos/core#notation> "a" .
+<https://doi.org/10.6069/uwlswd.404b-ss58#c> <http://www.w3.org/2004/02/skos/core#prefLabel> "safety base, acetate undetermined"@en .
+<https://doi.org/10.6069/uwlswd.404b-ss58#r> <http://www.w3.org/2004/02/skos/core#definition> "Mixed safety base films are spliced together; no nitrate\n         film."@en .
+<https://doi.org/10.6069/uwlswd.404b-ss58> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/microform_base_of_film/microform_base_of_film.rdf> .
+<https://doi.org/10.6069/uwlswd.404b-ss58> <http://purl.org/dc/terms/source> <http://marc21rdf.info> .
+<https://doi.org/10.6069/uwlswd.404b-ss58> <http://purl.org/dc/elements/1.1/language> "en" .
+<https://doi.org/10.6069/uwlswd.404b-ss58#i> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.404b-ss58> .
+<https://doi.org/10.6069/uwlswd.404b-ss58#t> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.404b-ss58#n> <http://www.w3.org/2004/02/skos/core#notation> "n" .
+<https://doi.org/10.6069/uwlswd.404b-ss58> <http://purl.org/dc/terms/format> <http://www.w3.org/ns/formats/N-Triples> .
+<https://doi.org/10.6069/uwlswd.404b-ss58#p> <http://www.w3.org/2004/02/skos/core#notation> "p" .
+<https://doi.org/10.6069/uwlswd.404b-ss58#a> <http://www.w3.org/2004/02/skos/core#definition> "Type has not been identified."@en .
+<https://doi.org/10.6069/uwlswd.404b-ss58#u> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.404b-ss58#p> <http://www.w3.org/2004/02/skos/core#definition> "Film base is made of a synthetic resin (e.g.,\n         estar)."@en .
+<https://doi.org/10.6069/uwlswd.404b-ss58#d> <http://www.w3.org/2004/02/skos/core#definition> "Cellulose diacetate film base."@en .
+<https://doi.org/10.6069/uwlswd.404b-ss58#u> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.404b-ss58> .
+<https://doi.org/10.6069/uwlswd.404b-ss58> <https://schema.org/version> "1-0-0" .
+<https://doi.org/10.6069/uwlswd.404b-ss58#z> <http://www.w3.org/2004/02/skos/core#definition> "Base of film other than safety base, undetermined, safety base,\n         acetate undetermined, safety base, diacetate, nitrate base, mixed base (nitrate and\n         safety), not applicable, safety base, polyester, safety base, mixed, safety base, or\n         triacetate."@en .
+<https://doi.org/10.6069/uwlswd.404b-ss58> <https://schema.org/disambiguatingDescription> "SKOS Concept Scheme for MARC 00X\n         Values"@en .
+<https://doi.org/10.6069/uwlswd.404b-ss58#c> <http://www.w3.org/2004/02/skos/core#scopeNote> "I.e., where it is unknown if the type is diacetate or\n         triacetate."@en .
+<https://doi.org/10.6069/uwlswd.404b-ss58> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/microform_base_of_film/microform_base_of_film.jsonld> .
+<https://doi.org/10.6069/uwlswd.404b-ss58> <http://purl.org/dc/terms/type> <http://purl.org/dc/dcmitype/Dataset> .
+<https://doi.org/10.6069/uwlswd.404b-ss58#n> <http://www.w3.org/2004/02/skos/core#prefLabel> "not applicable"@en .
+<https://doi.org/10.6069/uwlswd.404b-ss58#r> <http://www.w3.org/2004/02/skos/core#notation> "r" .
+<https://doi.org/10.6069/uwlswd.404b-ss58#r> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.404b-ss58> .
+<https://doi.org/10.6069/uwlswd.404b-ss58#n> <http://www.w3.org/2004/02/skos/core#scopeNote> "Used for microopaques (which can be termed microcard or\n         microprint)."@en .
+<https://doi.org/10.6069/uwlswd.404b-ss58#t> <http://www.w3.org/2004/02/skos/core#prefLabel> "safety base, triacetate"@en .
+<https://doi.org/10.6069/uwlswd.404b-ss58> <http://purl.org/dc/terms/alternative> "MARC21 007/12 values for microform expressed using\n         RDF"@en .
+<https://doi.org/10.6069/uwlswd.404b-ss58#m> <http://www.w3.org/2004/02/skos/core#definition> "Combination of nitrate base and safety base\n         film."@en .
+<https://doi.org/10.6069/uwlswd.404b-ss58#r> <http://www.w3.org/2004/02/skos/core#prefLabel> "safety base, mixed"@en .
+<https://doi.org/10.6069/uwlswd.404b-ss58> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/microform_base_of_film/microform_base_of_film.ttl> .
+<https://doi.org/10.6069/uwlswd.404b-ss58> <http://purl.org/dc/terms/title> "Microform: base of film"@en .
+<https://doi.org/10.6069/uwlswd.404b-ss58> <http://purl.org/dc/terms/creator> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.404b-ss58#d> <http://www.w3.org/2004/02/skos/core#prefLabel> "safety base, diacetate"@en .
+<https://doi.org/10.6069/uwlswd.404b-ss58> <http://purl.org/dc/terms/description> "Base of the film."@en .
+<https://doi.org/10.6069/uwlswd.404b-ss58#d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.404b-ss58#z> <http://www.w3.org/2004/02/skos/core#notation> "z" .
+<https://doi.org/10.6069/uwlswd.404b-ss58> <http://purl.org/dc/terms/publisher> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.404b-ss58#n> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.404b-ss58#n> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.404b-ss58> .
+<https://doi.org/10.6069/uwlswd.404b-ss58#z> <http://www.w3.org/2004/02/skos/core#prefLabel> "other"@en .
+<https://doi.org/10.6069/uwlswd.404b-ss58#b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.404b-ss58#u> <http://www.w3.org/2004/02/skos/core#notation> "u" .
+<https://doi.org/10.6069/uwlswd.404b-ss58#b> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.404b-ss58> .
+<https://doi.org/10.6069/uwlswd.404b-ss58#m> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.404b-ss58#p> <http://www.w3.org/2004/02/skos/core#prefLabel> "safety base, polyester"@en .

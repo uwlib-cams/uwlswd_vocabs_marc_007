@@ -1,0 +1,72 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix schema: <https://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://doi.org/10.6069/uwlswd.eqmf-h666#a> a skos:Concept ;
+    skos:definition "Regular, eye-readable text."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.eqmf-h666> ;
+    skos:notation "a" ;
+    skos:prefLabel "regular print"@en .
+
+<https://doi.org/10.6069/uwlswd.eqmf-h666#b> a skos:Concept ;
+    skos:definition """Large print text is oversized print intended for use by the
+         visually impaired."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.eqmf-h666> ;
+    skos:notation "b" ;
+    skos:prefLabel "large print"@en .
+
+<https://doi.org/10.6069/uwlswd.eqmf-h666#c> a skos:Concept ;
+    skos:definition """Braille text is embossed characters that have been formed by
+         raised dots in six-dot cells; braille is intended for use by the visually
+         impaired."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.eqmf-h666> ;
+    skos:notation "c" ;
+    skos:prefLabel "braille"@en .
+
+<https://doi.org/10.6069/uwlswd.eqmf-h666#d> a skos:Concept ;
+    skos:definition "Text in a loose-leaf binder."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.eqmf-h666> ;
+    skos:notation "d" ;
+    skos:prefLabel "text in looseleaf binder"@en .
+
+<https://doi.org/10.6069/uwlswd.eqmf-h666#u> a skos:Concept ;
+    skos:definition """Special material designation of the text is not
+         specified."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.eqmf-h666> ;
+    skos:notation "u" ;
+    skos:prefLabel "unspecified"@en .
+
+<https://doi.org/10.6069/uwlswd.eqmf-h666#z> a skos:Concept ;
+    skos:definition """Specific material designation other than regular print, large
+         print, braille, or text in looseleaf binder."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.eqmf-h666> ;
+    skos:notation "z" ;
+    skos:prefLabel "other"@en .
+
+<https://doi.org/10.6069/uwlswd.eqmf-h666> a skos:ConceptScheme ;
+    dc:contributor "Metadata Management Associates"@en ;
+    dc:language "en" ;
+    dct:alternative """MARC21 007/01 values for text expressed using
+         RDF"""@en ;
+    dct:contributor <http://viaf.org/viaf/151962300> ;
+    dct:creator <http://viaf.org/viaf/139541794> ;
+    dct:description """Special class of textual material to which an item
+         belongs."""@en ;
+    dct:format <http://www.w3.org/ns/formats/Turtle> ;
+    dct:hasFormat <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/text_specific_material_designation/text_specific_material_designation.html>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/text_specific_material_designation/text_specific_material_designation.jsonld>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/text_specific_material_designation/text_specific_material_designation.nt>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/text_specific_material_designation/text_specific_material_designation.rdf> ;
+    dct:issued "2024" ;
+    dct:license <http://creativecommons.org/publicdomain/zero/1.0> ;
+    dct:provenance <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> ;
+    dct:publisher <http://viaf.org/viaf/139541794> ;
+    dct:source <http://marc21rdf.info>,
+        <https://www.loc.gov/marc/bibliographic/bd007.html> ;
+    dct:title "Text: specific material designation"@en ;
+    dct:type <http://purl.org/dc/dcmitype/Dataset> ;
+    schema:disambiguatingDescription """SKOS Concept Scheme for MARC 00X
+         Values"""@en ;
+    schema:version "1-0-0" .
+

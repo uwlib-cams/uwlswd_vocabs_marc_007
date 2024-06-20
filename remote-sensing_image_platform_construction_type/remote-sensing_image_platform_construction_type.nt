@@ -1,0 +1,84 @@
+<https://doi.org/10.6069/uwlswd.dmgc-fs34> <http://purl.org/dc/terms/publisher> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.dmgc-fs34#a> <http://www.w3.org/2004/02/skos/core#definition> "Base for the remote-sensing device was a balloon or similar\n         lighter-than-air platform."@en .
+<https://doi.org/10.6069/uwlswd.dmgc-fs34#b> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.dmgc-fs34> .
+<https://doi.org/10.6069/uwlswd.dmgc-fs34#f> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.dmgc-fs34> .
+<https://doi.org/10.6069/uwlswd.dmgc-fs34#a> <http://www.w3.org/2004/02/skos/core#notation> "a" .
+<https://doi.org/10.6069/uwlswd.dmgc-fs34#c> <http://www.w3.org/2004/02/skos/core#prefLabel> "aircraft - medium altitude"@en .
+<https://doi.org/10.6069/uwlswd.dmgc-fs34> <http://purl.org/dc/terms/issued> "2024" .
+<https://doi.org/10.6069/uwlswd.dmgc-fs34#g> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.dmgc-fs34> <http://purl.org/dc/terms/contributor> <http://viaf.org/viaf/151962300> .
+<https://doi.org/10.6069/uwlswd.dmgc-fs34#z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.dmgc-fs34> <https://schema.org/version> "1-0-0" .
+<https://doi.org/10.6069/uwlswd.dmgc-fs34#h> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.dmgc-fs34#n> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.dmgc-fs34> .
+<https://doi.org/10.6069/uwlswd.dmgc-fs34#i> <http://www.w3.org/2004/02/skos/core#prefLabel> "submersible remote-sensing device"@en .
+<https://doi.org/10.6069/uwlswd.dmgc-fs34> <https://schema.org/disambiguatingDescription> "SKOS Concept Scheme for MARC 00X\n         Values"@en .
+<https://doi.org/10.6069/uwlswd.dmgc-fs34#b> <http://www.w3.org/2004/02/skos/core#prefLabel> "aircraft - low altitude"@en .
+<https://doi.org/10.6069/uwlswd.dmgc-fs34#c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.dmgc-fs34#g> <http://www.w3.org/2004/02/skos/core#notation> "g" .
+<https://doi.org/10.6069/uwlswd.dmgc-fs34> <http://purl.org/dc/terms/alternative> "MARC21 007/06 values for remote-sensing images expressed using\n         RDF"@en .
+<https://doi.org/10.6069/uwlswd.dmgc-fs34> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<https://doi.org/10.6069/uwlswd.dmgc-fs34#d> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.dmgc-fs34> .
+<https://doi.org/10.6069/uwlswd.dmgc-fs34#i> <http://www.w3.org/2004/02/skos/core#notation> "i" .
+<https://doi.org/10.6069/uwlswd.dmgc-fs34#g> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.dmgc-fs34> .
+<https://doi.org/10.6069/uwlswd.dmgc-fs34> <http://purl.org/dc/terms/source> <https://www.loc.gov/marc/bibliographic/bd007.html> .
+<https://doi.org/10.6069/uwlswd.dmgc-fs34#i> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.dmgc-fs34> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/zero/1.0> .
+<https://doi.org/10.6069/uwlswd.dmgc-fs34#a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.dmgc-fs34#u> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.dmgc-fs34#c> <http://www.w3.org/2004/02/skos/core#definition> "Base for the remote-sensing device was an dynamic lift aircraft\n         designed for medium altitude flight (between 29,500 ft. (8,962 m.) and 49,000 ft. (14,810\n         m.))."@en .
+<https://doi.org/10.6069/uwlswd.dmgc-fs34#h> <http://www.w3.org/2004/02/skos/core#scopeNote> "E.g., a ship or floating platform"@en .
+<https://doi.org/10.6069/uwlswd.dmgc-fs34> <http://purl.org/dc/terms/description> "Type of construction of the platform serving as the base for\n         the remote-sensing device. For the purposes of this data element, \"platform\" refers to any\n         structure that serves as a base, not only flat surfaces."@en .
+<https://doi.org/10.6069/uwlswd.dmgc-fs34#h> <http://www.w3.org/2004/02/skos/core#prefLabel> "water surface-based remote-sensing device"@en .
+<https://doi.org/10.6069/uwlswd.dmgc-fs34> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/remote-sensing_image_platform_construction_type/remote-sensing_image_platform_construction_type.ttl> .
+<https://doi.org/10.6069/uwlswd.dmgc-fs34#z> <http://www.w3.org/2004/02/skos/core#prefLabel> "other"@en .
+<https://doi.org/10.6069/uwlswd.dmgc-fs34> <http://purl.org/dc/terms/creator> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.dmgc-fs34#a> <http://www.w3.org/2004/02/skos/core#prefLabel> "balloon"@en .
+<https://doi.org/10.6069/uwlswd.dmgc-fs34#f> <http://www.w3.org/2004/02/skos/core#prefLabel> "unmanned spacecraft"@en .
+<https://doi.org/10.6069/uwlswd.dmgc-fs34> <http://purl.org/dc/terms/provenance> <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> .
+<https://doi.org/10.6069/uwlswd.dmgc-fs34#z> <http://www.w3.org/2004/02/skos/core#notation> "z" .
+<https://doi.org/10.6069/uwlswd.dmgc-fs34#c> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.dmgc-fs34> .
+<https://doi.org/10.6069/uwlswd.dmgc-fs34#a> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.dmgc-fs34> .
+<https://doi.org/10.6069/uwlswd.dmgc-fs34#e> <http://www.w3.org/2004/02/skos/core#notation> "e" .
+<https://doi.org/10.6069/uwlswd.dmgc-fs34#n> <http://www.w3.org/2004/02/skos/core#notation> "n" .
+<https://doi.org/10.6069/uwlswd.dmgc-fs34#e> <http://www.w3.org/2004/02/skos/core#definition> "Base for the remote-sensing device was a manned\n         spacecraft."@en .
+<https://doi.org/10.6069/uwlswd.dmgc-fs34#g> <http://www.w3.org/2004/02/skos/core#prefLabel> "land-based remote-sensing device"@en .
+<https://doi.org/10.6069/uwlswd.dmgc-fs34#d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.dmgc-fs34#h> <http://www.w3.org/2004/02/skos/core#notation> "h" .
+<https://doi.org/10.6069/uwlswd.dmgc-fs34#i> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.dmgc-fs34> .
+<https://doi.org/10.6069/uwlswd.dmgc-fs34#f> <http://www.w3.org/2004/02/skos/core#notation> "f" .
+<https://doi.org/10.6069/uwlswd.dmgc-fs34#c> <http://www.w3.org/2004/02/skos/core#notation> "c" .
+<https://doi.org/10.6069/uwlswd.dmgc-fs34#u> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.dmgc-fs34> .
+<https://doi.org/10.6069/uwlswd.dmgc-fs34#d> <http://www.w3.org/2004/02/skos/core#notation> "d" .
+<https://doi.org/10.6069/uwlswd.dmgc-fs34#i> <http://www.w3.org/2004/02/skos/core#definition> "Base for the remote-sensing device was designed to be submerged\n         beneath the surface of a body of water"@en .
+<https://doi.org/10.6069/uwlswd.dmgc-fs34> <http://purl.org/dc/terms/source> <http://marc21rdf.info> .
+<https://doi.org/10.6069/uwlswd.dmgc-fs34> <http://purl.org/dc/elements/1.1/language> "en" .
+<https://doi.org/10.6069/uwlswd.dmgc-fs34> <http://purl.org/dc/terms/format> <http://www.w3.org/ns/formats/N-Triples> .
+<https://doi.org/10.6069/uwlswd.dmgc-fs34#d> <http://www.w3.org/2004/02/skos/core#definition> "Base for the remote-sensing device was an dynamic lift aircraft\n         designed for high altitude flight (above 49,000 ft. (14,810 m.))."@en .
+<https://doi.org/10.6069/uwlswd.dmgc-fs34#e> <http://www.w3.org/2004/02/skos/core#prefLabel> "manned spacecraft"@en .
+<https://doi.org/10.6069/uwlswd.dmgc-fs34#n> <http://www.w3.org/2004/02/skos/core#prefLabel> "not applicable"@en .
+<https://doi.org/10.6069/uwlswd.dmgc-fs34> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/remote-sensing_image_platform_construction_type/remote-sensing_image_platform_construction_type.rdf> .
+<https://doi.org/10.6069/uwlswd.dmgc-fs34#u> <http://www.w3.org/2004/02/skos/core#notation> "u" .
+<https://doi.org/10.6069/uwlswd.dmgc-fs34#n> <http://www.w3.org/2004/02/skos/core#definition> "Not applicable."@en .
+<https://doi.org/10.6069/uwlswd.dmgc-fs34> <http://purl.org/dc/elements/1.1/contributor> "Metadata Management Associates"@en .
+<https://doi.org/10.6069/uwlswd.dmgc-fs34#d> <http://www.w3.org/2004/02/skos/core#prefLabel> "aircraft - high altitude"@en .
+<https://doi.org/10.6069/uwlswd.dmgc-fs34> <http://purl.org/dc/terms/title> "Remote-sensing image: platform construction type"@en .
+<https://doi.org/10.6069/uwlswd.dmgc-fs34#b> <http://www.w3.org/2004/02/skos/core#notation> "b" .
+<https://doi.org/10.6069/uwlswd.dmgc-fs34#b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.dmgc-fs34#b> <http://www.w3.org/2004/02/skos/core#definition> "Base for the remote-sensing device was an dynamic lift aircraft\n         designed for low altitude flight (below 29,500 ft. (8,962 m.))."@en .
+<https://doi.org/10.6069/uwlswd.dmgc-fs34#f> <http://www.w3.org/2004/02/skos/core#definition> "Base for the remote-sensing device was an unmanned\n         spacecraft."@en .
+<https://doi.org/10.6069/uwlswd.dmgc-fs34#i> <http://www.w3.org/2004/02/skos/core#scopeNote> "E.g., a submersible vessel or platform"@en .
+<https://doi.org/10.6069/uwlswd.dmgc-fs34#e> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.dmgc-fs34> .
+<https://doi.org/10.6069/uwlswd.dmgc-fs34> <http://purl.org/dc/terms/type> <http://purl.org/dc/dcmitype/Dataset> .
+<https://doi.org/10.6069/uwlswd.dmgc-fs34> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/remote-sensing_image_platform_construction_type/remote-sensing_image_platform_construction_type.jsonld> .
+<https://doi.org/10.6069/uwlswd.dmgc-fs34#g> <http://www.w3.org/2004/02/skos/core#definition> "Base for the remote-sensing device was a\n         land-based."@en .
+<https://doi.org/10.6069/uwlswd.dmgc-fs34#f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.dmgc-fs34#z> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.dmgc-fs34> .
+<https://doi.org/10.6069/uwlswd.dmgc-fs34#z> <http://www.w3.org/2004/02/skos/core#definition> "Platform construction type other than balloon, aircraft - low\n         altitude, aircraft - medium altitude, aircraft - high altitude, manned spacecraft, unmanned\n         spacecraft, land-based remote-sensing device, water surface-based remote-sensing device, or\n         submersible remote-sensing device."@en .
+<https://doi.org/10.6069/uwlswd.dmgc-fs34#n> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.dmgc-fs34#u> <http://www.w3.org/2004/02/skos/core#definition> "Construction type of the platform from which the remote-sensing\n         image was made is not known."@en .
+<https://doi.org/10.6069/uwlswd.dmgc-fs34#h> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.dmgc-fs34> .
+<https://doi.org/10.6069/uwlswd.dmgc-fs34> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/remote-sensing_image_platform_construction_type/remote-sensing_image_platform_construction_type.html> .
+<https://doi.org/10.6069/uwlswd.dmgc-fs34#h> <http://www.w3.org/2004/02/skos/core#definition> "Base for the remote-sensing device was designed to remain on\n         the surface of a body of water."@en .
+<https://doi.org/10.6069/uwlswd.dmgc-fs34#e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.dmgc-fs34#u> <http://www.w3.org/2004/02/skos/core#prefLabel> "unknown"@en .

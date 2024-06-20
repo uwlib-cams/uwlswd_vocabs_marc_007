@@ -1,0 +1,48 @@
+<https://doi.org/10.6069/uwlswd.x654-gd54> <http://purl.org/dc/terms/type> <http://purl.org/dc/dcmitype/Dataset> .
+<https://doi.org/10.6069/uwlswd.x654-gd54> <http://purl.org/dc/terms/source> <https://www.loc.gov/marc/bibliographic/bd007.html> .
+<https://doi.org/10.6069/uwlswd.x654-gd54#u> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.x654-gd54> .
+<https://doi.org/10.6069/uwlswd.x654-gd54#b> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.x654-gd54> .
+<https://doi.org/10.6069/uwlswd.x654-gd54#c> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.x654-gd54> .
+<https://doi.org/10.6069/uwlswd.x654-gd54#m> <http://www.w3.org/2004/02/skos/core#notation> "m" .
+<https://doi.org/10.6069/uwlswd.x654-gd54#u> <http://www.w3.org/2004/02/skos/core#notation> "u" .
+<https://doi.org/10.6069/uwlswd.x654-gd54#c> <http://www.w3.org/2004/02/skos/core#definition> "Has more than one color."@en .
+<https://doi.org/10.6069/uwlswd.x654-gd54> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/zero/1.0> .
+<https://doi.org/10.6069/uwlswd.x654-gd54#m> <http://www.w3.org/2004/02/skos/core#prefLabel> "mixed"@en .
+<https://doi.org/10.6069/uwlswd.x654-gd54> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<https://doi.org/10.6069/uwlswd.x654-gd54> <http://purl.org/dc/terms/publisher> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.x654-gd54#z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.x654-gd54> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/microform_color/microform_color.html> .
+<https://doi.org/10.6069/uwlswd.x654-gd54#b> <http://www.w3.org/2004/02/skos/core#scopeNote> "Includes only one color or hue other than black, for example,\n         blue-and-white (blue-and-transparent). Always used for microopaques."@en .
+<https://doi.org/10.6069/uwlswd.x654-gd54#b> <http://www.w3.org/2004/02/skos/core#prefLabel> "black-and-white"@en .
+<https://doi.org/10.6069/uwlswd.x654-gd54#c> <http://www.w3.org/2004/02/skos/core#notation> "c" .
+<https://doi.org/10.6069/uwlswd.x654-gd54> <http://purl.org/dc/terms/creator> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.x654-gd54#u> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.x654-gd54> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/microform_color/microform_color.jsonld> .
+<https://doi.org/10.6069/uwlswd.x654-gd54#b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.x654-gd54> <http://purl.org/dc/terms/description> "Color of the image for microforms."@en .
+<https://doi.org/10.6069/uwlswd.x654-gd54> <http://purl.org/dc/terms/title> "Microform: color"@en .
+<https://doi.org/10.6069/uwlswd.x654-gd54#m> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.x654-gd54> <http://purl.org/dc/terms/provenance> <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> .
+<https://doi.org/10.6069/uwlswd.x654-gd54#b> <http://www.w3.org/2004/02/skos/core#notation> "b" .
+<https://doi.org/10.6069/uwlswd.x654-gd54> <http://purl.org/dc/terms/contributor> <http://viaf.org/viaf/151962300> .
+<https://doi.org/10.6069/uwlswd.x654-gd54#z> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.x654-gd54> .
+<https://doi.org/10.6069/uwlswd.x654-gd54#b> <http://www.w3.org/2004/02/skos/core#definition> "Image is in black-and-white (usually\n         black-and-transparent)."@en .
+<https://doi.org/10.6069/uwlswd.x654-gd54> <https://schema.org/version> "1-0-0" .
+<https://doi.org/10.6069/uwlswd.x654-gd54> <http://purl.org/dc/terms/source> <http://marc21rdf.info> .
+<https://doi.org/10.6069/uwlswd.x654-gd54#c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.x654-gd54#m> <http://www.w3.org/2004/02/skos/core#definition> "Combination of one-color and multicolored\n         images."@en .
+<https://doi.org/10.6069/uwlswd.x654-gd54> <http://purl.org/dc/terms/alternative> "MARC21 007/09 values for microform expressed using\n         RDF"@en .
+<https://doi.org/10.6069/uwlswd.x654-gd54> <http://purl.org/dc/terms/format> <http://www.w3.org/ns/formats/N-Triples> .
+<https://doi.org/10.6069/uwlswd.x654-gd54> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/microform_color/microform_color.rdf> .
+<https://doi.org/10.6069/uwlswd.x654-gd54> <http://purl.org/dc/terms/issued> "2024" .
+<https://doi.org/10.6069/uwlswd.x654-gd54#u> <http://www.w3.org/2004/02/skos/core#prefLabel> "unknown"@en .
+<https://doi.org/10.6069/uwlswd.x654-gd54#z> <http://www.w3.org/2004/02/skos/core#definition> "Color other than black-and-white, multicolored, or\n         mixed."@en .
+<https://doi.org/10.6069/uwlswd.x654-gd54#c> <http://www.w3.org/2004/02/skos/core#prefLabel> "multicolored"@en .
+<https://doi.org/10.6069/uwlswd.x654-gd54> <https://schema.org/disambiguatingDescription> "SKOS Concept Scheme for MARC 00X\n         Values"@en .
+<https://doi.org/10.6069/uwlswd.x654-gd54> <http://purl.org/dc/elements/1.1/language> "en" .
+<https://doi.org/10.6069/uwlswd.x654-gd54> <http://purl.org/dc/elements/1.1/contributor> "Metadata Management Associates"@en .
+<https://doi.org/10.6069/uwlswd.x654-gd54#z> <http://www.w3.org/2004/02/skos/core#notation> "z" .
+<https://doi.org/10.6069/uwlswd.x654-gd54#z> <http://www.w3.org/2004/02/skos/core#prefLabel> "other"@en .
+<https://doi.org/10.6069/uwlswd.x654-gd54> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/microform_color/microform_color.ttl> .
+<https://doi.org/10.6069/uwlswd.x654-gd54#u> <http://www.w3.org/2004/02/skos/core#definition> "Color of the microform is not known."@en .
+<https://doi.org/10.6069/uwlswd.x654-gd54#m> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.x654-gd54> .

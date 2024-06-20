@@ -1,0 +1,117 @@
+<https://doi.org/10.6069/uwlswd.2skv-5f55#g> <http://www.w3.org/2004/02/skos/core#definition> "Width of the film is 70 mm."@en .
+<https://doi.org/10.6069/uwlswd.2skv-5f55#u> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.2skv-5f55> .
+<https://doi.org/10.6069/uwlswd.2skv-5f55#d> <http://www.w3.org/2004/02/skos/core#definition> "Width of the film is 16 mm."@en .
+<https://doi.org/10.6069/uwlswd.2skv-5f55#b> <http://www.w3.org/2004/02/skos/core#scopeNote> "Single 8 mm. film is a Japanese equivalent of super 8 mm.\n         film."@en .
+<https://doi.org/10.6069/uwlswd.2skv-5f55#v> <http://www.w3.org/2004/02/skos/core#definition> "Dimensions of the transparency are either 8x10 in. or 21x26\n         cm."@en .
+<https://doi.org/10.6069/uwlswd.2skv-5f55#x> <http://www.w3.org/2004/02/skos/core#prefLabel> "10x10 in. or 26x26 cm. transparency"@en .
+<https://doi.org/10.6069/uwlswd.2skv-5f55#k> <http://www.w3.org/2004/02/skos/core#prefLabel> "2 1/4 x 2 1/4 in. or 6x6 cm. slide"@en .
+<https://doi.org/10.6069/uwlswd.2skv-5f55#b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.2skv-5f55#yx> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.2skv-5f55> .
+<https://doi.org/10.6069/uwlswd.2skv-5f55#ux> <http://www.w3.org/2004/02/skos/core#prefLabel> "7x7 in. or 18x18 cm. [obsolete]"@en .
+<https://doi.org/10.6069/uwlswd.2skv-5f55#c> <http://www.w3.org/2004/02/skos/core#definition> "Width of the film is 9.5 mm."@en .
+<https://doi.org/10.6069/uwlswd.2skv-5f55#s> <http://www.w3.org/2004/02/skos/core#notation> "s" .
+<https://doi.org/10.6069/uwlswd.2skv-5f55#yx> <http://www.w3.org/2004/02/skos/core#notation> "y" .
+<https://doi.org/10.6069/uwlswd.2skv-5f55#ux> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.2skv-5f55> .
+<https://doi.org/10.6069/uwlswd.2skv-5f55#d> <http://www.w3.org/2004/02/skos/core#prefLabel> "16 mm. film width"@en .
+<https://doi.org/10.6069/uwlswd.2skv-5f55#k> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.2skv-5f55#f> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.2skv-5f55> .
+<https://doi.org/10.6069/uwlswd.2skv-5f55#w> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.2skv-5f55> <http://purl.org/dc/terms/publisher> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.2skv-5f55#e> <http://www.w3.org/2004/02/skos/core#prefLabel> "28 mm. film width"@en .
+<https://doi.org/10.6069/uwlswd.2skv-5f55#y> <http://www.w3.org/2004/02/skos/core#prefLabel> "7x7 in. or 18x18 cm. transparency"@en .
+<https://doi.org/10.6069/uwlswd.2skv-5f55#w> <http://www.w3.org/2004/02/skos/core#prefLabel> "9x9 in. or 23x23 cm. transparency"@en .
+<https://doi.org/10.6069/uwlswd.2skv-5f55#v> <http://www.w3.org/2004/02/skos/core#notation> "v" .
+<https://doi.org/10.6069/uwlswd.2skv-5f55#ux> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.2skv-5f55> <http://purl.org/dc/terms/title> "Projected graphic: dimensions"@en .
+<https://doi.org/10.6069/uwlswd.2skv-5f55#x> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.2skv-5f55#y> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.2skv-5f55> .
+<https://doi.org/10.6069/uwlswd.2skv-5f55#j> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.2skv-5f55> .
+<https://doi.org/10.6069/uwlswd.2skv-5f55#c> <http://www.w3.org/2004/02/skos/core#notation> "c" .
+<https://doi.org/10.6069/uwlswd.2skv-5f55#e> <http://www.w3.org/2004/02/skos/core#definition> "Width of the film is 28 mm."@en .
+<https://doi.org/10.6069/uwlswd.2skv-5f55#j> <http://www.w3.org/2004/02/skos/core#prefLabel> "2x2 in. or 5x5 cm. slide"@en .
+<https://doi.org/10.6069/uwlswd.2skv-5f55#b> <http://www.w3.org/2004/02/skos/core#prefLabel> "super 8 mm./single 8 mm. film width"@en .
+<https://doi.org/10.6069/uwlswd.2skv-5f55#d> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.2skv-5f55> .
+<https://doi.org/10.6069/uwlswd.2skv-5f55> <http://purl.org/dc/terms/format> <http://www.w3.org/ns/formats/N-Triples> .
+<https://doi.org/10.6069/uwlswd.2skv-5f55> <http://purl.org/dc/terms/source> <http://marc21rdf.info> .
+<https://doi.org/10.6069/uwlswd.2skv-5f55> <http://purl.org/dc/elements/1.1/language> "en" .
+<https://doi.org/10.6069/uwlswd.2skv-5f55#b> <http://www.w3.org/2004/02/skos/core#definition> "Width of the film is super 8 mm."@en .
+<https://doi.org/10.6069/uwlswd.2skv-5f55#j> <http://www.w3.org/2004/02/skos/core#notation> "j" .
+<https://doi.org/10.6069/uwlswd.2skv-5f55#e> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.2skv-5f55> .
+<https://doi.org/10.6069/uwlswd.2skv-5f55#x> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.2skv-5f55> .
+<https://doi.org/10.6069/uwlswd.2skv-5f55#y> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.2skv-5f55> <http://purl.org/dc/terms/issued> "2024" .
+<https://doi.org/10.6069/uwlswd.2skv-5f55> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/projected_graphic_dimensions/projected_graphic_dimensions.rdf> .
+<https://doi.org/10.6069/uwlswd.2skv-5f55#e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.2skv-5f55#e> <http://www.w3.org/2004/02/skos/core#notation> "e" .
+<https://doi.org/10.6069/uwlswd.2skv-5f55#y> <http://www.w3.org/2004/02/skos/core#definition> "Dimensions of the transparency are either 7x7 in. or 18x18\n         cm."@en .
+<https://doi.org/10.6069/uwlswd.2skv-5f55> <https://schema.org/version> "1-0-0" .
+<https://doi.org/10.6069/uwlswd.2skv-5f55#u> <http://www.w3.org/2004/02/skos/core#notation> "u" .
+<https://doi.org/10.6069/uwlswd.2skv-5f55> <https://schema.org/disambiguatingDescription> "SKOS Concept Scheme for MARC 00X\n         Values"@en .
+<https://doi.org/10.6069/uwlswd.2skv-5f55#c> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.2skv-5f55> .
+<https://doi.org/10.6069/uwlswd.2skv-5f55#z> <http://www.w3.org/2004/02/skos/core#notation> "z" .
+<https://doi.org/10.6069/uwlswd.2skv-5f55#v> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.2skv-5f55#ux> <http://www.w3.org/2004/02/skos/core#notation> "u" .
+<https://doi.org/10.6069/uwlswd.2skv-5f55#a> <http://www.w3.org/2004/02/skos/core#prefLabel> "standard 8 mm. film width"@en .
+<https://doi.org/10.6069/uwlswd.2skv-5f55#a> <http://www.w3.org/2004/02/skos/core#scopeNote> "Includes film termed Mauer 8 mm."@en .
+<https://doi.org/10.6069/uwlswd.2skv-5f55#t> <http://www.w3.org/2004/02/skos/core#definition> "Dimensions of the transparency are either 5x7 in. or 13x18\n         cm."@en .
+<https://doi.org/10.6069/uwlswd.2skv-5f55#f> <http://www.w3.org/2004/02/skos/core#notation> "f" .
+<https://doi.org/10.6069/uwlswd.2skv-5f55#b> <http://www.w3.org/2004/02/skos/core#notation> "b" .
+<https://doi.org/10.6069/uwlswd.2skv-5f55#f> <http://www.w3.org/2004/02/skos/core#definition> "Width of the film is 35 mm."@en .
+<https://doi.org/10.6069/uwlswd.2skv-5f55#a> <http://www.w3.org/2004/02/skos/core#definition> "Width of the film is standard 8 mm."@en .
+<https://doi.org/10.6069/uwlswd.2skv-5f55#t> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.2skv-5f55> .
+<https://doi.org/10.6069/uwlswd.2skv-5f55#k> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.2skv-5f55> .
+<https://doi.org/10.6069/uwlswd.2skv-5f55#z> <http://www.w3.org/2004/02/skos/core#definition> "Dimensions other than standard 8 mm. film width, super 8\n         mm./single 8 mm. film width, 9.5 mm. film width, 16 mm. film width, 28 mm. film width, 35\n         mm. film width, 70 mm. film width, 2x2 in. or 5x5 cm. slide, 2 1/4 x 2 1/4 in. or 6x6 cm.\n         slide, 4x5 in. or 10x13 cm. transparency, 5x7 in. or 13x18 cm. transparency, 8x10 in. or\n         21x26 cm. transparency, 9x9 in. or 23x23 cm. transparency, 10x10 in. or 26x26 cm.\n         transparency, or 7x7 in. or 18x18 cm. transparency."@en .
+<https://doi.org/10.6069/uwlswd.2skv-5f55#w> <http://www.w3.org/2004/02/skos/core#notation> "w" .
+<https://doi.org/10.6069/uwlswd.2skv-5f55#t> <http://www.w3.org/2004/02/skos/core#prefLabel> "5x7 in. or 13x18 cm. transparency"@en .
+<https://doi.org/10.6069/uwlswd.2skv-5f55#a> <http://www.w3.org/2004/02/skos/core#notation> "a" .
+<https://doi.org/10.6069/uwlswd.2skv-5f55> <http://purl.org/dc/terms/creator> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.2skv-5f55#b> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.2skv-5f55> .
+<https://doi.org/10.6069/uwlswd.2skv-5f55#g> <http://www.w3.org/2004/02/skos/core#notation> "g" .
+<https://doi.org/10.6069/uwlswd.2skv-5f55#t> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.2skv-5f55#s> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.2skv-5f55> .
+<https://doi.org/10.6069/uwlswd.2skv-5f55> <http://purl.org/dc/terms/provenance> <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> .
+<https://doi.org/10.6069/uwlswd.2skv-5f55#k> <http://www.w3.org/2004/02/skos/core#notation> "k" .
+<https://doi.org/10.6069/uwlswd.2skv-5f55#j> <http://www.w3.org/2004/02/skos/core#definition> "Dimensions of the slide in its mounting are either 2x2 in. or\n         5x5 cm."@en .
+<https://doi.org/10.6069/uwlswd.2skv-5f55#s> <http://www.w3.org/2004/02/skos/core#definition> "Dimensions of the transparency are either 4x5 in. or 10x13\n         cm."@en .
+<https://doi.org/10.6069/uwlswd.2skv-5f55#s> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.2skv-5f55#u> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.2skv-5f55> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/projected_graphic_dimensions/projected_graphic_dimensions.jsonld> .
+<https://doi.org/10.6069/uwlswd.2skv-5f55#x> <http://www.w3.org/2004/02/skos/core#definition> "Dimensions of the transparency are either 10x10 in. or 26x26\n         cm."@en .
+<https://doi.org/10.6069/uwlswd.2skv-5f55#x> <http://www.w3.org/2004/02/skos/core#notation> "x" .
+<https://doi.org/10.6069/uwlswd.2skv-5f55#f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.2skv-5f55#yx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.2skv-5f55#a> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.2skv-5f55> .
+<https://doi.org/10.6069/uwlswd.2skv-5f55> <http://purl.org/dc/terms/contributor> <http://viaf.org/viaf/151962300> .
+<https://doi.org/10.6069/uwlswd.2skv-5f55#g> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.2skv-5f55> .
+<https://doi.org/10.6069/uwlswd.2skv-5f55#s> <http://www.w3.org/2004/02/skos/core#prefLabel> "4x5 in. or 10x13 cm. transparency"@en .
+<https://doi.org/10.6069/uwlswd.2skv-5f55#d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.2skv-5f55#u> <http://www.w3.org/2004/02/skos/core#prefLabel> "unknown"@en .
+<https://doi.org/10.6069/uwlswd.2skv-5f55#v> <http://www.w3.org/2004/02/skos/core#prefLabel> "8x10 in. or 21x26 cm. transparency"@en .
+<https://doi.org/10.6069/uwlswd.2skv-5f55#y> <http://www.w3.org/2004/02/skos/core#notation> "y" .
+<https://doi.org/10.6069/uwlswd.2skv-5f55#t> <http://www.w3.org/2004/02/skos/core#notation> "t" .
+<https://doi.org/10.6069/uwlswd.2skv-5f55#g> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.2skv-5f55#g> <http://www.w3.org/2004/02/skos/core#prefLabel> "70 mm. film width"@en .
+<https://doi.org/10.6069/uwlswd.2skv-5f55#k> <http://www.w3.org/2004/02/skos/core#definition> "Dimensions of the slide in its mounting are either 2 1/4 x 2\n         1/4 in. or 6x6 cm."@en .
+<https://doi.org/10.6069/uwlswd.2skv-5f55#a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.2skv-5f55#yx> <http://www.w3.org/2004/02/skos/core#prefLabel> "unknown [obsolete]"@en .
+<https://doi.org/10.6069/uwlswd.2skv-5f55#f> <http://www.w3.org/2004/02/skos/core#prefLabel> "35 mm. film width"@en .
+<https://doi.org/10.6069/uwlswd.2skv-5f55> <http://purl.org/dc/terms/type> <http://purl.org/dc/dcmitype/Dataset> .
+<https://doi.org/10.6069/uwlswd.2skv-5f55#z> <http://www.w3.org/2004/02/skos/core#prefLabel> "other"@en .
+<https://doi.org/10.6069/uwlswd.2skv-5f55#j> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.2skv-5f55#v> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.2skv-5f55> .
+<https://doi.org/10.6069/uwlswd.2skv-5f55#u> <http://www.w3.org/2004/02/skos/core#definition> "Dimensions are not known."@en .
+<https://doi.org/10.6069/uwlswd.2skv-5f55> <http://purl.org/dc/elements/1.1/contributor> "Metadata Management Associates"@en .
+<https://doi.org/10.6069/uwlswd.2skv-5f55> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<https://doi.org/10.6069/uwlswd.2skv-5f55#c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.2skv-5f55#d> <http://www.w3.org/2004/02/skos/core#notation> "d" .
+<https://doi.org/10.6069/uwlswd.2skv-5f55#c> <http://www.w3.org/2004/02/skos/core#prefLabel> "9.5 mm. film width"@en .
+<https://doi.org/10.6069/uwlswd.2skv-5f55> <http://purl.org/dc/terms/description> "Width or dimensions of the projected graphic item. Width is\n         given for filmstrips. Height and width are given for slides and\n         transparencies."@en .
+<https://doi.org/10.6069/uwlswd.2skv-5f55> <http://purl.org/dc/terms/source> <https://www.loc.gov/marc/bibliographic/bd007.html> .
+<https://doi.org/10.6069/uwlswd.2skv-5f55> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/zero/1.0> .
+<https://doi.org/10.6069/uwlswd.2skv-5f55> <http://purl.org/dc/terms/alternative> "MARC21 007/07 values for projected graphics expressed using\n         RDF"@en .
+<https://doi.org/10.6069/uwlswd.2skv-5f55#w> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.2skv-5f55> .
+<https://doi.org/10.6069/uwlswd.2skv-5f55#z> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.2skv-5f55> .
+<https://doi.org/10.6069/uwlswd.2skv-5f55> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/projected_graphic_dimensions/projected_graphic_dimensions.html> .
+<https://doi.org/10.6069/uwlswd.2skv-5f55#w> <http://www.w3.org/2004/02/skos/core#definition> "Dimensions of the transparency are either 9x9 in. or 23x23\n         cm."@en .
+<https://doi.org/10.6069/uwlswd.2skv-5f55#z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.2skv-5f55> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/projected_graphic_dimensions/projected_graphic_dimensions.ttl> .

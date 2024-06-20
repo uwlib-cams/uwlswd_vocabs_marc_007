@@ -1,0 +1,136 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix schema: <https://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://doi.org/10.6069/uwlswd.yayd-4y11#a> a skos:Concept ;
+    skos:definition """Sound to accompany a projected graphic is carried on an optical
+         track that is part of a film."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.yayd-4y11> ;
+    skos:notation "a" ;
+    skos:prefLabel "optical sound track on motion picture film"@en ;
+    skos:scopeNote """For 16 and 35 mm. films, it is usually assumed that sound is
+         carried on an optical track."""@en .
+
+<https://doi.org/10.6069/uwlswd.yayd-4y11#b> a skos:Concept ;
+    skos:definition """Sound to accompany a projected graphic is carried on a magnetic
+         track that is part of the film."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.yayd-4y11> ;
+    skos:notation "b" ;
+    skos:prefLabel "magnetic sound track on motion picture film"@en ;
+    skos:scopeNote """70 mm. motion picture films often include magnetic sound
+         tracks."""@en .
+
+<https://doi.org/10.6069/uwlswd.yayd-4y11#c> a skos:Concept ;
+    skos:definition """Sound to accompany an item is carried on a magnetic audio tape
+         cartridge."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.yayd-4y11> ;
+    skos:notation "c" ;
+    skos:prefLabel "magnetic audio tape in cartridge"@en .
+
+<https://doi.org/10.6069/uwlswd.yayd-4y11#d> a skos:Concept ;
+    skos:definition """Sound to accompany an item is carried on a sound
+         disc."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.yayd-4y11> ;
+    skos:notation "d" ;
+    skos:prefLabel "sound disc"@en ;
+    skos:scopeNote """This method of providing for sound is typically used with
+         filmstrips. Sound discs include 7, 10, and 12 in. vinyl phonograph records and 4 3/4 in.
+         compact discs."""@en .
+
+<https://doi.org/10.6069/uwlswd.yayd-4y11#e> a skos:Concept ;
+    skos:definition """Sound to accompany an item is carried on a reel of magnetic
+         audio tape."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.yayd-4y11> ;
+    skos:notation "e" ;
+    skos:prefLabel "magnetic audio tape on reel"@en .
+
+<https://doi.org/10.6069/uwlswd.yayd-4y11#f> a skos:Concept ;
+    skos:definition """Sound to accompany an item is carried on a cassette of magnetic
+         audio tape."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.yayd-4y11> ;
+    skos:notation "f" ;
+    skos:prefLabel "magnetic audio tape in cassette"@en .
+
+<https://doi.org/10.6069/uwlswd.yayd-4y11#g> a skos:Concept ;
+    skos:definition """Sound to accompany a projected graphic is carried on both an
+         optical and magnetic track."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.yayd-4y11> ;
+    skos:notation "g" ;
+    skos:prefLabel """optical and magnetic sound track on motion picture
+         film"""@en .
+
+<https://doi.org/10.6069/uwlswd.yayd-4y11#gx> a skos:Concept ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.yayd-4y11> ;
+    skos:notation "g" ;
+    skos:prefLabel "other [obsolete]"@en .
+
+<https://doi.org/10.6069/uwlswd.yayd-4y11#h> a skos:Concept ;
+    skos:definition """Sound to accompany an item is included as part of a
+         videotape."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.yayd-4y11> ;
+    skos:notation "h" ;
+    skos:prefLabel "videotape"@en ;
+    skos:scopeNote """Videotape is not ordinarily used to record only
+         sound."""@en .
+
+<https://doi.org/10.6069/uwlswd.yayd-4y11#i> a skos:Concept ;
+    skos:definition """Sound to accompany an item is included as part of a
+         videodisc."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.yayd-4y11> ;
+    skos:notation "i" ;
+    skos:prefLabel "videodisc"@en ;
+    skos:scopeNote """Videodiscs are not ordinarily used to record only sound. A
+         distinction must be made between videodiscs (e.g., 12 in. laser-scan videodiscs that
+         include video information) and compact discs that are used to record sound only (e.g., 4
+         3/4 in. audio compact discs). The technology to physically record video or audio
+         information on digital disc systems is the same."""@en .
+
+<https://doi.org/10.6069/uwlswd.yayd-4y11#pound> a skos:Concept ;
+    skos:definition "Sound is not present."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.yayd-4y11> ;
+    skos:notation "#" ;
+    skos:prefLabel "no sound (silent)"@en .
+
+<https://doi.org/10.6069/uwlswd.yayd-4y11#u> a skos:Concept ;
+    skos:definition "Medium for sound is not known."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.yayd-4y11> ;
+    skos:notation "u" ;
+    skos:prefLabel "unknown"@en .
+
+<https://doi.org/10.6069/uwlswd.yayd-4y11#z> a skos:Concept ;
+    skos:definition """Medium for sound other than no sound (silent), optical sound
+         track on motion picture film, magnetic sound track on motion picture film, magnetic audio
+         tape in cartridge, sound disc, magnetic audio tape on reel, magnetic audio tape in
+         cassette, optical and magnetic sound track on videotape, or videodisc."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.yayd-4y11> ;
+    skos:notation "z" ;
+    skos:prefLabel "other"@en .
+
+<https://doi.org/10.6069/uwlswd.yayd-4y11> a skos:ConceptScheme ;
+    dc:contributor "Metadata Management Associates"@en ;
+    dc:language "en" ;
+    dct:alternative """MARC21 007/06 values for projected graphics expressed using
+         RDF"""@en ;
+    dct:contributor <http://viaf.org/viaf/151962300> ;
+    dct:creator <http://viaf.org/viaf/139541794> ;
+    dct:description """Specific medium used to carry the sound of an item (whether the
+         sound is on the projected graphic or separate) and the type of sound playback required for
+         the item."""@en ;
+    dct:format <http://www.w3.org/ns/formats/Turtle> ;
+    dct:hasFormat <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/projected_graphic_medium_for_sound/projected_graphic_medium_for_sound.html>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/projected_graphic_medium_for_sound/projected_graphic_medium_for_sound.jsonld>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/projected_graphic_medium_for_sound/projected_graphic_medium_for_sound.nt>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/projected_graphic_medium_for_sound/projected_graphic_medium_for_sound.rdf> ;
+    dct:issued "2024" ;
+    dct:license <http://creativecommons.org/publicdomain/zero/1.0> ;
+    dct:provenance <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> ;
+    dct:publisher <http://viaf.org/viaf/139541794> ;
+    dct:source <http://marc21rdf.info>,
+        <https://www.loc.gov/marc/bibliographic/bd007.html> ;
+    dct:title "Projected graphic: medium for sound"@en ;
+    dct:type <http://purl.org/dc/dcmitype/Dataset> ;
+    schema:disambiguatingDescription """SKOS Concept Scheme for MARC 00X
+         Values"""@en ;
+    schema:version "1-0-0" .
+

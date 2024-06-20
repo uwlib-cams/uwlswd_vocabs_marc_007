@@ -1,15 +1,11 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schema="https://schema.org/" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.brtx-qb17#b">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.brtx-qb17"/>
-    <skos:prefLabel xml:lang="en">file reproduced from microform</skos:prefLabel>
-    <skos:definition xml:lang="en">Content comprising the electronic resource has been created by
-         scanning from microform.</skos:definition>
-    <skos:scopeNote xml:lang="en">Examples of microform are: 16mm microfilm, 35mm microfilm, 105mm
-         microfiche, microcard, micro-opaque, etc.</skos:scopeNote>
-    <skos:notation>b</skos:notation>
-  </rdf:Description>
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:dct="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:schema="https://schema.org/"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.brtx-qb17">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
     <dct:type rdf:resource="http://purl.org/dc/dcmitype/Dataset"/>
@@ -37,25 +33,6 @@
     <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/electronic_resource_antecedent_or_source/electronic_resource_antecedent_or_source.jsonld"/>
     <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/electronic_resource_antecedent_or_source/electronic_resource_antecedent_or_source.html"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.brtx-qb17#c">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.brtx-qb17"/>
-    <skos:prefLabel xml:lang="en">file reproduced from an electronic resource</skos:prefLabel>
-    <skos:definition xml:lang="en">Electronic resource has been created or copied from an existing
-         electronic resource.</skos:definition>
-    <skos:scopeNote xml:lang="en">E.g., to generate new copies or derivative copies with lower
-         resolution or smaller file size; to process an existing file with Optical Character
-         Recognition - OCR - software; etc.</skos:scopeNote>
-    <skos:notation>c</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.brtx-qb17#u">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.brtx-qb17"/>
-    <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
-    <skos:definition xml:lang="en">Antecedent or source of this reformatted electronic resource is
-         not known.</skos:definition>
-    <skos:notation>u</skos:notation>
-  </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.brtx-qb17#a">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.brtx-qb17"/>
@@ -69,15 +46,13 @@
          the original.</skos:scopeNote>
     <skos:notation>a</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.brtx-qb17#m">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.brtx-qb17#u">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.brtx-qb17"/>
-    <skos:prefLabel xml:lang="en">mixed</skos:prefLabel>
-    <skos:definition xml:lang="en">Images comprising the electronic resource have been created
-         from mixed sources.</skos:definition>
-    <skos:scopeNote xml:lang="en">Portions scanned from original item, portions scanned from
-         microfilm, etc.</skos:scopeNote>
-    <skos:notation>m</skos:notation>
+    <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
+    <skos:definition xml:lang="en">Antecedent or source of this reformatted electronic resource is
+         not known.</skos:definition>
+    <skos:notation>u</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.brtx-qb17#d">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -92,6 +67,27 @@
          analog tapes.</skos:scopeNote>
     <skos:notation>d</skos:notation>
   </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.brtx-qb17#c">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.brtx-qb17"/>
+    <skos:prefLabel xml:lang="en">file reproduced from an electronic resource</skos:prefLabel>
+    <skos:definition xml:lang="en">Electronic resource has been created or copied from an existing
+         electronic resource.</skos:definition>
+    <skos:scopeNote xml:lang="en">E.g., to generate new copies or derivative copies with lower
+         resolution or smaller file size; to process an existing file with Optical Character
+         Recognition - OCR - software; etc.</skos:scopeNote>
+    <skos:notation>c</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.brtx-qb17#m">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.brtx-qb17"/>
+    <skos:prefLabel xml:lang="en">mixed</skos:prefLabel>
+    <skos:definition xml:lang="en">Images comprising the electronic resource have been created
+         from mixed sources.</skos:definition>
+    <skos:scopeNote xml:lang="en">Portions scanned from original item, portions scanned from
+         microfilm, etc.</skos:scopeNote>
+    <skos:notation>m</skos:notation>
+  </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.brtx-qb17#n">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.brtx-qb17"/>
@@ -101,5 +97,15 @@
     <skos:scopeNote xml:lang="en">Appropriate for electronic resources other than those created
          during a reformatting process.</skos:scopeNote>
     <skos:notation>n</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.brtx-qb17#b">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.brtx-qb17"/>
+    <skos:prefLabel xml:lang="en">file reproduced from microform</skos:prefLabel>
+    <skos:definition xml:lang="en">Content comprising the electronic resource has been created by
+         scanning from microform.</skos:definition>
+    <skos:scopeNote xml:lang="en">Examples of microform are: 16mm microfilm, 35mm microfilm, 105mm
+         microfiche, microcard, micro-opaque, etc.</skos:scopeNote>
+    <skos:notation>b</skos:notation>
   </rdf:Description>
 </rdf:RDF>

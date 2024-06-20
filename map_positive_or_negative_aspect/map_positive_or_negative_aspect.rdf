@@ -1,12 +1,11 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schema="https://schema.org/" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.kvz5-9t36#m">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.kvz5-9t36"/>
-    <skos:prefLabel xml:lang="en">mixed polarity</skos:prefLabel>
-    <skos:definition xml:lang="en">Mixture of positive and negative images.</skos:definition>
-    <skos:notation>m</skos:notation>
-  </rdf:Description>
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:dct="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:schema="https://schema.org/"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.kvz5-9t36">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
     <dct:type rdf:resource="http://purl.org/dc/dcmitype/Dataset"/>
@@ -29,12 +28,10 @@
     <dct:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0"/>
     <schema:version>1-0-0</schema:version>
     <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.kvz5-9t36#u">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.kvz5-9t36"/>
-    <skos:prefLabel xml:lang="en">unknown [obsolete]</skos:prefLabel>
-    <skos:notation>u</skos:notation>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/map_positive_or_negative_aspect/map_positive_or_negative_aspect.ttl"/>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/map_positive_or_negative_aspect/map_positive_or_negative_aspect.nt"/>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/map_positive_or_negative_aspect/map_positive_or_negative_aspect.jsonld"/>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/map_positive_or_negative_aspect/map_positive_or_negative_aspect.html"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.kvz5-9t36#n">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -51,6 +48,13 @@
          background.</skos:definition>
     <skos:notation>a</skos:notation>
   </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.kvz5-9t36#m">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.kvz5-9t36"/>
+    <skos:prefLabel xml:lang="en">mixed polarity</skos:prefLabel>
+    <skos:definition xml:lang="en">Mixture of positive and negative images.</skos:definition>
+    <skos:notation>m</skos:notation>
+  </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.kvz5-9t36#b">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.kvz5-9t36"/>
@@ -58,5 +62,11 @@
     <skos:definition xml:lang="en">Lines and characters are light on dark
          background.</skos:definition>
     <skos:notation>b</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.kvz5-9t36#u">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.kvz5-9t36"/>
+    <skos:prefLabel xml:lang="en">unknown [obsolete]</skos:prefLabel>
+    <skos:notation>u</skos:notation>
   </rdf:Description>
 </rdf:RDF>

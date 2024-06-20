@@ -1,0 +1,99 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix schema: <https://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://doi.org/10.6069/uwlswd.d6e1-f386#d> a skos:Concept ;
+    skos:definition "Glass."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.d6e1-f386> ;
+    skos:notation "d" ;
+    skos:prefLabel "glass"@en .
+
+<https://doi.org/10.6069/uwlswd.d6e1-f386#e> a skos:Concept ;
+    skos:definition "Synthetic material."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.d6e1-f386> ;
+    skos:notation "e" ;
+    skos:prefLabel "synthetic"@en ;
+    skos:scopeNote """E.g., plastics, vinyl, etc. Most commercially issued overhead
+         transparency sets have a synthetic primary support material, unless known to be
+         otherwise."""@en .
+
+<https://doi.org/10.6069/uwlswd.d6e1-f386#j> a skos:Concept ;
+    skos:definition "Safety (i.e., not nitrate) film."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.d6e1-f386> ;
+    skos:notation "j" ;
+    skos:prefLabel "safety film"@en ;
+    skos:scopeNote """For all commercially issued filmstrips and slide sets, assume
+         that the base of the emulsion is safety film unless known to be otherwise."""@en .
+
+<https://doi.org/10.6069/uwlswd.d6e1-f386#k> a skos:Concept ;
+    skos:definition "Not safety film."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.d6e1-f386> ;
+    skos:notation "k" ;
+    skos:prefLabel "film base, other than safety film"@en .
+
+<https://doi.org/10.6069/uwlswd.d6e1-f386#m> a skos:Concept ;
+    skos:definition """Material varies for different items in a
+         collection."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.d6e1-f386> ;
+    skos:notation "m" ;
+    skos:prefLabel "mixed collection"@en ;
+    skos:scopeNote """Typically this would be used for groups of projected graphics on
+         various bases."""@en .
+
+<https://doi.org/10.6069/uwlswd.d6e1-f386#n> a skos:Concept ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.d6e1-f386> ;
+    skos:notation "n" ;
+    skos:prefLabel "not applicable [obsolete]"@en .
+
+<https://doi.org/10.6069/uwlswd.d6e1-f386#o> a skos:Concept ;
+    skos:definition "Any kind of cellulose-based paper."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.d6e1-f386> ;
+    skos:notation "o" ;
+    skos:prefLabel "paper"@en .
+
+<https://doi.org/10.6069/uwlswd.d6e1-f386#pound> a skos:Concept ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.d6e1-f386> ;
+    skos:notation "#" ;
+    skos:prefLabel "not applicable or no attempt to code [obsolete]"@en .
+
+<https://doi.org/10.6069/uwlswd.d6e1-f386#u> a skos:Concept ;
+    skos:definition """Material varies for different items in a
+         collection."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.d6e1-f386> ;
+    skos:notation "u" ;
+    skos:prefLabel "unknown"@en .
+
+<https://doi.org/10.6069/uwlswd.d6e1-f386#z> a skos:Concept ;
+    skos:definition """Base of emulsion other than glass; synthetic; safety film; film
+         base, other than safety film; mixed collection; or paper."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.d6e1-f386> ;
+    skos:notation "z" ;
+    skos:prefLabel "other"@en .
+
+<https://doi.org/10.6069/uwlswd.d6e1-f386> a skos:ConceptScheme ;
+    dc:contributor "Metadata Management Associates"@en ;
+    dc:language "en" ;
+    dct:alternative """MARC21 007/04 values for projected graphics expressed using
+         RDF"""@en ;
+    dct:contributor <http://viaf.org/viaf/151962300> ;
+    dct:creator <http://viaf.org/viaf/139541794> ;
+    dct:description """Type of material for the base of the emulsion of a
+         photonegative, filmstrip, slide, or transparency."""@en ;
+    dct:format <http://www.w3.org/ns/formats/Turtle> ;
+    dct:hasFormat <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/projected_graphic_base_of_emulsion/projected_graphic_base_of_emulsion.html>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/projected_graphic_base_of_emulsion/projected_graphic_base_of_emulsion.jsonld>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/projected_graphic_base_of_emulsion/projected_graphic_base_of_emulsion.nt>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/projected_graphic_base_of_emulsion/projected_graphic_base_of_emulsion.rdf> ;
+    dct:issued "2024" ;
+    dct:license <http://creativecommons.org/publicdomain/zero/1.0> ;
+    dct:provenance <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> ;
+    dct:publisher <http://viaf.org/viaf/139541794> ;
+    dct:source <http://marc21rdf.info>,
+        <https://www.loc.gov/marc/bibliographic/bd007.html> ;
+    dct:title "Projected graphic: Base of emulsion"@en ;
+    dct:type <http://purl.org/dc/dcmitype/Dataset> ;
+    schema:disambiguatingDescription """SKOS Concept Scheme for MARC 00X
+         Values"""@en ;
+    schema:version "1-0-0" .
+

@@ -1,0 +1,157 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix schema: <https://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://doi.org/10.6069/uwlswd.m935-w309#a> a skos:Concept ;
+    skos:definition "16 rpm."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.m935-w309> ;
+    skos:notation "a" ;
+    skos:prefLabel "16 rpm"@en ;
+    skos:scopeNote "Used for discs."@en .
+
+<https://doi.org/10.6069/uwlswd.m935-w309#b> a skos:Concept ;
+    skos:definition "33 1/3 rpm."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.m935-w309> ;
+    skos:notation "b" ;
+    skos:prefLabel "33 1/3 rpm"@en ;
+    skos:scopeNote "Used for discs."@en .
+
+<https://doi.org/10.6069/uwlswd.m935-w309#c> a skos:Concept ;
+    skos:definition "45 rpm."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.m935-w309> ;
+    skos:notation "c" ;
+    skos:prefLabel "45 rpm"@en ;
+    skos:scopeNote "Used for discs."@en .
+
+<https://doi.org/10.6069/uwlswd.m935-w309#d> a skos:Concept ;
+    skos:definition "78 rpm."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.m935-w309> ;
+    skos:notation "d" ;
+    skos:prefLabel "78 rpm"@en ;
+    skos:scopeNote "Used for discs."@en .
+
+<https://doi.org/10.6069/uwlswd.m935-w309#e> a skos:Concept ;
+    skos:definition "8 rpm."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.m935-w309> ;
+    skos:notation "e" ;
+    skos:prefLabel "8 rpm"@en ;
+    skos:scopeNote "Used for discs."@en .
+
+<https://doi.org/10.6069/uwlswd.m935-w309#f> a skos:Concept ;
+    skos:definition """1.4 meters per second. Speed is calculated from the distance
+         the playback mechanism covers on the surface of the disc per second, and not the number of
+         revolutions of the disc."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.m935-w309> ;
+    skos:notation "f" ;
+    skos:prefLabel "1.4 meters per second"@en ;
+    skos:scopeNote "Associated with compact discs (CDs)."@en .
+
+<https://doi.org/10.6069/uwlswd.m935-w309#h> a skos:Concept ;
+    skos:definition "120 rpm."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.m935-w309> ;
+    skos:notation "h" ;
+    skos:prefLabel "120 rpm"@en ;
+    skos:scopeNote "Used for cylinders."@en .
+
+<https://doi.org/10.6069/uwlswd.m935-w309#i> a skos:Concept ;
+    skos:definition "160 rpm."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.m935-w309> ;
+    skos:notation "i" ;
+    skos:prefLabel "160 rpm"@en ;
+    skos:scopeNote "Used for cylinders."@en .
+
+<https://doi.org/10.6069/uwlswd.m935-w309#k> a skos:Concept ;
+    skos:definition "15/16 inches per second."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.m935-w309> ;
+    skos:notation "k" ;
+    skos:prefLabel "15/16 ips"@en ;
+    skos:scopeNote """Occurs, for example, on half-speed mini-cassettes used in small
+         portable recorders."""@en .
+
+<https://doi.org/10.6069/uwlswd.m935-w309#l> a skos:Concept ;
+    skos:definition "1 7/8 inches per second."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.m935-w309> ;
+    skos:notation "l" ;
+    skos:prefLabel "1 7/8 ips"@en ;
+    skos:scopeNote "Occurs, for example, on standard cassettes."@en .
+
+<https://doi.org/10.6069/uwlswd.m935-w309#m> a skos:Concept ;
+    skos:definition "3 3/4 inches per second."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.m935-w309> ;
+    skos:notation "m" ;
+    skos:prefLabel "3 3/4 ips"@en ;
+    skos:scopeNote """Occurs, for example, on consumer and nonprofessional
+         reel-to-reel tapes, cartridges and very unusual cassette tapes."""@en .
+
+<https://doi.org/10.6069/uwlswd.m935-w309#n> a skos:Concept ;
+    skos:definition """Speed is not applicable to remote digital sound recordings
+         because it pertains to calculations specific to physical aspects of
+         carriers."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.m935-w309> ;
+    skos:notation "n" ;
+    skos:prefLabel "not applicable"@en .
+
+<https://doi.org/10.6069/uwlswd.m935-w309#o> a skos:Concept ;
+    skos:definition "7 1/2 inches per second."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.m935-w309> ;
+    skos:notation "o" ;
+    skos:prefLabel "7 1/2 ips"@en ;
+    skos:scopeNote """Occurs, for example, in reel-to-reel, nonprofessional, and
+         studio tapes."""@en .
+
+<https://doi.org/10.6069/uwlswd.m935-w309#p> a skos:Concept ;
+    skos:definition "15 inches per second."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.m935-w309> ;
+    skos:notation "p" ;
+    skos:prefLabel "15 ips"@en ;
+    skos:scopeNote """Occurs, for example, on reel-to-reel, studio
+         tapes."""@en .
+
+<https://doi.org/10.6069/uwlswd.m935-w309#r> a skos:Concept ;
+    skos:definition "30 inches per second."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.m935-w309> ;
+    skos:notation "r" ;
+    skos:prefLabel "30 ips"@en ;
+    skos:scopeNote """Occurs, for example, on reel-to-reel, studio tapes, but is
+         rarely used."""@en .
+
+<https://doi.org/10.6069/uwlswd.m935-w309#u> a skos:Concept ;
+    skos:definition "Unknown."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.m935-w309> ;
+    skos:notation "u" ;
+    skos:prefLabel "unknown"@en .
+
+<https://doi.org/10.6069/uwlswd.m935-w309#z> a skos:Concept ;
+    skos:definition """Speed other than 16 rpm, 33 1/3 rpm, 45 rpm, 78 rpm, 8 rpm, 1.4
+         m. per second, 120 rpm, 160 rpm, 15/16 ips, 1 7/8 ips, 3 3/4 ips, 7 1/2 ips, 15 ips, or 30
+         ips."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.m935-w309> ;
+    skos:notation "z" ;
+    skos:prefLabel "other"@en .
+
+<https://doi.org/10.6069/uwlswd.m935-w309> a skos:ConceptScheme ;
+    dc:contributor "Metadata Management Associates"@en ;
+    dc:language "en" ;
+    dct:alternative """MARC21 007/03 values for sound recordings expressed using
+         RDF"""@en ;
+    dct:contributor <http://viaf.org/viaf/151962300> ;
+    dct:creator <http://viaf.org/viaf/139541794> ;
+    dct:description "Playback speed of the sound recording."@en ;
+    dct:format <http://www.w3.org/ns/formats/Turtle> ;
+    dct:hasFormat <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/sound_recording_speed/sound_recording_speed.html>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/sound_recording_speed/sound_recording_speed.jsonld>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/sound_recording_speed/sound_recording_speed.nt>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/sound_recording_speed/sound_recording_speed.rdf> ;
+    dct:issued "2024" ;
+    dct:license <http://creativecommons.org/publicdomain/zero/1.0> ;
+    dct:provenance <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> ;
+    dct:publisher <http://viaf.org/viaf/139541794> ;
+    dct:source <http://marc21rdf.info>,
+        <https://www.loc.gov/marc/bibliographic/bd007.html> ;
+    dct:title "Sound recording: speed"@en ;
+    dct:type <http://purl.org/dc/dcmitype/Dataset> ;
+    schema:disambiguatingDescription """SKOS Concept Scheme for MARC 00X
+         Values"""@en ;
+    schema:version "1-0-0" .
+

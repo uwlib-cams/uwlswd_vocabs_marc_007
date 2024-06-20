@@ -1,0 +1,55 @@
+<https://doi.org/10.6069/uwlswd.xrxa-qa70> <http://purl.org/dc/terms/type> <http://purl.org/dc/dcmitype/Dataset> .
+<https://doi.org/10.6069/uwlswd.xrxa-qa70> <http://purl.org/dc/terms/source> <https://www.loc.gov/marc/bibliographic/bd007.html> .
+<https://doi.org/10.6069/uwlswd.xrxa-qa70#a> <http://www.w3.org/2004/02/skos/core#prefLabel> "celestial globe"@en .
+<https://doi.org/10.6069/uwlswd.xrxa-qa70#z> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.xrxa-qa70> .
+<https://doi.org/10.6069/uwlswd.xrxa-qa70#b> <http://www.w3.org/2004/02/skos/core#prefLabel> "planetary or lunar globe"@en .
+<https://doi.org/10.6069/uwlswd.xrxa-qa70#u> <http://www.w3.org/2004/02/skos/core#prefLabel> "unspecified"@en .
+<https://doi.org/10.6069/uwlswd.xrxa-qa70> <http://purl.org/dc/elements/1.1/contributor> "Metadata Management Associates"@en .
+<https://doi.org/10.6069/uwlswd.xrxa-qa70> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/zero/1.0> .
+<https://doi.org/10.6069/uwlswd.xrxa-qa70#a> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.xrxa-qa70> .
+<https://doi.org/10.6069/uwlswd.xrxa-qa70#a> <http://www.w3.org/2004/02/skos/core#notation> "a" .
+<https://doi.org/10.6069/uwlswd.xrxa-qa70#z> <http://www.w3.org/2004/02/skos/core#notation> "z" .
+<https://doi.org/10.6069/uwlswd.xrxa-qa70#z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.xrxa-qa70#c> <http://www.w3.org/2004/02/skos/core#definition> "Model of the Earth depicted on the surface of a\n         sphere."@en .
+<https://doi.org/10.6069/uwlswd.xrxa-qa70#d> <http://www.w3.org/2004/02/skos/core#prefLabel> "satellite globe (of our solar system), excluding the earth moon\n         [obsolete]"@en .
+<https://doi.org/10.6069/uwlswd.xrxa-qa70> <http://purl.org/dc/terms/alternative> "MARC21 007/01 values for globes expressed using\n         RDF"@en .
+<https://doi.org/10.6069/uwlswd.xrxa-qa70> <http://purl.org/dc/terms/creator> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.xrxa-qa70#b> <http://www.w3.org/2004/02/skos/core#definition> "Lunar globe (other than Earth's moon) or a moon depicted on the\n         surface of a sphere."@en .
+<https://doi.org/10.6069/uwlswd.xrxa-qa70#d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.xrxa-qa70> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/globe_specific_material_designation/globe_specific_material_designation.html> .
+<https://doi.org/10.6069/uwlswd.xrxa-qa70> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/globe_specific_material_designation/globe_specific_material_designation.rdf> .
+<https://doi.org/10.6069/uwlswd.xrxa-qa70> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<https://doi.org/10.6069/uwlswd.xrxa-qa70> <http://purl.org/dc/terms/provenance> <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> .
+<https://doi.org/10.6069/uwlswd.xrxa-qa70#e> <http://www.w3.org/2004/02/skos/core#prefLabel> "earth moon globe"@en .
+<https://doi.org/10.6069/uwlswd.xrxa-qa70#b> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.xrxa-qa70> .
+<https://doi.org/10.6069/uwlswd.xrxa-qa70#e> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.xrxa-qa70> .
+<https://doi.org/10.6069/uwlswd.xrxa-qa70> <http://purl.org/dc/terms/publisher> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.xrxa-qa70#e> <http://www.w3.org/2004/02/skos/core#definition> "Model of the Earth's moon depicted on the surface of a\n         sphere."@en .
+<https://doi.org/10.6069/uwlswd.xrxa-qa70> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/globe_specific_material_designation/globe_specific_material_designation.jsonld> .
+<https://doi.org/10.6069/uwlswd.xrxa-qa70> <http://purl.org/dc/terms/title> "Globe: specific material designation"@en .
+<https://doi.org/10.6069/uwlswd.xrxa-qa70#u> <http://www.w3.org/2004/02/skos/core#notation> "u" .
+<https://doi.org/10.6069/uwlswd.xrxa-qa70#d> <http://www.w3.org/2004/02/skos/core#notation> "d" .
+<https://doi.org/10.6069/uwlswd.xrxa-qa70#a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.xrxa-qa70> <http://purl.org/dc/terms/description> "Special class of material (usually the class of physical\n         object) to which an item belongs, e.g., a celestial globe."@en .
+<https://doi.org/10.6069/uwlswd.xrxa-qa70#u> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.xrxa-qa70> .
+<https://doi.org/10.6069/uwlswd.xrxa-qa70#c> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.xrxa-qa70> .
+<https://doi.org/10.6069/uwlswd.xrxa-qa70#c> <http://www.w3.org/2004/02/skos/core#prefLabel> "terrestrial globe"@en .
+<https://doi.org/10.6069/uwlswd.xrxa-qa70> <http://purl.org/dc/terms/source> <http://marc21rdf.info> .
+<https://doi.org/10.6069/uwlswd.xrxa-qa70> <http://purl.org/dc/elements/1.1/language> "en" .
+<https://doi.org/10.6069/uwlswd.xrxa-qa70> <http://purl.org/dc/terms/format> <http://www.w3.org/ns/formats/N-Triples> .
+<https://doi.org/10.6069/uwlswd.xrxa-qa70#z> <http://www.w3.org/2004/02/skos/core#definition> "Specific material designation other than celestial globe,\n         planetary or lunar globe, terrestrial globe, Earth moon globe."@en .
+<https://doi.org/10.6069/uwlswd.xrxa-qa70> <http://purl.org/dc/terms/issued> "2024" .
+<https://doi.org/10.6069/uwlswd.xrxa-qa70> <http://purl.org/dc/terms/contributor> <http://viaf.org/viaf/151962300> .
+<https://doi.org/10.6069/uwlswd.xrxa-qa70> <https://schema.org/disambiguatingDescription> "SKOS Concept Scheme for MARC 00X\n         Values"@en .
+<https://doi.org/10.6069/uwlswd.xrxa-qa70#c> <http://www.w3.org/2004/02/skos/core#notation> "c" .
+<https://doi.org/10.6069/uwlswd.xrxa-qa70> <https://schema.org/version> "1-0-0" .
+<https://doi.org/10.6069/uwlswd.xrxa-qa70#u> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.xrxa-qa70#e> <http://www.w3.org/2004/02/skos/core#notation> "e" .
+<https://doi.org/10.6069/uwlswd.xrxa-qa70#a> <http://www.w3.org/2004/02/skos/core#definition> "Model relating to the sky of visible heavens (sun, stars, etc.)\n         depicted on the surface of a sphere."@en .
+<https://doi.org/10.6069/uwlswd.xrxa-qa70#b> <http://www.w3.org/2004/02/skos/core#notation> "b" .
+<https://doi.org/10.6069/uwlswd.xrxa-qa70> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/globe_specific_material_designation/globe_specific_material_designation.ttl> .
+<https://doi.org/10.6069/uwlswd.xrxa-qa70#b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.xrxa-qa70#d> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.xrxa-qa70> .
+<https://doi.org/10.6069/uwlswd.xrxa-qa70#e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.xrxa-qa70#c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.xrxa-qa70#z> <http://www.w3.org/2004/02/skos/core#prefLabel> "other"@en .

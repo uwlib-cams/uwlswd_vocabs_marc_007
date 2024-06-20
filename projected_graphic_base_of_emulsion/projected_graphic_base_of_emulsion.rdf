@@ -1,5 +1,11 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schema="https://schema.org/" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:dct="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:schema="https://schema.org/"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.d6e1-f386">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
     <dct:type rdf:resource="http://purl.org/dc/dcmitype/Dataset"/>
@@ -22,6 +28,16 @@
     <dct:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0"/>
     <schema:version>1-0-0</schema:version>
     <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/projected_graphic_base_of_emulsion/projected_graphic_base_of_emulsion.ttl"/>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/projected_graphic_base_of_emulsion/projected_graphic_base_of_emulsion.nt"/>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/projected_graphic_base_of_emulsion/projected_graphic_base_of_emulsion.jsonld"/>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/projected_graphic_base_of_emulsion/projected_graphic_base_of_emulsion.html"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.d6e1-f386#pound">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.d6e1-f386"/>
+    <skos:prefLabel xml:lang="en">not applicable or no attempt to code [obsolete]</skos:prefLabel>
+    <skos:notation>#</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.d6e1-f386#o">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -29,27 +45,6 @@
     <skos:prefLabel xml:lang="en">paper</skos:prefLabel>
     <skos:definition xml:lang="en">Any kind of cellulose-based paper.</skos:definition>
     <skos:notation>o</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.d6e1-f386#u">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.d6e1-f386"/>
-    <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
-    <skos:definition xml:lang="en">Material varies for different items in a
-         collection.</skos:definition>
-    <skos:notation>u</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.d6e1-f386#k">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.d6e1-f386"/>
-    <skos:prefLabel xml:lang="en">film base, other than safety film</skos:prefLabel>
-    <skos:definition xml:lang="en">Not safety film.</skos:definition>
-    <skos:notation>k</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.d6e1-f386#pound">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.d6e1-f386"/>
-    <skos:prefLabel xml:lang="en">not applicable or no attempt to code [obsolete]</skos:prefLabel>
-    <skos:notation>#</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.d6e1-f386#j">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -60,6 +55,38 @@
          that the base of the emulsion is safety film unless known to be otherwise.</skos:scopeNote>
     <skos:notation>j</skos:notation>
   </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.d6e1-f386#u">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.d6e1-f386"/>
+    <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
+    <skos:definition xml:lang="en">Material varies for different items in a
+         collection.</skos:definition>
+    <skos:notation>u</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.d6e1-f386#m">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.d6e1-f386"/>
+    <skos:prefLabel xml:lang="en">mixed collection</skos:prefLabel>
+    <skos:definition xml:lang="en">Material varies for different items in a
+         collection.</skos:definition>
+    <skos:scopeNote xml:lang="en">Typically this would be used for groups of projected graphics on
+         various bases.</skos:scopeNote>
+    <skos:notation>m</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.d6e1-f386#d">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.d6e1-f386"/>
+    <skos:prefLabel xml:lang="en">glass</skos:prefLabel>
+    <skos:definition xml:lang="en">Glass.</skos:definition>
+    <skos:notation>d</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.d6e1-f386#k">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.d6e1-f386"/>
+    <skos:prefLabel xml:lang="en">film base, other than safety film</skos:prefLabel>
+    <skos:definition xml:lang="en">Not safety film.</skos:definition>
+    <skos:notation>k</skos:notation>
+  </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.d6e1-f386#e">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.d6e1-f386"/>
@@ -69,13 +96,6 @@
          transparency sets have a synthetic primary support material, unless known to be
          otherwise.</skos:scopeNote>
     <skos:notation>e</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.d6e1-f386#d">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.d6e1-f386"/>
-    <skos:prefLabel xml:lang="en">glass</skos:prefLabel>
-    <skos:definition xml:lang="en">Glass.</skos:definition>
-    <skos:notation>d</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.d6e1-f386#n">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -90,15 +110,5 @@
     <skos:definition xml:lang="en">Base of emulsion other than glass; synthetic; safety film; film
          base, other than safety film; mixed collection; or paper.</skos:definition>
     <skos:notation>z</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.d6e1-f386#m">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.d6e1-f386"/>
-    <skos:prefLabel xml:lang="en">mixed collection</skos:prefLabel>
-    <skos:definition xml:lang="en">Material varies for different items in a
-         collection.</skos:definition>
-    <skos:scopeNote xml:lang="en">Typically this would be used for groups of projected graphics on
-         various bases.</skos:scopeNote>
-    <skos:notation>m</skos:notation>
   </rdf:Description>
 </rdf:RDF>

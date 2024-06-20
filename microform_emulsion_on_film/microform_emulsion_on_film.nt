@@ -1,0 +1,62 @@
+<https://doi.org/10.6069/uwlswd.m9z2-3g03> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<https://doi.org/10.6069/uwlswd.m9z2-3g03> <http://purl.org/dc/terms/alternative> "MARC21 007/10 values for microform expressed using\n         RDF"@en .
+<https://doi.org/10.6069/uwlswd.m9z2-3g03> <http://purl.org/dc/terms/source> <https://www.loc.gov/marc/bibliographic/bd007.html> .
+<https://doi.org/10.6069/uwlswd.m9z2-3g03#u> <http://www.w3.org/2004/02/skos/core#prefLabel> "unknown"@en .
+<https://doi.org/10.6069/uwlswd.m9z2-3g03#n> <http://www.w3.org/2004/02/skos/core#notation> "n" .
+<https://doi.org/10.6069/uwlswd.m9z2-3g03#a> <http://www.w3.org/2004/02/skos/core#prefLabel> "silver halide"@en .
+<https://doi.org/10.6069/uwlswd.m9z2-3g03> <http://purl.org/dc/terms/type> <http://purl.org/dc/dcmitype/Dataset> .
+<https://doi.org/10.6069/uwlswd.m9z2-3g03#u> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.m9z2-3g03> .
+<https://doi.org/10.6069/uwlswd.m9z2-3g03> <http://purl.org/dc/terms/title> "Microform: emulsion on film"@en .
+<https://doi.org/10.6069/uwlswd.m9z2-3g03#n> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.m9z2-3g03> .
+<https://doi.org/10.6069/uwlswd.m9z2-3g03#m> <http://www.w3.org/2004/02/skos/core#notation> "m" .
+<https://doi.org/10.6069/uwlswd.m9z2-3g03#n> <http://www.w3.org/2004/02/skos/core#definition> "Item does not have emulsion on film."@en .
+<https://doi.org/10.6069/uwlswd.m9z2-3g03#u> <http://www.w3.org/2004/02/skos/core#definition> "Emulsion on the film is not known."@en .
+<https://doi.org/10.6069/uwlswd.m9z2-3g03#a> <http://www.w3.org/2004/02/skos/core#scopeNote> "Silver halide microforms always appear black-and-white\n         (black-and-transparent)."@en .
+<https://doi.org/10.6069/uwlswd.m9z2-3g03> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/zero/1.0> .
+<https://doi.org/10.6069/uwlswd.m9z2-3g03> <https://schema.org/version> "1-0-0" .
+<https://doi.org/10.6069/uwlswd.m9z2-3g03#a> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.m9z2-3g03> .
+<https://doi.org/10.6069/uwlswd.m9z2-3g03#c> <http://www.w3.org/2004/02/skos/core#scopeNote> "Vesicular films are commonly blue or beige in color. They do not\n         appear to have much contrast (very high density) until projected in a microform\n         reader."@en .
+<https://doi.org/10.6069/uwlswd.m9z2-3g03#m> <http://www.w3.org/2004/02/skos/core#scopeNote> "For example, a microfilm may have slices of film with one type\n         of emulsion and other slices with another type of emulsion."@en .
+<https://doi.org/10.6069/uwlswd.m9z2-3g03#u> <http://www.w3.org/2004/02/skos/core#notation> "u" .
+<https://doi.org/10.6069/uwlswd.m9z2-3g03#n> <http://www.w3.org/2004/02/skos/core#prefLabel> "not applicable"@en .
+<https://doi.org/10.6069/uwlswd.m9z2-3g03> <http://purl.org/dc/terms/creator> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.m9z2-3g03#z> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.m9z2-3g03> .
+<https://doi.org/10.6069/uwlswd.m9z2-3g03#b> <http://www.w3.org/2004/02/skos/core#notation> "b" .
+<https://doi.org/10.6069/uwlswd.m9z2-3g03#b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.m9z2-3g03#m> <http://www.w3.org/2004/02/skos/core#prefLabel> "mixed emulsion"@en .
+<https://doi.org/10.6069/uwlswd.m9z2-3g03#c> <http://www.w3.org/2004/02/skos/core#definition> "Light-sensitive component is suspended in a plastic layer. On\n         exposure, the component creates optical vesicules (bubbles) in the layers. These bubbles\n         form the latent image. The latent image becomes visible and fixed by heating the plastic\n         layer and then allowing it to cool."@en .
+<https://doi.org/10.6069/uwlswd.m9z2-3g03#c> <http://www.w3.org/2004/02/skos/core#prefLabel> "vesicular"@en .
+<https://doi.org/10.6069/uwlswd.m9z2-3g03#b> <http://www.w3.org/2004/02/skos/core#prefLabel> "diazo"@en .
+<https://doi.org/10.6069/uwlswd.m9z2-3g03> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/microform_emulsion_on_film/microform_emulsion_on_film.jsonld> .
+<https://doi.org/10.6069/uwlswd.m9z2-3g03#m> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.m9z2-3g03#c> <http://www.w3.org/2004/02/skos/core#notation> "c" .
+<https://doi.org/10.6069/uwlswd.m9z2-3g03> <http://purl.org/dc/terms/publisher> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.m9z2-3g03#n> <http://www.w3.org/2004/02/skos/core#scopeNote> "Used for microopaques."@en .
+<https://doi.org/10.6069/uwlswd.m9z2-3g03> <http://purl.org/dc/terms/provenance> <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> .
+<https://doi.org/10.6069/uwlswd.m9z2-3g03#m> <http://www.w3.org/2004/02/skos/core#definition> "Mixed emulsion."@en .
+<https://doi.org/10.6069/uwlswd.m9z2-3g03#a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.m9z2-3g03#u> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.m9z2-3g03#b> <http://www.w3.org/2004/02/skos/core#scopeNote> "May be black, violet, or another color."@en .
+<https://doi.org/10.6069/uwlswd.m9z2-3g03#c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.m9z2-3g03> <http://purl.org/dc/terms/contributor> <http://viaf.org/viaf/151962300> .
+<https://doi.org/10.6069/uwlswd.m9z2-3g03#b> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.m9z2-3g03> .
+<https://doi.org/10.6069/uwlswd.m9z2-3g03> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/microform_emulsion_on_film/microform_emulsion_on_film.rdf> .
+<https://doi.org/10.6069/uwlswd.m9z2-3g03#a> <http://www.w3.org/2004/02/skos/core#notation> "a" .
+<https://doi.org/10.6069/uwlswd.m9z2-3g03> <http://purl.org/dc/terms/issued> "2024" .
+<https://doi.org/10.6069/uwlswd.m9z2-3g03> <http://purl.org/dc/terms/source> <http://marc21rdf.info> .
+<https://doi.org/10.6069/uwlswd.m9z2-3g03#z> <http://www.w3.org/2004/02/skos/core#prefLabel> "other"@en .
+<https://doi.org/10.6069/uwlswd.m9z2-3g03#b> <http://www.w3.org/2004/02/skos/core#definition> "Sensitized layers composed of diazonium salts that react with\n         couplers to form dye images. The color of the image is determined by the composition of the\n         diazonium compound as well as the couplers used in the process."@en .
+<https://doi.org/10.6069/uwlswd.m9z2-3g03> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/microform_emulsion_on_film/microform_emulsion_on_film.ttl> .
+<https://doi.org/10.6069/uwlswd.m9z2-3g03#z> <http://www.w3.org/2004/02/skos/core#notation> "z" .
+<https://doi.org/10.6069/uwlswd.m9z2-3g03#n> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.m9z2-3g03#z> <http://www.w3.org/2004/02/skos/core#definition> "Emulsion on film other than silver halide, diazo, vesicular,\n         mixed emulsion."@en .
+<https://doi.org/10.6069/uwlswd.m9z2-3g03> <http://purl.org/dc/terms/format> <http://www.w3.org/ns/formats/N-Triples> .
+<https://doi.org/10.6069/uwlswd.m9z2-3g03> <http://purl.org/dc/terms/description> "Type of light-sensitive material on the film."@en .
+<https://doi.org/10.6069/uwlswd.m9z2-3g03#m> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.m9z2-3g03> .
+<https://doi.org/10.6069/uwlswd.m9z2-3g03#z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.m9z2-3g03#a> <http://www.w3.org/2004/02/skos/core#definition> "A compound of silver and halogens."@en .
+<https://doi.org/10.6069/uwlswd.m9z2-3g03> <https://schema.org/disambiguatingDescription> "SKOS Concept Scheme for MARC 00X\n         Values"@en .
+<https://doi.org/10.6069/uwlswd.m9z2-3g03> <http://purl.org/dc/elements/1.1/language> "en" .
+<https://doi.org/10.6069/uwlswd.m9z2-3g03> <http://purl.org/dc/elements/1.1/contributor> "Metadata Management Associates"@en .
+<https://doi.org/10.6069/uwlswd.m9z2-3g03> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/microform_emulsion_on_film/microform_emulsion_on_film.html> .
+<https://doi.org/10.6069/uwlswd.m9z2-3g03#c> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.m9z2-3g03> .

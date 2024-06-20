@@ -1,0 +1,716 @@
+[
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.b441-n943#k",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Super-VHS format, which was originally designed for the\n         consumer market to encode analog signals using a helical scan on 1/2 inch ferric-oxide\n         tape, is housed in a standard cassette. It has gained acceptance professionally in the\n         broadcast industry and is now considered a professional format. Super-VHS format machines\n         encode 400 lines of horizontal resolution and can play back videotapes recorded on regular\n         VHS machines. Super-VHS requires high-grade tape and a high-resolution monitor equipped\n         with separate Y/C (Luminance/Chrominance) video inputs. Super-VHS-C is the same video\n         format but uses a special compact mini-cassette (often used with hand-held video cameras).\n         These mini-cassettes can be used with standard VHS recorders by means of a special adapter\n         cassette into which the mini-cassette is inserted."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.b441-n943"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "k"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Super-VHS (1/2 in., videocassette)"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.b441-n943#z",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Videorecording format other than Beta (1/2 in., videocassette),\n         VHS (1/2 in., videocassette), U-matic (3/4 in., videocassette), EIAJ (1/2 in. reel), Type C\n         (1 in., reel), Quadruplex (1 in. or 2 in., reel), Laserdisc, CED (Capacitance Electronic\n         Disc) videodisc, Betacam (1/2 in., videocassette), Betacam SP (1/2 in., videocassette),\n         Super-VHS (1/2 in., videocassette), M-II (1/2 in., videocassette), D-2 (3/4 in.,\n         videocassette), 8 mm., Hi-8 mm., DVD, or Blu-ray disc."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.b441-n943"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "z"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "other"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.b441-n943#n",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.b441-n943"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "n"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "not applicable [obsolete]"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.b441-n943#j",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Betacam SP videorecording format, a professional analog format\n         using component coding recorded on 1/2 inch metal tape, housed in a cassette. It is\n         designed to yield a higher grade recording than the regular Betacam format, providing\n         improved video quality and a better audio signal-to-noise ratio. There are two analog video\n         tracks plus two FM (CD quality) audio tracks."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.b441-n943"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "j"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Betacam SP (1/2 in., videocassette)"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.b441-n943#g",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Laser optical (reflective) videorecording system that uses an\n         analog technique called PWM (Pulse Width Modulation) to represent video information on a\n         grooveless, smooth, round plastic disc. The disc is read (played back) by a weak laser beam\n         that registers data appearing on the disc as tiny pits or depressions of varying\n         lengths."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.b441-n943"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "g"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "laserdisc"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@language": "en",
+        "@value": "Laserdiscs exist in three standard commercially produced sizes:\n         12, 8, and 4 3/4 inch. The 12 inch disc is the most common size and is typically used for\n         movies; the disc or its packaging usually bears an LD trademark (the phrase \"LASER DISC\" or\n         \"Laser Vision\" usually appears as the lower part of that LD trademark); alternatively,\n         LASER VIDEODISC, DiscoVision, LaserDisc, LaserVision, or a similar phrase may appear\n         instead of the LD trademark. The 8 and 4 3/4 inch discs are uncommon and typically used for\n         music videos or other short video programs; the disc or its packaging usually bears one of\n         these terms or trademarks: CDV (CD VIDEO), VSD (VIDEO SINGLE DISC), or LD (LASER DISC).\n         This system started commercial use in 1978, but production declined rapidly after 1998 due\n         to the success of the DVD format."
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.b441-n943",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#ConceptScheme"
+    ],
+    "http://purl.org/dc/elements/1.1/contributor": [
+      {
+        "@language": "en",
+        "@value": "Metadata Management Associates"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/language": [
+      {
+        "@value": "en"
+      }
+    ],
+    "http://purl.org/dc/terms/alternative": [
+      {
+        "@language": "en",
+        "@value": "MARC21 007/04 values for videorecordings expressed using\n         RDF"
+      }
+    ],
+    "http://purl.org/dc/terms/contributor": [
+      {
+        "@id": "http://viaf.org/viaf/151962300"
+      }
+    ],
+    "http://purl.org/dc/terms/creator": [
+      {
+        "@id": "http://viaf.org/viaf/139541794"
+      }
+    ],
+    "http://purl.org/dc/terms/description": [
+      {
+        "@language": "en",
+        "@value": "Videotape or videodisc recording format."
+      }
+    ],
+    "http://purl.org/dc/terms/format": [
+      {
+        "@id": "http://www.w3.org/ns/formats/JSON-LD"
+      }
+    ],
+    "http://purl.org/dc/terms/hasFormat": [
+      {
+        "@id": "https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/videorecording_format/videorecording_format.html"
+      },
+      {
+        "@id": "https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/videorecording_format/videorecording_format.rdf"
+      },
+      {
+        "@id": "https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/videorecording_format/videorecording_format.nt"
+      },
+      {
+        "@id": "https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/videorecording_format/videorecording_format.ttl"
+      }
+    ],
+    "http://purl.org/dc/terms/issued": [
+      {
+        "@value": "2024"
+      }
+    ],
+    "http://purl.org/dc/terms/license": [
+      {
+        "@id": "http://creativecommons.org/publicdomain/zero/1.0"
+      }
+    ],
+    "http://purl.org/dc/terms/provenance": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues"
+      }
+    ],
+    "http://purl.org/dc/terms/publisher": [
+      {
+        "@id": "http://viaf.org/viaf/139541794"
+      }
+    ],
+    "http://purl.org/dc/terms/source": [
+      {
+        "@id": "https://www.loc.gov/marc/bibliographic/bd007.html"
+      },
+      {
+        "@id": "http://marc21rdf.info"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "en",
+        "@value": "Videorecording: format"
+      }
+    ],
+    "http://purl.org/dc/terms/type": [
+      {
+        "@id": "http://purl.org/dc/dcmitype/Dataset"
+      }
+    ],
+    "https://schema.org/disambiguatingDescription": [
+      {
+        "@language": "en",
+        "@value": "SKOS Concept Scheme for MARC 00X\n         Values"
+      }
+    ],
+    "https://schema.org/version": [
+      {
+        "@value": "1-0-0"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.b441-n943#b",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Used for the home video system introduced in 1977 by Japan\n         Victor Corporation (JVC) for home videorecording and playback on 1/2 inch videotape. It is\n         distinguished by the size of the cassette, its M-load tape threading, and technical\n         capabilities. VHS stands for \"Video Home System.\""
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.b441-n943"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "b"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "VHS (1/2 in., videocassette)"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.b441-n943#q",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "8 mm. format designed for higher resolution than standard 8mm.\n         tape. It is a consumer-market format that uses 8 mm. metal particle or evaportated metal\n         tape, housed in a mini-cassette."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.b441-n943"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "q"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Hi-8 mm."
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.b441-n943#m",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "M-II videorecording format, a professional analog format using\n         1/2 inch metallic tape, housed in a cassette."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.b441-n943"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "m"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "M-II (1/2 in., videocassette)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@language": "en",
+        "@value": "It was developed by Panasonic as an alternative to the Betacam\n         format developed by Sony."
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.b441-n943#a",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Used for the home video system introduced in 1975 by Sony for\n         home videorecording and playback on 1/2 inch videotape. It is distinguished by the size of\n         the cassette, its U-load tape threading, and technical capabilities. This format is also\n         known as Betamax."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.b441-n943"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "a"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Beta (1/2 in., videocassette)"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.b441-n943#i",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Betacam videorecording format, a professional analog format\n         using component coding recorded on 1/2 inch oxide tape, housed in a\n         cassette."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.b441-n943"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "i"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Betacam (1/2 in., videocassette)"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.b441-n943#d",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Used for the standard 1/2 inch reel-to-reel helical scan\n         videotape system named for the Electronics Industries Association of Japan which set the\n         standards for 1/2 in. video tape recorders manufactured since 1969. Referred to as \"the old\n         trailblazer.\""
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.b441-n943"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "d"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "EIAJ (1/2 in. reel)"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.b441-n943#s",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Optical disc format designed for high-definition video and data\n         storage developed by Sony/Phillips. Blu-ray uses a blue-violet laser with a shorter wave\n         length to allow for greater data storage in a smaller space. Requires a special player to\n         view the disc."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.b441-n943"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "s"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Blu-ray disc"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.b441-n943#h",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "CED videorecording system is based on a plastic disc, usually\n         12 in. in diameter, on which visual information is recorded as deep pits in the bottom of\n         the grooves. This visual information is read by a needle-in-the-groove type of electronic\n         stylus that translates variance in capacitance into a video and audio signal. The CED disc\n         is characteristically housed in a protective jacket."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.b441-n943"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "h"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "ced (capacitance electronic disc) videodisc"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@language": "en",
+        "@value": "In 1984, the manufacturer of CED players, RCA, announced its\n         decision to cease production of the \"RCA Selectavision\" players."
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.b441-n943#p",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "8 mm. format designed for small consumer-market\n         camera/recorders (camcorders) using 8 mm. metal particle tape, housed in a mini-cassette.\n         The video quality is comparable to standard VHS. The audio quality is superior to similar\n         mini formats."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.b441-n943"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "p"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "8 mm."
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.b441-n943#c",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Used for a video format using Sony's trademark name which\n         refers to its tape threading path in a U-shape. It is the worldwide standard for 3/4 inch\n         videotape and is used extensively in industrial and broadcast production. Like the two 1/2\n         in. home video formats, it uses a helical scan recording system. It is also known as U type\n         standard."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.b441-n943"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "c"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "U-matic (3/4 in., videocassette)"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.b441-n943#e",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Used for the 1 inch videotape recording system utilizing one\n         video head and tape runs at 9.61 inches per second. Type B system uses 2 heads and runs at\n         9.65 inches per second; Type A is an obsolete early system. Type B is still used in the\n         U.S. and overseas (as of 1982), but Type C is the 1 inch format most widely employed as the\n         broadcasting standard in the U.S. and overseas. Type C equipment and technology are made by\n         Sony, RCA, and others."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.b441-n943"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "e"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Type C (1 in., reel)"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.b441-n943#f",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "As opposed to the helical scan system, which uses one head, the\n         Quadruplex videorecording system uses four videorecording heads. Often referred to as Quad,\n         it was developed by Ampex in the mid-1950s. It provided higher quality resolution and color\n         than did helical scanning."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.b441-n943"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "f"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Quadruplex (1 in. or 2 in., reel)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@language": "en",
+        "@value": "Quadruplex was the broadcast standard until recently, when less\n         expensive helical scan systems have begun to overtake it."
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.b441-n943#o",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "D-2 videorecording format, a professional digital\n         videorecording format using composite coding on 3/4 inch metal particle tape, housed in a\n         cassette. The digital encoding allows for multi-generation signal transfer (copying or\n         dubbing) without signal degradation. Duplicate recordings are effectively identical to the\n         original master. There are four independently editable PCM audio channels, offering a\n         dynamic range of more than 90 db (decibels). Additionally, it has separate tracks for an\n         analog audio cue and time code."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.b441-n943"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "o"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "D-2 (3/4 in., videocassette)"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.b441-n943#pound",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.b441-n943"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "#"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "not applicable or no attempt to code [obsolete]"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.b441-n943#u",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Videorecording format is not known."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.b441-n943"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "u"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "unknown"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.b441-n943#v",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Laser optical (reflective) videorecording system that uses a\n         digital technique called PCM (Pulse Code Modulation) to represent video information on a\n         grooveless, smooth, round plastic disc. The disc is read (played back) by a weak laser beam\n         that registers data appearing on the disc as tiny pits or depressions of uniform\n         length."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.b441-n943"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "v"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "DVD"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@language": "en",
+        "@value": "DVDs are usually 4 3/4 inch in diameter (but a smaller 3 inch\n         diameter disc may be produced commercially in some cases) and the disc or its packaging\n         usually bear the term or trademark: DVD, DVD VIDEO, or VIDEO CD (in this case, the\n         trademark is the standard one for COMPACT DISC, but with the added phrase DIGITAL VIDEO\n         below it). This system has been in use commercially since late 1996."
+      }
+    ]
+  }
+]

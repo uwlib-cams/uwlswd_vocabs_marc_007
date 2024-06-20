@@ -1,0 +1,82 @@
+<https://doi.org/10.6069/uwlswd.xmqe-4733> <http://purl.org/dc/terms/alternative> "MARC21 007/05 values for remote-sensing images expressed using\n         RDF"@en .
+<https://doi.org/10.6069/uwlswd.xmqe-4733#0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.xmqe-4733> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/remote-sensing_image_cloud_cover/remote-sensing_image_cloud_cover.html> .
+<https://doi.org/10.6069/uwlswd.xmqe-4733#9> <http://www.w3.org/2004/02/skos/core#definition> "Cloud cover present when an image was taken was between 90 and\n         100%."@en .
+<https://doi.org/10.6069/uwlswd.xmqe-4733#9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.xmqe-4733#n> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.xmqe-4733> .
+<https://doi.org/10.6069/uwlswd.xmqe-4733#7> <http://www.w3.org/2004/02/skos/core#notation> "7" .
+<https://doi.org/10.6069/uwlswd.xmqe-4733#3> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.xmqe-4733> .
+<https://doi.org/10.6069/uwlswd.xmqe-4733#3> <http://www.w3.org/2004/02/skos/core#notation> "3" .
+<https://doi.org/10.6069/uwlswd.xmqe-4733> <http://purl.org/dc/terms/type> <http://purl.org/dc/dcmitype/Dataset> .
+<https://doi.org/10.6069/uwlswd.xmqe-4733#u> <http://www.w3.org/2004/02/skos/core#notation> "u" .
+<https://doi.org/10.6069/uwlswd.xmqe-4733#n> <http://www.w3.org/2004/02/skos/core#definition> "Cloud cover is not applicable to the image."@en .
+<https://doi.org/10.6069/uwlswd.xmqe-4733#1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.xmqe-4733#7> <http://www.w3.org/2004/02/skos/core#prefLabel> "70-79%"@en .
+<https://doi.org/10.6069/uwlswd.xmqe-4733#4> <http://www.w3.org/2004/02/skos/core#definition> "Cloud cover present when an image was taken was between 40 and\n         49%."@en .
+<https://doi.org/10.6069/uwlswd.xmqe-4733#9> <http://www.w3.org/2004/02/skos/core#notation> "9" .
+<https://doi.org/10.6069/uwlswd.xmqe-4733#n> <http://www.w3.org/2004/02/skos/core#notation> "n" .
+<https://doi.org/10.6069/uwlswd.xmqe-4733#6> <http://www.w3.org/2004/02/skos/core#prefLabel> "60-69%"@en .
+<https://doi.org/10.6069/uwlswd.xmqe-4733#6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.xmqe-4733#5> <http://www.w3.org/2004/02/skos/core#prefLabel> "50-59%"@en .
+<https://doi.org/10.6069/uwlswd.xmqe-4733#4> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.xmqe-4733> .
+<https://doi.org/10.6069/uwlswd.xmqe-4733#0> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.xmqe-4733> .
+<https://doi.org/10.6069/uwlswd.xmqe-4733#1> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.xmqe-4733> .
+<https://doi.org/10.6069/uwlswd.xmqe-4733#1> <http://www.w3.org/2004/02/skos/core#definition> "Cloud cover present when an image was taken was between 10 and\n         19%."@en .
+<https://doi.org/10.6069/uwlswd.xmqe-4733#n> <http://www.w3.org/2004/02/skos/core#prefLabel> "not applicable"@en .
+<https://doi.org/10.6069/uwlswd.xmqe-4733#0> <http://www.w3.org/2004/02/skos/core#notation> "0" .
+<https://doi.org/10.6069/uwlswd.xmqe-4733#5> <http://www.w3.org/2004/02/skos/core#notation> "5" .
+<https://doi.org/10.6069/uwlswd.xmqe-4733#1> <http://www.w3.org/2004/02/skos/core#notation> "1" .
+<https://doi.org/10.6069/uwlswd.xmqe-4733#2> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.xmqe-4733> .
+<https://doi.org/10.6069/uwlswd.xmqe-4733#6> <http://www.w3.org/2004/02/skos/core#notation> "6" .
+<https://doi.org/10.6069/uwlswd.xmqe-4733#7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.xmqe-4733#9> <http://www.w3.org/2004/02/skos/core#prefLabel> "90-100%"@en .
+<https://doi.org/10.6069/uwlswd.xmqe-4733#u> <http://www.w3.org/2004/02/skos/core#definition> "Amount of cloud cover is not known."@en .
+<https://doi.org/10.6069/uwlswd.xmqe-4733> <http://purl.org/dc/terms/publisher> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.xmqe-4733#8> <http://www.w3.org/2004/02/skos/core#prefLabel> "80-89%"@en .
+<https://doi.org/10.6069/uwlswd.xmqe-4733#5> <http://www.w3.org/2004/02/skos/core#definition> "Cloud cover present when an image was taken was between 50 and\n         59%."@en .
+<https://doi.org/10.6069/uwlswd.xmqe-4733> <http://purl.org/dc/terms/contributor> <http://viaf.org/viaf/151962300> .
+<https://doi.org/10.6069/uwlswd.xmqe-4733#5> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.xmqe-4733> .
+<https://doi.org/10.6069/uwlswd.xmqe-4733> <http://purl.org/dc/terms/description> "Amount of cloud cover that was present when a remote-sensing\n         image was made."@en .
+<https://doi.org/10.6069/uwlswd.xmqe-4733#u> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.xmqe-4733> <https://schema.org/version> "1-0-0" .
+<https://doi.org/10.6069/uwlswd.xmqe-4733#8> <http://www.w3.org/2004/02/skos/core#definition> "Cloud cover present when an image was taken was between 80 and\n         89%."@en .
+<https://doi.org/10.6069/uwlswd.xmqe-4733#n> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.xmqe-4733> <http://purl.org/dc/elements/1.1/language> "en" .
+<https://doi.org/10.6069/uwlswd.xmqe-4733#3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.xmqe-4733#3> <http://www.w3.org/2004/02/skos/core#prefLabel> "30-39%"@en .
+<https://doi.org/10.6069/uwlswd.xmqe-4733> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/remote-sensing_image_cloud_cover/remote-sensing_image_cloud_cover.rdf> .
+<https://doi.org/10.6069/uwlswd.xmqe-4733> <http://purl.org/dc/terms/format> <http://www.w3.org/ns/formats/N-Triples> .
+<https://doi.org/10.6069/uwlswd.xmqe-4733> <http://purl.org/dc/terms/title> "Remote-sensing image: cloud cover"@en .
+<https://doi.org/10.6069/uwlswd.xmqe-4733#2> <http://www.w3.org/2004/02/skos/core#notation> "2" .
+<https://doi.org/10.6069/uwlswd.xmqe-4733> <http://purl.org/dc/elements/1.1/contributor> "Metadata Management Associates"@en .
+<https://doi.org/10.6069/uwlswd.xmqe-4733#u> <http://www.w3.org/2004/02/skos/core#prefLabel> "unknown"@en .
+<https://doi.org/10.6069/uwlswd.xmqe-4733#8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.xmqe-4733#4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.xmqe-4733> <http://purl.org/dc/terms/source> <https://www.loc.gov/marc/bibliographic/bd007.html> .
+<https://doi.org/10.6069/uwlswd.xmqe-4733> <https://schema.org/disambiguatingDescription> "SKOS Concept Scheme for MARC 00X\n         Values"@en .
+<https://doi.org/10.6069/uwlswd.xmqe-4733> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/remote-sensing_image_cloud_cover/remote-sensing_image_cloud_cover.jsonld> .
+<https://doi.org/10.6069/uwlswd.xmqe-4733#6> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.xmqe-4733> .
+<https://doi.org/10.6069/uwlswd.xmqe-4733#8> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.xmqe-4733> .
+<https://doi.org/10.6069/uwlswd.xmqe-4733#9> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.xmqe-4733> .
+<https://doi.org/10.6069/uwlswd.xmqe-4733> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<https://doi.org/10.6069/uwlswd.xmqe-4733#7> <http://www.w3.org/2004/02/skos/core#definition> "Cloud cover present when an image was taken was between 70 and\n         79%."@en .
+<https://doi.org/10.6069/uwlswd.xmqe-4733> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/zero/1.0> .
+<https://doi.org/10.6069/uwlswd.xmqe-4733#8> <http://www.w3.org/2004/02/skos/core#notation> "8" .
+<https://doi.org/10.6069/uwlswd.xmqe-4733> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/remote-sensing_image_cloud_cover/remote-sensing_image_cloud_cover.ttl> .
+<https://doi.org/10.6069/uwlswd.xmqe-4733#3> <http://www.w3.org/2004/02/skos/core#definition> "Cloud cover present when an image was taken was between 30 and\n         39%."@en .
+<https://doi.org/10.6069/uwlswd.xmqe-4733#4> <http://www.w3.org/2004/02/skos/core#prefLabel> "40-49%"@en .
+<https://doi.org/10.6069/uwlswd.xmqe-4733#2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.xmqe-4733> <http://purl.org/dc/terms/creator> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.xmqe-4733#0> <http://www.w3.org/2004/02/skos/core#prefLabel> "0-9%"@en .
+<https://doi.org/10.6069/uwlswd.xmqe-4733#2> <http://www.w3.org/2004/02/skos/core#prefLabel> "20-29%"@en .
+<https://doi.org/10.6069/uwlswd.xmqe-4733#2> <http://www.w3.org/2004/02/skos/core#definition> "Cloud cover present when an image was taken was between 20 and\n         29%."@en .
+<https://doi.org/10.6069/uwlswd.xmqe-4733#5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.xmqe-4733#6> <http://www.w3.org/2004/02/skos/core#definition> "Cloud cover present when an image was taken was between 60 and\n         69%."@en .
+<https://doi.org/10.6069/uwlswd.xmqe-4733> <http://purl.org/dc/terms/provenance> <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> .
+<https://doi.org/10.6069/uwlswd.xmqe-4733#7> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.xmqe-4733> .
+<https://doi.org/10.6069/uwlswd.xmqe-4733#1> <http://www.w3.org/2004/02/skos/core#prefLabel> "10-19%"@en .
+<https://doi.org/10.6069/uwlswd.xmqe-4733#u> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.xmqe-4733> .
+<https://doi.org/10.6069/uwlswd.xmqe-4733#4> <http://www.w3.org/2004/02/skos/core#notation> "4" .
+<https://doi.org/10.6069/uwlswd.xmqe-4733> <http://purl.org/dc/terms/source> <http://marc21rdf.info> .
+<https://doi.org/10.6069/uwlswd.xmqe-4733#0> <http://www.w3.org/2004/02/skos/core#definition> "Cloud cover present when an image was taken was between 0 and\n         9%."@en .
+<https://doi.org/10.6069/uwlswd.xmqe-4733> <http://purl.org/dc/terms/issued> "2024" .

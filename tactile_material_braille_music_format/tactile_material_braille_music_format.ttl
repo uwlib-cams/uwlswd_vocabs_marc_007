@@ -1,0 +1,151 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix schema: <https://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://doi.org/10.6069/uwlswd.9t5f-qz73#a> a skos:Concept ;
+    skos:definition """Measures are displayed in units called parallels and the
+         beginning of each part's measure is vertically aligned with the beginning of the same
+         measure for the other part(s)."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.9t5f-qz73> ;
+    skos:notation "a" ;
+    skos:prefLabel "bar over bar"@en ;
+    skos:scopeNote "Used chiefly for keyboard music."@en .
+
+<https://doi.org/10.6069/uwlswd.9t5f-qz73#b> a skos:Concept ;
+    skos:definition """Music is displayed in indented paragraphs with all of the parts
+         for each measure written consecutively."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.9t5f-qz73> ;
+    skos:notation "b" ;
+    skos:prefLabel "bar by bar"@en .
+
+<https://doi.org/10.6069/uwlswd.9t5f-qz73#c> a skos:Concept ;
+    skos:definition """Measures are displayed in parallels, but the measures are not
+         necessarily aligned."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.9t5f-qz73> ;
+    skos:notation "c" ;
+    skos:prefLabel "line over line"@en .
+
+<https://doi.org/10.6069/uwlswd.9t5f-qz73#d> a skos:Concept ;
+    skos:definition """Music is displayed in paragraphs with one part per
+         paragraph."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.9t5f-qz73> ;
+    skos:notation "d" ;
+    skos:prefLabel "paragraph"@en .
+
+<https://doi.org/10.6069/uwlswd.9t5f-qz73#e> a skos:Concept ;
+    skos:definition """Music is presented in segments of two to five lines, the
+         initial line displaying a measure number or rehearsal designation."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.9t5f-qz73> ;
+    skos:notation "e" ;
+    skos:prefLabel "single line"@en ;
+    skos:scopeNote """Used for single instrumental parts or solos. It is also called
+         solo instrumental format."""@en .
+
+<https://doi.org/10.6069/uwlswd.9t5f-qz73#f> a skos:Concept ;
+    skos:definition """Hand or part signs are prominent in the left
+         margin."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.9t5f-qz73> ;
+    skos:notation "f" ;
+    skos:prefLabel "section by section"@en .
+
+<https://doi.org/10.6069/uwlswd.9t5f-qz73#g> a skos:Concept ;
+    skos:definition """Lines of text alternate with lines of music for the preceding
+         text."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.9t5f-qz73> ;
+    skos:notation "g" ;
+    skos:prefLabel "line by line"@en .
+
+<https://doi.org/10.6069/uwlswd.9t5f-qz73#h> a skos:Concept ;
+    skos:definition """Music is presented in parallels. Open score is similar to bar
+         over bar, but used for ensemble scores."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.9t5f-qz73> ;
+    skos:notation "h" ;
+    skos:prefLabel "open score"@en .
+
+<https://doi.org/10.6069/uwlswd.9t5f-qz73#i> a skos:Concept ;
+    skos:definition """Chord symbols and melody are presented in
+         paragraphs."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.9t5f-qz73> ;
+    skos:notation "i" ;
+    skos:prefLabel "spanner short form scoring"@en ;
+    skos:scopeNote """Used chiefly for popular and folk music, but music braille is
+         used for the chord symbols. Also used to indicate that the music is in the Canadian melody
+         chord system."""@en .
+
+<https://doi.org/10.6069/uwlswd.9t5f-qz73#j> a skos:Concept ;
+    skos:definition """Words, chord symbols, and melody are presented in parallels,
+         and literary braille is used for the chord symbols."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.9t5f-qz73> ;
+    skos:notation "j" ;
+    skos:prefLabel "short form scoring"@en ;
+    skos:scopeNote """Used chiefly for popular and folk music. This format is also
+         referred to as the American or BANA short form scoring format."""@en .
+
+<https://doi.org/10.6069/uwlswd.9t5f-qz73#k> a skos:Concept ;
+    skos:definition "Music is in the outline format."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.9t5f-qz73> ;
+    skos:notation "k" ;
+    skos:prefLabel "outline"@en .
+
+<https://doi.org/10.6069/uwlswd.9t5f-qz73#l> a skos:Concept ;
+    skos:definition "Parts are combined and written as chords."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.9t5f-qz73> ;
+    skos:notation "l" ;
+    skos:prefLabel "vertical score"@en .
+
+<https://doi.org/10.6069/uwlswd.9t5f-qz73#n> a skos:Concept ;
+    skos:definition "Not braille music."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.9t5f-qz73> ;
+    skos:notation "n" ;
+    skos:prefLabel "not applicable"@en .
+
+<https://doi.org/10.6069/uwlswd.9t5f-qz73#pound> a skos:Concept ;
+    skos:definition """Item uses fewer than three specified braille writing
+         formats."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.9t5f-qz73> ;
+    skos:notation "#" ;
+    skos:prefLabel "no specified braille music format"@en .
+
+<https://doi.org/10.6069/uwlswd.9t5f-qz73#u> a skos:Concept ;
+    skos:definition "Braille music format is not known."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.9t5f-qz73> ;
+    skos:notation "u" ;
+    skos:prefLabel "unknown"@en .
+
+<https://doi.org/10.6069/uwlswd.9t5f-qz73#z> a skos:Concept ;
+    skos:definition """Braille music format other than no specified braille music
+         format, bar over bar, bar by bar, line over line, paragraph, single line, section by
+         section, line by line, open score, spanner short form scoring, short form scoring, outline,
+         or vertical score."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.9t5f-qz73> ;
+    skos:notation "z" ;
+    skos:prefLabel "other"@en .
+
+<https://doi.org/10.6069/uwlswd.9t5f-qz73> a skos:ConceptScheme ;
+    dc:contributor "Metadata Management Associates"@en ;
+    dc:language "en" ;
+    dct:alternative """MARC21 007/06-08 values for tactile material expressed using
+         RDF"""@en ;
+    dct:contributor <http://viaf.org/viaf/151962300> ;
+    dct:creator <http://viaf.org/viaf/139541794> ;
+    dct:description """Indicates the braille music format of the item. The music
+         formats are the way measures, sections, parts, and related information, such as words, are
+         presented in relation to each other."""@en ;
+    dct:format <http://www.w3.org/ns/formats/Turtle> ;
+    dct:hasFormat <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/tactile_material_braille_music_format/tactile_material_braille_music_format.html>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/tactile_material_braille_music_format/tactile_material_braille_music_format.jsonld>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/tactile_material_braille_music_format/tactile_material_braille_music_format.nt>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/tactile_material_braille_music_format/tactile_material_braille_music_format.rdf> ;
+    dct:issued "2024" ;
+    dct:license <http://creativecommons.org/publicdomain/zero/1.0> ;
+    dct:provenance <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> ;
+    dct:publisher <http://viaf.org/viaf/139541794> ;
+    dct:source <http://marc21rdf.info>,
+        <https://www.loc.gov/marc/bibliographic/bd007.html> ;
+    dct:title "Tactile material: braille music format"@en ;
+    dct:type <http://purl.org/dc/dcmitype/Dataset> ;
+    schema:disambiguatingDescription """SKOS Concept Scheme for MARC 00X
+         Values"""@en ;
+    schema:version "1-0-0" .
+

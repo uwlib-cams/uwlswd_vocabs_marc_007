@@ -1,27 +1,11 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schema="https://schema.org/" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.h5tb-zk94#a">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.h5tb-zk94"/>
-    <skos:prefLabel xml:lang="en">map</skos:prefLabel>
-    <skos:definition xml:lang="en">Map</skos:definition>
-    <skos:scopeNote xml:lang="en">Used for all cartographic materials except
-         globes.</skos:scopeNote>
-    <skos:notation>a</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.h5tb-zk94#h">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.h5tb-zk94"/>
-    <skos:prefLabel xml:lang="en">microform</skos:prefLabel>
-    <skos:definition xml:lang="en">A generic term for any medium, transparent or opaque bearing
-         microimages. A microimage is a unit (e.g., a page) of textual, graphic, or
-         computer-generated material that is contained on aperture cards, microfiche, microfilm,
-         micro-opaques, or other microformats and that is too small to be read without
-         magnification.</skos:definition>
-    <skos:scopeNote xml:lang="en">Microforms may be reproductions of existing textual or graphic
-         materials or they may be original publications.</skos:scopeNote>
-    <skos:notation>h</skos:notation>
-  </rdf:Description>
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:dct="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:schema="https://schema.org/"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.h5tb-zk94">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
     <dct:type rdf:resource="http://purl.org/dc/dcmitype/Dataset"/>
@@ -48,16 +32,35 @@
     <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/all_category_of_material/all_category_of_material.jsonld"/>
     <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/all_category_of_material/all_category_of_material.html"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.h5tb-zk94#c">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.h5tb-zk94#f">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.h5tb-zk94"/>
-    <skos:prefLabel xml:lang="en">electronic resource</skos:prefLabel>
-    <skos:definition xml:lang="en">Involves a medium (usually digitized machine-readable data,
-         program code, etc.) intended to be accessed, processed, or executed by a
-         computer.</skos:definition>
-    <skos:scopeNote xml:lang="en">Examples are programs, data files, image files, digitized audio
-         and video tapes, etc.</skos:scopeNote>
-    <skos:notation>c</skos:notation>
+    <skos:prefLabel xml:lang="en">tactile material</skos:prefLabel>
+    <skos:definition xml:lang="en">Material intended to be read or interpreted by
+         touch.</skos:definition>
+    <skos:notation>f</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.h5tb-zk94#s">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.h5tb-zk94"/>
+    <skos:prefLabel xml:lang="en">sound recording</skos:prefLabel>
+    <skos:definition xml:lang="en">A storage medium containing recorded sound or a representation
+         of a musical composition from which sound can be mechanically reproduced, such as a piano
+         roll.</skos:definition>
+    <skos:notation>s</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.h5tb-zk94#h">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.h5tb-zk94"/>
+    <skos:prefLabel xml:lang="en">microform</skos:prefLabel>
+    <skos:definition xml:lang="en">A generic term for any medium, transparent or opaque bearing
+         microimages. A microimage is a unit (e.g., a page) of textual, graphic, or
+         computer-generated material that is contained on aperture cards, microfiche, microfilm,
+         micro-opaques, or other microformats and that is too small to be read without
+         magnification.</skos:definition>
+    <skos:scopeNote xml:lang="en">Microforms may be reproductions of existing textual or graphic
+         materials or they may be original publications.</skos:scopeNote>
+    <skos:notation>h</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.h5tb-zk94#g">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -69,41 +72,14 @@
          x-rays).</skos:scopeNote>
     <skos:notation>g</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.h5tb-zk94#v">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.h5tb-zk94#a">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.h5tb-zk94"/>
-    <skos:prefLabel xml:lang="en">videorecording</skos:prefLabel>
-    <skos:definition xml:lang="en">A recording on which visual images, usually in motion and
-         accompanied by sound, have been registered.</skos:definition>
-    <skos:scopeNote xml:lang="en">Designed for playback by means of a television receiver, or
-         video monitor.</skos:scopeNote>
-    <skos:notation>v</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.h5tb-zk94#d">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.h5tb-zk94"/>
-    <skos:prefLabel xml:lang="en">globe</skos:prefLabel>
-    <skos:definition xml:lang="en">The model of a celestial body, usually the earth or the
-         celestial sphere, depicted on the surface of a sphere.</skos:definition>
-    <skos:notation>d</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.h5tb-zk94#t">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.h5tb-zk94"/>
-    <skos:prefLabel xml:lang="en">text</skos:prefLabel>
-    <skos:definition xml:lang="en">Printed or manuscript language material that is accessible to
-         the naked eye.</skos:definition>
-    <skos:scopeNote xml:lang="en">E.g., a book, a pamphlet, a broadside.</skos:scopeNote>
-    <skos:notation>t</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.h5tb-zk94#m">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.h5tb-zk94"/>
-    <skos:prefLabel xml:lang="en">motion picture</skos:prefLabel>
-    <skos:definition xml:lang="en">A series of still pictures on film, with or without sound,
-         designed to be projected in rapid succession to produce the optical effect of
-         motion.</skos:definition>
-    <skos:notation>m</skos:notation>
+    <skos:prefLabel xml:lang="en">map</skos:prefLabel>
+    <skos:definition xml:lang="en">Map</skos:definition>
+    <skos:scopeNote xml:lang="en">Used for all cartographic materials except
+         globes.</skos:scopeNote>
+    <skos:notation>a</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.h5tb-zk94#z">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -113,13 +89,22 @@
          multiple physical forms are not being specifically denoted.</skos:definition>
     <skos:notation>z</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.h5tb-zk94#f">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.h5tb-zk94#k">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.h5tb-zk94"/>
-    <skos:prefLabel xml:lang="en">tactile material</skos:prefLabel>
-    <skos:definition xml:lang="en">Material intended to be read or interpreted by
-         touch.</skos:definition>
-    <skos:notation>f</skos:notation>
+    <skos:prefLabel xml:lang="en">nonprojected graphic</skos:prefLabel>
+    <skos:definition xml:lang="en">A two-dimensional pictorial representation whether opaque
+         (e.g., print, photoprint, drawing) or transparent, but not intended to be projected for
+         viewing (e.g., a photographic negative).</skos:definition>
+    <skos:notation>k</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.h5tb-zk94#d">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.h5tb-zk94"/>
+    <skos:prefLabel xml:lang="en">globe</skos:prefLabel>
+    <skos:definition xml:lang="en">The model of a celestial body, usually the earth or the
+         celestial sphere, depicted on the surface of a sphere.</skos:definition>
+    <skos:notation>d</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.h5tb-zk94#o">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -133,28 +118,6 @@
          packages of educational test materials (tests, answer sheets, scoring guides, score charts,
          interpretative manuals, etc.).</skos:scopeNote>
     <skos:notation>o</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.h5tb-zk94#k">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.h5tb-zk94"/>
-    <skos:prefLabel xml:lang="en">nonprojected graphic</skos:prefLabel>
-    <skos:definition xml:lang="en">A two-dimensional pictorial representation whether opaque
-         (e.g., print, photoprint, drawing) or transparent, but not intended to be projected for
-         viewing (e.g., a photographic negative).</skos:definition>
-    <skos:notation>k</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.h5tb-zk94#r">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.h5tb-zk94"/>
-    <skos:prefLabel xml:lang="en">remote-sensing image</skos:prefLabel>
-    <skos:definition xml:lang="en">An image produced by a recording device that is not in physical
-         or intimate contact with the object under study.</skos:definition>
-    <skos:scopeNote xml:lang="en">This may be a map or other image that is obtained through
-         various remote sensing devices such as cameras, computers, lasers, radio frequency
-         receivers, radar systems, sonar, seismographs, gravimeters, magnetometers, and
-         scintillation counters. When the image has cartographic or bibliographic information added,
-         it is referred to as a remote-sensing map.</skos:scopeNote>
-    <skos:notation>r</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.h5tb-zk94#q">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -171,13 +134,56 @@
          sound.</skos:scopeNote>
     <skos:notation>q</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.h5tb-zk94#s">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.h5tb-zk94#m">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.h5tb-zk94"/>
-    <skos:prefLabel xml:lang="en">sound recording</skos:prefLabel>
-    <skos:definition xml:lang="en">A storage medium containing recorded sound or a representation
-         of a musical composition from which sound can be mechanically reproduced, such as a piano
-         roll.</skos:definition>
-    <skos:notation>s</skos:notation>
+    <skos:prefLabel xml:lang="en">motion picture</skos:prefLabel>
+    <skos:definition xml:lang="en">A series of still pictures on film, with or without sound,
+         designed to be projected in rapid succession to produce the optical effect of
+         motion.</skos:definition>
+    <skos:notation>m</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.h5tb-zk94#c">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.h5tb-zk94"/>
+    <skos:prefLabel xml:lang="en">electronic resource</skos:prefLabel>
+    <skos:definition xml:lang="en">Involves a medium (usually digitized machine-readable data,
+         program code, etc.) intended to be accessed, processed, or executed by a
+         computer.</skos:definition>
+    <skos:scopeNote xml:lang="en">Examples are programs, data files, image files, digitized audio
+         and video tapes, etc.</skos:scopeNote>
+    <skos:notation>c</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.h5tb-zk94#t">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.h5tb-zk94"/>
+    <skos:prefLabel xml:lang="en">text</skos:prefLabel>
+    <skos:definition xml:lang="en">Printed or manuscript language material that is accessible to
+         the naked eye.</skos:definition>
+    <skos:scopeNote xml:lang="en">E.g., a book, a pamphlet, a broadside.</skos:scopeNote>
+    <skos:notation>t</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.h5tb-zk94#v">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.h5tb-zk94"/>
+    <skos:prefLabel xml:lang="en">videorecording</skos:prefLabel>
+    <skos:definition xml:lang="en">A recording on which visual images, usually in motion and
+         accompanied by sound, have been registered.</skos:definition>
+    <skos:scopeNote xml:lang="en">Designed for playback by means of a television receiver, or
+         video monitor.</skos:scopeNote>
+    <skos:notation>v</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.h5tb-zk94#r">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.h5tb-zk94"/>
+    <skos:prefLabel xml:lang="en">remote-sensing image</skos:prefLabel>
+    <skos:definition xml:lang="en">An image produced by a recording device that is not in physical
+         or intimate contact with the object under study.</skos:definition>
+    <skos:scopeNote xml:lang="en">This may be a map or other image that is obtained through
+         various remote sensing devices such as cameras, computers, lasers, radio frequency
+         receivers, radar systems, sonar, seismographs, gravimeters, magnetometers, and
+         scintillation counters. When the image has cartographic or bibliographic information added,
+         it is referred to as a remote-sensing map.</skos:scopeNote>
+    <skos:notation>r</skos:notation>
   </rdf:Description>
 </rdf:RDF>

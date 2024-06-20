@@ -1,0 +1,59 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix schema: <https://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://doi.org/10.6069/uwlswd.sqyb-w185#a> a skos:Concept ;
+    skos:definition """Sensor measures the strength of reflections of its
+         transmissions sent to a remote target."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.sqyb-w185> ;
+    skos:notation "a" ;
+    skos:prefLabel "active"@en .
+
+<https://doi.org/10.6069/uwlswd.sqyb-w185#b> a skos:Concept ;
+    skos:definition """Sensor measures the strength of transmissions (e.g., radiation)
+         emitted by a remote target without stimulation by the sensor."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.sqyb-w185> ;
+    skos:notation "b" ;
+    skos:prefLabel "passive"@en .
+
+<https://doi.org/10.6069/uwlswd.sqyb-w185#u> a skos:Concept ;
+    skos:definition """Involvement of remote-sensing device in the creation of the
+         transmission it measured is not known."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.sqyb-w185> ;
+    skos:notation "u" ;
+    skos:prefLabel "unknown"@en .
+
+<https://doi.org/10.6069/uwlswd.sqyb-w185#z> a skos:Concept ;
+    skos:definition "Sensor type other than active or passive."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.sqyb-w185> ;
+    skos:notation "z" ;
+    skos:prefLabel "other"@en .
+
+<https://doi.org/10.6069/uwlswd.sqyb-w185> a skos:ConceptScheme ;
+    dc:contributor "Metadata Management Associates"@en ;
+    dc:language "en" ;
+    dct:alternative """MARC21 007/08 values for remote-sensing images expressed using
+         RDF"""@en ;
+    dct:contributor <http://viaf.org/viaf/151962300> ;
+    dct:creator <http://viaf.org/viaf/139541794> ;
+    dct:description """For the recording mode of the remote-sensing device,
+         specifically, whether the sensor is involved in the creation of the transmission it
+         eventually measures."""@en ;
+    dct:format <http://www.w3.org/ns/formats/Turtle> ;
+    dct:hasFormat <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/remote-sensing_image_sensor_type/remote-sensing_image_sensor_type.html>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/remote-sensing_image_sensor_type/remote-sensing_image_sensor_type.jsonld>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/remote-sensing_image_sensor_type/remote-sensing_image_sensor_type.nt>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/remote-sensing_image_sensor_type/remote-sensing_image_sensor_type.rdf> ;
+    dct:issued "2024" ;
+    dct:license <http://creativecommons.org/publicdomain/zero/1.0> ;
+    dct:provenance <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> ;
+    dct:publisher <http://viaf.org/viaf/139541794> ;
+    dct:source <http://marc21rdf.info>,
+        <https://www.loc.gov/marc/bibliographic/bd007.html> ;
+    dct:title "Remote-sensing image: sensor type"@en ;
+    dct:type <http://purl.org/dc/dcmitype/Dataset> ;
+    schema:disambiguatingDescription """SKOS Concept Scheme for MARC 00X
+         Values"""@en ;
+    schema:version "1-0-0" .
+

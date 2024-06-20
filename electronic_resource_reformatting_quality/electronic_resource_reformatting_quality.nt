@@ -1,0 +1,49 @@
+<https://doi.org/10.6069/uwlswd.8svz-r036#r> <http://www.w3.org/2004/02/skos/core#notation> "r" .
+<https://doi.org/10.6069/uwlswd.8svz-r036#p> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.8svz-r036#p> <http://www.w3.org/2004/02/skos/core#notation> "p" .
+<https://doi.org/10.6069/uwlswd.8svz-r036#p> <http://www.w3.org/2004/02/skos/core#definition> "Electronic resource was created via reformatting to help\n         preserve the original item."@en .
+<https://doi.org/10.6069/uwlswd.8svz-r036#r> <http://www.w3.org/2004/02/skos/core#prefLabel> "replacement"@en .
+<https://doi.org/10.6069/uwlswd.8svz-r036> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/electronic_resource_reformatting_quality/electronic_resource_reformatting_quality.ttl> .
+<https://doi.org/10.6069/uwlswd.8svz-r036#a> <http://www.w3.org/2004/02/skos/core#prefLabel> "access"@en .
+<https://doi.org/10.6069/uwlswd.8svz-r036#p> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8svz-r036> .
+<https://doi.org/10.6069/uwlswd.8svz-r036> <http://purl.org/dc/terms/provenance> <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> .
+<https://doi.org/10.6069/uwlswd.8svz-r036> <http://purl.org/dc/terms/format> <http://www.w3.org/ns/formats/N-Triples> .
+<https://doi.org/10.6069/uwlswd.8svz-r036> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/electronic_resource_reformatting_quality/electronic_resource_reformatting_quality.html> .
+<https://doi.org/10.6069/uwlswd.8svz-r036#a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.8svz-r036#n> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.8svz-r036> <http://purl.org/dc/terms/title> "Electronic resource: reformatting quality"@en .
+<https://doi.org/10.6069/uwlswd.8svz-r036> <http://purl.org/dc/terms/issued> "2024" .
+<https://doi.org/10.6069/uwlswd.8svz-r036#r> <http://www.w3.org/2004/02/skos/core#definition> "Electronic resource is of very high quality and, when printed\n         out, viewed on screen or played via a listening device, could serve as a replacement should\n         the original be lost, damaged, or destroyed."@en .
+<https://doi.org/10.6069/uwlswd.8svz-r036#r> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.8svz-r036> <http://purl.org/dc/terms/description> "An overall assessment of the physical quality of the electronic\n         resource in relation to its intended use."@en .
+<https://doi.org/10.6069/uwlswd.8svz-r036> <http://purl.org/dc/terms/contributor> <http://viaf.org/viaf/151962300> .
+<https://doi.org/10.6069/uwlswd.8svz-r036#r> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8svz-r036> .
+<https://doi.org/10.6069/uwlswd.8svz-r036> <https://schema.org/disambiguatingDescription> "SKOS Concept Scheme for MARC 00X\n         Values"@en .
+<https://doi.org/10.6069/uwlswd.8svz-r036> <http://purl.org/dc/terms/source> <http://marc21rdf.info> .
+<https://doi.org/10.6069/uwlswd.8svz-r036> <http://purl.org/dc/elements/1.1/language> "en" .
+<https://doi.org/10.6069/uwlswd.8svz-r036> <https://schema.org/version> "1-0-0" .
+<https://doi.org/10.6069/uwlswd.8svz-r036#u> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.8svz-r036#p> <http://www.w3.org/2004/02/skos/core#prefLabel> "preservation"@en .
+<https://doi.org/10.6069/uwlswd.8svz-r036#u> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8svz-r036> .
+<https://doi.org/10.6069/uwlswd.8svz-r036#a> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8svz-r036> .
+<https://doi.org/10.6069/uwlswd.8svz-r036#n> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.8svz-r036> .
+<https://doi.org/10.6069/uwlswd.8svz-r036#u> <http://www.w3.org/2004/02/skos/core#definition> "Reformatting quality of the electronic resource is not\n         known."@en .
+<https://doi.org/10.6069/uwlswd.8svz-r036#n> <http://www.w3.org/2004/02/skos/core#notation> "n" .
+<https://doi.org/10.6069/uwlswd.8svz-r036> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/electronic_resource_reformatting_quality/electronic_resource_reformatting_quality.jsonld> .
+<https://doi.org/10.6069/uwlswd.8svz-r036> <http://purl.org/dc/elements/1.1/contributor> "Metadata Management Associates"@en .
+<https://doi.org/10.6069/uwlswd.8svz-r036> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<https://doi.org/10.6069/uwlswd.8svz-r036#p> <http://www.w3.org/2004/02/skos/core#scopeNote> "Capture and storage techniques associated with preservation\n         files ensure high-quality, long-term electronic resources that warrant long-term\n         protection."@en .
+<https://doi.org/10.6069/uwlswd.8svz-r036#a> <http://www.w3.org/2004/02/skos/core#definition> "Electronic resource is of a quality that will support current\n         electronic access to the original item (reference use), but is not sufficient to serve as a\n         preservation copy."@en .
+<https://doi.org/10.6069/uwlswd.8svz-r036> <http://purl.org/dc/terms/type> <http://purl.org/dc/dcmitype/Dataset> .
+<https://doi.org/10.6069/uwlswd.8svz-r036> <http://purl.org/dc/terms/source> <https://www.loc.gov/marc/bibliographic/bd007.html> .
+<https://doi.org/10.6069/uwlswd.8svz-r036#u> <http://www.w3.org/2004/02/skos/core#prefLabel> "unknown"@en .
+<https://doi.org/10.6069/uwlswd.8svz-r036> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/electronic_resource_reformatting_quality/electronic_resource_reformatting_quality.rdf> .
+<https://doi.org/10.6069/uwlswd.8svz-r036#n> <http://www.w3.org/2004/02/skos/core#prefLabel> "not applicable"@en .
+<https://doi.org/10.6069/uwlswd.8svz-r036#a> <http://www.w3.org/2004/02/skos/core#scopeNote> "Examples of electronic resources created for access purposes may\n         include images created for a temporary, online exhibition (possibly to mirror an in-house\n         installation); compressed, lower resolution versions of higher-quality master files that\n         allow for easier transmission and access over the Internet; video converted to MPEG-2 for\n         Internet access; photos which have been scanned at lower resolutions to create an online\n         browsing tool for a collection; or articles scanned as a part of an E-Reserve collection\n         which will be discarded in accordance with previous copyright agreements which specify a\n         time limit on the retention of the electronic resource."@en .
+<https://doi.org/10.6069/uwlswd.8svz-r036> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/zero/1.0> .
+<https://doi.org/10.6069/uwlswd.8svz-r036#n> <http://www.w3.org/2004/02/skos/core#definition> "Reformatting quality is not applicable to the electronic\n         resource."@en .
+<https://doi.org/10.6069/uwlswd.8svz-r036> <http://purl.org/dc/terms/alternative> "MARC21 007/13 values for electronic resources expressed using\n         RDF"@en .
+<https://doi.org/10.6069/uwlswd.8svz-r036#a> <http://www.w3.org/2004/02/skos/core#notation> "a" .
+<https://doi.org/10.6069/uwlswd.8svz-r036#u> <http://www.w3.org/2004/02/skos/core#notation> "u" .
+<https://doi.org/10.6069/uwlswd.8svz-r036> <http://purl.org/dc/terms/publisher> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.8svz-r036> <http://purl.org/dc/terms/creator> <http://viaf.org/viaf/139541794> .

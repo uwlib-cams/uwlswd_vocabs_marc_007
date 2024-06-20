@@ -1,20 +1,11 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schema="https://schema.org/" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.ry8c-5814#n">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.ry8c-5814"/>
-    <skos:prefLabel xml:lang="en">not applicable</skos:prefLabel>
-    <skos:definition xml:lang="en">Not braille.</skos:definition>
-    <skos:notation>n</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.ry8c-5814#a">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.ry8c-5814"/>
-    <skos:prefLabel xml:lang="en">print/braille</skos:prefLabel>
-    <skos:definition xml:lang="en">Eye-readable print with braille interleaved or
-         embossed.</skos:definition>
-    <skos:notation>a</skos:notation>
-  </rdf:Description>
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:dct="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:schema="https://schema.org/"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.ry8c-5814">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
     <dct:type rdf:resource="http://purl.org/dc/dcmitype/Dataset"/>
@@ -37,14 +28,10 @@
     <dct:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0"/>
     <schema:version>1-0-0</schema:version>
     <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.ry8c-5814#b">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.ry8c-5814"/>
-    <skos:prefLabel xml:lang="en">jumbo or enlarged braille</skos:prefLabel>
-    <skos:definition xml:lang="en">Item is jumbo or enlarged braille, which is used for braille
-         students and braille readers with reduced tactile sensitivity.</skos:definition>
-    <skos:notation>b</skos:notation>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/tactile_material_special_physical_characteristics/tactile_material_special_physical_characteristics.ttl"/>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/tactile_material_special_physical_characteristics/tactile_material_special_physical_characteristics.nt"/>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/tactile_material_special_physical_characteristics/tactile_material_special_physical_characteristics.jsonld"/>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/tactile_material_special_physical_characteristics/tactile_material_special_physical_characteristics.html"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.ry8c-5814#u">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -54,6 +41,22 @@
          known.</skos:definition>
     <skos:notation>u</skos:notation>
   </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.ry8c-5814#a">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.ry8c-5814"/>
+    <skos:prefLabel xml:lang="en">print/braille</skos:prefLabel>
+    <skos:definition xml:lang="en">Eye-readable print with braille interleaved or
+         embossed.</skos:definition>
+    <skos:notation>a</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.ry8c-5814#b">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.ry8c-5814"/>
+    <skos:prefLabel xml:lang="en">jumbo or enlarged braille</skos:prefLabel>
+    <skos:definition xml:lang="en">Item is jumbo or enlarged braille, which is used for braille
+         students and braille readers with reduced tactile sensitivity.</skos:definition>
+    <skos:notation>b</skos:notation>
+  </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.ry8c-5814#z">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.ry8c-5814"/>
@@ -61,5 +64,12 @@
     <skos:definition xml:lang="en">Specific physical characteristics other than print/braille, or
          jumbo or enlarged braille.</skos:definition>
     <skos:notation>z</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.ry8c-5814#n">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.ry8c-5814"/>
+    <skos:prefLabel xml:lang="en">not applicable</skos:prefLabel>
+    <skos:definition xml:lang="en">Not braille.</skos:definition>
+    <skos:notation>n</skos:notation>
   </rdf:Description>
 </rdf:RDF>

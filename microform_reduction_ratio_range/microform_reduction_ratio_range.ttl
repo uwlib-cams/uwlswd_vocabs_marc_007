@@ -1,0 +1,75 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix schema: <https://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://doi.org/10.6069/uwlswd.gk9v-z457#a> a skos:Concept ;
+    skos:definition "Less than 16:1 ratio."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.gk9v-z457> ;
+    skos:notation "a" ;
+    skos:prefLabel "low reduction"@en .
+
+<https://doi.org/10.6069/uwlswd.gk9v-z457#b> a skos:Concept ;
+    skos:definition "Between 16:1 and 30:1."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.gk9v-z457> ;
+    skos:notation "b" ;
+    skos:prefLabel "normal reduction"@en .
+
+<https://doi.org/10.6069/uwlswd.gk9v-z457#c> a skos:Concept ;
+    skos:definition "Between 31:1 and 60:1."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.gk9v-z457> ;
+    skos:notation "c" ;
+    skos:prefLabel "high reduction"@en .
+
+<https://doi.org/10.6069/uwlswd.gk9v-z457#d> a skos:Concept ;
+    skos:definition "Between 61:1 and 90:1."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.gk9v-z457> ;
+    skos:notation "d" ;
+    skos:prefLabel "very high reduction"@en .
+
+<https://doi.org/10.6069/uwlswd.gk9v-z457#e> a skos:Concept ;
+    skos:definition "Over 90:1."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.gk9v-z457> ;
+    skos:notation "e" ;
+    skos:prefLabel "ultra high reduction"@en .
+
+<https://doi.org/10.6069/uwlswd.gk9v-z457#u> a skos:Concept ;
+    skos:definition "Reduction ratio is not known."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.gk9v-z457> ;
+    skos:notation "u" ;
+    skos:prefLabel "unknown"@en .
+
+<https://doi.org/10.6069/uwlswd.gk9v-z457#v> a skos:Concept ;
+    skos:definition """Not all parts of the microform have the same reduction
+         ratio."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.gk9v-z457> ;
+    skos:notation "v" ;
+    skos:prefLabel "reduction rate varies"@en .
+
+<https://doi.org/10.6069/uwlswd.gk9v-z457> a skos:ConceptScheme ;
+    dc:contributor "Metadata Management Associates"@en ;
+    dc:language "en" ;
+    dct:alternative """MARC21 007/05 values for microform expressed using
+         RDF"""@en ;
+    dct:contributor <http://viaf.org/viaf/151962300> ;
+    dct:creator <http://viaf.org/viaf/139541794> ;
+    dct:description """Reduction ratio range for a microform. The reduction ratio is
+         usually given on the microform itself. If it is not present, one must know the dimensions
+         of the original item and the size of the image on the microform."""@en ;
+    dct:format <http://www.w3.org/ns/formats/Turtle> ;
+    dct:hasFormat <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/microform_reduction_ratio_range/microform_reduction_ratio_range.html>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/microform_reduction_ratio_range/microform_reduction_ratio_range.jsonld>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/microform_reduction_ratio_range/microform_reduction_ratio_range.nt>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/microform_reduction_ratio_range/microform_reduction_ratio_range.rdf> ;
+    dct:issued "2024" ;
+    dct:license <http://creativecommons.org/publicdomain/zero/1.0> ;
+    dct:provenance <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> ;
+    dct:publisher <http://viaf.org/viaf/139541794> ;
+    dct:source <http://marc21rdf.info>,
+        <https://www.loc.gov/marc/bibliographic/bd007.html> ;
+    dct:title "Microform: reduction ratio range"@en ;
+    dct:type <http://purl.org/dc/dcmitype/Dataset> ;
+    schema:disambiguatingDescription """SKOS Concept Scheme for MARC 00X
+         Values"""@en ;
+    schema:version "1-0-0" .
+

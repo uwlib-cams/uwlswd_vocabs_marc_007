@@ -1,75 +1,5 @@
 [
   {
-    "@id": "https://doi.org/10.6069/uwlswd.brtx-qb17#c",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept"
-    ],
-    "http://www.w3.org/2004/02/skos/core#definition": [
-      {
-        "@language": "en",
-        "@value": "Electronic resource has been created or copied from an existing\n         electronic resource."
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#inScheme": [
-      {
-        "@id": "https://doi.org/10.6069/uwlswd.brtx-qb17"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#notation": [
-      {
-        "@language": "en",
-        "@value": "c"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "en",
-        "@value": "file reproduced from an electronic resource"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#scopeNote": [
-      {
-        "@language": "en",
-        "@value": "E.g., to generate new copies or derivative copies with lower\n         resolution or smaller file size; to process an existing file with Optical Character\n         Recognition - OCR - software; etc."
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlswd.brtx-qb17#m",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept"
-    ],
-    "http://www.w3.org/2004/02/skos/core#definition": [
-      {
-        "@language": "en",
-        "@value": "Images comprising the electronic resource have been created\n         from mixed sources."
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#inScheme": [
-      {
-        "@id": "https://doi.org/10.6069/uwlswd.brtx-qb17"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#notation": [
-      {
-        "@language": "en",
-        "@value": "m"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "en",
-        "@value": "mixed"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#scopeNote": [
-      {
-        "@language": "en",
-        "@value": "Portions scanned from original item, portions scanned from\n         microfilm, etc."
-      }
-    ]
-  },
-  {
     "@id": "https://doi.org/10.6069/uwlswd.brtx-qb17#a",
     "@type": [
       "http://www.w3.org/2004/02/skos/core#Concept"
@@ -87,7 +17,6 @@
     ],
     "http://www.w3.org/2004/02/skos/core#notation": [
       {
-        "@language": "en",
         "@value": "a"
       }
     ],
@@ -101,6 +30,34 @@
       {
         "@language": "en",
         "@value": "Common examples of original objects include: printed or\n         manuscript texts and/or images that are made on paper or on vellum; photographic prints\n         (and in some instances photographic negatives, depending on creator's intent); analog audio\n         formats; and video formats. This value does not pertain to microform even if microform is\n         the original."
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.brtx-qb17#u",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Antecedent or source of this reformatted electronic resource is\n         not known."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.brtx-qb17"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "u"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "unknown"
       }
     ]
   },
@@ -122,7 +79,6 @@
     ],
     "http://www.w3.org/2004/02/skos/core#notation": [
       {
-        "@language": "en",
         "@value": "n"
       }
     ],
@@ -157,7 +113,6 @@
     ],
     "http://www.w3.org/2004/02/skos/core#notation": [
       {
-        "@language": "en",
         "@value": "b"
       }
     ],
@@ -175,14 +130,14 @@
     ]
   },
   {
-    "@id": "https://doi.org/10.6069/uwlswd.brtx-qb17#u",
+    "@id": "https://doi.org/10.6069/uwlswd.brtx-qb17#c",
     "@type": [
       "http://www.w3.org/2004/02/skos/core#Concept"
     ],
     "http://www.w3.org/2004/02/skos/core#definition": [
       {
         "@language": "en",
-        "@value": "Antecedent or source of this reformatted electronic resource is\n         not known."
+        "@value": "Electronic resource has been created or copied from an existing\n         electronic resource."
       }
     ],
     "http://www.w3.org/2004/02/skos/core#inScheme": [
@@ -192,49 +147,53 @@
     ],
     "http://www.w3.org/2004/02/skos/core#notation": [
       {
-        "@language": "en",
-        "@value": "u"
+        "@value": "c"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#prefLabel": [
       {
         "@language": "en",
-        "@value": "unknown"
-      }
-    ]
-  },
-  {
-    "@id": "https://doi.org/10.6069/uwlswd.brtx-qb17#d",
-    "@type": [
-      "http://www.w3.org/2004/02/skos/core#Concept"
-    ],
-    "http://www.w3.org/2004/02/skos/core#definition": [
-      {
-        "@language": "en",
-        "@value": "Content comprising the electronic resource has been created by\n         reformatting/digitizing from an intermediate other than microform."
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#inScheme": [
-      {
-        "@id": "https://doi.org/10.6069/uwlswd.brtx-qb17"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#notation": [
-      {
-        "@language": "en",
-        "@value": "d"
-      }
-    ],
-    "http://www.w3.org/2004/02/skos/core#prefLabel": [
-      {
-        "@language": "en",
-        "@value": "file reproduced from an intermediate (not\n         microform"
+        "@value": "file reproduced from an electronic resource"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#scopeNote": [
       {
         "@language": "en",
-        "@value": "Common examples of non-microfom intermediates for visual and\n         textual materials are: photocopies, 35 mm film, transparencies, slides, 2nd generation\n         video tape, etc. A common example of an intermediate for audio materials is 2nd generation\n         analog tapes."
+        "@value": "E.g., to generate new copies or derivative copies with lower\n         resolution or smaller file size; to process an existing file with Optical Character\n         Recognition - OCR - software; etc."
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.brtx-qb17#m",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Images comprising the electronic resource have been created\n         from mixed sources."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.brtx-qb17"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "m"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "mixed"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@language": "en",
+        "@value": "Portions scanned from original item, portions scanned from\n         microfilm, etc."
       }
     ]
   },
@@ -307,7 +266,7 @@
     ],
     "http://purl.org/dc/terms/provenance": [
       {
-        "@id": "https://doi.org/10.6069/uwlswd.2e2b-y833"
+        "@id": "https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues"
       }
     ],
     "http://purl.org/dc/terms/publisher": [
@@ -336,12 +295,47 @@
     ],
     "https://schema.org/disambiguatingDescription": [
       {
+        "@language": "en",
         "@value": "SKOS Concept Scheme for MARC 00X\n         Values"
       }
     ],
     "https://schema.org/version": [
       {
         "@value": "1-0-0"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.brtx-qb17#d",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Content comprising the electronic resource has been created by\n         reformatting/digitizing from an intermediate other than microform."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.brtx-qb17"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "d"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "file reproduced from an intermediate (not\n         microform"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@language": "en",
+        "@value": "Common examples of non-microfom intermediates for visual and\n         textual materials are: photocopies, 35 mm film, transparencies, slides, 2nd generation\n         video tape, etc. A common example of an intermediate for audio materials is 2nd generation\n         analog tapes."
       }
     ]
   }

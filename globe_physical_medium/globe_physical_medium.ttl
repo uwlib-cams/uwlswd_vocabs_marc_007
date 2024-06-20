@@ -1,0 +1,128 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix schema: <https://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://doi.org/10.6069/uwlswd.db6k-dw63#a> a skos:Concept ;
+    skos:definition "Any kind of cellulose-based paper."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.db6k-dw63> ;
+    skos:notation "a" ;
+    skos:prefLabel "paper"@en .
+
+<https://doi.org/10.6069/uwlswd.db6k-dw63#b> a skos:Concept ;
+    skos:definition "Wood."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.db6k-dw63> ;
+    skos:notation "b" ;
+    skos:prefLabel "wood"@en ;
+    skos:scopeNote """A material that is based on wood particles or fibers may or may
+         not be considered wood. Consider particle board to be wood."""@en .
+
+<https://doi.org/10.6069/uwlswd.db6k-dw63#c> a skos:Concept ;
+    skos:definition "Stone."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.db6k-dw63> ;
+    skos:notation "c" ;
+    skos:prefLabel "stone"@en .
+
+<https://doi.org/10.6069/uwlswd.db6k-dw63#d> a skos:Concept ;
+    skos:definition "Metal."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.db6k-dw63> ;
+    skos:notation "d" ;
+    skos:prefLabel "metal"@en .
+
+<https://doi.org/10.6069/uwlswd.db6k-dw63#e> a skos:Concept ;
+    skos:definition """Man-made substances other than textiles, plastic, and
+         vinyl."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.db6k-dw63> ;
+    skos:notation "e" ;
+    skos:prefLabel "synthetic"@en .
+
+<https://doi.org/10.6069/uwlswd.db6k-dw63#f> a skos:Concept ;
+    skos:definition "Skin."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.db6k-dw63> ;
+    skos:notation "f" ;
+    skos:prefLabel "skin"@en ;
+    skos:scopeNote "Excludes leather, parchment, and vellum."@en,
+        """Synthetic materials that are made to resemble animal skin are
+         coded as synthetic."""@en .
+
+<https://doi.org/10.6069/uwlswd.db6k-dw63#g> a skos:Concept ;
+    skos:definition "Textile."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.db6k-dw63> ;
+    skos:notation "g" ;
+    skos:prefLabel "textile"@en ;
+    skos:scopeNote """Used for all fabrics, whether made from natural or synthetic
+         fibers."""@en .
+
+<https://doi.org/10.6069/uwlswd.db6k-dw63#l> a skos:Concept ;
+    skos:definition "Vinyl."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.db6k-dw63> ;
+    skos:notation "l" ;
+    skos:prefLabel "vinyl"@en .
+
+<https://doi.org/10.6069/uwlswd.db6k-dw63#n> a skos:Concept ;
+    skos:definition """Fine-grained unsplit lambskin, kidskin, or calfskin prepared
+         especially for writing or drawing on."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.db6k-dw63> ;
+    skos:notation "n" ;
+    skos:prefLabel "vellum"@en .
+
+<https://doi.org/10.6069/uwlswd.db6k-dw63#p> a skos:Concept ;
+    skos:definition "Plaster."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.db6k-dw63> ;
+    skos:notation "p" ;
+    skos:prefLabel "plaster"@en ;
+    skos:scopeNote """Used also for mixtures of ground solids and
+         plaster."""@en .
+
+<https://doi.org/10.6069/uwlswd.db6k-dw63#u> a skos:Concept ;
+    skos:definition """Physical medium of which the globe is made is not
+         known."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.db6k-dw63> ;
+    skos:notation "u" ;
+    skos:prefLabel "unknown"@en .
+
+<https://doi.org/10.6069/uwlswd.db6k-dw63#v> a skos:Concept ;
+    skos:definition "Animal skin dressed for use."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.db6k-dw63> ;
+    skos:notation "v" ;
+    skos:prefLabel "leather"@en .
+
+<https://doi.org/10.6069/uwlswd.db6k-dw63#w> a skos:Concept ;
+    skos:definition """Skin of a sheep or goat prepared for writing
+         on."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.db6k-dw63> ;
+    skos:notation "w" ;
+    skos:prefLabel "parchment"@en .
+
+<https://doi.org/10.6069/uwlswd.db6k-dw63#z> a skos:Concept ;
+    skos:definition """Physical medium other than paper, wood, stone, metal,
+         synthetic, skin, textile, vinyl, vellum, plaster, leather, or parchment."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.db6k-dw63> ;
+    skos:notation "z" ;
+    skos:prefLabel "other"@en .
+
+<https://doi.org/10.6069/uwlswd.db6k-dw63> a skos:ConceptScheme ;
+    dc:contributor "Metadata Management Associates"@en ;
+    dc:language "en" ;
+    dct:alternative """MARC21 007/04 values for globes expressed using
+         RDF"""@en ;
+    dct:contributor <http://viaf.org/viaf/151962300> ;
+    dct:creator <http://viaf.org/viaf/139541794> ;
+    dct:description "Material out of which the globe is made."@en ;
+    dct:format <http://www.w3.org/ns/formats/Turtle> ;
+    dct:hasFormat <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/globe_physical_medium/globe_physical_medium.html>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/globe_physical_medium/globe_physical_medium.jsonld>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/globe_physical_medium/globe_physical_medium.nt>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/globe_physical_medium/globe_physical_medium.rdf> ;
+    dct:issued "2024" ;
+    dct:license <http://creativecommons.org/publicdomain/zero/1.0> ;
+    dct:provenance <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> ;
+    dct:publisher <http://viaf.org/viaf/139541794> ;
+    dct:source <http://marc21rdf.info>,
+        <https://www.loc.gov/marc/bibliographic/bd007.html> ;
+    dct:title "Globe: physical medium"@en ;
+    dct:type <http://purl.org/dc/dcmitype/Dataset> ;
+    schema:disambiguatingDescription """SKOS Concept Scheme for MARC 00X
+         Values"""@en ;
+    schema:version "1-0-0" .
+

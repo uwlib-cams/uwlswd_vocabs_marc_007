@@ -1,19 +1,11 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schema="https://schema.org/" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.epe4-z216#g">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.epe4-z216"/>
-    <skos:prefLabel xml:lang="en">70 mm.</skos:prefLabel>
-    <skos:definition xml:lang="en">70 mm.</skos:definition>
-    <skos:notation>g</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.epe4-z216#d">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.epe4-z216"/>
-    <skos:prefLabel xml:lang="en">16 mm.</skos:prefLabel>
-    <skos:definition xml:lang="en">16 mm.</skos:definition>
-    <skos:notation>d</skos:notation>
-  </rdf:Description>
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:dct="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:schema="https://schema.org/"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.epe4-z216">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
     <dct:type rdf:resource="http://purl.org/dc/dcmitype/Dataset"/>
@@ -36,27 +28,17 @@
     <dct:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0"/>
     <schema:version>1-0-0</schema:version>
     <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/microform_dimensions/microform_dimensions.ttl"/>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/microform_dimensions/microform_dimensions.nt"/>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/microform_dimensions/microform_dimensions.jsonld"/>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/microform_dimensions/microform_dimensions.html"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.epe4-z216#l">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.epe4-z216#h">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.epe4-z216"/>
-    <skos:prefLabel xml:lang="en">3x5 in. or 8x13 cm.</skos:prefLabel>
-    <skos:definition xml:lang="en">3x5 in. or 8x13 cm.</skos:definition>
-    <skos:notation>l</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.epe4-z216#f">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.epe4-z216"/>
-    <skos:prefLabel xml:lang="en">35 mm.</skos:prefLabel>
-    <skos:definition xml:lang="en">35 mm.</skos:definition>
-    <skos:notation>f</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.epe4-z216#m">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.epe4-z216"/>
-    <skos:prefLabel xml:lang="en">4x6 in. or 11x15 cm.</skos:prefLabel>
-    <skos:definition xml:lang="en">4x6 in. or 11x15 cm.</skos:definition>
-    <skos:notation>m</skos:notation>
+    <skos:prefLabel xml:lang="en">105 mm.</skos:prefLabel>
+    <skos:definition xml:lang="en">105 mm.</skos:definition>
+    <skos:notation>h</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.epe4-z216#z">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -74,19 +56,47 @@
     <skos:definition xml:lang="en">3 1/4 x 7 3/8 in. or 9x19 cm.</skos:definition>
     <skos:notation>p</skos:notation>
   </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.epe4-z216#f">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.epe4-z216"/>
+    <skos:prefLabel xml:lang="en">35 mm.</skos:prefLabel>
+    <skos:definition xml:lang="en">35 mm.</skos:definition>
+    <skos:notation>f</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.epe4-z216#d">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.epe4-z216"/>
+    <skos:prefLabel xml:lang="en">16 mm.</skos:prefLabel>
+    <skos:definition xml:lang="en">16 mm.</skos:definition>
+    <skos:notation>d</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.epe4-z216#a">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.epe4-z216"/>
+    <skos:prefLabel xml:lang="en">8 mm.</skos:prefLabel>
+    <skos:definition xml:lang="en">8 mm.</skos:definition>
+    <skos:notation>a</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.epe4-z216#m">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.epe4-z216"/>
+    <skos:prefLabel xml:lang="en">4x6 in. or 11x15 cm.</skos:prefLabel>
+    <skos:definition xml:lang="en">4x6 in. or 11x15 cm.</skos:definition>
+    <skos:notation>m</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.epe4-z216#l">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.epe4-z216"/>
+    <skos:prefLabel xml:lang="en">3x5 in. or 8x13 cm.</skos:prefLabel>
+    <skos:definition xml:lang="en">3x5 in. or 8x13 cm.</skos:definition>
+    <skos:notation>l</skos:notation>
+  </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.epe4-z216#u">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.epe4-z216"/>
     <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
     <skos:definition xml:lang="en">Dimensions are not known.</skos:definition>
     <skos:notation>u</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.epe4-z216#h">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.epe4-z216"/>
-    <skos:prefLabel xml:lang="en">105 mm.</skos:prefLabel>
-    <skos:definition xml:lang="en">105 mm.</skos:definition>
-    <skos:notation>h</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.epe4-z216#o">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -95,11 +105,11 @@
     <skos:definition xml:lang="en">6x9 in. or 16x23 cm.</skos:definition>
     <skos:notation>o</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.epe4-z216#a">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.epe4-z216#g">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.epe4-z216"/>
-    <skos:prefLabel xml:lang="en">8 mm.</skos:prefLabel>
-    <skos:definition xml:lang="en">8 mm.</skos:definition>
-    <skos:notation>a</skos:notation>
+    <skos:prefLabel xml:lang="en">70 mm.</skos:prefLabel>
+    <skos:definition xml:lang="en">70 mm.</skos:definition>
+    <skos:notation>g</skos:notation>
   </rdf:Description>
 </rdf:RDF>

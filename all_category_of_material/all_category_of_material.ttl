@@ -6,7 +6,7 @@
 <https://doi.org/10.6069/uwlswd.h5tb-zk94#a> a skos:Concept ;
     skos:definition "Map"@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.h5tb-zk94> ;
-    skos:notation "a"@en ;
+    skos:notation "a" ;
     skos:prefLabel "map"@en ;
     skos:scopeNote """Used for all cartographic materials except
          globes."""@en .
@@ -16,7 +16,7 @@
          program code, etc.) intended to be accessed, processed, or executed by a
          computer."""@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.h5tb-zk94> ;
-    skos:notation "c"@en ;
+    skos:notation "c" ;
     skos:prefLabel "electronic resource"@en ;
     skos:scopeNote """Examples are programs, data files, image files, digitized audio
          and video tapes, etc."""@en .
@@ -25,21 +25,21 @@
     skos:definition """The model of a celestial body, usually the earth or the
          celestial sphere, depicted on the surface of a sphere."""@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.h5tb-zk94> ;
-    skos:notation "d"@en ;
+    skos:notation "d" ;
     skos:prefLabel "globe"@en .
 
 <https://doi.org/10.6069/uwlswd.h5tb-zk94#f> a skos:Concept ;
     skos:definition """Material intended to be read or interpreted by
          touch."""@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.h5tb-zk94> ;
-    skos:notation "f"@en ;
+    skos:notation "f" ;
     skos:prefLabel "tactile material"@en .
 
 <https://doi.org/10.6069/uwlswd.h5tb-zk94#g> a skos:Concept ;
     skos:definition """A two-dimensional representation intended to be projected
          without motion by means of an optical device."""@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.h5tb-zk94> ;
-    skos:notation "g"@en ;
+    skos:notation "g" ;
     skos:prefLabel "projected graphic"@en ;
     skos:scopeNote """For example, a filmstrip, slide, or transparency (includes
          x-rays)."""@en .
@@ -51,7 +51,7 @@
          micro-opaques, or other microformats and that is too small to be read without
          magnification."""@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.h5tb-zk94> ;
-    skos:notation "h"@en ;
+    skos:notation "h" ;
     skos:prefLabel "microform"@en ;
     skos:scopeNote """Microforms may be reproductions of existing textual or graphic
          materials or they may be original publications."""@en .
@@ -61,7 +61,7 @@
          (e.g., print, photoprint, drawing) or transparent, but not intended to be projected for
          viewing (e.g., a photographic negative)."""@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.h5tb-zk94> ;
-    skos:notation "k"@en ;
+    skos:notation "k" ;
     skos:prefLabel "nonprojected graphic"@en .
 
 <https://doi.org/10.6069/uwlswd.h5tb-zk94#m> a skos:Concept ;
@@ -69,7 +69,7 @@
          designed to be projected in rapid succession to produce the optical effect of
          motion."""@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.h5tb-zk94> ;
-    skos:notation "m"@en ;
+    skos:notation "m" ;
     skos:prefLabel "motion picture"@en .
 
 <https://doi.org/10.6069/uwlswd.h5tb-zk94#o> a skos:Concept ;
@@ -77,7 +77,7 @@
          primarily for instructional purposes. No one component is identifiable as the predominant
          component of the item."""@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.h5tb-zk94> ;
-    skos:notation "o"@en ;
+    skos:notation "o" ;
     skos:prefLabel "kit"@en ;
     skos:scopeNote """Examples are packages of assorted materials, such as a set of
          K-12 social studies curriculum material (books, workbooks, guides, activities, etc.), or
@@ -88,7 +88,7 @@
     skos:definition """Graphic, non-realized representations of musical works, both in
          printed and digitized manifestations."""@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.h5tb-zk94> ;
-    skos:notation "q"@en ;
+    skos:notation "q" ;
     skos:prefLabel "notated music"@en ;
     skos:scopeNote """Includes musical scores and/or parts, diagrammatic
          representations, tablature, instructions for chance compositions, pictures or paintings
@@ -102,7 +102,7 @@
     skos:definition """An image produced by a recording device that is not in physical
          or intimate contact with the object under study."""@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.h5tb-zk94> ;
-    skos:notation "r"@en ;
+    skos:notation "r" ;
     skos:prefLabel "remote-sensing image"@en ;
     skos:scopeNote """This may be a map or other image that is obtained through
          various remote sensing devices such as cameras, computers, lasers, radio frequency
@@ -115,14 +115,14 @@
          of a musical composition from which sound can be mechanically reproduced, such as a piano
          roll."""@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.h5tb-zk94> ;
-    skos:notation "s"@en ;
+    skos:notation "s" ;
     skos:prefLabel "sound recording"@en .
 
 <https://doi.org/10.6069/uwlswd.h5tb-zk94#t> a skos:Concept ;
     skos:definition """Printed or manuscript language material that is accessible to
          the naked eye."""@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.h5tb-zk94> ;
-    skos:notation "t"@en ;
+    skos:notation "t" ;
     skos:prefLabel "text"@en ;
     skos:scopeNote "E.g., a book, a pamphlet, a broadside."@en .
 
@@ -130,7 +130,7 @@
     skos:definition """A recording on which visual images, usually in motion and
          accompanied by sound, have been registered."""@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.h5tb-zk94> ;
-    skos:notation "v"@en ;
+    skos:notation "v" ;
     skos:prefLabel "videorecording"@en ;
     skos:scopeNote """Designed for playback by means of a television receiver, or
          video monitor."""@en .
@@ -139,7 +139,7 @@
     skos:definition """Item is not identified by one of the other values or that its
          multiple physical forms are not being specifically denoted."""@en ;
     skos:inScheme <https://doi.org/10.6069/uwlswd.h5tb-zk94> ;
-    skos:notation "z"@en ;
+    skos:notation "z" ;
     skos:prefLabel "unspecified"@en .
 
 <https://doi.org/10.6069/uwlswd.h5tb-zk94> a skos:ConceptScheme ;
@@ -157,13 +157,13 @@
         <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/all_category_of_material/all_category_of_material.rdf> ;
     dct:issued "2024" ;
     dct:license <http://creativecommons.org/publicdomain/zero/1.0> ;
-    dct:provenance <https://doi.org/10.6069/uwlswd.2e2b-y833> ;
+    dct:provenance <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> ;
     dct:publisher <http://viaf.org/viaf/139541794> ;
     dct:source <http://marc21rdf.info>,
         <https://www.loc.gov/marc/bibliographic/bd007.html> ;
     dct:title "All: category of material"@en ;
     dct:type <http://purl.org/dc/dcmitype/Dataset> ;
     schema:disambiguatingDescription """SKOS Concept Scheme for MARC 00X
-         Values""" ;
+         Values"""@en ;
     schema:version "1-0-0" .
 

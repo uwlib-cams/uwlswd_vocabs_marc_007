@@ -1,0 +1,88 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix schema: <https://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://doi.org/10.6069/uwlswd.6h5g-mr73#a> a skos:Concept ;
+    skos:definition """Film color prints created by the transfer of two or more
+         differently colored dye images to a single strip of blank film. The dye transfer process
+         was used only to produce prints. Imbibition dye transfer prints can be produced from film
+         originally shot on either multi-strip or multi-layer film."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.6h5g-mr73> ;
+    skos:notation "a" ;
+    skos:prefLabel "imbibition dye transfer prints"@en ;
+    skos:scopeNote """The process was used only by the Technicolor Company from ca.
+         1928 to ca. 1975. The patents were sold to the People's Republic of China, and since ca.
+         1980, the process has been available only in China."""@en .
+
+<https://doi.org/10.6069/uwlswd.6h5g-mr73#b> a skos:Concept ;
+    skos:definition """Color film stock with three layers of emulsion: cyan, magenta
+         and yellow. Each layer is sensitive to its own primary color."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.6h5g-mr73> ;
+    skos:notation "b" ;
+    skos:prefLabel "three layer stock"@en ;
+    skos:scopeNote """Since the early 1950s, most color films have been both shot and
+         printed on this stock. It is also called multilayer film stock."""@en .
+
+<https://doi.org/10.6069/uwlswd.6h5g-mr73#c> a skos:Concept ;
+    skos:definition """Color film stock with three layers of emulsion: cyan, magenta
+         and yellow. Each layer is sensitive to its own primary color and stabilized to reduce color
+         fading as much as possible."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.6h5g-mr73> ;
+    skos:notation "c" ;
+    skos:prefLabel "three layer stock, low fade"@en ;
+    skos:scopeNote "It has been available since ca. 1983."@en .
+
+<https://doi.org/10.6069/uwlswd.6h5g-mr73#d> a skos:Concept ;
+    skos:definition """Color print stock with emulsion on both sides. Usually one side
+         is dyed red, and the other side is dyed or toned blue."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.6h5g-mr73> ;
+    skos:notation "d" ;
+    skos:prefLabel "duplitized stock"@en .
+
+<https://doi.org/10.6069/uwlswd.6h5g-mr73#n> a skos:Concept ;
+    skos:definition "Item is not a color film."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.6h5g-mr73> ;
+    skos:notation "n" ;
+    skos:prefLabel "not applicable"@en .
+
+<https://doi.org/10.6069/uwlswd.6h5g-mr73#u> a skos:Concept ;
+    skos:definition "Type of color film stock is not known."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.6h5g-mr73> ;
+    skos:notation "u" ;
+    skos:prefLabel "unknown"@en .
+
+<https://doi.org/10.6069/uwlswd.6h5g-mr73#z> a skos:Concept ;
+    skos:definition """Kind of color stock or print other than imbibition dye transfer
+         prints, three layer stock, three layer stock, low fade, or duplitized
+         stock."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.6h5g-mr73> ;
+    skos:notation "z" ;
+    skos:prefLabel "other"@en .
+
+<https://doi.org/10.6069/uwlswd.6h5g-mr73> a skos:ConceptScheme ;
+    dc:contributor "Metadata Management Associates"@en ;
+    dc:language "en" ;
+    dct:alternative """MARC21 007/14 values for motion pictures expressed using
+         RDF"""@en ;
+    dct:contributor <http://viaf.org/viaf/151962300> ;
+    dct:creator <http://viaf.org/viaf/139541794> ;
+    dct:description """Type of color film stock or color print the item
+         represents."""@en ;
+    dct:format <http://www.w3.org/ns/formats/Turtle> ;
+    dct:hasFormat <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/motion_picture_kind_of_color_stock_or_print/motion_picture_kind_of_color_stock_or_print.html>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/motion_picture_kind_of_color_stock_or_print/motion_picture_kind_of_color_stock_or_print.jsonld>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/motion_picture_kind_of_color_stock_or_print/motion_picture_kind_of_color_stock_or_print.nt>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/motion_picture_kind_of_color_stock_or_print/motion_picture_kind_of_color_stock_or_print.rdf> ;
+    dct:issued "2024" ;
+    dct:license <http://creativecommons.org/publicdomain/zero/1.0> ;
+    dct:provenance <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> ;
+    dct:publisher <http://viaf.org/viaf/139541794> ;
+    dct:source <http://marc21rdf.info>,
+        <https://www.loc.gov/marc/bibliographic/bd007.html> ;
+    dct:title "Motion picture: kind of color stock or print"@en ;
+    dct:type <http://purl.org/dc/dcmitype/Dataset> ;
+    schema:disambiguatingDescription """SKOS Concept Scheme for MARC 00X
+         Values"""@en ;
+    schema:version "1-0-0" .
+

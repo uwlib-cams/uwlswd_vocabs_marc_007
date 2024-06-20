@@ -1,0 +1,112 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix schema: <https://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://doi.org/10.6069/uwlswd.404b-ss58#a> a skos:Concept ;
+    skos:definition "Type has not been identified."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.404b-ss58> ;
+    skos:notation "a" ;
+    skos:prefLabel "safety base, undetermined"@en .
+
+<https://doi.org/10.6069/uwlswd.404b-ss58#b> a skos:Concept ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.404b-ss58> ;
+    skos:notation "b" ;
+    skos:prefLabel "not safety base [obsolete]"@en .
+
+<https://doi.org/10.6069/uwlswd.404b-ss58#c> a skos:Concept ;
+    skos:definition """Acetate safety base film whose exact type cannot be
+         determined."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.404b-ss58> ;
+    skos:notation "c" ;
+    skos:prefLabel "safety base, acetate undetermined"@en ;
+    skos:scopeNote """I.e., where it is unknown if the type is diacetate or
+         triacetate."""@en .
+
+<https://doi.org/10.6069/uwlswd.404b-ss58#d> a skos:Concept ;
+    skos:definition "Cellulose diacetate film base."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.404b-ss58> ;
+    skos:notation "d" ;
+    skos:prefLabel "safety base, diacetate"@en .
+
+<https://doi.org/10.6069/uwlswd.404b-ss58#i> a skos:Concept ;
+    skos:definition "Cellulose nitrate film."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.404b-ss58> ;
+    skos:notation "i" ;
+    skos:prefLabel "nitrate base"@en .
+
+<https://doi.org/10.6069/uwlswd.404b-ss58#m> a skos:Concept ;
+    skos:definition """Combination of nitrate base and safety base
+         film."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.404b-ss58> ;
+    skos:notation "m" ;
+    skos:prefLabel "mixed base (nitrate and safety)"@en .
+
+<https://doi.org/10.6069/uwlswd.404b-ss58#n> a skos:Concept ;
+    skos:definition """On a reflective rather than a transparent
+         base."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.404b-ss58> ;
+    skos:notation "n" ;
+    skos:prefLabel "not applicable"@en ;
+    skos:scopeNote """Used for microopaques (which can be termed microcard or
+         microprint)."""@en .
+
+<https://doi.org/10.6069/uwlswd.404b-ss58#p> a skos:Concept ;
+    skos:definition """Film base is made of a synthetic resin (e.g.,
+         estar)."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.404b-ss58> ;
+    skos:notation "p" ;
+    skos:prefLabel "safety base, polyester"@en .
+
+<https://doi.org/10.6069/uwlswd.404b-ss58#r> a skos:Concept ;
+    skos:definition """Mixed safety base films are spliced together; no nitrate
+         film."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.404b-ss58> ;
+    skos:notation "r" ;
+    skos:prefLabel "safety base, mixed"@en .
+
+<https://doi.org/10.6069/uwlswd.404b-ss58#t> a skos:Concept ;
+    skos:definition "Cellulose triacetate film base."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.404b-ss58> ;
+    skos:notation "t" ;
+    skos:prefLabel "safety base, triacetate"@en .
+
+<https://doi.org/10.6069/uwlswd.404b-ss58#u> a skos:Concept ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.404b-ss58> ;
+    skos:notation "u" ;
+    skos:prefLabel "unknown"@en .
+
+<https://doi.org/10.6069/uwlswd.404b-ss58#z> a skos:Concept ;
+    skos:definition """Base of film other than safety base, undetermined, safety base,
+         acetate undetermined, safety base, diacetate, nitrate base, mixed base (nitrate and
+         safety), not applicable, safety base, polyester, safety base, mixed, safety base, or
+         triacetate."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.404b-ss58> ;
+    skos:notation "z" ;
+    skos:prefLabel "other"@en .
+
+<https://doi.org/10.6069/uwlswd.404b-ss58> a skos:ConceptScheme ;
+    dc:contributor "Metadata Management Associates"@en ;
+    dc:language "en" ;
+    dct:alternative """MARC21 007/12 values for microform expressed using
+         RDF"""@en ;
+    dct:contributor <http://viaf.org/viaf/151962300> ;
+    dct:creator <http://viaf.org/viaf/139541794> ;
+    dct:description "Base of the film."@en ;
+    dct:format <http://www.w3.org/ns/formats/Turtle> ;
+    dct:hasFormat <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/microform_base_of_film/microform_base_of_film.html>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/microform_base_of_film/microform_base_of_film.jsonld>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/microform_base_of_film/microform_base_of_film.nt>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/microform_base_of_film/microform_base_of_film.rdf> ;
+    dct:issued "2024" ;
+    dct:license <http://creativecommons.org/publicdomain/zero/1.0> ;
+    dct:provenance <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> ;
+    dct:publisher <http://viaf.org/viaf/139541794> ;
+    dct:source <http://marc21rdf.info>,
+        <https://www.loc.gov/marc/bibliographic/bd007.html> ;
+    dct:title "Microform: base of film"@en ;
+    dct:type <http://purl.org/dc/dcmitype/Dataset> ;
+    schema:disambiguatingDescription """SKOS Concept Scheme for MARC 00X
+         Values"""@en ;
+    schema:version "1-0-0" .
+

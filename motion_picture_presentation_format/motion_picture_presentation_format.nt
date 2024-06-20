@@ -1,0 +1,76 @@
+<https://doi.org/10.6069/uwlswd.c9kk-6x09#d> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.c9kk-6x09> .
+<https://doi.org/10.6069/uwlswd.c9kk-6x09> <http://purl.org/dc/terms/provenance> <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> .
+<https://doi.org/10.6069/uwlswd.c9kk-6x09#e> <http://www.w3.org/2004/02/skos/core#definition> "Any other wide-screen process not covered by other\n         codes."@en .
+<https://doi.org/10.6069/uwlswd.c9kk-6x09#n> <http://www.w3.org/2004/02/skos/core#notation> "n" .
+<https://doi.org/10.6069/uwlswd.c9kk-6x09#z> <http://www.w3.org/2004/02/skos/core#prefLabel> "other"@en .
+<https://doi.org/10.6069/uwlswd.c9kk-6x09#c> <http://www.w3.org/2004/02/skos/core#prefLabel> "3D"@en .
+<https://doi.org/10.6069/uwlswd.c9kk-6x09> <http://purl.org/dc/terms/source> <http://marc21rdf.info> .
+<https://doi.org/10.6069/uwlswd.c9kk-6x09> <http://purl.org/dc/terms/format> <http://www.w3.org/ns/formats/N-Triples> .
+<https://doi.org/10.6069/uwlswd.c9kk-6x09#z> <http://www.w3.org/2004/02/skos/core#scopeNote> "An example of this is the 70 mm. Imax format which is a\n         non-rectangular, circular 180 degree limited use format that is not standardized. Imax may\n         not technically be considered a wide-screen format because it does not have an aspect\n         ratio, but it does achieve a wide-screen effect."@en .
+<https://doi.org/10.6069/uwlswd.c9kk-6x09#ex> <http://www.w3.org/2004/02/skos/core#prefLabel> "other [obsolete]"@en .
+<https://doi.org/10.6069/uwlswd.c9kk-6x09#f> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.c9kk-6x09> .
+<https://doi.org/10.6069/uwlswd.c9kk-6x09#b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.c9kk-6x09#c> <http://www.w3.org/2004/02/skos/core#notation> "c" .
+<https://doi.org/10.6069/uwlswd.c9kk-6x09#a> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.c9kk-6x09> .
+<https://doi.org/10.6069/uwlswd.c9kk-6x09#ex> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.c9kk-6x09#c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.c9kk-6x09> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/motion_picture_presentation_format/motion_picture_presentation_format.ttl> .
+<https://doi.org/10.6069/uwlswd.c9kk-6x09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<https://doi.org/10.6069/uwlswd.c9kk-6x09#ex> <http://www.w3.org/2004/02/skos/core#notation> "e" .
+<https://doi.org/10.6069/uwlswd.c9kk-6x09> <http://purl.org/dc/terms/type> <http://purl.org/dc/dcmitype/Dataset> .
+<https://doi.org/10.6069/uwlswd.c9kk-6x09#f> <http://www.w3.org/2004/02/skos/core#definition> "35 mm. film on which the exposed picture is approximately the\n         width of the space between the perforation holes of the frame."@en .
+<https://doi.org/10.6069/uwlswd.c9kk-6x09#u> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.c9kk-6x09#z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.c9kk-6x09#e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.c9kk-6x09#c> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.c9kk-6x09> .
+<https://doi.org/10.6069/uwlswd.c9kk-6x09#u> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.c9kk-6x09> .
+<https://doi.org/10.6069/uwlswd.c9kk-6x09#z> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.c9kk-6x09> .
+<https://doi.org/10.6069/uwlswd.c9kk-6x09#b> <http://www.w3.org/2004/02/skos/core#scopeNote> "Nonanamorphic wide-screen process is primarily associated with\n         35 mm. and larger film gauges where the image on the film is natural (not optically\n         compressed) and of smaller frame height, which is expanded by projection on a wide screen\n         through the use of normal lenses and the appropriate aperture plate to give the required\n         aspect ratio."@en .
+<https://doi.org/10.6069/uwlswd.c9kk-6x09#e> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.c9kk-6x09> .
+<https://doi.org/10.6069/uwlswd.c9kk-6x09#e> <http://www.w3.org/2004/02/skos/core#prefLabel> "other wide-screen format"@en .
+<https://doi.org/10.6069/uwlswd.c9kk-6x09#d> <http://www.w3.org/2004/02/skos/core#prefLabel> "anamorphic (wide-screen)"@en .
+<https://doi.org/10.6069/uwlswd.c9kk-6x09> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/motion_picture_presentation_format/motion_picture_presentation_format.rdf> .
+<https://doi.org/10.6069/uwlswd.c9kk-6x09#a> <http://www.w3.org/2004/02/skos/core#definition> "Standard sound aperture (reduced frame)."@en .
+<https://doi.org/10.6069/uwlswd.c9kk-6x09#b> <http://www.w3.org/2004/02/skos/core#prefLabel> "nonanamorphic (wide-screen)"@en .
+<https://doi.org/10.6069/uwlswd.c9kk-6x09#n> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.c9kk-6x09#z> <http://www.w3.org/2004/02/skos/core#definition> "Motion picture presentation format other than standard sound\n         aperture (reduced frame), nonanamorphic (wide-screen), 3d, anamorphic (wide-screen), other\n         wide-screen format, or standard silent aperture (full frame)."@en .
+<https://doi.org/10.6069/uwlswd.c9kk-6x09#a> <http://www.w3.org/2004/02/skos/core#notation> "a" .
+<https://doi.org/10.6069/uwlswd.c9kk-6x09#n> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.c9kk-6x09> .
+<https://doi.org/10.6069/uwlswd.c9kk-6x09#f> <http://www.w3.org/2004/02/skos/core#notation> "f" .
+<https://doi.org/10.6069/uwlswd.c9kk-6x09#a> <http://www.w3.org/2004/02/skos/core#prefLabel> "standard sound aperture (reduced frame)"@en .
+<https://doi.org/10.6069/uwlswd.c9kk-6x09#a> <http://www.w3.org/2004/02/skos/core#scopeNote> "Used for non-wide-screen formats. Includes all standard sound 35\n         mm., 16 mm., and super 8 mm. film. Should be used even for silent films in which a space\n         has been left for the inclusion of a sound track, i.e., where a full frame silent picture\n         has been cropped to allow space for a sound track."@en .
+<https://doi.org/10.6069/uwlswd.c9kk-6x09#b> <http://www.w3.org/2004/02/skos/core#notation> "b" .
+<https://doi.org/10.6069/uwlswd.c9kk-6x09#a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.c9kk-6x09> <http://purl.org/dc/terms/alternative> "MARC21 007/04 values for motion pictures expressed using\n         RDF"@en .
+<https://doi.org/10.6069/uwlswd.c9kk-6x09> <http://purl.org/dc/terms/contributor> <http://viaf.org/viaf/151962300> .
+<https://doi.org/10.6069/uwlswd.c9kk-6x09#n> <http://www.w3.org/2004/02/skos/core#prefLabel> "not applicable [obsolete]"@en .
+<https://doi.org/10.6069/uwlswd.c9kk-6x09#u> <http://www.w3.org/2004/02/skos/core#notation> "u" .
+<https://doi.org/10.6069/uwlswd.c9kk-6x09> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/motion_picture_presentation_format/motion_picture_presentation_format.jsonld> .
+<https://doi.org/10.6069/uwlswd.c9kk-6x09> <https://schema.org/version> "1-0-0" .
+<https://doi.org/10.6069/uwlswd.c9kk-6x09#z> <http://www.w3.org/2004/02/skos/core#notation> "z" .
+<https://doi.org/10.6069/uwlswd.c9kk-6x09#b> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.c9kk-6x09> .
+<https://doi.org/10.6069/uwlswd.c9kk-6x09#f> <http://www.w3.org/2004/02/skos/core#prefLabel> "standard silent aperture (full frame)"@en .
+<https://doi.org/10.6069/uwlswd.c9kk-6x09#d> <http://www.w3.org/2004/02/skos/core#notation> "d" .
+<https://doi.org/10.6069/uwlswd.c9kk-6x09#b> <http://www.w3.org/2004/02/skos/core#definition> "Wide-screen effect without optically compressing the image or\n         requiring the use of special projection techniques."@en .
+<https://doi.org/10.6069/uwlswd.c9kk-6x09#f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.c9kk-6x09> <http://purl.org/dc/terms/issued> "2024" .
+<https://doi.org/10.6069/uwlswd.c9kk-6x09> <http://purl.org/dc/elements/1.1/language> "en" .
+<https://doi.org/10.6069/uwlswd.c9kk-6x09> <http://purl.org/dc/terms/description> "Presentation format for motion pictures."@en .
+<https://doi.org/10.6069/uwlswd.c9kk-6x09#e> <http://www.w3.org/2004/02/skos/core#scopeNote> "Includes Cinerama, Viterama, Cinemiracle, Circarama and other\n         formats that achieve a wide-screen effect though the use of simultaneous projection of\n         separate prints on very large, sometimes deeply curved screens through the use of\n         multiprojectors that build up the projected picture by a series of images, generally\n         side-by-side."@en .
+<https://doi.org/10.6069/uwlswd.c9kk-6x09> <http://purl.org/dc/elements/1.1/contributor> "Metadata Management Associates"@en .
+<https://doi.org/10.6069/uwlswd.c9kk-6x09#c> <http://www.w3.org/2004/02/skos/core#definition> "Films which achieve a three-dimensional effect originally\n         through the use of two projectors which superimpose two images of the film on the screen\n         (usually a wide screen). It is usually associated with 35 mm. film. Polarized lenses worn\n         by viewers help to create the impression of depth and dimension."@en .
+<https://doi.org/10.6069/uwlswd.c9kk-6x09#u> <http://www.w3.org/2004/02/skos/core#definition> "Presentation format of the motion picture is not\n         known."@en .
+<https://doi.org/10.6069/uwlswd.c9kk-6x09> <http://purl.org/dc/terms/source> <https://www.loc.gov/marc/bibliographic/bd007.html> .
+<https://doi.org/10.6069/uwlswd.c9kk-6x09> <https://schema.org/disambiguatingDescription> "SKOS Concept Scheme for MARC 00X\n         Values"@en .
+<https://doi.org/10.6069/uwlswd.c9kk-6x09#d> <http://www.w3.org/2004/02/skos/core#scopeNote> "Introduced and adopted for commercial use in 1953 under the name\n         of Cinemascope, followed by Techniscope (1963), Naturama, Panavision, etc. Also used for 16\n         mm. film which employs this process."@en .
+<https://doi.org/10.6069/uwlswd.c9kk-6x09#e> <http://www.w3.org/2004/02/skos/core#notation> "e" .
+<https://doi.org/10.6069/uwlswd.c9kk-6x09#ex> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.c9kk-6x09> .
+<https://doi.org/10.6069/uwlswd.c9kk-6x09> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/motion_picture_presentation_format/motion_picture_presentation_format.html> .
+<https://doi.org/10.6069/uwlswd.c9kk-6x09> <http://purl.org/dc/terms/title> "Motion picture: presentation format"@en .
+<https://doi.org/10.6069/uwlswd.c9kk-6x09> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/zero/1.0> .
+<https://doi.org/10.6069/uwlswd.c9kk-6x09#u> <http://www.w3.org/2004/02/skos/core#prefLabel> "unknown"@en .
+<https://doi.org/10.6069/uwlswd.c9kk-6x09> <http://purl.org/dc/terms/publisher> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.c9kk-6x09> <http://purl.org/dc/terms/creator> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.c9kk-6x09#d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.c9kk-6x09#f> <http://www.w3.org/2004/02/skos/core#scopeNote> "Standard format for silent film from about 1899 until the late\n         1920s when sound film was introduced and the frame size decreased to make room for the\n         sound track."@en .
+<https://doi.org/10.6069/uwlswd.c9kk-6x09#d> <http://www.w3.org/2004/02/skos/core#definition> "Films which achieve the wide-screen effect through the use of\n         an image which is optically compressed or squeezed horizontally. It is then expanded to the\n         correct proportions by projection on a wide screen with the use of special lenses that give\n         greater magnification laterally than vertically."@en .

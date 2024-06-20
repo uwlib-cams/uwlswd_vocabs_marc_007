@@ -1,25 +1,11 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schema="https://schema.org/" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.vcc6-0j54#n">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.vcc6-0j54"/>
-    <skos:prefLabel xml:lang="en">1/4 in.</skos:prefLabel>
-    <skos:notation>n</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.vcc6-0j54#q">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.vcc6-0j54"/>
-    <skos:prefLabel xml:lang="en">2 in.</skos:prefLabel>
-    <skos:definition xml:lang="en">2 inch.</skos:definition>
-    <skos:notation>q</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.vcc6-0j54#o">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.vcc6-0j54"/>
-    <skos:prefLabel xml:lang="en">1/2 in.</skos:prefLabel>
-    <skos:definition xml:lang="en">1/2 inch.</skos:definition>
-    <skos:notation>o</skos:notation>
-  </rdf:Description>
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:dct="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:schema="https://schema.org/"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.vcc6-0j54">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
     <dct:type rdf:resource="http://purl.org/dc/dcmitype/Dataset"/>
@@ -41,13 +27,24 @@
     <dct:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0"/>
     <schema:version>1-0-0</schema:version>
     <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/videorecording_dimensions/videorecording_dimensions.ttl"/>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/videorecording_dimensions/videorecording_dimensions.nt"/>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/videorecording_dimensions/videorecording_dimensions.jsonld"/>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/videorecording_dimensions/videorecording_dimensions.html"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.vcc6-0j54#a">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.vcc6-0j54#u">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.vcc6-0j54"/>
-    <skos:prefLabel xml:lang="en">8 mm.</skos:prefLabel>
-    <skos:definition xml:lang="en">8 mm.</skos:definition>
-    <skos:notation>a</skos:notation>
+    <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
+    <skos:definition xml:lang="en">Width is not known.</skos:definition>
+    <skos:notation>u</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.vcc6-0j54#q">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.vcc6-0j54"/>
+    <skos:prefLabel xml:lang="en">2 in.</skos:prefLabel>
+    <skos:definition xml:lang="en">2 inch.</skos:definition>
+    <skos:notation>q</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.vcc6-0j54#z">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -59,20 +56,6 @@
          videodiscs do not yet exist.</skos:scopeNote>
     <skos:notation>z</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.vcc6-0j54#p">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.vcc6-0j54"/>
-    <skos:prefLabel xml:lang="en">1 in.</skos:prefLabel>
-    <skos:definition xml:lang="en">1 inch.</skos:definition>
-    <skos:notation>p</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.vcc6-0j54#u">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.vcc6-0j54"/>
-    <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
-    <skos:definition xml:lang="en">Width is not known.</skos:definition>
-    <skos:notation>u</skos:notation>
-  </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.vcc6-0j54#r">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.vcc6-0j54"/>
@@ -80,11 +63,38 @@
     <skos:definition xml:lang="en">3/4 inch.</skos:definition>
     <skos:notation>r</skos:notation>
   </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.vcc6-0j54#p">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.vcc6-0j54"/>
+    <skos:prefLabel xml:lang="en">1 in.</skos:prefLabel>
+    <skos:definition xml:lang="en">1 inch.</skos:definition>
+    <skos:notation>p</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.vcc6-0j54#n">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.vcc6-0j54"/>
+    <skos:prefLabel xml:lang="en">1/4 in.</skos:prefLabel>
+    <skos:notation>n</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.vcc6-0j54#a">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.vcc6-0j54"/>
+    <skos:prefLabel xml:lang="en">8 mm.</skos:prefLabel>
+    <skos:definition xml:lang="en">8 mm.</skos:definition>
+    <skos:notation>a</skos:notation>
+  </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.vcc6-0j54#m">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.vcc6-0j54"/>
     <skos:prefLabel xml:lang="en">1/4 in.</skos:prefLabel>
     <skos:definition xml:lang="en">1/4 inch.</skos:definition>
     <skos:notation>m</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.vcc6-0j54#o">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.vcc6-0j54"/>
+    <skos:prefLabel xml:lang="en">1/2 in.</skos:prefLabel>
+    <skos:definition xml:lang="en">1/2 inch.</skos:definition>
+    <skos:notation>o</skos:notation>
   </rdf:Description>
 </rdf:RDF>

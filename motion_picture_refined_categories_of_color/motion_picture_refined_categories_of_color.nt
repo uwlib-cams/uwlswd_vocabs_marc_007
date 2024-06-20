@@ -1,0 +1,142 @@
+<https://doi.org/10.6069/uwlswd.gdvf-z086#f> <http://www.w3.org/2004/02/skos/core#scopeNote> "Although extensively used in early color film processes, the\n         inherent inability of two components to reproduce the visible color spectrum rendered all\n         such systems obsolete when three-color processes became readily available. The process used\n         from about 1929 to about 1950 by, among others, the following companies: Cinecolor,\n         Magnacolor, and Multicolor."@en .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#c> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.gdvf-z086> .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#j> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#i> <http://www.w3.org/2004/02/skos/core#prefLabel> "cyan strip"@en .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#b> <http://www.w3.org/2004/02/skos/core#prefLabel> "2 color, single strip"@en .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#d> <http://www.w3.org/2004/02/skos/core#prefLabel> "undetermined 3 color"@en .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#n> <http://www.w3.org/2004/02/skos/core#notation> "n" .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#s> <http://www.w3.org/2004/02/skos/core#notation> "s" .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#u> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#h> <http://www.w3.org/2004/02/skos/core#definition> "Cinecolor process and the Super Cinecolor process, in which the\n         blue strip is the color separation record of red light which prints as blue-green (called\n         \"blue\" by Cinecolor). In the two-color Technicolor process, the green strip is the color\n         separation record of magenta-red light which prints as green."@en .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#g> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#t> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.gdvf-z086> <https://schema.org/disambiguatingDescription> "SKOS Concept Scheme for MARC 00X\n         Values"@en .
+<https://doi.org/10.6069/uwlswd.gdvf-z086> <http://purl.org/dc/elements/1.1/language> "en" .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#h> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.gdvf-z086> .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#v> <http://www.w3.org/2004/02/skos/core#prefLabel> "hand colored"@en .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#j> <http://www.w3.org/2004/02/skos/core#definition> "Color separation record of green light which prints as\n         magenta."@en .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#b> <http://www.w3.org/2004/02/skos/core#scopeNote> "Also known as red and green Technicolor, the process was used\n         exclusively by Technicolor and had its heyday between 1922 and 1933, although it was used\n         until 1936 for animated cartoons."@en .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#l> <http://www.w3.org/2004/02/skos/core#definition> "Successive exposure negative 2. S E N 2 is a method of motion\n         picture color photography in which two color separation negative images were recorded on\n         one strip of film by photographing each frame two times successively through red and blue\n         filters. The resultant negative was subsequently optically printed by the use of a\n         skip-frame mechanism."@en .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#a> <http://www.w3.org/2004/02/skos/core#notation> "a" .
+<https://doi.org/10.6069/uwlswd.gdvf-z086> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#p> <http://www.w3.org/2004/02/skos/core#scopeNote> "Sepia was the most common tone used, and was used in\n         black-and-white prints of films for special sequences to enhance the dramatic or pictorial\n         effect."@en .
+<https://doi.org/10.6069/uwlswd.gdvf-z086> <http://purl.org/dc/elements/1.1/contributor> "Metadata Management Associates"@en .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#t> <http://www.w3.org/2004/02/skos/core#definition> "Color is added using stencils, one cut for each\n         color."@en .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#z> <http://www.w3.org/2004/02/skos/core#definition> "Refined categories of color other than 3 layer color, 2 color\n         single strip, undetermined 2 color, undetermined 3 color, 3 strip color 2 strip color, red\n         strip, blue or green strip, cyan strip, magenta strip, yellow strip, S E N 2, S E N 3,\n         sepia tone, other tone, tint, tinted and toned, stencil color, or hand\n         colored."@en .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#k> <http://www.w3.org/2004/02/skos/core#definition> "Color separation record of blue light which prints as\n         yellow."@en .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#h> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#m> <http://www.w3.org/2004/02/skos/core#scopeNote> "The process was usually restricted to the photography of\n         animated cartoon and puppet subjects in which the movement from frame to frame could be\n         controlled. The successive exposure process was rarely used after the introduction of 3\n         layer (multilayer) color negative film."@en .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#p> <http://www.w3.org/2004/02/skos/core#definition> "A conversion of a black-and-white image in silver to sepia (a\n         brownish grey to dark olive brown) by metallic compounds."@en .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#z> <http://www.w3.org/2004/02/skos/core#prefLabel> "other"@en .
+<https://doi.org/10.6069/uwlswd.gdvf-z086> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/motion_picture_refined_categories_of_color/motion_picture_refined_categories_of_color.rdf> .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#p> <http://www.w3.org/2004/02/skos/core#notation> "p" .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#b> <http://www.w3.org/2004/02/skos/core#notation> "b" .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#c> <http://www.w3.org/2004/02/skos/core#notation> "c" .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#j> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.gdvf-z086> .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#g> <http://www.w3.org/2004/02/skos/core#definition> "Cinecolor process, in which the color separation record of\n         blue-green light prints as red. In the Super Cinecolor process, the color separation record\n         of green light which prints as magenta (called \"red\" by Cinecolor). In the two-color\n         Technicolor process, the color separation record of green light which prints as\n         red."@en .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#i> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.gdvf-z086> .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#h> <http://www.w3.org/2004/02/skos/core#prefLabel> "blue or green strip"@en .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#l> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.gdvf-z086> .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#r> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.gdvf-z086> .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#l> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#i> <http://www.w3.org/2004/02/skos/core#definition> "Color separation record of red light which prints as\n         cyan."@en .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#u> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.gdvf-z086> .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#j> <http://www.w3.org/2004/02/skos/core#notation> "j" .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#a> <http://www.w3.org/2004/02/skos/core#prefLabel> "3 layer color"@en .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#g> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.gdvf-z086> .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#d> <http://www.w3.org/2004/02/skos/core#notation> "d" .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#c> <http://www.w3.org/2004/02/skos/core#scopeNote> "Although extensively used in early color film processes, the\n         inherent inability of two components to reproduce a satisfactory range of hues rendered all\n         such systems obsolete when three-color processes became readily available and relatively\n         inexpensive."@en .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#i> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#r> <http://www.w3.org/2004/02/skos/core#scopeNote> "The tinting of a film may be in whole or in part. Tinting was\n         common until the advent of sound."@en .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#s> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.gdvf-z086> .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#q> <http://www.w3.org/2004/02/skos/core#definition> "Color created by chemically altering the color, for example,\n         uranium produces red, or increasing the brilliance of a print. Toning differs from tinting\n         in that the clear portions of the film remain unaffected. Only the silver image of the\n         positive film becomes colored."@en .
+<https://doi.org/10.6069/uwlswd.gdvf-z086> <http://purl.org/dc/terms/issued> "2024" .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#s> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#r> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.gdvf-z086> <http://purl.org/dc/terms/description> "Specific color characteristics of the moving\n         image."@en .
+<https://doi.org/10.6069/uwlswd.gdvf-z086> <https://schema.org/version> "1-0-0" .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#l> <http://www.w3.org/2004/02/skos/core#prefLabel> "S E N 2"@en .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#e> <http://www.w3.org/2004/02/skos/core#scopeNote> "3 strip color is often used synonymously with the trademark\n         Technicolor. In the Technicolor three-component system, light reflected from the subject\n         matter is transmitted through the single lens of a special camera where it strikes a prism.\n         One part of the light is passed through the prism and a green filter to produce a green\n         record. The remainder of the light is reflected from the prism and absorbed by negatives to\n         produce red and blue records. Each of the negatives is developed to produce new negatives\n         which resemble black-and-white negatives."@en .
+<https://doi.org/10.6069/uwlswd.gdvf-z086> <http://purl.org/dc/terms/type> <http://purl.org/dc/dcmitype/Dataset> .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#m> <http://www.w3.org/2004/02/skos/core#prefLabel> "S E N 3"@en .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#q> <http://www.w3.org/2004/02/skos/core#notation> "q" .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#m> <http://www.w3.org/2004/02/skos/core#notation> "m" .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#g> <http://www.w3.org/2004/02/skos/core#notation> "g" .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#b> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.gdvf-z086> .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#k> <http://www.w3.org/2004/02/skos/core#prefLabel> "yellow strip"@en .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#z> <http://www.w3.org/2004/02/skos/core#notation> "z" .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#r> <http://www.w3.org/2004/02/skos/core#definition> "Early in the history of tinting, a tint was created by dipping\n         film in a bath of chemical dyes to get a dominant hue. Later raw stock became available\n         already tinted in eleven stock shades: peach blow, blue for moonlight, amber for firelight,\n         etc."@en .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#e> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.gdvf-z086> .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#t> <http://www.w3.org/2004/02/skos/core#prefLabel> "stencil color"@en .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#u> <http://www.w3.org/2004/02/skos/core#notation> "u" .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#v> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.gdvf-z086> .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#z> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.gdvf-z086> .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#m> <http://www.w3.org/2004/02/skos/core#definition> "Successive exposure negative 3. S E N 3 is a method of motion\n         picture color photography in which three color separation negative images were recorded on\n         one strip of film by photographing each frame three times successively through red, blue,\n         and green filters. The resultant negative was subsequently optically printed by the use of\n         a skip-frame mechanism."@en .
+<https://doi.org/10.6069/uwlswd.gdvf-z086> <http://purl.org/dc/terms/alternative> "MARC21 007/13 values for motion pictures expressed using\n         RDF"@en .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#r> <http://www.w3.org/2004/02/skos/core#notation> "r" .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#q> <http://www.w3.org/2004/02/skos/core#prefLabel> "other tone"@en .
+<https://doi.org/10.6069/uwlswd.gdvf-z086> <http://purl.org/dc/terms/format> <http://www.w3.org/ns/formats/N-Triples> .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#f> <http://www.w3.org/2004/02/skos/core#prefLabel> "2 strip color"@en .
+<https://doi.org/10.6069/uwlswd.gdvf-z086> <http://purl.org/dc/terms/contributor> <http://viaf.org/viaf/151962300> .
+<https://doi.org/10.6069/uwlswd.gdvf-z086> <http://purl.org/dc/terms/title> "Motion picture: refined categories of color"@en .
+<https://doi.org/10.6069/uwlswd.gdvf-z086> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/motion_picture_refined_categories_of_color/motion_picture_refined_categories_of_color.ttl> .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#c> <http://www.w3.org/2004/02/skos/core#prefLabel> "undetermined 2 color"@en .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#s> <http://www.w3.org/2004/02/skos/core#prefLabel> "tinted and toned"@en .
+<https://doi.org/10.6069/uwlswd.gdvf-z086> <http://purl.org/dc/terms/source> <http://marc21rdf.info> .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#k> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.gdvf-z086> .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#q> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.gdvf-z086> .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#b> <http://www.w3.org/2004/02/skos/core#definition> "Single strip of film was exposed with pairs of images by means\n         of a beam-splitter prism. One of the pairs of images was exposed through a red filter and\n         one through a green filter. The resulting negative was used to produce both prints\n         consisting of two strips cemented together, and, later in the history of the process, two\n         color dye transfer prints."@en .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#v> <http://www.w3.org/2004/02/skos/core#definition> "Image, produced by a photographic process, is hand\n         colored."@en .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#n> <http://www.w3.org/2004/02/skos/core#prefLabel> "not applicable"@en .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#a> <http://www.w3.org/2004/02/skos/core#definition> "Three layers of emulsion: cyan, magenta, and yellow. Each layer\n         is sensitive to its own primary color."@en .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#n> <http://www.w3.org/2004/02/skos/core#definition> "Item is not a color film."@en .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#p> <http://www.w3.org/2004/02/skos/core#prefLabel> "sepia tone"@en .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#k> <http://www.w3.org/2004/02/skos/core#notation> "k" .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#k> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#f> <http://www.w3.org/2004/02/skos/core#notation> "f" .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#s> <http://www.w3.org/2004/02/skos/core#definition> "Color has been added to a film by using a tinted base and a\n         toned emulsion."@en .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#q> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#c> <http://www.w3.org/2004/02/skos/core#definition> "System of color reproduction, which cannot be specifically\n         identified, in which the visible spectrum is divided either into blue and red regions or\n         into green and red regions for recording and presentation."@en .
+<https://doi.org/10.6069/uwlswd.gdvf-z086> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/motion_picture_refined_categories_of_color/motion_picture_refined_categories_of_color.jsonld> .
+<https://doi.org/10.6069/uwlswd.gdvf-z086> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/zero/1.0> .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#e> <http://www.w3.org/2004/02/skos/core#prefLabel> "3 strip color"@en .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#i> <http://www.w3.org/2004/02/skos/core#notation> "i" .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#t> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.gdvf-z086> .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#t> <http://www.w3.org/2004/02/skos/core#scopeNote> "Stencil color replaced the hand-coloring used in earlier\n         years."@en .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#h> <http://www.w3.org/2004/02/skos/core#notation> "h" .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#l> <http://www.w3.org/2004/02/skos/core#scopeNote> "The process was restricted to the photography of animated\n         cartoon and puppet subjects in which the movement from frame to frame could be controlled.\n         The successive exposure process was rendered obsolete by the introduction of 3 layer\n         (multilayer) color negative film."@en .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#f> <http://www.w3.org/2004/02/skos/core#definition> "Color system in which two strips of film, one to record red\n         light and one to record blue, were run through the camera simultaneously and exposed\n         through the base of the front piece of film. These two strips of negatives were then used\n         to produce prints of duplitized film stock (film stock with emulsion on both sides of the\n         base), with a red-dyed image on one side, and a blue-dyed or -toned image on the\n         other."@en .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#j> <http://www.w3.org/2004/02/skos/core#prefLabel> "magenta strip"@en .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#d> <http://www.w3.org/2004/02/skos/core#definition> "System of color reproduction, which cannot be specifically\n         identified, in which the visible spectrum is divided into three sections, normally red,\n         green, and blue, for the purposes of recording and presentation."@en .
+<https://doi.org/10.6069/uwlswd.gdvf-z086> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/motion_picture_refined_categories_of_color/motion_picture_refined_categories_of_color.html> .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#p> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.gdvf-z086> .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#v> <http://www.w3.org/2004/02/skos/core#notation> "v" .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#r> <http://www.w3.org/2004/02/skos/core#prefLabel> "tint"@en .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#u> <http://www.w3.org/2004/02/skos/core#prefLabel> "unknown"@en .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#t> <http://www.w3.org/2004/02/skos/core#notation> "t" .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#g> <http://www.w3.org/2004/02/skos/core#prefLabel> "red strip"@en .
+<https://doi.org/10.6069/uwlswd.gdvf-z086> <http://purl.org/dc/terms/source> <https://www.loc.gov/marc/bibliographic/bd007.html> .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#a> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.gdvf-z086> .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#a> <http://www.w3.org/2004/02/skos/core#scopeNote> "Beginning in the early 1950s, color film work has been done\n         primarily on 3 layer, also called multilayer, film. This process is also known as integral\n         tri-pack."@en .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#l> <http://www.w3.org/2004/02/skos/core#notation> "l" .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#p> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#d> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.gdvf-z086> .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#m> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.gdvf-z086> .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#f> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.gdvf-z086> .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#m> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#e> <http://www.w3.org/2004/02/skos/core#definition> "Color system in which three color-separation negatives were\n         produced on black-and-white film."@en .
+<https://doi.org/10.6069/uwlswd.gdvf-z086> <http://purl.org/dc/terms/creator> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#n> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.gdvf-z086> .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#e> <http://www.w3.org/2004/02/skos/core#notation> "e" .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#n> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.gdvf-z086> <http://purl.org/dc/terms/publisher> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#u> <http://www.w3.org/2004/02/skos/core#definition> "Refined category of color is not known."@en .
+<https://doi.org/10.6069/uwlswd.gdvf-z086#v> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.gdvf-z086> <http://purl.org/dc/terms/provenance> <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> .

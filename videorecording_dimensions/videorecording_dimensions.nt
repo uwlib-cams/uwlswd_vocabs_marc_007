@@ -1,0 +1,67 @@
+<https://doi.org/10.6069/uwlswd.vcc6-0j54> <http://purl.org/dc/terms/issued> "2024" .
+<https://doi.org/10.6069/uwlswd.vcc6-0j54> <http://purl.org/dc/terms/type> <http://purl.org/dc/dcmitype/Dataset> .
+<https://doi.org/10.6069/uwlswd.vcc6-0j54> <http://purl.org/dc/elements/1.1/contributor> "Metadata Management Associates"@en .
+<https://doi.org/10.6069/uwlswd.vcc6-0j54#u> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.vcc6-0j54> .
+<https://doi.org/10.6069/uwlswd.vcc6-0j54#q> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.vcc6-0j54#z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.vcc6-0j54> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/videorecording_dimensions/videorecording_dimensions.rdf> .
+<https://doi.org/10.6069/uwlswd.vcc6-0j54#r> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.vcc6-0j54#z> <http://www.w3.org/2004/02/skos/core#definition> "Dimensions other than 8 mm., 1/4 in., 1/2 in., 1 in., 2 in., or\n         3/4 in."@en .
+<https://doi.org/10.6069/uwlswd.vcc6-0j54#p> <http://www.w3.org/2004/02/skos/core#definition> "1 inch."@en .
+<https://doi.org/10.6069/uwlswd.vcc6-0j54#q> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.vcc6-0j54> .
+<https://doi.org/10.6069/uwlswd.vcc6-0j54#p> <http://www.w3.org/2004/02/skos/core#notation> "p" .
+<https://doi.org/10.6069/uwlswd.vcc6-0j54#q> <http://www.w3.org/2004/02/skos/core#definition> "2 inch."@en .
+<https://doi.org/10.6069/uwlswd.vcc6-0j54#r> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.vcc6-0j54> .
+<https://doi.org/10.6069/uwlswd.vcc6-0j54#n> <http://www.w3.org/2004/02/skos/core#notation> "n" .
+<https://doi.org/10.6069/uwlswd.vcc6-0j54> <http://purl.org/dc/terms/source> <https://www.loc.gov/marc/bibliographic/bd007.html> .
+<https://doi.org/10.6069/uwlswd.vcc6-0j54#a> <http://www.w3.org/2004/02/skos/core#prefLabel> "8 mm."@en .
+<https://doi.org/10.6069/uwlswd.vcc6-0j54#p> <http://www.w3.org/2004/02/skos/core#prefLabel> "1 in."@en .
+<https://doi.org/10.6069/uwlswd.vcc6-0j54#u> <http://www.w3.org/2004/02/skos/core#notation> "u" .
+<https://doi.org/10.6069/uwlswd.vcc6-0j54#p> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.vcc6-0j54> .
+<https://doi.org/10.6069/uwlswd.vcc6-0j54#n> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.vcc6-0j54> .
+<https://doi.org/10.6069/uwlswd.vcc6-0j54> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/videorecording_dimensions/videorecording_dimensions.ttl> .
+<https://doi.org/10.6069/uwlswd.vcc6-0j54#a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.vcc6-0j54> <http://purl.org/dc/terms/publisher> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.vcc6-0j54#m> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.vcc6-0j54> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/videorecording_dimensions/videorecording_dimensions.html> .
+<https://doi.org/10.6069/uwlswd.vcc6-0j54#z> <http://www.w3.org/2004/02/skos/core#prefLabel> "other"@en .
+<https://doi.org/10.6069/uwlswd.vcc6-0j54#o> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.vcc6-0j54#q> <http://www.w3.org/2004/02/skos/core#notation> "q" .
+<https://doi.org/10.6069/uwlswd.vcc6-0j54#u> <http://www.w3.org/2004/02/skos/core#definition> "Width is not known."@en .
+<https://doi.org/10.6069/uwlswd.vcc6-0j54#u> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.vcc6-0j54> <http://purl.org/dc/elements/1.1/language> "en" .
+<https://doi.org/10.6069/uwlswd.vcc6-0j54> <http://purl.org/dc/terms/format> <http://www.w3.org/ns/formats/N-Triples> .
+<https://doi.org/10.6069/uwlswd.vcc6-0j54> <http://purl.org/dc/terms/alternative> "MARC21 007/07 values for videorecordings expressed using\n         RDF"@en .
+<https://doi.org/10.6069/uwlswd.vcc6-0j54#z> <http://www.w3.org/2004/02/skos/core#notation> "z" .
+<https://doi.org/10.6069/uwlswd.vcc6-0j54#r> <http://www.w3.org/2004/02/skos/core#definition> "3/4 inch."@en .
+<https://doi.org/10.6069/uwlswd.vcc6-0j54> <https://schema.org/version> "1-0-0" .
+<https://doi.org/10.6069/uwlswd.vcc6-0j54#m> <http://www.w3.org/2004/02/skos/core#prefLabel> "1/4 in."@en .
+<https://doi.org/10.6069/uwlswd.vcc6-0j54> <https://schema.org/disambiguatingDescription> "SKOS Concept Scheme for MARC 00X\n         Values"@en .
+<https://doi.org/10.6069/uwlswd.vcc6-0j54> <http://purl.org/dc/terms/source> <http://marc21rdf.info> .
+<https://doi.org/10.6069/uwlswd.vcc6-0j54#r> <http://www.w3.org/2004/02/skos/core#notation> "r" .
+<https://doi.org/10.6069/uwlswd.vcc6-0j54#o> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.vcc6-0j54> .
+<https://doi.org/10.6069/uwlswd.vcc6-0j54#u> <http://www.w3.org/2004/02/skos/core#prefLabel> "unknown"@en .
+<https://doi.org/10.6069/uwlswd.vcc6-0j54> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<https://doi.org/10.6069/uwlswd.vcc6-0j54#p> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.vcc6-0j54#z> <http://www.w3.org/2004/02/skos/core#scopeNote> "Used for videodisc dimensions since standard code values for\n         videodiscs do not yet exist."@en .
+<https://doi.org/10.6069/uwlswd.vcc6-0j54#a> <http://www.w3.org/2004/02/skos/core#notation> "a" .
+<https://doi.org/10.6069/uwlswd.vcc6-0j54> <http://purl.org/dc/terms/description> "Width of the videorecording."@en .
+<https://doi.org/10.6069/uwlswd.vcc6-0j54> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/zero/1.0> .
+<https://doi.org/10.6069/uwlswd.vcc6-0j54#n> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.vcc6-0j54#m> <http://www.w3.org/2004/02/skos/core#notation> "m" .
+<https://doi.org/10.6069/uwlswd.vcc6-0j54#o> <http://www.w3.org/2004/02/skos/core#notation> "o" .
+<https://doi.org/10.6069/uwlswd.vcc6-0j54#z> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.vcc6-0j54> .
+<https://doi.org/10.6069/uwlswd.vcc6-0j54#r> <http://www.w3.org/2004/02/skos/core#prefLabel> "3/4 in."@en .
+<https://doi.org/10.6069/uwlswd.vcc6-0j54> <http://purl.org/dc/terms/creator> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.vcc6-0j54#o> <http://www.w3.org/2004/02/skos/core#prefLabel> "1/2 in."@en .
+<https://doi.org/10.6069/uwlswd.vcc6-0j54#m> <http://www.w3.org/2004/02/skos/core#definition> "1/4 inch."@en .
+<https://doi.org/10.6069/uwlswd.vcc6-0j54> <http://purl.org/dc/terms/provenance> <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> .
+<https://doi.org/10.6069/uwlswd.vcc6-0j54> <http://purl.org/dc/terms/title> "Videorecording: dimensions"@en .
+<https://doi.org/10.6069/uwlswd.vcc6-0j54#n> <http://www.w3.org/2004/02/skos/core#prefLabel> "1/4 in."@en .
+<https://doi.org/10.6069/uwlswd.vcc6-0j54> <http://purl.org/dc/terms/contributor> <http://viaf.org/viaf/151962300> .
+<https://doi.org/10.6069/uwlswd.vcc6-0j54#q> <http://www.w3.org/2004/02/skos/core#prefLabel> "2 in."@en .
+<https://doi.org/10.6069/uwlswd.vcc6-0j54#a> <http://www.w3.org/2004/02/skos/core#definition> "8 mm."@en .
+<https://doi.org/10.6069/uwlswd.vcc6-0j54#a> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.vcc6-0j54> .
+<https://doi.org/10.6069/uwlswd.vcc6-0j54#o> <http://www.w3.org/2004/02/skos/core#definition> "1/2 inch."@en .
+<https://doi.org/10.6069/uwlswd.vcc6-0j54#m> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.vcc6-0j54> .
+<https://doi.org/10.6069/uwlswd.vcc6-0j54> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/videorecording_dimensions/videorecording_dimensions.jsonld> .

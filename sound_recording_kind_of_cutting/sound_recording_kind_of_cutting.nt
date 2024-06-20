@@ -1,0 +1,45 @@
+<https://doi.org/10.6069/uwlswd.pm5s-5m12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<https://doi.org/10.6069/uwlswd.pm5s-5m12> <http://purl.org/dc/elements/1.1/contributor> "Metadata Management Associates"@en .
+<https://doi.org/10.6069/uwlswd.pm5s-5m12> <http://purl.org/dc/terms/type> <http://purl.org/dc/dcmitype/Dataset> .
+<https://doi.org/10.6069/uwlswd.pm5s-5m12#n> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.pm5s-5m12#l> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.pm5s-5m12> .
+<https://doi.org/10.6069/uwlswd.pm5s-5m12#n> <http://www.w3.org/2004/02/skos/core#notation> "n" .
+<https://doi.org/10.6069/uwlswd.pm5s-5m12> <http://purl.org/dc/terms/source> <https://www.loc.gov/marc/bibliographic/bd007.html> .
+<https://doi.org/10.6069/uwlswd.pm5s-5m12#l> <http://www.w3.org/2004/02/skos/core#prefLabel> "lateral or combined cutting"@en .
+<https://doi.org/10.6069/uwlswd.pm5s-5m12> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/sound_recording_kind_of_cutting/sound_recording_kind_of_cutting.rdf> .
+<https://doi.org/10.6069/uwlswd.pm5s-5m12#u> <http://www.w3.org/2004/02/skos/core#prefLabel> "unknown"@en .
+<https://doi.org/10.6069/uwlswd.pm5s-5m12> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/zero/1.0> .
+<https://doi.org/10.6069/uwlswd.pm5s-5m12> <http://purl.org/dc/terms/title> "Sound recording: kind of cutting"@en .
+<https://doi.org/10.6069/uwlswd.pm5s-5m12> <http://purl.org/dc/terms/description> "Kind of cutting of the grooves used on a\n         disc."@en .
+<https://doi.org/10.6069/uwlswd.pm5s-5m12#u> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.pm5s-5m12> .
+<https://doi.org/10.6069/uwlswd.pm5s-5m12> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/sound_recording_kind_of_cutting/sound_recording_kind_of_cutting.html> .
+<https://doi.org/10.6069/uwlswd.pm5s-5m12#h> <http://www.w3.org/2004/02/skos/core#scopeNote> "All cylinders and some early discs have this\n         cutting."@en .
+<https://doi.org/10.6069/uwlswd.pm5s-5m12#l> <http://www.w3.org/2004/02/skos/core#scopeNote> "Most contemporary discs (i.e., all quadraphonic discs and nearly\n         all stereophonic discs) contain both vertical and laterial information. Monographic discs\n         are normally lateral only."@en .
+<https://doi.org/10.6069/uwlswd.pm5s-5m12#n> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.pm5s-5m12> .
+<https://doi.org/10.6069/uwlswd.pm5s-5m12#n> <http://www.w3.org/2004/02/skos/core#prefLabel> "not applicable"@en .
+<https://doi.org/10.6069/uwlswd.pm5s-5m12#h> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.pm5s-5m12> .
+<https://doi.org/10.6069/uwlswd.pm5s-5m12#l> <http://www.w3.org/2004/02/skos/core#notation> "l" .
+<https://doi.org/10.6069/uwlswd.pm5s-5m12> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/sound_recording_kind_of_cutting/sound_recording_kind_of_cutting.jsonld> .
+<https://doi.org/10.6069/uwlswd.pm5s-5m12> <http://purl.org/dc/terms/creator> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.pm5s-5m12> <http://purl.org/dc/terms/publisher> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.pm5s-5m12> <https://schema.org/version> "1-0-0" .
+<https://doi.org/10.6069/uwlswd.pm5s-5m12> <http://purl.org/dc/terms/provenance> <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> .
+<https://doi.org/10.6069/uwlswd.pm5s-5m12#u> <http://www.w3.org/2004/02/skos/core#notation> "u" .
+<https://doi.org/10.6069/uwlswd.pm5s-5m12#h> <http://www.w3.org/2004/02/skos/core#definition> "Vertical cutting, with no lateral information intended for\n         reproduction."@en .
+<https://doi.org/10.6069/uwlswd.pm5s-5m12> <http://purl.org/dc/terms/alternative> "MARC21 007/11 values for sound recordings expressed using\n         RDF"@en .
+<https://doi.org/10.6069/uwlswd.pm5s-5m12#h> <http://www.w3.org/2004/02/skos/core#notation> "h" .
+<https://doi.org/10.6069/uwlswd.pm5s-5m12#l> <http://www.w3.org/2004/02/skos/core#definition> "Cutting containing lateral information intended for\n         reproduction. Such discs may also have vertical components intended for\n         reproduction."@en .
+<https://doi.org/10.6069/uwlswd.pm5s-5m12> <http://purl.org/dc/elements/1.1/language> "en" .
+<https://doi.org/10.6069/uwlswd.pm5s-5m12#u> <http://www.w3.org/2004/02/skos/core#definition> "Kind of cutting is not known."@en .
+<https://doi.org/10.6069/uwlswd.pm5s-5m12> <http://purl.org/dc/terms/format> <http://www.w3.org/ns/formats/N-Triples> .
+<https://doi.org/10.6069/uwlswd.pm5s-5m12#n> <http://www.w3.org/2004/02/skos/core#scopeNote> "Includes compact audio discs as they are pitted rather than\n         cut."@en .
+<https://doi.org/10.6069/uwlswd.pm5s-5m12> <http://purl.org/dc/terms/issued> "2024" .
+<https://doi.org/10.6069/uwlswd.pm5s-5m12> <http://purl.org/dc/terms/contributor> <http://viaf.org/viaf/151962300> .
+<https://doi.org/10.6069/uwlswd.pm5s-5m12#l> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.pm5s-5m12#h> <http://www.w3.org/2004/02/skos/core#prefLabel> "hill-and-dale cutting"@en .
+<https://doi.org/10.6069/uwlswd.pm5s-5m12#h> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.pm5s-5m12> <https://schema.org/disambiguatingDescription> "SKOS Concept Scheme for MARC 00X\n         Values"@en .
+<https://doi.org/10.6069/uwlswd.pm5s-5m12> <http://purl.org/dc/terms/source> <http://marc21rdf.info> .
+<https://doi.org/10.6069/uwlswd.pm5s-5m12> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/sound_recording_kind_of_cutting/sound_recording_kind_of_cutting.ttl> .
+<https://doi.org/10.6069/uwlswd.pm5s-5m12#u> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.pm5s-5m12#n> <http://www.w3.org/2004/02/skos/core#definition> "Item is not a disc or a cylinder."@en .

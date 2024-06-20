@@ -1,12 +1,35 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schema="https://schema.org/" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.fq7b-6k65#z">
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:dct="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:schema="https://schema.org/"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.fq7b-6k65#n">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.fq7b-6k65"/>
-    <skos:prefLabel xml:lang="en">other</skos:prefLabel>
-    <skos:definition xml:lang="en">Altitude of sensor other than surface, airborne, or
-         spaceborne.</skos:definition>
-    <skos:notation>z</skos:notation>
+    <skos:prefLabel xml:lang="en">not applicable</skos:prefLabel>
+    <skos:definition xml:lang="en">Altitude of the sensor is not applicable to the
+         image.</skos:definition>
+    <skos:notation>n</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.fq7b-6k65#c">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.fq7b-6k65"/>
+    <skos:prefLabel xml:lang="en">spaceborne</skos:prefLabel>
+    <skos:definition xml:lang="en">Remote-sensing image was made from a device in space.
+         Spaceborne sensors are those located outside the primary layers of an atmosphere (usually
+         in orbit) and beyond.</skos:definition>
+    <skos:notation>c</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.fq7b-6k65#a">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.fq7b-6k65"/>
+    <skos:prefLabel xml:lang="en">surface</skos:prefLabel>
+    <skos:definition xml:lang="en">Remote-sensing image was made from a device located on the
+         surface of a body, usually a planet or moon.</skos:definition>
+    <skos:notation>a</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.fq7b-6k65">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
@@ -30,6 +53,18 @@
     <dct:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0"/>
     <schema:version>1-0-0</schema:version>
     <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/remote-sensing_image_altitude_of_sensor/remote-sensing_image_altitude_of_sensor.ttl"/>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/remote-sensing_image_altitude_of_sensor/remote-sensing_image_altitude_of_sensor.nt"/>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/remote-sensing_image_altitude_of_sensor/remote-sensing_image_altitude_of_sensor.jsonld"/>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/remote-sensing_image_altitude_of_sensor/remote-sensing_image_altitude_of_sensor.html"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.fq7b-6k65#z">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.fq7b-6k65"/>
+    <skos:prefLabel xml:lang="en">other</skos:prefLabel>
+    <skos:definition xml:lang="en">Altitude of sensor other than surface, airborne, or
+         spaceborne.</skos:definition>
+    <skos:notation>z</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.fq7b-6k65#u">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -38,31 +73,6 @@
     <skos:definition xml:lang="en">Altitude of the sensor from which the image was made is not
          known.</skos:definition>
     <skos:notation>u</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.fq7b-6k65#c">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.fq7b-6k65"/>
-    <skos:prefLabel xml:lang="en">spaceborne</skos:prefLabel>
-    <skos:definition xml:lang="en">Remote-sensing image was made from a device in space.
-         Spaceborne sensors are those located outside the primary layers of an atmosphere (usually
-         in orbit) and beyond.</skos:definition>
-    <skos:notation>c</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.fq7b-6k65#a">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.fq7b-6k65"/>
-    <skos:prefLabel xml:lang="en">surface</skos:prefLabel>
-    <skos:definition xml:lang="en">Remote-sensing image was made from a device located on the
-         surface of a body, usually a planet or moon.</skos:definition>
-    <skos:notation>a</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.fq7b-6k65#n">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.fq7b-6k65"/>
-    <skos:prefLabel xml:lang="en">not applicable</skos:prefLabel>
-    <skos:definition xml:lang="en">Altitude of the sensor is not applicable to the
-         image.</skos:definition>
-    <skos:notation>n</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.fq7b-6k65#b">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>

@@ -1,0 +1,185 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix schema: <https://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://doi.org/10.6069/uwlswd.096m-0415#a> a skos:Concept ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.096m-0415> ;
+    skos:notation "a" ;
+    skos:prefLabel "aerial chart [obsolete]"@en .
+
+<https://doi.org/10.6069/uwlswd.096m-0415#b> a skos:Concept ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.096m-0415> ;
+    skos:notation "b" ;
+    skos:prefLabel "aerial remote-sensing image [obsolete]"@en .
+
+<https://doi.org/10.6069/uwlswd.096m-0415#c> a skos:Concept ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.096m-0415> ;
+    skos:notation "c" ;
+    skos:prefLabel "anamorphic map [obsolete]"@en .
+
+<https://doi.org/10.6069/uwlswd.096m-0415#d> a skos:Concept ;
+    skos:definition """Atlases generally contain maps, related text, and other
+         cartographic information."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.096m-0415> ;
+    skos:notation "d" ;
+    skos:prefLabel "atlas"@en .
+
+<https://doi.org/10.6069/uwlswd.096m-0415#e> a skos:Concept ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.096m-0415> ;
+    skos:notation "e" ;
+    skos:prefLabel "celestial chart [obsolete]"@en .
+
+<https://doi.org/10.6069/uwlswd.096m-0415#f> a skos:Concept ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.096m-0415> ;
+    skos:notation "f" ;
+    skos:prefLabel "chart [obsolete]"@en .
+
+<https://doi.org/10.6069/uwlswd.096m-0415#g> a skos:Concept ;
+    skos:definition """Map characterized by simplified, or schematic, representation.
+         Diagrams are graphic representations of numerical data, or of the course or results of an
+         action or process."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.096m-0415> ;
+    skos:notation "g" ;
+    skos:prefLabel "diagram"@en .
+
+<https://doi.org/10.6069/uwlswd.096m-0415#h> a skos:Concept ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.096m-0415> ;
+    skos:notation "h" ;
+    skos:prefLabel "hydrographic chart [obsolete]"@en .
+
+<https://doi.org/10.6069/uwlswd.096m-0415#i> a skos:Concept ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.096m-0415> ;
+    skos:notation "i" ;
+    skos:prefLabel "imaginative map [obsolete]"@en .
+
+<https://doi.org/10.6069/uwlswd.096m-0415#j> a skos:Concept ;
+    skos:definition """Two-dimensional map. Defined as a representation normally to
+         scale and on a flat medium, of a selection of material or abstract features on, or in
+         relation to, the surface of the earth or of another celestial body."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.096m-0415> ;
+    skos:notation "j" ;
+    skos:prefLabel "map"@en .
+
+<https://doi.org/10.6069/uwlswd.096m-0415#jx> a skos:Concept ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.096m-0415> ;
+    skos:notation "j" ;
+    skos:prefLabel "orthophoto [obsolete]"@en .
+
+<https://doi.org/10.6069/uwlswd.096m-0415#k> a skos:Concept ;
+    skos:definition """Scale representation of the intersection of a vertical surface
+         (which may or may not be a plane) with the surface of the ground or with that of a
+         conceptual three-dimensional model of phenomena having continuous distribution (e.g.,
+         rainfall)."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.096m-0415> ;
+    skos:notation "k" ;
+    skos:prefLabel "profile"@en .
+
+<https://doi.org/10.6069/uwlswd.096m-0415#m> a skos:Concept ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.096m-0415> ;
+    skos:notation "m" ;
+    skos:prefLabel "photo mosaic (controlled) [obsolete]"@en .
+
+<https://doi.org/10.6069/uwlswd.096m-0415#n> a skos:Concept ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.096m-0415> ;
+    skos:notation "n" ;
+    skos:prefLabel "photo mosaic (uncontrolled) [obsolete]"@en .
+
+<https://doi.org/10.6069/uwlswd.096m-0415#o> a skos:Concept ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.096m-0415> ;
+    skos:notation "o" ;
+    skos:prefLabel "photomap [obsolete]"@en .
+
+<https://doi.org/10.6069/uwlswd.096m-0415#p> a skos:Concept ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.096m-0415> ;
+    skos:notation "p" ;
+    skos:prefLabel "plan [obsolete]"@en .
+
+<https://doi.org/10.6069/uwlswd.096m-0415#q> a skos:Concept ;
+    skos:definition """Three-dimensional representation of a real object. Object may
+         be the exact size of the original or to scale."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.096m-0415> ;
+    skos:notation "q" ;
+    skos:prefLabel "model"@en .
+
+<https://doi.org/10.6069/uwlswd.096m-0415#r> a skos:Concept ;
+    skos:definition """Image produced by a recording device that is not in physical or
+         intimate contact with the object under study."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.096m-0415> ;
+    skos:notation "r" ;
+    skos:prefLabel "remote-sensing image"@en .
+
+<https://doi.org/10.6069/uwlswd.096m-0415#s> a skos:Concept ;
+    skos:definition """Scaled representation of a vertical surface (commonly a plane)
+         displaying both the the intersection profile or some conceptual model, and the underlying
+         structures, e.g., geological section."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.096m-0415> ;
+    skos:notation "s" ;
+    skos:prefLabel "section"@en .
+
+<https://doi.org/10.6069/uwlswd.096m-0415#t> a skos:Concept ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.096m-0415> ;
+    skos:notation "t" ;
+    skos:prefLabel "space remote-sensing image [obsolete]"@en .
+
+<https://doi.org/10.6069/uwlswd.096m-0415#u> a skos:Concept ;
+    skos:definition "Unspecified."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.096m-0415> ;
+    skos:notation "u" ;
+    skos:prefLabel "unspecified"@en .
+
+<https://doi.org/10.6069/uwlswd.096m-0415#v> a skos:Concept ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.096m-0415> ;
+    skos:notation "v" ;
+    skos:prefLabel "terrestrial remote-sensing image [obsolete]"@en .
+
+<https://doi.org/10.6069/uwlswd.096m-0415#w> a skos:Concept ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.096m-0415> ;
+    skos:notation "w" ;
+    skos:prefLabel "topographical drawing [obsolete]"@en .
+
+<https://doi.org/10.6069/uwlswd.096m-0415#x> a skos:Concept ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.096m-0415> ;
+    skos:notation "x" ;
+    skos:prefLabel "topographical print [obsolete]"@en .
+
+<https://doi.org/10.6069/uwlswd.096m-0415#y> a skos:Concept ;
+    skos:definition """Perspective representation of the landscape shown as if it were
+         projected onto an oblique plane."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.096m-0415> ;
+    skos:notation "y" ;
+    skos:prefLabel "view"@en .
+
+<https://doi.org/10.6069/uwlswd.096m-0415#z> a skos:Concept ;
+    skos:definition """Specific material designation other than atlas, diagram, map,
+         profile, model, remote-sensing image, section, or view."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.096m-0415> ;
+    skos:notation "z" ;
+    skos:prefLabel "other"@en .
+
+<https://doi.org/10.6069/uwlswd.096m-0415> a skos:ConceptScheme ;
+    dc:contributor "Metadata Management Associates"@en ;
+    dc:language "en" ;
+    dct:alternative """MARC21 007/01 values for maps expressed using
+         RDF"""@en ;
+    dct:contributor <http://viaf.org/viaf/151962300> ;
+    dct:creator <http://viaf.org/viaf/139541794> ;
+    dct:description """Special class of cartographic material to which the resource
+         belongs."""@en ;
+    dct:format <http://www.w3.org/ns/formats/Turtle> ;
+    dct:hasFormat <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/map_specific_material_designation/map_specific_material_designation.html>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/map_specific_material_designation/map_specific_material_designation.jsonld>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/map_specific_material_designation/map_specific_material_designation.nt>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/map_specific_material_designation/map_specific_material_designation.rdf> ;
+    dct:issued "2024" ;
+    dct:license <http://creativecommons.org/publicdomain/zero/1.0> ;
+    dct:provenance <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> ;
+    dct:publisher <http://viaf.org/viaf/139541794> ;
+    dct:source <http://marc21rdf.info>,
+        <https://www.loc.gov/marc/bibliographic/bd007.html> ;
+    dct:title "Map: specific material designation"@en ;
+    dct:type <http://purl.org/dc/dcmitype/Dataset> ;
+    schema:disambiguatingDescription """SKOS Concept Scheme for MARC 00X
+         Values"""@en ;
+    schema:version "1-0-0" .
+

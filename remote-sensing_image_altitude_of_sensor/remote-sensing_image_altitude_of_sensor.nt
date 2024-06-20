@@ -1,0 +1,52 @@
+<https://doi.org/10.6069/uwlswd.fq7b-6k65#n> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.fq7b-6k65> .
+<https://doi.org/10.6069/uwlswd.fq7b-6k65#c> <http://www.w3.org/2004/02/skos/core#notation> "c" .
+<https://doi.org/10.6069/uwlswd.fq7b-6k65#a> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.fq7b-6k65> .
+<https://doi.org/10.6069/uwlswd.fq7b-6k65> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/zero/1.0> .
+<https://doi.org/10.6069/uwlswd.fq7b-6k65#z> <http://www.w3.org/2004/02/skos/core#notation> "z" .
+<https://doi.org/10.6069/uwlswd.fq7b-6k65#n> <http://www.w3.org/2004/02/skos/core#definition> "Altitude of the sensor is not applicable to the\n         image."@en .
+<https://doi.org/10.6069/uwlswd.fq7b-6k65> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/remote-sensing_image_altitude_of_sensor/remote-sensing_image_altitude_of_sensor.rdf> .
+<https://doi.org/10.6069/uwlswd.fq7b-6k65#z> <http://www.w3.org/2004/02/skos/core#prefLabel> "other"@en .
+<https://doi.org/10.6069/uwlswd.fq7b-6k65#u> <http://www.w3.org/2004/02/skos/core#prefLabel> "unknown"@en .
+<https://doi.org/10.6069/uwlswd.fq7b-6k65> <http://purl.org/dc/terms/description> "General position of the sensor relative to to the object under\n         study."@en .
+<https://doi.org/10.6069/uwlswd.fq7b-6k65> <http://purl.org/dc/terms/creator> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.fq7b-6k65> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/remote-sensing_image_altitude_of_sensor/remote-sensing_image_altitude_of_sensor.ttl> .
+<https://doi.org/10.6069/uwlswd.fq7b-6k65#n> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.fq7b-6k65#c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.fq7b-6k65#c> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.fq7b-6k65> .
+<https://doi.org/10.6069/uwlswd.fq7b-6k65#z> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.fq7b-6k65> .
+<https://doi.org/10.6069/uwlswd.fq7b-6k65#a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.fq7b-6k65> <http://purl.org/dc/terms/publisher> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.fq7b-6k65> <http://purl.org/dc/terms/alternative> "MARC21 007/03 values for remote-sensing images expressed using\n         RDF"@en .
+<https://doi.org/10.6069/uwlswd.fq7b-6k65#b> <http://www.w3.org/2004/02/skos/core#definition> "Remote-sensing image was made from a device above the surface\n         of a body, generally in the atmosphere, an aircraft, balloon, or some other airborne\n         device."@en .
+<https://doi.org/10.6069/uwlswd.fq7b-6k65#z> <http://www.w3.org/2004/02/skos/core#definition> "Altitude of sensor other than surface, airborne, or\n         spaceborne."@en .
+<https://doi.org/10.6069/uwlswd.fq7b-6k65#n> <http://www.w3.org/2004/02/skos/core#notation> "n" .
+<https://doi.org/10.6069/uwlswd.fq7b-6k65> <http://purl.org/dc/terms/provenance> <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> .
+<https://doi.org/10.6069/uwlswd.fq7b-6k65#a> <http://www.w3.org/2004/02/skos/core#definition> "Remote-sensing image was made from a device located on the\n         surface of a body, usually a planet or moon."@en .
+<https://doi.org/10.6069/uwlswd.fq7b-6k65> <http://purl.org/dc/terms/title> "Remote-sensing image: altitude of sensor"@en .
+<https://doi.org/10.6069/uwlswd.fq7b-6k65#b> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.fq7b-6k65> .
+<https://doi.org/10.6069/uwlswd.fq7b-6k65> <http://purl.org/dc/terms/issued> "2024" .
+<https://doi.org/10.6069/uwlswd.fq7b-6k65> <http://purl.org/dc/terms/contributor> <http://viaf.org/viaf/151962300> .
+<https://doi.org/10.6069/uwlswd.fq7b-6k65#u> <http://www.w3.org/2004/02/skos/core#notation> "u" .
+<https://doi.org/10.6069/uwlswd.fq7b-6k65#b> <http://www.w3.org/2004/02/skos/core#notation> "b" .
+<https://doi.org/10.6069/uwlswd.fq7b-6k65#n> <http://www.w3.org/2004/02/skos/core#prefLabel> "not applicable"@en .
+<https://doi.org/10.6069/uwlswd.fq7b-6k65> <http://purl.org/dc/terms/source> <http://marc21rdf.info> .
+<https://doi.org/10.6069/uwlswd.fq7b-6k65#z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.fq7b-6k65#b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.fq7b-6k65#b> <http://www.w3.org/2004/02/skos/core#prefLabel> "airborne"@en .
+<https://doi.org/10.6069/uwlswd.fq7b-6k65> <http://purl.org/dc/terms/format> <http://www.w3.org/ns/formats/N-Triples> .
+<https://doi.org/10.6069/uwlswd.fq7b-6k65> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/remote-sensing_image_altitude_of_sensor/remote-sensing_image_altitude_of_sensor.jsonld> .
+<https://doi.org/10.6069/uwlswd.fq7b-6k65> <http://purl.org/dc/elements/1.1/language> "en" .
+<https://doi.org/10.6069/uwlswd.fq7b-6k65> <https://schema.org/version> "1-0-0" .
+<https://doi.org/10.6069/uwlswd.fq7b-6k65#u> <http://www.w3.org/2004/02/skos/core#definition> "Altitude of the sensor from which the image was made is not\n         known."@en .
+<https://doi.org/10.6069/uwlswd.fq7b-6k65> <https://schema.org/disambiguatingDescription> "SKOS Concept Scheme for MARC 00X\n         Values"@en .
+<https://doi.org/10.6069/uwlswd.fq7b-6k65#c> <http://www.w3.org/2004/02/skos/core#definition> "Remote-sensing image was made from a device in space.\n         Spaceborne sensors are those located outside the primary layers of an atmosphere (usually\n         in orbit) and beyond."@en .
+<https://doi.org/10.6069/uwlswd.fq7b-6k65#c> <http://www.w3.org/2004/02/skos/core#prefLabel> "spaceborne"@en .
+<https://doi.org/10.6069/uwlswd.fq7b-6k65#u> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.fq7b-6k65> .
+<https://doi.org/10.6069/uwlswd.fq7b-6k65> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<https://doi.org/10.6069/uwlswd.fq7b-6k65#u> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.fq7b-6k65> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/remote-sensing_image_altitude_of_sensor/remote-sensing_image_altitude_of_sensor.html> .
+<https://doi.org/10.6069/uwlswd.fq7b-6k65> <http://purl.org/dc/terms/type> <http://purl.org/dc/dcmitype/Dataset> .
+<https://doi.org/10.6069/uwlswd.fq7b-6k65> <http://purl.org/dc/terms/source> <https://www.loc.gov/marc/bibliographic/bd007.html> .
+<https://doi.org/10.6069/uwlswd.fq7b-6k65> <http://purl.org/dc/elements/1.1/contributor> "Metadata Management Associates"@en .
+<https://doi.org/10.6069/uwlswd.fq7b-6k65#a> <http://www.w3.org/2004/02/skos/core#notation> "a" .
+<https://doi.org/10.6069/uwlswd.fq7b-6k65#a> <http://www.w3.org/2004/02/skos/core#prefLabel> "surface"@en .

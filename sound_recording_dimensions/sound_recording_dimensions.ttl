@@ -1,0 +1,118 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix schema: <https://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://doi.org/10.6069/uwlswd.4vb3-1g85#a> a skos:Concept ;
+    skos:definition "3 in. diameter."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.4vb3-1g85> ;
+    skos:notation "a" ;
+    skos:prefLabel "3 in. diameter"@en .
+
+<https://doi.org/10.6069/uwlswd.4vb3-1g85#b> a skos:Concept ;
+    skos:definition "5 in. diameter."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.4vb3-1g85> ;
+    skos:notation "b" ;
+    skos:prefLabel "5 in. diameter"@en .
+
+<https://doi.org/10.6069/uwlswd.4vb3-1g85#c> a skos:Concept ;
+    skos:definition "7 in. diameter."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.4vb3-1g85> ;
+    skos:notation "c" ;
+    skos:prefLabel "7 in. diameter"@en .
+
+<https://doi.org/10.6069/uwlswd.4vb3-1g85#d> a skos:Concept ;
+    skos:definition "10 in. diameter."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.4vb3-1g85> ;
+    skos:notation "d" ;
+    skos:prefLabel "10 in. diameter"@en .
+
+<https://doi.org/10.6069/uwlswd.4vb3-1g85#e> a skos:Concept ;
+    skos:definition "12 in. diameter."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.4vb3-1g85> ;
+    skos:notation "e" ;
+    skos:prefLabel "12 in. diameter"@en .
+
+<https://doi.org/10.6069/uwlswd.4vb3-1g85#f> a skos:Concept ;
+    skos:definition "16 in. diameter."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.4vb3-1g85> ;
+    skos:notation "f" ;
+    skos:prefLabel "16 in. diameter"@en .
+
+<https://doi.org/10.6069/uwlswd.4vb3-1g85#g> a skos:Concept ;
+    skos:definition "4 3/4 in. or 12 cm. diameter."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.4vb3-1g85> ;
+    skos:notation "g" ;
+    skos:prefLabel "4 3/4 in. or 12 cm. diameter"@en .
+
+<https://doi.org/10.6069/uwlswd.4vb3-1g85#j> a skos:Concept ;
+    skos:definition """Height and width of the cassette are 3 7/8 x 2 1/2
+         in."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.4vb3-1g85> ;
+    skos:notation "j" ;
+    skos:prefLabel "3 7/8 x 2 1/2 in."@en ;
+    skos:scopeNote "Used for a standard compact cassette."@en .
+
+<https://doi.org/10.6069/uwlswd.4vb3-1g85#n> a skos:Concept ;
+    skos:definition """Sound recording is not a reel, disc, cassette, cartridge, or
+         cylinder."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.4vb3-1g85> ;
+    skos:notation "n" ;
+    skos:prefLabel "not applicable"@en .
+
+<https://doi.org/10.6069/uwlswd.4vb3-1g85#o> a skos:Concept ;
+    skos:definition """Height and width of the cartridge are 5 1/4 x 3 7/8
+         in."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.4vb3-1g85> ;
+    skos:notation "o" ;
+    skos:prefLabel "5 1/4 x 3 7/8 in."@en ;
+    skos:scopeNote "Used for a standard audio cartridge."@en .
+
+<https://doi.org/10.6069/uwlswd.4vb3-1g85#s> a skos:Concept ;
+    skos:definition """Dimensions of a cylinder are 2 3/4 in. (diameter) x 4 in.
+         (length)."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.4vb3-1g85> ;
+    skos:notation "s" ;
+    skos:prefLabel "2 3/4 x 4 in."@en .
+
+<https://doi.org/10.6069/uwlswd.4vb3-1g85#u> a skos:Concept ;
+    skos:definition """Dimensions of the sound recording are not
+         known."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.4vb3-1g85> ;
+    skos:notation "u" ;
+    skos:prefLabel "unknown"@en .
+
+<https://doi.org/10.6069/uwlswd.4vb3-1g85#z> a skos:Concept ;
+    skos:definition """Dimensions other than 3 in. diameter, 5 in. diameter, 7 in.
+         diameter 10 in. diameter, 12 in. diameter, 16 in. diameter, 4 3/4 in. or 12 cm. diameter, 3
+         7/8 x 2 1/2 in., 5 1/4 x 3 7/8 in., or 2 3/4 x 4 in."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.4vb3-1g85> ;
+    skos:notation "z" ;
+    skos:prefLabel "other"@en .
+
+<https://doi.org/10.6069/uwlswd.4vb3-1g85> a skos:ConceptScheme ;
+    dc:contributor "Metadata Management Associates"@en ;
+    dc:language "en" ;
+    dct:alternative """MARC21 007/06 values for sound recordings expressed using
+         RDF"""@en ;
+    dct:contributor <http://viaf.org/viaf/151962300> ;
+    dct:creator <http://viaf.org/viaf/139541794> ;
+    dct:description """Diameter of an open reel or disc, or the dimensions of a
+         cassette, cartridge, or cylinder."""@en ;
+    dct:format <http://www.w3.org/ns/formats/Turtle> ;
+    dct:hasFormat <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/sound_recording_dimensions/sound_recording_dimensions.html>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/sound_recording_dimensions/sound_recording_dimensions.jsonld>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/sound_recording_dimensions/sound_recording_dimensions.nt>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/sound_recording_dimensions/sound_recording_dimensions.rdf> ;
+    dct:issued "2024" ;
+    dct:license <http://creativecommons.org/publicdomain/zero/1.0> ;
+    dct:provenance <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> ;
+    dct:publisher <http://viaf.org/viaf/139541794> ;
+    dct:source <http://marc21rdf.info>,
+        <https://www.loc.gov/marc/bibliographic/bd007.html> ;
+    dct:title "Sound recording: dimensions"@en ;
+    dct:type <http://purl.org/dc/dcmitype/Dataset> ;
+    schema:disambiguatingDescription """SKOS Concept Scheme for MARC 00X
+         Values"""@en ;
+    schema:version "1-0-0" .
+

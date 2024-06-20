@@ -1,106 +1,106 @@
-<https://doi.org/10.6069/uwlswd.h5tb-zk94#m> <http://www.w3.org/2004/02/skos/core#prefLabel> "motion picture"@en .
-<https://doi.org/10.6069/uwlswd.h5tb-zk94#g> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.h5tb-zk94#v> <http://www.w3.org/2004/02/skos/core#notation> "v"@en .
-<https://doi.org/10.6069/uwlswd.h5tb-zk94#k> <http://www.w3.org/2004/02/skos/core#prefLabel> "nonprojected graphic"@en .
-<https://doi.org/10.6069/uwlswd.h5tb-zk94#m> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.h5tb-zk94> .
-<https://doi.org/10.6069/uwlswd.h5tb-zk94#o> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.h5tb-zk94#z> <http://www.w3.org/2004/02/skos/core#prefLabel> "unspecified"@en .
-<https://doi.org/10.6069/uwlswd.h5tb-zk94> <http://purl.org/dc/terms/alternative> "MARC21 007/00 values for all material types expressed using\n         RDF"@en .
-<https://doi.org/10.6069/uwlswd.h5tb-zk94#z> <http://www.w3.org/2004/02/skos/core#notation> "z"@en .
-<https://doi.org/10.6069/uwlswd.h5tb-zk94#o> <http://www.w3.org/2004/02/skos/core#prefLabel> "kit"@en .
-<https://doi.org/10.6069/uwlswd.h5tb-zk94#d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.h5tb-zk94#m> <http://www.w3.org/2004/02/skos/core#notation> "m"@en .
-<https://doi.org/10.6069/uwlswd.h5tb-zk94#m> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.h5tb-zk94#a> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.h5tb-zk94> .
-<https://doi.org/10.6069/uwlswd.h5tb-zk94#g> <http://www.w3.org/2004/02/skos/core#definition> "A two-dimensional representation intended to be projected\n         without motion by means of an optical device."@en .
-<https://doi.org/10.6069/uwlswd.h5tb-zk94> <http://purl.org/dc/terms/creator> <http://viaf.org/viaf/139541794> .
-<https://doi.org/10.6069/uwlswd.h5tb-zk94#t> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.h5tb-zk94> .
-<https://doi.org/10.6069/uwlswd.h5tb-zk94#f> <http://www.w3.org/2004/02/skos/core#definition> "Material intended to be read or interpreted by\n         touch."@en .
-<https://doi.org/10.6069/uwlswd.h5tb-zk94> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/all_category_of_material/all_category_of_material.jsonld> .
-<https://doi.org/10.6069/uwlswd.h5tb-zk94#f> <http://www.w3.org/2004/02/skos/core#notation> "f"@en .
-<https://doi.org/10.6069/uwlswd.h5tb-zk94#r> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.h5tb-zk94> .
-<https://doi.org/10.6069/uwlswd.h5tb-zk94> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
-<https://doi.org/10.6069/uwlswd.h5tb-zk94#t> <http://www.w3.org/2004/02/skos/core#notation> "t"@en .
-<https://doi.org/10.6069/uwlswd.h5tb-zk94> <http://purl.org/dc/terms/title> "All: category of material"@en .
-<https://doi.org/10.6069/uwlswd.h5tb-zk94#v> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.h5tb-zk94> .
-<https://doi.org/10.6069/uwlswd.h5tb-zk94#z> <http://www.w3.org/2004/02/skos/core#definition> "Item is not identified by one of the other values or that its\n         multiple physical forms are not being specifically denoted."@en .
-<https://doi.org/10.6069/uwlswd.h5tb-zk94#s> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.h5tb-zk94> <http://purl.org/dc/terms/issued> "2024" .
-<https://doi.org/10.6069/uwlswd.h5tb-zk94> <http://purl.org/dc/terms/source> <https://www.loc.gov/marc/bibliographic/bd007.html> .
-<https://doi.org/10.6069/uwlswd.h5tb-zk94#k> <http://www.w3.org/2004/02/skos/core#definition> "A two-dimensional pictorial representation whether opaque\n         (e.g., print, photoprint, drawing) or transparent, but not intended to be projected for\n         viewing (e.g., a photographic negative)."@en .
-<https://doi.org/10.6069/uwlswd.h5tb-zk94> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/all_category_of_material/all_category_of_material.html> .
-<https://doi.org/10.6069/uwlswd.h5tb-zk94> <http://purl.org/dc/terms/source> <http://marc21rdf.info> .
-<https://doi.org/10.6069/uwlswd.h5tb-zk94#c> <http://www.w3.org/2004/02/skos/core#scopeNote> "Examples are programs, data files, image files, digitized audio\n         and video tapes, etc."@en .
-<https://doi.org/10.6069/uwlswd.h5tb-zk94#v> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.h5tb-zk94#q> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.h5tb-zk94> .
-<https://doi.org/10.6069/uwlswd.h5tb-zk94#v> <http://www.w3.org/2004/02/skos/core#scopeNote> "Designed for playback by means of a television receiver, or\n         video monitor."@en .
-<https://doi.org/10.6069/uwlswd.h5tb-zk94> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/all_category_of_material/all_category_of_material.ttl> .
-<https://doi.org/10.6069/uwlswd.h5tb-zk94> <http://purl.org/dc/elements/1.1/language> "en" .
-<https://doi.org/10.6069/uwlswd.h5tb-zk94#a> <http://www.w3.org/2004/02/skos/core#scopeNote> "Used for all cartographic materials except\n         globes."@en .
-<https://doi.org/10.6069/uwlswd.h5tb-zk94#r> <http://www.w3.org/2004/02/skos/core#prefLabel> "remote-sensing image"@en .
-<https://doi.org/10.6069/uwlswd.h5tb-zk94#k> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.h5tb-zk94> .
-<https://doi.org/10.6069/uwlswd.h5tb-zk94> <https://schema.org/version> "1-0-0" .
-<https://doi.org/10.6069/uwlswd.h5tb-zk94#t> <http://www.w3.org/2004/02/skos/core#scopeNote> "E.g., a book, a pamphlet, a broadside."@en .
-<https://doi.org/10.6069/uwlswd.h5tb-zk94> <http://purl.org/dc/terms/format> <http://www.w3.org/ns/formats/N-Triples> .
 <https://doi.org/10.6069/uwlswd.h5tb-zk94> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/zero/1.0> .
-<https://doi.org/10.6069/uwlswd.h5tb-zk94> <http://purl.org/dc/terms/description> "Identifies the category of material."@en .
-<https://doi.org/10.6069/uwlswd.h5tb-zk94#q> <http://www.w3.org/2004/02/skos/core#definition> "Graphic, non-realized representations of musical works, both in\n         printed and digitized manifestations."@en .
-<https://doi.org/10.6069/uwlswd.h5tb-zk94#s> <http://www.w3.org/2004/02/skos/core#prefLabel> "sound recording"@en .
-<https://doi.org/10.6069/uwlswd.h5tb-zk94#o> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.h5tb-zk94> .
-<https://doi.org/10.6069/uwlswd.h5tb-zk94#c> <http://www.w3.org/2004/02/skos/core#prefLabel> "electronic resource"@en .
-<https://doi.org/10.6069/uwlswd.h5tb-zk94#h> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.h5tb-zk94#v> <http://www.w3.org/2004/02/skos/core#definition> "A recording on which visual images, usually in motion and\n         accompanied by sound, have been registered."@en .
-<https://doi.org/10.6069/uwlswd.h5tb-zk94> <http://purl.org/dc/terms/publisher> <http://viaf.org/viaf/139541794> .
-<https://doi.org/10.6069/uwlswd.h5tb-zk94#d> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.h5tb-zk94> .
-<https://doi.org/10.6069/uwlswd.h5tb-zk94#q> <http://www.w3.org/2004/02/skos/core#scopeNote> "Includes musical scores and/or parts, diagrammatic\n         representations, tablature, instructions for chance compositions, pictures or paintings\n         intended as musical compositions, square note notation, klavirskribo, chant notation,\n         neumes, braille, and other ways of representing the four components of musical sound:\n         pitch, duration, timbre, and loudness. Notated music is often the means for communicating\n         to the performer(s) how the musical work notated therein is to be realized in\n         sound."@en .
-<https://doi.org/10.6069/uwlswd.h5tb-zk94#g> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.h5tb-zk94> .
-<https://doi.org/10.6069/uwlswd.h5tb-zk94#a> <http://www.w3.org/2004/02/skos/core#notation> "a"@en .
-<https://doi.org/10.6069/uwlswd.h5tb-zk94#h> <http://www.w3.org/2004/02/skos/core#scopeNote> "Microforms may be reproductions of existing textual or graphic\n         materials or they may be original publications."@en .
-<https://doi.org/10.6069/uwlswd.h5tb-zk94#q> <http://www.w3.org/2004/02/skos/core#prefLabel> "notated music"@en .
-<https://doi.org/10.6069/uwlswd.h5tb-zk94#v> <http://www.w3.org/2004/02/skos/core#prefLabel> "videorecording"@en .
-<https://doi.org/10.6069/uwlswd.h5tb-zk94#g> <http://www.w3.org/2004/02/skos/core#prefLabel> "projected graphic"@en .
-<https://doi.org/10.6069/uwlswd.h5tb-zk94> <http://purl.org/dc/terms/contributor> <http://viaf.org/viaf/151962300> .
-<https://doi.org/10.6069/uwlswd.h5tb-zk94#h> <http://www.w3.org/2004/02/skos/core#definition> "A generic term for any medium, transparent or opaque bearing\n         microimages. A microimage is a unit (e.g., a page) of textual, graphic, or\n         computer-generated material that is contained on aperture cards, microfiche, microfilm,\n         micro-opaques, or other microformats and that is too small to be read without\n         magnification."@en .
-<https://doi.org/10.6069/uwlswd.h5tb-zk94#f> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.h5tb-zk94> .
-<https://doi.org/10.6069/uwlswd.h5tb-zk94#d> <http://www.w3.org/2004/02/skos/core#definition> "The model of a celestial body, usually the earth or the\n         celestial sphere, depicted on the surface of a sphere."@en .
-<https://doi.org/10.6069/uwlswd.h5tb-zk94#r> <http://www.w3.org/2004/02/skos/core#notation> "r"@en .
-<https://doi.org/10.6069/uwlswd.h5tb-zk94#g> <http://www.w3.org/2004/02/skos/core#notation> "g"@en .
-<https://doi.org/10.6069/uwlswd.h5tb-zk94#q> <http://www.w3.org/2004/02/skos/core#notation> "q"@en .
-<https://doi.org/10.6069/uwlswd.h5tb-zk94#r> <http://www.w3.org/2004/02/skos/core#definition> "An image produced by a recording device that is not in physical\n         or intimate contact with the object under study."@en .
-<https://doi.org/10.6069/uwlswd.h5tb-zk94> <https://schema.org/disambiguatingDescription> "SKOS Concept Scheme for MARC 00X\n         Values" .
-<https://doi.org/10.6069/uwlswd.h5tb-zk94#k> <http://www.w3.org/2004/02/skos/core#notation> "k"@en .
-<https://doi.org/10.6069/uwlswd.h5tb-zk94> <http://purl.org/dc/terms/provenance> <https://doi.org/10.6069/uwlswd.2e2b-y833> .
-<https://doi.org/10.6069/uwlswd.h5tb-zk94#f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.h5tb-zk94#s> <http://www.w3.org/2004/02/skos/core#notation> "s"@en .
-<https://doi.org/10.6069/uwlswd.h5tb-zk94#s> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.h5tb-zk94> .
-<https://doi.org/10.6069/uwlswd.h5tb-zk94#a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.h5tb-zk94#r> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.h5tb-zk94> <http://purl.org/dc/elements/1.1/contributor> "Metadata Management Associates"@en .
-<https://doi.org/10.6069/uwlswd.h5tb-zk94#o> <http://www.w3.org/2004/02/skos/core#notation> "o"@en .
-<https://doi.org/10.6069/uwlswd.h5tb-zk94#s> <http://www.w3.org/2004/02/skos/core#definition> "A storage medium containing recorded sound or a representation\n         of a musical composition from which sound can be mechanically reproduced, such as a piano\n         roll."@en .
-<https://doi.org/10.6069/uwlswd.h5tb-zk94#r> <http://www.w3.org/2004/02/skos/core#scopeNote> "This may be a map or other image that is obtained through\n         various remote sensing devices such as cameras, computers, lasers, radio frequency\n         receivers, radar systems, sonar, seismographs, gravimeters, magnetometers, and\n         scintillation counters. When the image has cartographic or bibliographic information added,\n         it is referred to as a remote-sensing map."@en .
-<https://doi.org/10.6069/uwlswd.h5tb-zk94#h> <http://www.w3.org/2004/02/skos/core#prefLabel> "microform"@en .
-<https://doi.org/10.6069/uwlswd.h5tb-zk94#t> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.h5tb-zk94#t> <http://www.w3.org/2004/02/skos/core#definition> "Printed or manuscript language material that is accessible to\n         the naked eye."@en .
-<https://doi.org/10.6069/uwlswd.h5tb-zk94#m> <http://www.w3.org/2004/02/skos/core#definition> "A series of still pictures on film, with or without sound,\n         designed to be projected in rapid succession to produce the optical effect of\n         motion."@en .
-<https://doi.org/10.6069/uwlswd.h5tb-zk94#g> <http://www.w3.org/2004/02/skos/core#scopeNote> "For example, a filmstrip, slide, or transparency (includes\n         x-rays)."@en .
-<https://doi.org/10.6069/uwlswd.h5tb-zk94#c> <http://www.w3.org/2004/02/skos/core#notation> "c"@en .
-<https://doi.org/10.6069/uwlswd.h5tb-zk94#a> <http://www.w3.org/2004/02/skos/core#definition> "Map"@en .
-<https://doi.org/10.6069/uwlswd.h5tb-zk94#o> <http://www.w3.org/2004/02/skos/core#scopeNote> "Examples are packages of assorted materials, such as a set of\n         K-12 social studies curriculum material (books, workbooks, guides, activities, etc.), or\n         packages of educational test materials (tests, answer sheets, scoring guides, score charts,\n         interpretative manuals, etc.)."@en .
-<https://doi.org/10.6069/uwlswd.h5tb-zk94> <http://purl.org/dc/terms/type> <http://purl.org/dc/dcmitype/Dataset> .
-<https://doi.org/10.6069/uwlswd.h5tb-zk94#c> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.h5tb-zk94> .
-<https://doi.org/10.6069/uwlswd.h5tb-zk94#o> <http://www.w3.org/2004/02/skos/core#definition> "A mixture of various components issued as a unit and intended\n         primarily for instructional purposes. No one component is identifiable as the predominant\n         component of the item."@en .
-<https://doi.org/10.6069/uwlswd.h5tb-zk94#c> <http://www.w3.org/2004/02/skos/core#definition> "Involves a medium (usually digitized machine-readable data,\n         program code, etc.) intended to be accessed, processed, or executed by a\n         computer."@en .
-<https://doi.org/10.6069/uwlswd.h5tb-zk94> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/all_category_of_material/all_category_of_material.rdf> .
-<https://doi.org/10.6069/uwlswd.h5tb-zk94#d> <http://www.w3.org/2004/02/skos/core#prefLabel> "globe"@en .
-<https://doi.org/10.6069/uwlswd.h5tb-zk94#h> <http://www.w3.org/2004/02/skos/core#notation> "h"@en .
-<https://doi.org/10.6069/uwlswd.h5tb-zk94#z> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.h5tb-zk94> .
-<https://doi.org/10.6069/uwlswd.h5tb-zk94#c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.h5tb-zk94#h> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.h5tb-zk94> .
-<https://doi.org/10.6069/uwlswd.h5tb-zk94#q> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.h5tb-zk94#a> <http://www.w3.org/2004/02/skos/core#prefLabel> "map"@en .
-<https://doi.org/10.6069/uwlswd.h5tb-zk94#d> <http://www.w3.org/2004/02/skos/core#notation> "d"@en .
-<https://doi.org/10.6069/uwlswd.h5tb-zk94#z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.h5tb-zk94#k> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://doi.org/10.6069/uwlswd.h5tb-zk94#t> <http://www.w3.org/2004/02/skos/core#prefLabel> "text"@en .
 <https://doi.org/10.6069/uwlswd.h5tb-zk94#f> <http://www.w3.org/2004/02/skos/core#prefLabel> "tactile material"@en .
+<https://doi.org/10.6069/uwlswd.h5tb-zk94#s> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.h5tb-zk94> <http://purl.org/dc/terms/description> "Identifies the category of material."@en .
+<https://doi.org/10.6069/uwlswd.h5tb-zk94#h> <http://www.w3.org/2004/02/skos/core#prefLabel> "microform"@en .
+<https://doi.org/10.6069/uwlswd.h5tb-zk94#f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.h5tb-zk94#g> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.h5tb-zk94> .
+<https://doi.org/10.6069/uwlswd.h5tb-zk94#a> <http://www.w3.org/2004/02/skos/core#prefLabel> "map"@en .
+<https://doi.org/10.6069/uwlswd.h5tb-zk94#z> <http://www.w3.org/2004/02/skos/core#notation> "z" .
+<https://doi.org/10.6069/uwlswd.h5tb-zk94#k> <http://www.w3.org/2004/02/skos/core#prefLabel> "nonprojected graphic"@en .
+<https://doi.org/10.6069/uwlswd.h5tb-zk94> <http://purl.org/dc/terms/creator> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.h5tb-zk94#d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.h5tb-zk94#o> <http://www.w3.org/2004/02/skos/core#notation> "o" .
+<https://doi.org/10.6069/uwlswd.h5tb-zk94#q> <http://www.w3.org/2004/02/skos/core#scopeNote> "Includes musical scores and/or parts, diagrammatic\n         representations, tablature, instructions for chance compositions, pictures or paintings\n         intended as musical compositions, square note notation, klavirskribo, chant notation,\n         neumes, braille, and other ways of representing the four components of musical sound:\n         pitch, duration, timbre, and loudness. Notated music is often the means for communicating\n         to the performer(s) how the musical work notated therein is to be realized in\n         sound."@en .
+<https://doi.org/10.6069/uwlswd.h5tb-zk94#m> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.h5tb-zk94#f> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.h5tb-zk94> .
+<https://doi.org/10.6069/uwlswd.h5tb-zk94> <http://purl.org/dc/terms/provenance> <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> .
+<https://doi.org/10.6069/uwlswd.h5tb-zk94> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/all_category_of_material/all_category_of_material.html> .
+<https://doi.org/10.6069/uwlswd.h5tb-zk94#h> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.h5tb-zk94#k> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.h5tb-zk94> .
+<https://doi.org/10.6069/uwlswd.h5tb-zk94#o> <http://www.w3.org/2004/02/skos/core#scopeNote> "Examples are packages of assorted materials, such as a set of\n         K-12 social studies curriculum material (books, workbooks, guides, activities, etc.), or\n         packages of educational test materials (tests, answer sheets, scoring guides, score charts,\n         interpretative manuals, etc.)."@en .
+<https://doi.org/10.6069/uwlswd.h5tb-zk94#q> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.h5tb-zk94> .
+<https://doi.org/10.6069/uwlswd.h5tb-zk94#m> <http://www.w3.org/2004/02/skos/core#prefLabel> "motion picture"@en .
+<https://doi.org/10.6069/uwlswd.h5tb-zk94#h> <http://www.w3.org/2004/02/skos/core#scopeNote> "Microforms may be reproductions of existing textual or graphic\n         materials or they may be original publications."@en .
+<https://doi.org/10.6069/uwlswd.h5tb-zk94#c> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.h5tb-zk94> .
+<https://doi.org/10.6069/uwlswd.h5tb-zk94#z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.h5tb-zk94#t> <http://www.w3.org/2004/02/skos/core#scopeNote> "E.g., a book, a pamphlet, a broadside."@en .
+<https://doi.org/10.6069/uwlswd.h5tb-zk94#v> <http://www.w3.org/2004/02/skos/core#prefLabel> "videorecording"@en .
+<https://doi.org/10.6069/uwlswd.h5tb-zk94> <http://purl.org/dc/elements/1.1/language> "en" .
+<https://doi.org/10.6069/uwlswd.h5tb-zk94> <http://purl.org/dc/terms/format> <http://www.w3.org/ns/formats/N-Triples> .
+<https://doi.org/10.6069/uwlswd.h5tb-zk94> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/all_category_of_material/all_category_of_material.jsonld> .
+<https://doi.org/10.6069/uwlswd.h5tb-zk94#t> <http://www.w3.org/2004/02/skos/core#notation> "t" .
+<https://doi.org/10.6069/uwlswd.h5tb-zk94#g> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.h5tb-zk94> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/all_category_of_material/all_category_of_material.rdf> .
+<https://doi.org/10.6069/uwlswd.h5tb-zk94#t> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.h5tb-zk94> .
+<https://doi.org/10.6069/uwlswd.h5tb-zk94#c> <http://www.w3.org/2004/02/skos/core#scopeNote> "Examples are programs, data files, image files, digitized audio\n         and video tapes, etc."@en .
+<https://doi.org/10.6069/uwlswd.h5tb-zk94#z> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.h5tb-zk94> .
+<https://doi.org/10.6069/uwlswd.h5tb-zk94#r> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.h5tb-zk94> <http://purl.org/dc/terms/source> <https://www.loc.gov/marc/bibliographic/bd007.html> .
+<https://doi.org/10.6069/uwlswd.h5tb-zk94> <http://purl.org/dc/elements/1.1/contributor> "Metadata Management Associates"@en .
+<https://doi.org/10.6069/uwlswd.h5tb-zk94#a> <http://www.w3.org/2004/02/skos/core#notation> "a" .
+<https://doi.org/10.6069/uwlswd.h5tb-zk94#r> <http://www.w3.org/2004/02/skos/core#notation> "r" .
+<https://doi.org/10.6069/uwlswd.h5tb-zk94#c> <http://www.w3.org/2004/02/skos/core#notation> "c" .
+<https://doi.org/10.6069/uwlswd.h5tb-zk94#a> <http://www.w3.org/2004/02/skos/core#definition> "Map"@en .
+<https://doi.org/10.6069/uwlswd.h5tb-zk94#a> <http://www.w3.org/2004/02/skos/core#scopeNote> "Used for all cartographic materials except\n         globes."@en .
+<https://doi.org/10.6069/uwlswd.h5tb-zk94#t> <http://www.w3.org/2004/02/skos/core#prefLabel> "text"@en .
+<https://doi.org/10.6069/uwlswd.h5tb-zk94#k> <http://www.w3.org/2004/02/skos/core#definition> "A two-dimensional pictorial representation whether opaque\n         (e.g., print, photoprint, drawing) or transparent, but not intended to be projected for\n         viewing (e.g., a photographic negative)."@en .
+<https://doi.org/10.6069/uwlswd.h5tb-zk94#f> <http://www.w3.org/2004/02/skos/core#definition> "Material intended to be read or interpreted by\n         touch."@en .
+<https://doi.org/10.6069/uwlswd.h5tb-zk94#o> <http://www.w3.org/2004/02/skos/core#prefLabel> "kit"@en .
+<https://doi.org/10.6069/uwlswd.h5tb-zk94#v> <http://www.w3.org/2004/02/skos/core#definition> "A recording on which visual images, usually in motion and\n         accompanied by sound, have been registered."@en .
+<https://doi.org/10.6069/uwlswd.h5tb-zk94#s> <http://www.w3.org/2004/02/skos/core#notation> "s" .
+<https://doi.org/10.6069/uwlswd.h5tb-zk94#g> <http://www.w3.org/2004/02/skos/core#definition> "A two-dimensional representation intended to be projected\n         without motion by means of an optical device."@en .
+<https://doi.org/10.6069/uwlswd.h5tb-zk94#c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.h5tb-zk94#k> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.h5tb-zk94#q> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.h5tb-zk94#c> <http://www.w3.org/2004/02/skos/core#prefLabel> "electronic resource"@en .
+<https://doi.org/10.6069/uwlswd.h5tb-zk94#m> <http://www.w3.org/2004/02/skos/core#notation> "m" .
+<https://doi.org/10.6069/uwlswd.h5tb-zk94#q> <http://www.w3.org/2004/02/skos/core#definition> "Graphic, non-realized representations of musical works, both in\n         printed and digitized manifestations."@en .
+<https://doi.org/10.6069/uwlswd.h5tb-zk94#k> <http://www.w3.org/2004/02/skos/core#notation> "k" .
+<https://doi.org/10.6069/uwlswd.h5tb-zk94#s> <http://www.w3.org/2004/02/skos/core#prefLabel> "sound recording"@en .
+<https://doi.org/10.6069/uwlswd.h5tb-zk94#h> <http://www.w3.org/2004/02/skos/core#notation> "h" .
+<https://doi.org/10.6069/uwlswd.h5tb-zk94#o> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.h5tb-zk94> .
+<https://doi.org/10.6069/uwlswd.h5tb-zk94#z> <http://www.w3.org/2004/02/skos/core#definition> "Item is not identified by one of the other values or that its\n         multiple physical forms are not being specifically denoted."@en .
+<https://doi.org/10.6069/uwlswd.h5tb-zk94#g> <http://www.w3.org/2004/02/skos/core#notation> "g" .
+<https://doi.org/10.6069/uwlswd.h5tb-zk94#r> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.h5tb-zk94> .
+<https://doi.org/10.6069/uwlswd.h5tb-zk94#t> <http://www.w3.org/2004/02/skos/core#definition> "Printed or manuscript language material that is accessible to\n         the naked eye."@en .
+<https://doi.org/10.6069/uwlswd.h5tb-zk94> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/all_category_of_material/all_category_of_material.ttl> .
+<https://doi.org/10.6069/uwlswd.h5tb-zk94#r> <http://www.w3.org/2004/02/skos/core#definition> "An image produced by a recording device that is not in physical\n         or intimate contact with the object under study."@en .
+<https://doi.org/10.6069/uwlswd.h5tb-zk94#v> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.h5tb-zk94> .
+<https://doi.org/10.6069/uwlswd.h5tb-zk94#h> <http://www.w3.org/2004/02/skos/core#definition> "A generic term for any medium, transparent or opaque bearing\n         microimages. A microimage is a unit (e.g., a page) of textual, graphic, or\n         computer-generated material that is contained on aperture cards, microfiche, microfilm,\n         micro-opaques, or other microformats and that is too small to be read without\n         magnification."@en .
+<https://doi.org/10.6069/uwlswd.h5tb-zk94#v> <http://www.w3.org/2004/02/skos/core#notation> "v" .
+<https://doi.org/10.6069/uwlswd.h5tb-zk94#g> <http://www.w3.org/2004/02/skos/core#prefLabel> "projected graphic"@en .
+<https://doi.org/10.6069/uwlswd.h5tb-zk94#a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.h5tb-zk94#t> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.h5tb-zk94> <http://purl.org/dc/terms/publisher> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.h5tb-zk94> <http://purl.org/dc/terms/contributor> <http://viaf.org/viaf/151962300> .
+<https://doi.org/10.6069/uwlswd.h5tb-zk94> <http://purl.org/dc/terms/title> "All: category of material"@en .
+<https://doi.org/10.6069/uwlswd.h5tb-zk94#q> <http://www.w3.org/2004/02/skos/core#prefLabel> "notated music"@en .
+<https://doi.org/10.6069/uwlswd.h5tb-zk94> <http://purl.org/dc/terms/source> <http://marc21rdf.info> .
+<https://doi.org/10.6069/uwlswd.h5tb-zk94#d> <http://www.w3.org/2004/02/skos/core#definition> "The model of a celestial body, usually the earth or the\n         celestial sphere, depicted on the surface of a sphere."@en .
+<https://doi.org/10.6069/uwlswd.h5tb-zk94#d> <http://www.w3.org/2004/02/skos/core#notation> "d" .
+<https://doi.org/10.6069/uwlswd.h5tb-zk94#s> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.h5tb-zk94> .
+<https://doi.org/10.6069/uwlswd.h5tb-zk94> <http://purl.org/dc/terms/issued> "2024" .
+<https://doi.org/10.6069/uwlswd.h5tb-zk94#a> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.h5tb-zk94> .
+<https://doi.org/10.6069/uwlswd.h5tb-zk94#d> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.h5tb-zk94> .
+<https://doi.org/10.6069/uwlswd.h5tb-zk94#z> <http://www.w3.org/2004/02/skos/core#prefLabel> "unspecified"@en .
+<https://doi.org/10.6069/uwlswd.h5tb-zk94#o> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.h5tb-zk94#m> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.h5tb-zk94> .
+<https://doi.org/10.6069/uwlswd.h5tb-zk94#c> <http://www.w3.org/2004/02/skos/core#definition> "Involves a medium (usually digitized machine-readable data,\n         program code, etc.) intended to be accessed, processed, or executed by a\n         computer."@en .
+<https://doi.org/10.6069/uwlswd.h5tb-zk94#q> <http://www.w3.org/2004/02/skos/core#notation> "q" .
+<https://doi.org/10.6069/uwlswd.h5tb-zk94> <https://schema.org/version> "1-0-0" .
+<https://doi.org/10.6069/uwlswd.h5tb-zk94> <http://purl.org/dc/terms/alternative> "MARC21 007/00 values for all material types expressed using\n         RDF"@en .
+<https://doi.org/10.6069/uwlswd.h5tb-zk94#m> <http://www.w3.org/2004/02/skos/core#definition> "A series of still pictures on film, with or without sound,\n         designed to be projected in rapid succession to produce the optical effect of\n         motion."@en .
+<https://doi.org/10.6069/uwlswd.h5tb-zk94#f> <http://www.w3.org/2004/02/skos/core#notation> "f" .
+<https://doi.org/10.6069/uwlswd.h5tb-zk94#h> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.h5tb-zk94> .
+<https://doi.org/10.6069/uwlswd.h5tb-zk94#v> <http://www.w3.org/2004/02/skos/core#scopeNote> "Designed for playback by means of a television receiver, or\n         video monitor."@en .
+<https://doi.org/10.6069/uwlswd.h5tb-zk94> <https://schema.org/disambiguatingDescription> "SKOS Concept Scheme for MARC 00X\n         Values"@en .
+<https://doi.org/10.6069/uwlswd.h5tb-zk94#r> <http://www.w3.org/2004/02/skos/core#prefLabel> "remote-sensing image"@en .
+<https://doi.org/10.6069/uwlswd.h5tb-zk94#r> <http://www.w3.org/2004/02/skos/core#scopeNote> "This may be a map or other image that is obtained through\n         various remote sensing devices such as cameras, computers, lasers, radio frequency\n         receivers, radar systems, sonar, seismographs, gravimeters, magnetometers, and\n         scintillation counters. When the image has cartographic or bibliographic information added,\n         it is referred to as a remote-sensing map."@en .
+<https://doi.org/10.6069/uwlswd.h5tb-zk94> <http://purl.org/dc/terms/type> <http://purl.org/dc/dcmitype/Dataset> .
+<https://doi.org/10.6069/uwlswd.h5tb-zk94#s> <http://www.w3.org/2004/02/skos/core#definition> "A storage medium containing recorded sound or a representation\n         of a musical composition from which sound can be mechanically reproduced, such as a piano\n         roll."@en .
+<https://doi.org/10.6069/uwlswd.h5tb-zk94#g> <http://www.w3.org/2004/02/skos/core#scopeNote> "For example, a filmstrip, slide, or transparency (includes\n         x-rays)."@en .
+<https://doi.org/10.6069/uwlswd.h5tb-zk94> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<https://doi.org/10.6069/uwlswd.h5tb-zk94#d> <http://www.w3.org/2004/02/skos/core#prefLabel> "globe"@en .
+<https://doi.org/10.6069/uwlswd.h5tb-zk94#v> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.h5tb-zk94#o> <http://www.w3.org/2004/02/skos/core#definition> "A mixture of various components issued as a unit and intended\n         primarily for instructional purposes. No one component is identifiable as the predominant\n         component of the item."@en .

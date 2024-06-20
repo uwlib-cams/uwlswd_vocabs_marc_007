@@ -1,0 +1,73 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix schema: <https://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://doi.org/10.6069/uwlswd.d36s-9s16#a> a skos:Concept ;
+    skos:definition """A blueline image on a white background and reproduced by the
+         whiteprint process."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.d36s-9s16> ;
+    skos:notation "a" ;
+    skos:prefLabel "photocopy, blueline print"@en ;
+    skos:scopeNote """Bluelines are made from vellum, film positives, or any
+         translucent or transparent original on which an image has been made."""@en .
+
+<https://doi.org/10.6069/uwlswd.d36s-9s16#b> a skos:Concept ;
+    skos:definition "Photocopy."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.d36s-9s16> ;
+    skos:notation "b" ;
+    skos:prefLabel "photocopy"@en .
+
+<https://doi.org/10.6069/uwlswd.d36s-9s16#c> a skos:Concept ;
+    skos:definition """Photographic pre-production (proof) copy intended for
+         review."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.d36s-9s16> ;
+    skos:notation "c" ;
+    skos:prefLabel "photographic pre-production"@en .
+
+<https://doi.org/10.6069/uwlswd.d36s-9s16#d> a skos:Concept ;
+    skos:definition "Film copy of the original."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.d36s-9s16> ;
+    skos:notation "d" ;
+    skos:prefLabel "film"@en .
+
+<https://doi.org/10.6069/uwlswd.d36s-9s16#u> a skos:Concept ;
+    skos:definition """Production/reproduction details are not
+         known."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.d36s-9s16> ;
+    skos:notation "u" ;
+    skos:prefLabel "unknown"@en .
+
+<https://doi.org/10.6069/uwlswd.d36s-9s16#z> a skos:Concept ;
+    skos:definition """Production or reproduction details other than photocopy,
+         blueline print, photocopy, photographic pre-production, or film."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.d36s-9s16> ;
+    skos:notation "z" ;
+    skos:prefLabel "other"@en .
+
+<https://doi.org/10.6069/uwlswd.d36s-9s16> a skos:ConceptScheme ;
+    dc:contributor "Metadata Management Associates"@en ;
+    dc:language "en" ;
+    dct:alternative """MARC21 007/06 values for maps expressed using
+         RDF"""@en ;
+    dct:contributor <http://viaf.org/viaf/151962300> ;
+    dct:creator <http://viaf.org/viaf/139541794> ;
+    dct:description """Technique used to produce the cartographic
+         resource."""@en ;
+    dct:format <http://www.w3.org/ns/formats/Turtle> ;
+    dct:hasFormat <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/map_production_or_reproduction_details/map_production_or_reproduction_details.html>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/map_production_or_reproduction_details/map_production_or_reproduction_details.jsonld>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/map_production_or_reproduction_details/map_production_or_reproduction_details.nt>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/map_production_or_reproduction_details/map_production_or_reproduction_details.rdf> ;
+    dct:issued "2024" ;
+    dct:license <http://creativecommons.org/publicdomain/zero/1.0> ;
+    dct:provenance <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> ;
+    dct:publisher <http://viaf.org/viaf/139541794> ;
+    dct:source <http://marc21rdf.info>,
+        <https://www.loc.gov/marc/bibliographic/bd007.html> ;
+    dct:title "Map: production/reproduction details"@en ;
+    dct:type <http://purl.org/dc/dcmitype/Dataset> ;
+    schema:disambiguatingDescription """SKOS Concept Scheme for MARC 00X
+         Values"""@en ;
+    schema:version "1-0-0" .
+

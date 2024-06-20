@@ -1,0 +1,86 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix schema: <https://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://doi.org/10.6069/uwlswd.3z3f-7k53#a> a skos:Concept ;
+    skos:definition "Printed or executed in a single color."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.3z3f-7k53> ;
+    skos:notation "a" ;
+    skos:prefLabel "one color"@en ;
+    skos:scopeNote """Used for monochrome art works. It is not used with photographic
+         materials. Does not include black."""@en .
+
+<https://doi.org/10.6069/uwlswd.3z3f-7k53#b> a skos:Concept ;
+    skos:definition "Printed or executed in black-and-white."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.3z3f-7k53> ;
+    skos:notation "b" ;
+    skos:prefLabel "black-and-white"@en ;
+    skos:scopeNote """Refers to monochrome photographic materials executed in
+         black-and-white."""@en .
+
+<https://doi.org/10.6069/uwlswd.3z3f-7k53#c> a skos:Concept ;
+    skos:definition "Printed or executed in more than one color."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.3z3f-7k53> ;
+    skos:notation "c" ;
+    skos:prefLabel "multicolored"@en ;
+    skos:scopeNote "Used for color photographic processes."@en .
+
+<https://doi.org/10.6069/uwlswd.3z3f-7k53#h> a skos:Concept ;
+    skos:definition """Image, produced by a printing or photographic process, is hand
+         colored."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.3z3f-7k53> ;
+    skos:notation "h" ;
+    skos:prefLabel "hand colored"@en ;
+    skos:scopeNote """Rarely used with commercial visual materials since these are not
+         typically issued with hand coloring."""@en .
+
+<https://doi.org/10.6069/uwlswd.3z3f-7k53#n> a skos:Concept ;
+    skos:definition """Work or collection is a combination of one color,
+         black-and-white, multicolored, hand colored, and/or other images."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.3z3f-7k53> ;
+    skos:notation "n" ;
+    skos:prefLabel "mixed"@en .
+
+<https://doi.org/10.6069/uwlswd.3z3f-7k53#u> a skos:Concept ;
+    skos:definition """Color characteristics of the item are not
+         known."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.3z3f-7k53> ;
+    skos:notation "u" ;
+    skos:prefLabel "unknown"@en .
+
+<https://doi.org/10.6069/uwlswd.3z3f-7k53#z> a skos:Concept ;
+    skos:definition """Color other than one color, black-and-white, multicolored, hand
+         colored, or mixed."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.3z3f-7k53> ;
+    skos:notation "z" ;
+    skos:prefLabel "other"@en ;
+    skos:scopeNote """Includes stained, tinted, or toned items(e.g., sepia toned
+         photographic items)."""@en .
+
+<https://doi.org/10.6069/uwlswd.3z3f-7k53> a skos:ConceptScheme ;
+    dc:contributor "Metadata Management Associates"@en ;
+    dc:language "en" ;
+    dct:alternative """MARC21 007/03 values for nonprojected graphics expressed using
+         RDF"""@en ;
+    dct:contributor <http://viaf.org/viaf/151962300> ;
+    dct:creator <http://viaf.org/viaf/139541794> ;
+    dct:description """Color characteristics of the nonprojected
+         graphic."""@en ;
+    dct:format <http://www.w3.org/ns/formats/Turtle> ;
+    dct:hasFormat <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/nonprojected_graphic_color/nonprojected_graphic_color.html>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/nonprojected_graphic_color/nonprojected_graphic_color.jsonld>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/nonprojected_graphic_color/nonprojected_graphic_color.nt>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/nonprojected_graphic_color/nonprojected_graphic_color.rdf> ;
+    dct:issued "2024" ;
+    dct:license <http://creativecommons.org/publicdomain/zero/1.0> ;
+    dct:provenance <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> ;
+    dct:publisher <http://viaf.org/viaf/139541794> ;
+    dct:source <http://marc21rdf.info>,
+        <https://www.loc.gov/marc/bibliographic/bd007.html> ;
+    dct:title "Nonprojected graphic: color"@en ;
+    dct:type <http://purl.org/dc/dcmitype/Dataset> ;
+    schema:disambiguatingDescription """SKOS Concept Scheme for MARC 00X
+         Values"""@en ;
+    schema:version "1-0-0" .
+

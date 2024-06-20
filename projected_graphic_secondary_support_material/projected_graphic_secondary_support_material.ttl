@@ -1,0 +1,108 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix schema: <https://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://doi.org/10.6069/uwlswd.n3ew-mc60#c> a skos:Concept ;
+    skos:definition "Cardboard mount."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.n3ew-mc60> ;
+    skos:notation "c" ;
+    skos:prefLabel "cardboard"@en ;
+    skos:scopeNote """Slides and transparencies cataloged from data sheets are assumed
+         to have cardboard mounts unless otherwise known."""@en .
+
+<https://doi.org/10.6069/uwlswd.n3ew-mc60#d> a skos:Concept ;
+    skos:definition """Glass mount that usually covers the film base but should not be
+         the primary support for the film emulsion."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.n3ew-mc60> ;
+    skos:notation "d" ;
+    skos:prefLabel "glass"@en .
+
+<https://doi.org/10.6069/uwlswd.n3ew-mc60#e> a skos:Concept ;
+    skos:definition "Synthetic material."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.n3ew-mc60> ;
+    skos:notation "e" ;
+    skos:prefLabel "synthetic"@en ;
+    skos:scopeNote "E.g. plastics, vinyl, etc."@en .
+
+<https://doi.org/10.6069/uwlswd.n3ew-mc60#h> a skos:Concept ;
+    skos:definition "Metal."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.n3ew-mc60> ;
+    skos:notation "h" ;
+    skos:prefLabel "metal"@en ;
+    skos:scopeNote """Usually used to frame larger projected graphics which need
+         better support."""@en .
+
+<https://doi.org/10.6069/uwlswd.n3ew-mc60#j> a skos:Concept ;
+    skos:definition """Metal portion is usually a frame that holds one or two pieces
+         of glass to support the film base. Glass should not be the primary support for the film
+         emulsion."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.n3ew-mc60> ;
+    skos:notation "j" ;
+    skos:prefLabel "metal and glass"@en .
+
+<https://doi.org/10.6069/uwlswd.n3ew-mc60#k> a skos:Concept ;
+    skos:definition """Synthetic material is usually used as a frame to hold one or
+         two pieces of glass to support the film base. Glass should not be the primary support for
+         the film emulsion."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.n3ew-mc60> ;
+    skos:notation "k" ;
+    skos:prefLabel "synthetic and glass"@en ;
+    skos:scopeNote "E.g. plastics, vinyl, etc."@en .
+
+<https://doi.org/10.6069/uwlswd.n3ew-mc60#m> a skos:Concept ;
+    skos:definition """Secondary support material varies for different items in a
+         collection."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.n3ew-mc60> ;
+    skos:notation "m" ;
+    skos:prefLabel "mixed collection"@en ;
+    skos:scopeNote """Typically this is used for groups of projected graphics on
+         various secondary support materials."""@en .
+
+<https://doi.org/10.6069/uwlswd.n3ew-mc60#pound> a skos:Concept ;
+    skos:definition "No secondary support."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.n3ew-mc60> ;
+    skos:notation "#" ;
+    skos:prefLabel "no secondary support"@en ;
+    skos:scopeNote "Includes all filmstrips."@en .
+
+<https://doi.org/10.6069/uwlswd.n3ew-mc60#u> a skos:Concept ;
+    skos:definition "Secondary support material is not known."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.n3ew-mc60> ;
+    skos:notation "u" ;
+    skos:prefLabel "unknown"@en .
+
+<https://doi.org/10.6069/uwlswd.n3ew-mc60#z> a skos:Concept ;
+    skos:definition """Secondary support material other than cardboard, glass,
+         synthetic, metal, metal and glass, synthetic and glass, or mixed
+         collection."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.n3ew-mc60> ;
+    skos:notation "z" ;
+    skos:prefLabel "other"@en .
+
+<https://doi.org/10.6069/uwlswd.n3ew-mc60> a skos:ConceptScheme ;
+    dc:contributor "Metadata Management Associates"@en ;
+    dc:language "en" ;
+    dct:alternative """MARC21 007/08 values for projected graphics expressed using
+         RDF"""@en ;
+    dct:contributor <http://viaf.org/viaf/151962300> ;
+    dct:creator <http://viaf.org/viaf/139541794> ;
+    dct:description """Type of material of the mount of a slide or transparency for a
+         projected graphic."""@en ;
+    dct:format <http://www.w3.org/ns/formats/Turtle> ;
+    dct:hasFormat <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/projected_graphic_secondary_support_material/projected_graphic_secondary_support_material.html>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/projected_graphic_secondary_support_material/projected_graphic_secondary_support_material.jsonld>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/projected_graphic_secondary_support_material/projected_graphic_secondary_support_material.nt>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/projected_graphic_secondary_support_material/projected_graphic_secondary_support_material.rdf> ;
+    dct:issued "2024" ;
+    dct:license <http://creativecommons.org/publicdomain/zero/1.0> ;
+    dct:provenance <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> ;
+    dct:publisher <http://viaf.org/viaf/139541794> ;
+    dct:source <http://marc21rdf.info>,
+        <https://www.loc.gov/marc/bibliographic/bd007.html> ;
+    dct:title "Projected graphic: secondary support material"@en ;
+    dct:type <http://purl.org/dc/dcmitype/Dataset> ;
+    schema:disambiguatingDescription """SKOS Concept Scheme for MARC 00X
+         Values"""@en ;
+    schema:version "1-0-0" .
+

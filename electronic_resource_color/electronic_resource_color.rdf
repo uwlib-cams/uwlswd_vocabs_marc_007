@@ -1,5 +1,19 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schema="https://schema.org/" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:dct="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:schema="https://schema.org/"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4ee2-4t34#m">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4ee2-4t34"/>
+    <skos:prefLabel xml:lang="en">mixed</skos:prefLabel>
+    <skos:definition xml:lang="en">A combination of one color, black-and-white, multicolored, hand
+         colored, and/or other images.</skos:definition>
+    <skos:notation>m</skos:notation>
+  </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4ee2-4t34">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
     <dct:type rdf:resource="http://purl.org/dc/dcmitype/Dataset"/>
@@ -22,15 +36,18 @@
     <dct:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0"/>
     <schema:version>1-0-0</schema:version>
     <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/electronic_resource_color/electronic_resource_color.ttl"/>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/electronic_resource_color/electronic_resource_color.nt"/>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/electronic_resource_color/electronic_resource_color.jsonld"/>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/electronic_resource_color/electronic_resource_color.html"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4ee2-4t34#c">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4ee2-4t34#z">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4ee2-4t34"/>
-    <skos:prefLabel xml:lang="en">multicolored</skos:prefLabel>
-    <skos:definition xml:lang="en">Image is printed or executed in more than one
-         color.</skos:definition>
-    <skos:scopeNote xml:lang="en">Used for color photographic processes.</skos:scopeNote>
-    <skos:notation>c</skos:notation>
+    <skos:prefLabel xml:lang="en">other</skos:prefLabel>
+    <skos:definition xml:lang="en">Color other than one color, black-and-white, multicolored, gray
+         scale, or mixed.</skos:definition>
+    <skos:notation>z</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4ee2-4t34#u">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -39,6 +56,12 @@
     <skos:definition xml:lang="en">Color characteristics of an item are not
          known.</skos:definition>
     <skos:notation>u</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4ee2-4t34#h">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4ee2-4t34"/>
+    <skos:prefLabel xml:lang="en">hand coloured [obsolete]</skos:prefLabel>
+    <skos:notation>h</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4ee2-4t34#b">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -50,6 +73,14 @@
          color.</skos:scopeNote>
     <skos:notation>b</skos:notation>
   </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4ee2-4t34#g">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4ee2-4t34"/>
+    <skos:prefLabel xml:lang="en">gray scale</skos:prefLabel>
+    <skos:definition xml:lang="en">Image is produced with degrees of dark to light from black to
+         gray to white.</skos:definition>
+    <skos:notation>g</skos:notation>
+  </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4ee2-4t34#a">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4ee2-4t34"/>
@@ -57,6 +88,15 @@
     <skos:definition xml:lang="en">Images are intended to be produced in a single color other than
          black (e.g. pink and white, brown and white).</skos:definition>
     <skos:notation>a</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4ee2-4t34#c">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4ee2-4t34"/>
+    <skos:prefLabel xml:lang="en">multicolored</skos:prefLabel>
+    <skos:definition xml:lang="en">Image is printed or executed in more than one
+         color.</skos:definition>
+    <skos:scopeNote xml:lang="en">Used for color photographic processes.</skos:scopeNote>
+    <skos:notation>c</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4ee2-4t34#n">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -66,35 +106,5 @@
          because it does not involve anything visual</skos:definition>
     <skos:scopeNote xml:lang="en">E.g., digitally encoded audio data.</skos:scopeNote>
     <skos:notation>n</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4ee2-4t34#g">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4ee2-4t34"/>
-    <skos:prefLabel xml:lang="en">gray scale</skos:prefLabel>
-    <skos:definition xml:lang="en">Image is produced with degrees of dark to light from black to
-         gray to white.</skos:definition>
-    <skos:notation>g</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4ee2-4t34#z">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4ee2-4t34"/>
-    <skos:prefLabel xml:lang="en">other</skos:prefLabel>
-    <skos:definition xml:lang="en">Color other than one color, black-and-white, multicolored, gray
-         scale, or mixed.</skos:definition>
-    <skos:notation>z</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4ee2-4t34#m">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4ee2-4t34"/>
-    <skos:prefLabel xml:lang="en">mixed</skos:prefLabel>
-    <skos:definition xml:lang="en">A combination of one color, black-and-white, multicolored, hand
-         colored, and/or other images.</skos:definition>
-    <skos:notation>m</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.4ee2-4t34#h">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.4ee2-4t34"/>
-    <skos:prefLabel xml:lang="en">hand coloured [obsolete]</skos:prefLabel>
-    <skos:notation>h</skos:notation>
   </rdf:Description>
 </rdf:RDF>

@@ -1,0 +1,86 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix schema: <https://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://doi.org/10.6069/uwlswd.vcc6-0j54#a> a skos:Concept ;
+    skos:definition "8 mm."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.vcc6-0j54> ;
+    skos:notation "a" ;
+    skos:prefLabel "8 mm."@en .
+
+<https://doi.org/10.6069/uwlswd.vcc6-0j54#m> a skos:Concept ;
+    skos:definition "1/4 inch."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.vcc6-0j54> ;
+    skos:notation "m" ;
+    skos:prefLabel "1/4 in."@en .
+
+<https://doi.org/10.6069/uwlswd.vcc6-0j54#n> a skos:Concept ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.vcc6-0j54> ;
+    skos:notation "n" ;
+    skos:prefLabel "1/4 in."@en .
+
+<https://doi.org/10.6069/uwlswd.vcc6-0j54#o> a skos:Concept ;
+    skos:definition "1/2 inch."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.vcc6-0j54> ;
+    skos:notation "o" ;
+    skos:prefLabel "1/2 in."@en .
+
+<https://doi.org/10.6069/uwlswd.vcc6-0j54#p> a skos:Concept ;
+    skos:definition "1 inch."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.vcc6-0j54> ;
+    skos:notation "p" ;
+    skos:prefLabel "1 in."@en .
+
+<https://doi.org/10.6069/uwlswd.vcc6-0j54#q> a skos:Concept ;
+    skos:definition "2 inch."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.vcc6-0j54> ;
+    skos:notation "q" ;
+    skos:prefLabel "2 in."@en .
+
+<https://doi.org/10.6069/uwlswd.vcc6-0j54#r> a skos:Concept ;
+    skos:definition "3/4 inch."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.vcc6-0j54> ;
+    skos:notation "r" ;
+    skos:prefLabel "3/4 in."@en .
+
+<https://doi.org/10.6069/uwlswd.vcc6-0j54#u> a skos:Concept ;
+    skos:definition "Width is not known."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.vcc6-0j54> ;
+    skos:notation "u" ;
+    skos:prefLabel "unknown"@en .
+
+<https://doi.org/10.6069/uwlswd.vcc6-0j54#z> a skos:Concept ;
+    skos:definition """Dimensions other than 8 mm., 1/4 in., 1/2 in., 1 in., 2 in., or
+         3/4 in."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.vcc6-0j54> ;
+    skos:notation "z" ;
+    skos:prefLabel "other"@en ;
+    skos:scopeNote """Used for videodisc dimensions since standard code values for
+         videodiscs do not yet exist."""@en .
+
+<https://doi.org/10.6069/uwlswd.vcc6-0j54> a skos:ConceptScheme ;
+    dc:contributor "Metadata Management Associates"@en ;
+    dc:language "en" ;
+    dct:alternative """MARC21 007/07 values for videorecordings expressed using
+         RDF"""@en ;
+    dct:contributor <http://viaf.org/viaf/151962300> ;
+    dct:creator <http://viaf.org/viaf/139541794> ;
+    dct:description "Width of the videorecording."@en ;
+    dct:format <http://www.w3.org/ns/formats/Turtle> ;
+    dct:hasFormat <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/videorecording_dimensions/videorecording_dimensions.html>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/videorecording_dimensions/videorecording_dimensions.jsonld>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/videorecording_dimensions/videorecording_dimensions.nt>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/videorecording_dimensions/videorecording_dimensions.rdf> ;
+    dct:issued "2024" ;
+    dct:license <http://creativecommons.org/publicdomain/zero/1.0> ;
+    dct:provenance <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> ;
+    dct:publisher <http://viaf.org/viaf/139541794> ;
+    dct:source <http://marc21rdf.info>,
+        <https://www.loc.gov/marc/bibliographic/bd007.html> ;
+    dct:title "Videorecording: dimensions"@en ;
+    dct:type <http://purl.org/dc/dcmitype/Dataset> ;
+    schema:disambiguatingDescription """SKOS Concept Scheme for MARC 00X
+         Values"""@en ;
+    schema:version "1-0-0" .
+

@@ -1,0 +1,127 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix schema: <https://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://doi.org/10.6069/uwlswd.4sxq-pn90#a> a skos:Concept ;
+    skos:definition """Final tape production master that is used to make a disc master
+         or a tape duplication master."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.4sxq-pn90> ;
+    skos:notation "a" ;
+    skos:prefLabel "master tape"@en ;
+    skos:scopeNote """Represents the final mix including special processing such as
+         equalization, compression, phasing, and sound synthesis."""@en .
+
+<https://doi.org/10.6069/uwlswd.4sxq-pn90#b> a skos:Concept ;
+    skos:definition "Sound tape produced from the master tape."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.4sxq-pn90> ;
+    skos:notation "b" ;
+    skos:prefLabel "tape duplication master"@en ;
+    skos:scopeNote """Tape duplication master is played on a tape reproducer to
+         produce the sound tape for cassette, cartridge, or reel."""@en .
+
+<https://doi.org/10.6069/uwlswd.4sxq-pn90#d> a skos:Concept ;
+    skos:definition """Negative disc master that is used for the preparation of the
+         mother from which more serviceable and longer lasting metal stampers can be
+         made."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.4sxq-pn90> ;
+    skos:notation "d" ;
+    skos:prefLabel "disc master (negative)"@en ;
+    skos:scopeNote """In the early years of recording, discs were pressed from the
+         metal-plated disc master or matrix. As commercial recording developed, the disc master was
+         used, and continues to be used, for the preparation of the mother."""@en .
+
+<https://doi.org/10.6069/uwlswd.4sxq-pn90#i> a skos:Concept ;
+    skos:definition """Original recording of a sound event or performance intended for
+         direct reproduction without further processing."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.4sxq-pn90> ;
+    skos:notation "i" ;
+    skos:prefLabel "instantaneous (recorded on the spot)"@en ;
+    skos:scopeNote """In the early years of recording, a single sound event was
+         sometimes recorded simultaneously on several cylinders or discs. All of these recordings
+         would be instantaneous."""@en .
+
+<https://doi.org/10.6069/uwlswd.4sxq-pn90#m> a skos:Concept ;
+    skos:definition "Mass produced."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.4sxq-pn90> ;
+    skos:notation "m" ;
+    skos:prefLabel "mass produced"@en ;
+    skos:scopeNote """Includes discs or tapes issued as limited pressing or limited
+         issue for private distribution. Most commercial discs are mass-produced. Mass-produced
+         discs are mechanically pressed for distribution, either commercially or privately; also,
+         tapes reproduced from a tape duplication master for distribution either commercially or
+         privately. Mass-produced discs, cylinders, and tapes usually include the name of the
+         issuing company, the issue number, and bibliographic information on a printed label or on
+         the container in which the disc, tape, or cylinder is packaged."""@en .
+
+<https://doi.org/10.6069/uwlswd.4sxq-pn90#n> a skos:Concept ;
+    skos:definition "Item is not a disc, cylinder, or tape."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.4sxq-pn90> ;
+    skos:notation "n" ;
+    skos:prefLabel "not applicable"@en .
+
+<https://doi.org/10.6069/uwlswd.4sxq-pn90#r> a skos:Concept ;
+    skos:definition """Exact copy of the original disc recording pressed from the disc
+         master. From the metal mother a negative metal stamper is made to press discs for
+         distribution."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.4sxq-pn90> ;
+    skos:notation "r" ;
+    skos:prefLabel "mother (positive)"@en ;
+    skos:scopeNote "Many stampers may be made from a single mother."@en .
+
+<https://doi.org/10.6069/uwlswd.4sxq-pn90#s> a skos:Concept ;
+    skos:definition """Negative metal part, produced from the mother in an
+         electroplating procedure, from which 500 to 750 discs may be pressed."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.4sxq-pn90> ;
+    skos:notation "s" ;
+    skos:prefLabel "stamper (negative)"@en .
+
+<https://doi.org/10.6069/uwlswd.4sxq-pn90#t> a skos:Concept ;
+    skos:definition """Either one finished disc or one of a very limited pressing is
+         made, designed to be examined aurally before a decision is made to proceed with a
+         pressing."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.4sxq-pn90> ;
+    skos:notation "t" ;
+    skos:prefLabel "test pressing"@en .
+
+<https://doi.org/10.6069/uwlswd.4sxq-pn90#u> a skos:Concept ;
+    skos:definition "Type of disc, cylinder, or tape is not known."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.4sxq-pn90> ;
+    skos:notation "u" ;
+    skos:prefLabel "unknown"@en ;
+    skos:scopeNote """Also used when it cannot be determined whether the item is
+         instantaneous or mass-produced."""@en .
+
+<https://doi.org/10.6069/uwlswd.4sxq-pn90#z> a skos:Concept ;
+    skos:definition """Kind of disc, cylinder or tape other than master tape, tape
+         duplication master, disc master (negative), instantaneous (recorded on the spot), mass
+         produced, mother (positive), stamper (negative), or test pressing."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.4sxq-pn90> ;
+    skos:notation "z" ;
+    skos:prefLabel "other"@en .
+
+<https://doi.org/10.6069/uwlswd.4sxq-pn90> a skos:ConceptScheme ;
+    dc:contributor "Metadata Management Associates"@en ;
+    dc:language "en" ;
+    dct:alternative """MARC21 007/09 values for sound recordings expressed using
+         RDF"""@en ;
+    dct:contributor <http://viaf.org/viaf/151962300> ;
+    dct:creator <http://viaf.org/viaf/139541794> ;
+    dct:description "Kind of disc, cylinder or tape."@en ;
+    dct:format <http://www.w3.org/ns/formats/Turtle> ;
+    dct:hasFormat <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/sound_recording_kind_of_disc_or_cylinder_or_tape/sound_recording_kind_of_disc_or_cylinder_or_tape.html>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/sound_recording_kind_of_disc_or_cylinder_or_tape/sound_recording_kind_of_disc_or_cylinder_or_tape.jsonld>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/sound_recording_kind_of_disc_or_cylinder_or_tape/sound_recording_kind_of_disc_or_cylinder_or_tape.nt>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/sound_recording_kind_of_disc_or_cylinder_or_tape/sound_recording_kind_of_disc_or_cylinder_or_tape.rdf> ;
+    dct:issued "2024" ;
+    dct:license <http://creativecommons.org/publicdomain/zero/1.0> ;
+    dct:provenance <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> ;
+    dct:publisher <http://viaf.org/viaf/139541794> ;
+    dct:source <http://marc21rdf.info>,
+        <https://www.loc.gov/marc/bibliographic/bd007.html> ;
+    dct:title "Sound recording: kind of disc, cylinder or tape"@en ;
+    dct:type <http://purl.org/dc/dcmitype/Dataset> ;
+    schema:disambiguatingDescription """SKOS Concept Scheme for MARC 00X
+         Values"""@en ;
+    schema:version "1-0-0" .
+

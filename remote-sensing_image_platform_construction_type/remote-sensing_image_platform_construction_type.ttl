@@ -1,0 +1,120 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix schema: <https://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://doi.org/10.6069/uwlswd.dmgc-fs34#a> a skos:Concept ;
+    skos:definition """Base for the remote-sensing device was a balloon or similar
+         lighter-than-air platform."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.dmgc-fs34> ;
+    skos:notation "a" ;
+    skos:prefLabel "balloon"@en .
+
+<https://doi.org/10.6069/uwlswd.dmgc-fs34#b> a skos:Concept ;
+    skos:definition """Base for the remote-sensing device was an dynamic lift aircraft
+         designed for low altitude flight (below 29,500 ft. (8,962 m.))."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.dmgc-fs34> ;
+    skos:notation "b" ;
+    skos:prefLabel "aircraft - low altitude"@en .
+
+<https://doi.org/10.6069/uwlswd.dmgc-fs34#c> a skos:Concept ;
+    skos:definition """Base for the remote-sensing device was an dynamic lift aircraft
+         designed for medium altitude flight (between 29,500 ft. (8,962 m.) and 49,000 ft. (14,810
+         m.))."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.dmgc-fs34> ;
+    skos:notation "c" ;
+    skos:prefLabel "aircraft - medium altitude"@en .
+
+<https://doi.org/10.6069/uwlswd.dmgc-fs34#d> a skos:Concept ;
+    skos:definition """Base for the remote-sensing device was an dynamic lift aircraft
+         designed for high altitude flight (above 49,000 ft. (14,810 m.))."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.dmgc-fs34> ;
+    skos:notation "d" ;
+    skos:prefLabel "aircraft - high altitude"@en .
+
+<https://doi.org/10.6069/uwlswd.dmgc-fs34#e> a skos:Concept ;
+    skos:definition """Base for the remote-sensing device was a manned
+         spacecraft."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.dmgc-fs34> ;
+    skos:notation "e" ;
+    skos:prefLabel "manned spacecraft"@en .
+
+<https://doi.org/10.6069/uwlswd.dmgc-fs34#f> a skos:Concept ;
+    skos:definition """Base for the remote-sensing device was an unmanned
+         spacecraft."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.dmgc-fs34> ;
+    skos:notation "f" ;
+    skos:prefLabel "unmanned spacecraft"@en .
+
+<https://doi.org/10.6069/uwlswd.dmgc-fs34#g> a skos:Concept ;
+    skos:definition """Base for the remote-sensing device was a
+         land-based."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.dmgc-fs34> ;
+    skos:notation "g" ;
+    skos:prefLabel "land-based remote-sensing device"@en .
+
+<https://doi.org/10.6069/uwlswd.dmgc-fs34#h> a skos:Concept ;
+    skos:definition """Base for the remote-sensing device was designed to remain on
+         the surface of a body of water."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.dmgc-fs34> ;
+    skos:notation "h" ;
+    skos:prefLabel "water surface-based remote-sensing device"@en ;
+    skos:scopeNote "E.g., a ship or floating platform"@en .
+
+<https://doi.org/10.6069/uwlswd.dmgc-fs34#i> a skos:Concept ;
+    skos:definition """Base for the remote-sensing device was designed to be submerged
+         beneath the surface of a body of water"""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.dmgc-fs34> ;
+    skos:notation "i" ;
+    skos:prefLabel "submersible remote-sensing device"@en ;
+    skos:scopeNote "E.g., a submersible vessel or platform"@en .
+
+<https://doi.org/10.6069/uwlswd.dmgc-fs34#n> a skos:Concept ;
+    skos:definition "Not applicable."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.dmgc-fs34> ;
+    skos:notation "n" ;
+    skos:prefLabel "not applicable"@en .
+
+<https://doi.org/10.6069/uwlswd.dmgc-fs34#u> a skos:Concept ;
+    skos:definition """Construction type of the platform from which the remote-sensing
+         image was made is not known."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.dmgc-fs34> ;
+    skos:notation "u" ;
+    skos:prefLabel "unknown"@en .
+
+<https://doi.org/10.6069/uwlswd.dmgc-fs34#z> a skos:Concept ;
+    skos:definition """Platform construction type other than balloon, aircraft - low
+         altitude, aircraft - medium altitude, aircraft - high altitude, manned spacecraft, unmanned
+         spacecraft, land-based remote-sensing device, water surface-based remote-sensing device, or
+         submersible remote-sensing device."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.dmgc-fs34> ;
+    skos:notation "z" ;
+    skos:prefLabel "other"@en .
+
+<https://doi.org/10.6069/uwlswd.dmgc-fs34> a skos:ConceptScheme ;
+    dc:contributor "Metadata Management Associates"@en ;
+    dc:language "en" ;
+    dct:alternative """MARC21 007/06 values for remote-sensing images expressed using
+         RDF"""@en ;
+    dct:contributor <http://viaf.org/viaf/151962300> ;
+    dct:creator <http://viaf.org/viaf/139541794> ;
+    dct:description """Type of construction of the platform serving as the base for
+         the remote-sensing device. For the purposes of this data element, "platform" refers to any
+         structure that serves as a base, not only flat surfaces."""@en ;
+    dct:format <http://www.w3.org/ns/formats/Turtle> ;
+    dct:hasFormat <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/remote-sensing_image_platform_construction_type/remote-sensing_image_platform_construction_type.html>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/remote-sensing_image_platform_construction_type/remote-sensing_image_platform_construction_type.jsonld>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/remote-sensing_image_platform_construction_type/remote-sensing_image_platform_construction_type.nt>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/remote-sensing_image_platform_construction_type/remote-sensing_image_platform_construction_type.rdf> ;
+    dct:issued "2024" ;
+    dct:license <http://creativecommons.org/publicdomain/zero/1.0> ;
+    dct:provenance <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> ;
+    dct:publisher <http://viaf.org/viaf/139541794> ;
+    dct:source <http://marc21rdf.info>,
+        <https://www.loc.gov/marc/bibliographic/bd007.html> ;
+    dct:title "Remote-sensing image: platform construction type"@en ;
+    dct:type <http://purl.org/dc/dcmitype/Dataset> ;
+    schema:disambiguatingDescription """SKOS Concept Scheme for MARC 00X
+         Values"""@en ;
+    schema:version "1-0-0" .
+

@@ -1,0 +1,56 @@
+<https://doi.org/10.6069/uwlswd.v4qn-rb56#a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.v4qn-rb56#b> <http://www.w3.org/2004/02/skos/core#definition> "Disc recordings captured using electrical equipment and stored\n         directly on a master surface."@en .
+<https://doi.org/10.6069/uwlswd.v4qn-rb56#a> <http://www.w3.org/2004/02/skos/core#prefLabel> "acoustical capture, direct storage"@en .
+<https://doi.org/10.6069/uwlswd.v4qn-rb56> <http://purl.org/dc/terms/provenance> <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> .
+<https://doi.org/10.6069/uwlswd.v4qn-rb56#a> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.v4qn-rb56> .
+<https://doi.org/10.6069/uwlswd.v4qn-rb56#z> <http://www.w3.org/2004/02/skos/core#prefLabel> "other"@en .
+<https://doi.org/10.6069/uwlswd.v4qn-rb56> <http://purl.org/dc/terms/title> "Sound recording: original capture and storage technique"@en .
+<https://doi.org/10.6069/uwlswd.v4qn-rb56> <http://purl.org/dc/terms/publisher> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.v4qn-rb56> <http://purl.org/dc/terms/description> "How the sound was originally captured and\n         stored."@en .
+<https://doi.org/10.6069/uwlswd.v4qn-rb56#z> <http://www.w3.org/2004/02/skos/core#notation> "z" .
+<https://doi.org/10.6069/uwlswd.v4qn-rb56> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/sound_recording_original_capture_and_storage_technique/sound_recording_original_capture_and_storage_technique.rdf> .
+<https://doi.org/10.6069/uwlswd.v4qn-rb56> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/sound_recording_original_capture_and_storage_technique/sound_recording_original_capture_and_storage_technique.html> .
+<https://doi.org/10.6069/uwlswd.v4qn-rb56#u> <http://www.w3.org/2004/02/skos/core#notation> "u" .
+<https://doi.org/10.6069/uwlswd.v4qn-rb56> <http://purl.org/dc/terms/alternative> "MARC21 007/13 values for sound recordings expressed using RDF\n         Formerly: Capture and storage technique"@en .
+<https://doi.org/10.6069/uwlswd.v4qn-rb56#d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.v4qn-rb56#z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.v4qn-rb56> <http://purl.org/dc/terms/source> <http://marc21rdf.info> .
+<https://doi.org/10.6069/uwlswd.v4qn-rb56> <http://purl.org/dc/elements/1.1/language> "en" .
+<https://doi.org/10.6069/uwlswd.v4qn-rb56> <http://purl.org/dc/terms/format> <http://www.w3.org/ns/formats/N-Triples> .
+<https://doi.org/10.6069/uwlswd.v4qn-rb56#z> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.v4qn-rb56> .
+<https://doi.org/10.6069/uwlswd.v4qn-rb56> <http://purl.org/dc/terms/contributor> <http://viaf.org/viaf/151962300> .
+<https://doi.org/10.6069/uwlswd.v4qn-rb56#a> <http://www.w3.org/2004/02/skos/core#scopeNote> "Most acoustical recordings date from before 1927/29 when\n         electrical recording equipment became available."@en .
+<https://doi.org/10.6069/uwlswd.v4qn-rb56#d> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.v4qn-rb56> .
+<https://doi.org/10.6069/uwlswd.v4qn-rb56> <http://purl.org/dc/terms/issued> "2024" .
+<https://doi.org/10.6069/uwlswd.v4qn-rb56> <https://schema.org/version> "1-0-0" .
+<https://doi.org/10.6069/uwlswd.v4qn-rb56> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/sound_recording_original_capture_and_storage_technique/sound_recording_original_capture_and_storage_technique.jsonld> .
+<https://doi.org/10.6069/uwlswd.v4qn-rb56#u> <http://www.w3.org/2004/02/skos/core#definition> "Capture and storage technique are not known."@en .
+<https://doi.org/10.6069/uwlswd.v4qn-rb56#e> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.v4qn-rb56> .
+<https://doi.org/10.6069/uwlswd.v4qn-rb56> <https://schema.org/disambiguatingDescription> "SKOS Concept Scheme for MARC 00X\n         Values"@en .
+<https://doi.org/10.6069/uwlswd.v4qn-rb56> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<https://doi.org/10.6069/uwlswd.v4qn-rb56#e> <http://www.w3.org/2004/02/skos/core#notation> "e" .
+<https://doi.org/10.6069/uwlswd.v4qn-rb56#e> <http://www.w3.org/2004/02/skos/core#scopeNote> "Most recordings made from the late 1940s until early 1980s are\n         analog electrical recordings."@en .
+<https://doi.org/10.6069/uwlswd.v4qn-rb56#b> <http://www.w3.org/2004/02/skos/core#notation> "b" .
+<https://doi.org/10.6069/uwlswd.v4qn-rb56#u> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.v4qn-rb56#d> <http://www.w3.org/2004/02/skos/core#definition> "Sound recordings which were captured electrically and stored\n         using digital techniques."@en .
+<https://doi.org/10.6069/uwlswd.v4qn-rb56#d> <http://www.w3.org/2004/02/skos/core#notation> "d" .
+<https://doi.org/10.6069/uwlswd.v4qn-rb56#b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.v4qn-rb56> <http://purl.org/dc/terms/type> <http://purl.org/dc/dcmitype/Dataset> .
+<https://doi.org/10.6069/uwlswd.v4qn-rb56#b> <http://www.w3.org/2004/02/skos/core#scopeNote> "All recordings made with microphones and other electrical\n         equipment prior to the availability of magnetic recording techniques in the late 1940s used\n         direct storage. Commercial recordings marked \"direct to disc\" or some equivalent phrase\n         also use this technique. Also known as electromechanical recording."@en .
+<https://doi.org/10.6069/uwlswd.v4qn-rb56> <http://purl.org/dc/terms/source> <https://www.loc.gov/marc/bibliographic/bd007.html> .
+<https://doi.org/10.6069/uwlswd.v4qn-rb56#u> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.v4qn-rb56> .
+<https://doi.org/10.6069/uwlswd.v4qn-rb56#z> <http://www.w3.org/2004/02/skos/core#definition> "Capture and storage technique other than acoustical capture,\n         direct storage; direct storage, not acoustical; digital storage; or analog electrical\n         storage."@en .
+<https://doi.org/10.6069/uwlswd.v4qn-rb56#b> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.v4qn-rb56> .
+<https://doi.org/10.6069/uwlswd.v4qn-rb56> <http://purl.org/dc/elements/1.1/contributor> "Metadata Management Associates"@en .
+<https://doi.org/10.6069/uwlswd.v4qn-rb56> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/zero/1.0> .
+<https://doi.org/10.6069/uwlswd.v4qn-rb56#e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.v4qn-rb56> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/sound_recording_original_capture_and_storage_technique/sound_recording_original_capture_and_storage_technique.ttl> .
+<https://doi.org/10.6069/uwlswd.v4qn-rb56#e> <http://www.w3.org/2004/02/skos/core#definition> "Sound recordings which were captured using electrical\n         techniques and stored as modulations and pulses on a magnetic surface."@en .
+<https://doi.org/10.6069/uwlswd.v4qn-rb56#d> <http://www.w3.org/2004/02/skos/core#prefLabel> "digital storage"@en .
+<https://doi.org/10.6069/uwlswd.v4qn-rb56#a> <http://www.w3.org/2004/02/skos/core#notation> "a" .
+<https://doi.org/10.6069/uwlswd.v4qn-rb56#b> <http://www.w3.org/2004/02/skos/core#prefLabel> "direct storage, not acoustical"@en .
+<https://doi.org/10.6069/uwlswd.v4qn-rb56#u> <http://www.w3.org/2004/02/skos/core#prefLabel> "unknown"@en .
+<https://doi.org/10.6069/uwlswd.v4qn-rb56#a> <http://www.w3.org/2004/02/skos/core#definition> "Usually a disc or cylinder recording, captured using an\n         acoustical horn and diaphragm and stored directly on a master surface."@en .
+<https://doi.org/10.6069/uwlswd.v4qn-rb56> <http://purl.org/dc/terms/creator> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.v4qn-rb56#e> <http://www.w3.org/2004/02/skos/core#prefLabel> "analog electrical storage"@en .
+<https://doi.org/10.6069/uwlswd.v4qn-rb56#d> <http://www.w3.org/2004/02/skos/core#scopeNote> "Such recordings, which became available in the 1980s, are\n         normally identified as \"digitally recorded\" or some similar phrase on the label or package.\n         \"Digital remaster\" or \"digital mixing\" does not imply original digital storage. Note that\n         Digital storage and digital playback should not be confused."@en .

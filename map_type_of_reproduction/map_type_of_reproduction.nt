@@ -1,0 +1,42 @@
+<https://doi.org/10.6069/uwlswd.jc99-4089> <http://purl.org/dc/terms/issued> "2024" .
+<https://doi.org/10.6069/uwlswd.jc99-4089#n> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.jc99-4089> .
+<https://doi.org/10.6069/uwlswd.jc99-4089> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<https://doi.org/10.6069/uwlswd.jc99-4089> <http://purl.org/dc/terms/description> "Whether the cartographic item is a facsimile or other type of\n         reproduction."@en .
+<https://doi.org/10.6069/uwlswd.jc99-4089> <http://purl.org/dc/terms/type> <http://purl.org/dc/dcmitype/Dataset> .
+<https://doi.org/10.6069/uwlswd.jc99-4089> <http://purl.org/dc/terms/source> <https://www.loc.gov/marc/bibliographic/bd007.html> .
+<https://doi.org/10.6069/uwlswd.jc99-4089> <https://schema.org/disambiguatingDescription> "SKOS Concept Scheme for MARC 00X\n         Values"@en .
+<https://doi.org/10.6069/uwlswd.jc99-4089#z> <http://www.w3.org/2004/02/skos/core#notation> "z" .
+<https://doi.org/10.6069/uwlswd.jc99-4089#z> <http://www.w3.org/2004/02/skos/core#prefLabel> "other"@en .
+<https://doi.org/10.6069/uwlswd.jc99-4089> <http://purl.org/dc/elements/1.1/contributor> "Metadata Management Associates"@en .
+<https://doi.org/10.6069/uwlswd.jc99-4089#f> <http://www.w3.org/2004/02/skos/core#notation> "f" .
+<https://doi.org/10.6069/uwlswd.jc99-4089#f> <http://www.w3.org/2004/02/skos/core#prefLabel> "facsimile"@en .
+<https://doi.org/10.6069/uwlswd.jc99-4089#u> <http://www.w3.org/2004/02/skos/core#notation> "u" .
+<https://doi.org/10.6069/uwlswd.jc99-4089> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/map_type_of_reproduction/map_type_of_reproduction.jsonld> .
+<https://doi.org/10.6069/uwlswd.jc99-4089> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/zero/1.0> .
+<https://doi.org/10.6069/uwlswd.jc99-4089#n> <http://www.w3.org/2004/02/skos/core#prefLabel> "not applicable"@en .
+<https://doi.org/10.6069/uwlswd.jc99-4089> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/map_type_of_reproduction/map_type_of_reproduction.ttl> .
+<https://doi.org/10.6069/uwlswd.jc99-4089#z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.jc99-4089#f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.jc99-4089> <http://purl.org/dc/terms/publisher> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.jc99-4089> <http://purl.org/dc/terms/creator> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.jc99-4089#u> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.jc99-4089> <https://schema.org/version> "1-0-0" .
+<https://doi.org/10.6069/uwlswd.jc99-4089#z> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.jc99-4089> .
+<https://doi.org/10.6069/uwlswd.jc99-4089#u> <http://www.w3.org/2004/02/skos/core#definition> "Type of reproduction is not known."@en .
+<https://doi.org/10.6069/uwlswd.jc99-4089> <http://purl.org/dc/terms/alternative> "MARC21 007/05 values for maps expressed using\n         RDF"@en .
+<https://doi.org/10.6069/uwlswd.jc99-4089> <http://purl.org/dc/terms/provenance> <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> .
+<https://doi.org/10.6069/uwlswd.jc99-4089> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/map_type_of_reproduction/map_type_of_reproduction.html> .
+<https://doi.org/10.6069/uwlswd.jc99-4089#z> <http://www.w3.org/2004/02/skos/core#definition> "Type of reproduction other than facsimile."@en .
+<https://doi.org/10.6069/uwlswd.jc99-4089> <http://purl.org/dc/terms/title> "Map: type of reproduction"@en .
+<https://doi.org/10.6069/uwlswd.jc99-4089#n> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.jc99-4089#f> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.jc99-4089> .
+<https://doi.org/10.6069/uwlswd.jc99-4089#u> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.jc99-4089> .
+<https://doi.org/10.6069/uwlswd.jc99-4089> <http://purl.org/dc/terms/source> <http://marc21rdf.info> .
+<https://doi.org/10.6069/uwlswd.jc99-4089#u> <http://www.w3.org/2004/02/skos/core#prefLabel> "unknown"@en .
+<https://doi.org/10.6069/uwlswd.jc99-4089#n> <http://www.w3.org/2004/02/skos/core#notation> "n" .
+<https://doi.org/10.6069/uwlswd.jc99-4089#f> <http://www.w3.org/2004/02/skos/core#definition> "Facsimile which resembles the original in all aspects possible,\n         but it is not the original."@en .
+<https://doi.org/10.6069/uwlswd.jc99-4089#n> <http://www.w3.org/2004/02/skos/core#definition> "Item is not a reproduction."@en .
+<https://doi.org/10.6069/uwlswd.jc99-4089> <http://purl.org/dc/terms/contributor> <http://viaf.org/viaf/151962300> .
+<https://doi.org/10.6069/uwlswd.jc99-4089> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/map_type_of_reproduction/map_type_of_reproduction.rdf> .
+<https://doi.org/10.6069/uwlswd.jc99-4089> <http://purl.org/dc/elements/1.1/language> "en" .
+<https://doi.org/10.6069/uwlswd.jc99-4089> <http://purl.org/dc/terms/format> <http://www.w3.org/ns/formats/N-Triples> .

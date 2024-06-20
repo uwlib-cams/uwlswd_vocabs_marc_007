@@ -1,0 +1,53 @@
+<https://doi.org/10.6069/uwlswd.043f-gn39#u> <http://www.w3.org/2004/02/skos/core#prefLabel> "unspecified"@en .
+<https://doi.org/10.6069/uwlswd.043f-gn39> <http://purl.org/dc/terms/contributor> <http://viaf.org/viaf/151962300> .
+<https://doi.org/10.6069/uwlswd.043f-gn39#f> <http://www.w3.org/2004/02/skos/core#notation> "f" .
+<https://doi.org/10.6069/uwlswd.043f-gn39> <http://purl.org/dc/terms/issued> "2024" .
+<https://doi.org/10.6069/uwlswd.043f-gn39> <http://purl.org/dc/elements/1.1/language> "en" .
+<https://doi.org/10.6069/uwlswd.043f-gn39> <https://schema.org/version> "1-0-0" .
+<https://doi.org/10.6069/uwlswd.043f-gn39#f> <http://www.w3.org/2004/02/skos/core#prefLabel> "film cassette"@en .
+<https://doi.org/10.6069/uwlswd.043f-gn39> <http://purl.org/dc/terms/format> <http://www.w3.org/ns/formats/N-Triples> .
+<https://doi.org/10.6069/uwlswd.043f-gn39#o> <http://www.w3.org/2004/02/skos/core#prefLabel> "film roll"@en .
+<https://doi.org/10.6069/uwlswd.043f-gn39#o> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.043f-gn39> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<https://doi.org/10.6069/uwlswd.043f-gn39#f> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.043f-gn39> .
+<https://doi.org/10.6069/uwlswd.043f-gn39> <http://purl.org/dc/terms/type> <http://purl.org/dc/dcmitype/Dataset> .
+<https://doi.org/10.6069/uwlswd.043f-gn39> <http://purl.org/dc/terms/source> <https://www.loc.gov/marc/bibliographic/bd007.html> .
+<https://doi.org/10.6069/uwlswd.043f-gn39> <https://schema.org/disambiguatingDescription> "SKOS Concept Scheme for MARC 00X\n         Values"@en .
+<https://doi.org/10.6069/uwlswd.043f-gn39#c> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.043f-gn39> .
+<https://doi.org/10.6069/uwlswd.043f-gn39> <http://purl.org/dc/elements/1.1/contributor> "Metadata Management Associates"@en .
+<https://doi.org/10.6069/uwlswd.043f-gn39#z> <http://www.w3.org/2004/02/skos/core#definition> "Specific material designation other than film cartridge, film\n         cassette, film roll, or film reel."@en .
+<https://doi.org/10.6069/uwlswd.043f-gn39#f> <http://www.w3.org/2004/02/skos/core#definition> "Encased in a cassette that winds and rewinds\n         reel-to-reel."@en .
+<https://doi.org/10.6069/uwlswd.043f-gn39#u> <http://www.w3.org/2004/02/skos/core#notation> "u" .
+<https://doi.org/10.6069/uwlswd.043f-gn39#c> <http://www.w3.org/2004/02/skos/core#notation> "c" .
+<https://doi.org/10.6069/uwlswd.043f-gn39#z> <http://www.w3.org/2004/02/skos/core#prefLabel> "other"@en .
+<https://doi.org/10.6069/uwlswd.043f-gn39#z> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.043f-gn39> .
+<https://doi.org/10.6069/uwlswd.043f-gn39#r> <http://www.w3.org/2004/02/skos/core#prefLabel> "film reel"@en .
+<https://doi.org/10.6069/uwlswd.043f-gn39#u> <http://www.w3.org/2004/02/skos/core#definition> "Special material designation for the motion picture is not\n         specified."@en .
+<https://doi.org/10.6069/uwlswd.043f-gn39> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/zero/1.0> .
+<https://doi.org/10.6069/uwlswd.043f-gn39#f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.043f-gn39> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/motion_picture_specific_material_designation/motion_picture_specific_material_designation.html> .
+<https://doi.org/10.6069/uwlswd.043f-gn39#u> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.043f-gn39> .
+<https://doi.org/10.6069/uwlswd.043f-gn39#o> <http://www.w3.org/2004/02/skos/core#notation> "o" .
+<https://doi.org/10.6069/uwlswd.043f-gn39#z> <http://www.w3.org/2004/02/skos/core#notation> "z" .
+<https://doi.org/10.6069/uwlswd.043f-gn39#r> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.043f-gn39> .
+<https://doi.org/10.6069/uwlswd.043f-gn39> <http://purl.org/dc/terms/alternative> "MARC21 007/01 values for motion pictures expressed using\n         RDF"@en .
+<https://doi.org/10.6069/uwlswd.043f-gn39#z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.043f-gn39#r> <http://www.w3.org/2004/02/skos/core#scopeNote> "Includes sound track film intended to accompany visual images\n         actually not present."@en .
+<https://doi.org/10.6069/uwlswd.043f-gn39> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/motion_picture_specific_material_designation/motion_picture_specific_material_designation.rdf> .
+<https://doi.org/10.6069/uwlswd.043f-gn39#c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.043f-gn39> <http://purl.org/dc/terms/description> "Special class of motion picture to which the item belongs.,\n         e.g., a film reel."@en .
+<https://doi.org/10.6069/uwlswd.043f-gn39> <http://purl.org/dc/terms/creator> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.043f-gn39#c> <http://www.w3.org/2004/02/skos/core#prefLabel> "film cartridge"@en .
+<https://doi.org/10.6069/uwlswd.043f-gn39#r> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.043f-gn39#r> <http://www.w3.org/2004/02/skos/core#notation> "r" .
+<https://doi.org/10.6069/uwlswd.043f-gn39#o> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.043f-gn39> .
+<https://doi.org/10.6069/uwlswd.043f-gn39> <http://purl.org/dc/terms/publisher> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.043f-gn39> <http://purl.org/dc/terms/title> "Motion picture: specific material designation"@en .
+<https://doi.org/10.6069/uwlswd.043f-gn39> <http://purl.org/dc/terms/provenance> <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> .
+<https://doi.org/10.6069/uwlswd.043f-gn39> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/motion_picture_specific_material_designation/motion_picture_specific_material_designation.ttl> .
+<https://doi.org/10.6069/uwlswd.043f-gn39> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/motion_picture_specific_material_designation/motion_picture_specific_material_designation.jsonld> .
+<https://doi.org/10.6069/uwlswd.043f-gn39#u> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.043f-gn39#r> <http://www.w3.org/2004/02/skos/core#definition> "Open reel of motion picture film designed for use with a\n         projector having its own take-up reel."@en .
+<https://doi.org/10.6069/uwlswd.043f-gn39#c> <http://www.w3.org/2004/02/skos/core#definition> "Encased in a cartridge that has the ends joined together to\n         form a loop that provides playback without rewinding."@en .
+<https://doi.org/10.6069/uwlswd.043f-gn39#o> <http://www.w3.org/2004/02/skos/core#definition> "A wound length of film not in a reel, cartridge,\n         etc."@en .
+<https://doi.org/10.6069/uwlswd.043f-gn39> <http://purl.org/dc/terms/source> <http://marc21rdf.info> .

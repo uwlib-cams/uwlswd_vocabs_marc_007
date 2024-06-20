@@ -1,0 +1,100 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix schema: <https://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://doi.org/10.6069/uwlswd.z7rs-y926#a> a skos:Concept ;
+    skos:definition """Print from the original camera footage which is edited to a
+         fine degree to achieve the final version."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.z7rs-y926> ;
+    skos:notation "a" ;
+    skos:prefLabel "workprint"@en .
+
+<https://doi.org/10.6069/uwlswd.z7rs-y926#b> a skos:Concept ;
+    skos:definition """Sections of shots remaining after the desired portions have
+         been incorporated into the workprint."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.z7rs-y926> ;
+    skos:notation "b" ;
+    skos:prefLabel "trims"@en .
+
+<https://doi.org/10.6069/uwlswd.z7rs-y926#c> a skos:Concept ;
+    skos:definition "Shots discarded in the editing of a film."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.z7rs-y926> ;
+    skos:notation "c" ;
+    skos:prefLabel "outtakes"@en .
+
+<https://doi.org/10.6069/uwlswd.z7rs-y926#d> a skos:Concept ;
+    skos:definition """First positive prints from the laboratory of the previous day's
+         shooting."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.z7rs-y926> ;
+    skos:notation "d" ;
+    skos:prefLabel "rushes"@en ;
+    skos:scopeNote "Also called dailies."@en .
+
+<https://doi.org/10.6069/uwlswd.z7rs-y926#e> a skos:Concept ;
+    skos:definition """Separate sound tracks that are combined for the final film
+         sound track."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.z7rs-y926> ;
+    skos:notation "e" ;
+    skos:prefLabel "mixing tracks"@en ;
+    skos:scopeNote """Mixing tracks may include music, sound effects, and dialog
+         tracks."""@en .
+
+<https://doi.org/10.6069/uwlswd.z7rs-y926#f> a skos:Concept ;
+    skos:definition """Printed captions or titles separated from their corresponding
+         picture."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.z7rs-y926> ;
+    skos:notation "f" ;
+    skos:prefLabel "title bands/intertitle rolls"@en .
+
+<https://doi.org/10.6069/uwlswd.z7rs-y926#g> a skos:Concept ;
+    skos:definition """Various types of production elements (film usually wound on
+         cores) before they are cut and assembled into reels."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.z7rs-y926> ;
+    skos:notation "g" ;
+    skos:prefLabel "production rolls"@en .
+
+<https://doi.org/10.6069/uwlswd.z7rs-y926#h> a skos:Concept ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.z7rs-y926> ;
+    skos:notation "h" ;
+    skos:prefLabel "other [obsolete]"@en .
+
+<https://doi.org/10.6069/uwlswd.z7rs-y926#n> a skos:Concept ;
+    skos:definition "Item is not a production element."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.z7rs-y926> ;
+    skos:notation "n" ;
+    skos:prefLabel "not applicable"@en .
+
+<https://doi.org/10.6069/uwlswd.z7rs-y926#z> a skos:Concept ;
+    skos:definition """Production elements other than workprint, trims, outtakes,
+         rushes, mixing tracks, title bands/intertitle rolls, or production rolls."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.z7rs-y926> ;
+    skos:notation "z" ;
+    skos:prefLabel "other"@en .
+
+<https://doi.org/10.6069/uwlswd.z7rs-y926> a skos:ConceptScheme ;
+    dc:contributor "Metadata Management Associates"@en ;
+    dc:language "en" ;
+    dct:alternative """MARC21 007/09 values for motion pictures expressed using
+         RDF"""@en ;
+    dct:contributor <http://viaf.org/viaf/151962300> ;
+    dct:creator <http://viaf.org/viaf/139541794> ;
+    dct:description """Whether the film is part of a complete production or is a
+         preliminary or post-production element."""@en ;
+    dct:format <http://www.w3.org/ns/formats/Turtle> ;
+    dct:hasFormat <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/motion_picture_production_elements/motion_picture_production_elements.html>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/motion_picture_production_elements/motion_picture_production_elements.jsonld>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/motion_picture_production_elements/motion_picture_production_elements.nt>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/motion_picture_production_elements/motion_picture_production_elements.rdf> ;
+    dct:issued "2024" ;
+    dct:license <http://creativecommons.org/publicdomain/zero/1.0> ;
+    dct:provenance <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> ;
+    dct:publisher <http://viaf.org/viaf/139541794> ;
+    dct:source <http://marc21rdf.info>,
+        <https://www.loc.gov/marc/bibliographic/bd007.html> ;
+    dct:title "Motion picture: production elements"@en ;
+    dct:type <http://purl.org/dc/dcmitype/Dataset> ;
+    schema:disambiguatingDescription """SKOS Concept Scheme for MARC 00X
+         Values"""@en ;
+    schema:version "1-0-0" .
+

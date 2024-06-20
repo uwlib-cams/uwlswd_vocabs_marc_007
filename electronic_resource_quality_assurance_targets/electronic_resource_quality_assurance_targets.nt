@@ -1,0 +1,43 @@
+<https://doi.org/10.6069/uwlswd.k2b6-k011> <http://purl.org/dc/terms/title> "Electronic resource: quality assurance targets"@en .
+<https://doi.org/10.6069/uwlswd.k2b6-k011#n> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.k2b6-k011> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/electronic_resource_quality_assurance_targets/electronic_resource_quality_assurance_targets.rdf> .
+<https://doi.org/10.6069/uwlswd.k2b6-k011> <http://purl.org/dc/terms/provenance> <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> .
+<https://doi.org/10.6069/uwlswd.k2b6-k011> <http://purl.org/dc/elements/1.1/language> "en" .
+<https://doi.org/10.6069/uwlswd.k2b6-k011> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/electronic_resource_quality_assurance_targets/electronic_resource_quality_assurance_targets.ttl> .
+<https://doi.org/10.6069/uwlswd.k2b6-k011#u> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.k2b6-k011#a> <http://www.w3.org/2004/02/skos/core#definition> "Quality assurance targets were not included at the time of\n         reformatting and/or are not present in the electronic resource."@en .
+<https://doi.org/10.6069/uwlswd.k2b6-k011#p> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.k2b6-k011> <http://purl.org/dc/terms/format> <http://www.w3.org/ns/formats/N-Triples> .
+<https://doi.org/10.6069/uwlswd.k2b6-k011> <http://purl.org/dc/terms/issued> "2024" .
+<https://doi.org/10.6069/uwlswd.k2b6-k011> <http://purl.org/dc/terms/contributor> <http://viaf.org/viaf/151962300> .
+<https://doi.org/10.6069/uwlswd.k2b6-k011> <http://purl.org/dc/terms/description> "Whether quality assurance targets have been included\n         appropriately at the time of reformatting/creation of the electronic resource. Targets are\n         standard reference points which can be interpreted by a human or machine and used to\n         measure resolution, color, faithfulness of representation to the original,\n         etc."@en .
+<https://doi.org/10.6069/uwlswd.k2b6-k011> <http://purl.org/dc/terms/source> <http://marc21rdf.info> .
+<https://doi.org/10.6069/uwlswd.k2b6-k011> <https://schema.org/version> "1-0-0" .
+<https://doi.org/10.6069/uwlswd.k2b6-k011> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/electronic_resource_quality_assurance_targets/electronic_resource_quality_assurance_targets.jsonld> .
+<https://doi.org/10.6069/uwlswd.k2b6-k011#a> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.k2b6-k011> .
+<https://doi.org/10.6069/uwlswd.k2b6-k011> <https://schema.org/disambiguatingDescription> "SKOS Concept Scheme for MARC 00X\n         Values"@en .
+<https://doi.org/10.6069/uwlswd.k2b6-k011#n> <http://www.w3.org/2004/02/skos/core#notation> "n" .
+<https://doi.org/10.6069/uwlswd.k2b6-k011#p> <http://www.w3.org/2004/02/skos/core#notation> "p" .
+<https://doi.org/10.6069/uwlswd.k2b6-k011#p> <http://www.w3.org/2004/02/skos/core#prefLabel> "present"@en .
+<https://doi.org/10.6069/uwlswd.k2b6-k011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<https://doi.org/10.6069/uwlswd.k2b6-k011#a> <http://www.w3.org/2004/02/skos/core#notation> "a" .
+<https://doi.org/10.6069/uwlswd.k2b6-k011#u> <http://www.w3.org/2004/02/skos/core#definition> "Presence of quality assurance targets in the electronic\n         resource is not known."@en .
+<https://doi.org/10.6069/uwlswd.k2b6-k011> <http://purl.org/dc/terms/type> <http://purl.org/dc/dcmitype/Dataset> .
+<https://doi.org/10.6069/uwlswd.k2b6-k011#n> <http://www.w3.org/2004/02/skos/core#prefLabel> "not applicable"@en .
+<https://doi.org/10.6069/uwlswd.k2b6-k011#u> <http://www.w3.org/2004/02/skos/core#prefLabel> "unknown"@en .
+<https://doi.org/10.6069/uwlswd.k2b6-k011> <http://purl.org/dc/elements/1.1/contributor> "Metadata Management Associates"@en .
+<https://doi.org/10.6069/uwlswd.k2b6-k011#u> <http://www.w3.org/2004/02/skos/core#notation> "u" .
+<https://doi.org/10.6069/uwlswd.k2b6-k011> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/electronic_resource_quality_assurance_targets/electronic_resource_quality_assurance_targets.html> .
+<https://doi.org/10.6069/uwlswd.k2b6-k011#u> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.k2b6-k011> .
+<https://doi.org/10.6069/uwlswd.k2b6-k011> <http://purl.org/dc/terms/source> <https://www.loc.gov/marc/bibliographic/bd007.html> .
+<https://doi.org/10.6069/uwlswd.k2b6-k011#p> <http://www.w3.org/2004/02/skos/core#definition> "One or more quality assurance targets were appropriately\n         included at the time of reformatting and are present in the electronic\n         resource."@en .
+<https://doi.org/10.6069/uwlswd.k2b6-k011> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/zero/1.0> .
+<https://doi.org/10.6069/uwlswd.k2b6-k011#a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.k2b6-k011#n> <http://www.w3.org/2004/02/skos/core#definition> "Inclusion of quality assurance targets is not applicable to\n         this electronic resource."@en .
+<https://doi.org/10.6069/uwlswd.k2b6-k011#p> <http://www.w3.org/2004/02/skos/core#scopeNote> "Commonly found quality control targets for scanning include the\n         Kodak Q13 or Q14 Color Separation Guide and Gray Scale; Kodak Q60 Color Input Target; AIIM\n         Scanning Test Chart #2; and the RIT Alphanumeric Resolution Test Object. Commonly found\n         quality assurance targets for re-recording/transfer of audio files include reference and\n         azimuth tones."@en .
+<https://doi.org/10.6069/uwlswd.k2b6-k011> <http://purl.org/dc/terms/publisher> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.k2b6-k011#n> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.k2b6-k011> .
+<https://doi.org/10.6069/uwlswd.k2b6-k011#p> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.k2b6-k011> .
+<https://doi.org/10.6069/uwlswd.k2b6-k011#a> <http://www.w3.org/2004/02/skos/core#prefLabel> "absent"@en .
+<https://doi.org/10.6069/uwlswd.k2b6-k011> <http://purl.org/dc/terms/alternative> "MARC21 007/10 values for electronic resources expressed using\n         RDF"@en .
+<https://doi.org/10.6069/uwlswd.k2b6-k011> <http://purl.org/dc/terms/creator> <http://viaf.org/viaf/139541794> .

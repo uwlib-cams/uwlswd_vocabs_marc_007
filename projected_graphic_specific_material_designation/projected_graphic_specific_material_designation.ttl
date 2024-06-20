@@ -1,0 +1,102 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix schema: <https://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://doi.org/10.6069/uwlswd.kdz3-qx35#c> a skos:Concept ;
+    skos:definition """A filmstrip which is encased in a cartridge and which has the
+         ends joined to form a loop. A cartridge denotes a permanently encased single reel of film
+         or tape that has the ends joined together to form a loop that provides playback without
+         rewinding."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.kdz3-qx35> ;
+    skos:notation "c" ;
+    skos:prefLabel "filmstrip cartridge"@en .
+
+<https://doi.org/10.6069/uwlswd.kdz3-qx35#d> a skos:Concept ;
+    skos:definition "A short filmstrip not in a roll."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.kdz3-qx35> ;
+    skos:notation "d" ;
+    skos:prefLabel "filmslip"@en .
+
+<https://doi.org/10.6069/uwlswd.kdz3-qx35#f> a skos:Concept ;
+    skos:definition """A filmstrip other than a filmstrip cartridge, filmslip or
+         filmstrip roll or is an unspecified type of filmstrip."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.kdz3-qx35> ;
+    skos:notation "f" ;
+    skos:prefLabel "other filmstrip type"@en .
+
+<https://doi.org/10.6069/uwlswd.kdz3-qx35#n> a skos:Concept ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.kdz3-qx35> ;
+    skos:notation "n" ;
+    skos:prefLabel "not applicable [obsolete]"@en .
+
+<https://doi.org/10.6069/uwlswd.kdz3-qx35#o> a skos:Concept ;
+    skos:definition """A roll of film on which still images are recorded, presenting
+         an integrated communication. It is intended for projection frame by
+         frame."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.kdz3-qx35> ;
+    skos:notation "o" ;
+    skos:prefLabel "filmstrip roll"@en .
+
+<https://doi.org/10.6069/uwlswd.kdz3-qx35#pound> a skos:Concept ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.kdz3-qx35> ;
+    skos:notation "#" ;
+    skos:prefLabel "not applicable or no attempt to code [obsolete]"@en .
+
+<https://doi.org/10.6069/uwlswd.kdz3-qx35#s> a skos:Concept ;
+    skos:definition """Transparent material on which there is a two-dimensional image,
+         usually held in a mount, and designed for use in a projector or viewer."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.kdz3-qx35> ;
+    skos:notation "s" ;
+    skos:prefLabel "slide"@en ;
+    skos:scopeNote """Includes modern stereographs, e.g., Viewmaster
+         reels."""@en .
+
+<https://doi.org/10.6069/uwlswd.kdz3-qx35#t> a skos:Concept ;
+    skos:definition """Transparent material on which an image is recorded. They are
+         designed for use with a projector or a light box."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.kdz3-qx35> ;
+    skos:notation "t" ;
+    skos:prefLabel "transparency"@en ;
+    skos:scopeNote "Includes X-rays."@en .
+
+<https://doi.org/10.6069/uwlswd.kdz3-qx35#u> a skos:Concept ;
+    skos:definition """The specific material designation for the projected graphic is
+         unspecified."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.kdz3-qx35> ;
+    skos:notation "u" ;
+    skos:prefLabel "unspecified"@en .
+
+<https://doi.org/10.6069/uwlswd.kdz3-qx35#z> a skos:Concept ;
+    skos:definition """Specific material designation other than filmstrip cartridge,
+         filmslip, other filmstrip type, filmstrip roll, slide, or transparency."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.kdz3-qx35> ;
+    skos:notation "z" ;
+    skos:prefLabel "other"@en .
+
+<https://doi.org/10.6069/uwlswd.kdz3-qx35> a skos:ConceptScheme ;
+    dc:contributor "Metadata Management Associates"@en ;
+    dc:language "en" ;
+    dct:alternative """MARC21 007/01 values for projected graphics expressed using
+         RDF"""@en ;
+    dct:contributor <http://viaf.org/viaf/151962300> ;
+    dct:creator <http://viaf.org/viaf/139541794> ;
+    dct:description """Special class of projected graphic to which the item belongs,
+         e.g., a slide."""@en ;
+    dct:format <http://www.w3.org/ns/formats/Turtle> ;
+    dct:hasFormat <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/projected_graphic_specific_material_designation/projected_graphic_specific_material_designation.html>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/projected_graphic_specific_material_designation/projected_graphic_specific_material_designation.jsonld>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/projected_graphic_specific_material_designation/projected_graphic_specific_material_designation.nt>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/projected_graphic_specific_material_designation/projected_graphic_specific_material_designation.rdf> ;
+    dct:issued "2024" ;
+    dct:license <http://creativecommons.org/publicdomain/zero/1.0> ;
+    dct:provenance <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> ;
+    dct:publisher <http://viaf.org/viaf/139541794> ;
+    dct:source <http://marc21rdf.info>,
+        <https://www.loc.gov/marc/bibliographic/bd007.html> ;
+    dct:title "Projected graphic: specific material designation"@en ;
+    dct:type <http://purl.org/dc/dcmitype/Dataset> ;
+    schema:disambiguatingDescription """SKOS Concept Scheme for MARC 00X
+         Values"""@en ;
+    schema:version "1-0-0" .
+

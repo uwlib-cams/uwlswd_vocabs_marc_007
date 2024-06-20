@@ -1,0 +1,118 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix schema: <https://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://doi.org/10.6069/uwlswd.fqx4-1d72#a> a skos:Concept ;
+    skos:definition """Safety base film whose type has not been
+         identified."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.fqx4-1d72> ;
+    skos:notation "a" ;
+    skos:prefLabel "safety base, undetermined"@en .
+
+<https://doi.org/10.6069/uwlswd.fqx4-1d72#c> a skos:Concept ;
+    skos:definition """Acetate safety base film whose exact type cannot be determined,
+         i.e., where it is unknown if the type is diacetate or triacetate."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.fqx4-1d72> ;
+    skos:notation "c" ;
+    skos:prefLabel "safety base, acetate undetermined"@en .
+
+<https://doi.org/10.6069/uwlswd.fqx4-1d72#d> a skos:Concept ;
+    skos:definition "Cellulose diacetate film base."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.fqx4-1d72> ;
+    skos:notation "d" ;
+    skos:prefLabel "safety base, diacetate"@en ;
+    skos:scopeNote """Introduced before World War I for home movies, diacetate base
+         was more expensive and unpredictable than nitrate base and so failed to gain acceptance in
+         professional 35 mm. film production."""@en .
+
+<https://doi.org/10.6069/uwlswd.fqx4-1d72#i> a skos:Concept ;
+    skos:definition "Cellulose nitrate film base."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.fqx4-1d72> ;
+    skos:notation "i" ;
+    skos:prefLabel "nitrate base"@en ;
+    skos:scopeNote """Cellulose nitrate support or base was used in the manufacture of
+         35 mm. film (and some 17.5 mm. film) until 1951. Nitrate base film is no longer
+         manufactured."""@en .
+
+<https://doi.org/10.6069/uwlswd.fqx4-1d72#m> a skos:Concept ;
+    skos:definition """Combination of nitrate base and safety base
+         film."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.fqx4-1d72> ;
+    skos:notation "m" ;
+    skos:prefLabel "mixed base (nitrate and safety)"@en ;
+    skos:scopeNote """The use of a mixed base was common in the early 1950s when
+         nitrate base stock shots were spliced with safety base film for low-budget motion pictures.
+         In such releases, up to 50% of the film consisted of stock shots on nitrate base
+         film."""@en .
+
+<https://doi.org/10.6069/uwlswd.fqx4-1d72#n> a skos:Concept ;
+    skos:definition "Item does not have a film base."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.fqx4-1d72> ;
+    skos:notation "n" ;
+    skos:prefLabel "not applicable"@en ;
+    skos:scopeNote "E.g., paper film."@en .
+
+<https://doi.org/10.6069/uwlswd.fqx4-1d72#p> a skos:Concept ;
+    skos:definition "Film base made of a synthetic resin."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.fqx4-1d72> ;
+    skos:notation "p" ;
+    skos:prefLabel "safety base, polyester"@en ;
+    skos:scopeNote "E.g., estar."@en .
+
+<https://doi.org/10.6069/uwlswd.fqx4-1d72#r> a skos:Concept ;
+    skos:definition """Mixed safety base films spliced together; but contains no
+         nitrate film."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.fqx4-1d72> ;
+    skos:notation "r" ;
+    skos:prefLabel "safety base, mixed"@en .
+
+<https://doi.org/10.6069/uwlswd.fqx4-1d72#t> a skos:Concept ;
+    skos:definition "Cellulose triacetate film base."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.fqx4-1d72> ;
+    skos:notation "t" ;
+    skos:prefLabel "safety base, triacetate"@en ;
+    skos:scopeNote """Cellulose triacetate is a high acetal compound with very low
+         flammability and slow burning characteristics. From 1951, triacetate has been used for
+         professional as well as for amateur produced moving image film."""@en .
+
+<https://doi.org/10.6069/uwlswd.fqx4-1d72#u> a skos:Concept ;
+    skos:definition "Base of the film is not known."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.fqx4-1d72> ;
+    skos:notation "u" ;
+    skos:prefLabel "unknown"@en .
+
+<https://doi.org/10.6069/uwlswd.fqx4-1d72#z> a skos:Concept ;
+    skos:definition """Base of film other than safety base, undetermined, safety base,
+         acetate undetermined, safety base, diacetate, nitrate base, mixed base (nitrate and
+         safety), not applicable, safety base, polyester, safety base, mixed, safety base, or
+         triacetate."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.fqx4-1d72> ;
+    skos:notation "z" ;
+    skos:prefLabel "other"@en .
+
+<https://doi.org/10.6069/uwlswd.fqx4-1d72> a skos:ConceptScheme ;
+    dc:contributor "Metadata Management Associates"@en ;
+    dc:language "en" ;
+    dct:alternative """MARC21 007/12 values for motion pictures expressed using
+         RDF"""@en ;
+    dct:contributor <http://viaf.org/viaf/151962300> ;
+    dct:creator <http://viaf.org/viaf/139541794> ;
+    dct:description "Base of the film."@en ;
+    dct:format <http://www.w3.org/ns/formats/Turtle> ;
+    dct:hasFormat <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/motion_picture_base_of_film/motion_picture_base_of_film.html>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/motion_picture_base_of_film/motion_picture_base_of_film.jsonld>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/motion_picture_base_of_film/motion_picture_base_of_film.nt>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/motion_picture_base_of_film/motion_picture_base_of_film.rdf> ;
+    dct:issued "2024" ;
+    dct:license <http://creativecommons.org/publicdomain/zero/1.0> ;
+    dct:provenance <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> ;
+    dct:publisher <http://viaf.org/viaf/139541794> ;
+    dct:source <http://marc21rdf.info>,
+        <https://www.loc.gov/marc/bibliographic/bd007.html> ;
+    dct:title "Motion picture: base of film"@en ;
+    dct:type <http://purl.org/dc/dcmitype/Dataset> ;
+    schema:disambiguatingDescription """SKOS Concept Scheme for MARC 00X
+         Values"""@en ;
+    schema:version "1-0-0" .
+

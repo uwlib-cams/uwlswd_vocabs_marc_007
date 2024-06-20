@@ -1,0 +1,78 @@
+<https://doi.org/10.6069/uwlswd.n3ew-mc60#j> <http://www.w3.org/2004/02/skos/core#prefLabel> "metal and glass"@en .
+<https://doi.org/10.6069/uwlswd.n3ew-mc60#e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.n3ew-mc60#d> <http://www.w3.org/2004/02/skos/core#prefLabel> "glass"@en .
+<https://doi.org/10.6069/uwlswd.n3ew-mc60#e> <http://www.w3.org/2004/02/skos/core#notation> "e" .
+<https://doi.org/10.6069/uwlswd.n3ew-mc60> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<https://doi.org/10.6069/uwlswd.n3ew-mc60> <http://purl.org/dc/terms/description> "Type of material of the mount of a slide or transparency for a\n         projected graphic."@en .
+<https://doi.org/10.6069/uwlswd.n3ew-mc60> <http://purl.org/dc/elements/1.1/contributor> "Metadata Management Associates"@en .
+<https://doi.org/10.6069/uwlswd.n3ew-mc60> <http://purl.org/dc/terms/alternative> "MARC21 007/08 values for projected graphics expressed using\n         RDF"@en .
+<https://doi.org/10.6069/uwlswd.n3ew-mc60#e> <http://www.w3.org/2004/02/skos/core#scopeNote> "E.g. plastics, vinyl, etc."@en .
+<https://doi.org/10.6069/uwlswd.n3ew-mc60> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/zero/1.0> .
+<https://doi.org/10.6069/uwlswd.n3ew-mc60#e> <http://www.w3.org/2004/02/skos/core#prefLabel> "synthetic"@en .
+<https://doi.org/10.6069/uwlswd.n3ew-mc60#h> <http://www.w3.org/2004/02/skos/core#prefLabel> "metal"@en .
+<https://doi.org/10.6069/uwlswd.n3ew-mc60#c> <http://www.w3.org/2004/02/skos/core#definition> "Cardboard mount."@en .
+<https://doi.org/10.6069/uwlswd.n3ew-mc60#c> <http://www.w3.org/2004/02/skos/core#prefLabel> "cardboard"@en .
+<https://doi.org/10.6069/uwlswd.n3ew-mc60#k> <http://www.w3.org/2004/02/skos/core#prefLabel> "synthetic and glass"@en .
+<https://doi.org/10.6069/uwlswd.n3ew-mc60> <http://purl.org/dc/terms/creator> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.n3ew-mc60#pound> <http://www.w3.org/2004/02/skos/core#scopeNote> "Includes all filmstrips."@en .
+<https://doi.org/10.6069/uwlswd.n3ew-mc60#u> <http://www.w3.org/2004/02/skos/core#prefLabel> "unknown"@en .
+<https://doi.org/10.6069/uwlswd.n3ew-mc60> <http://purl.org/dc/terms/provenance> <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> .
+<https://doi.org/10.6069/uwlswd.n3ew-mc60#z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.n3ew-mc60#d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.n3ew-mc60#j> <http://www.w3.org/2004/02/skos/core#definition> "Metal portion is usually a frame that holds one or two pieces\n         of glass to support the film base. Glass should not be the primary support for the film\n         emulsion."@en .
+<https://doi.org/10.6069/uwlswd.n3ew-mc60#pound> <http://www.w3.org/2004/02/skos/core#prefLabel> "no secondary support"@en .
+<https://doi.org/10.6069/uwlswd.n3ew-mc60#h> <http://www.w3.org/2004/02/skos/core#notation> "h" .
+<https://doi.org/10.6069/uwlswd.n3ew-mc60#d> <http://www.w3.org/2004/02/skos/core#definition> "Glass mount that usually covers the film base but should not be\n         the primary support for the film emulsion."@en .
+<https://doi.org/10.6069/uwlswd.n3ew-mc60#m> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.n3ew-mc60#pound> <http://www.w3.org/2004/02/skos/core#notation> "#" .
+<https://doi.org/10.6069/uwlswd.n3ew-mc60> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/projected_graphic_secondary_support_material/projected_graphic_secondary_support_material.html> .
+<https://doi.org/10.6069/uwlswd.n3ew-mc60#u> <http://www.w3.org/2004/02/skos/core#notation> "u" .
+<https://doi.org/10.6069/uwlswd.n3ew-mc60#e> <http://www.w3.org/2004/02/skos/core#definition> "Synthetic material."@en .
+<https://doi.org/10.6069/uwlswd.n3ew-mc60> <http://purl.org/dc/terms/contributor> <http://viaf.org/viaf/151962300> .
+<https://doi.org/10.6069/uwlswd.n3ew-mc60#m> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.n3ew-mc60> .
+<https://doi.org/10.6069/uwlswd.n3ew-mc60#j> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.n3ew-mc60> .
+<https://doi.org/10.6069/uwlswd.n3ew-mc60#k> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.n3ew-mc60#u> <http://www.w3.org/2004/02/skos/core#definition> "Secondary support material is not known."@en .
+<https://doi.org/10.6069/uwlswd.n3ew-mc60#m> <http://www.w3.org/2004/02/skos/core#definition> "Secondary support material varies for different items in a\n         collection."@en .
+<https://doi.org/10.6069/uwlswd.n3ew-mc60> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/projected_graphic_secondary_support_material/projected_graphic_secondary_support_material.rdf> .
+<https://doi.org/10.6069/uwlswd.n3ew-mc60#k> <http://www.w3.org/2004/02/skos/core#notation> "k" .
+<https://doi.org/10.6069/uwlswd.n3ew-mc60> <https://schema.org/version> "1-0-0" .
+<https://doi.org/10.6069/uwlswd.n3ew-mc60#h> <http://www.w3.org/2004/02/skos/core#definition> "Metal."@en .
+<https://doi.org/10.6069/uwlswd.n3ew-mc60#u> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.n3ew-mc60> .
+<https://doi.org/10.6069/uwlswd.n3ew-mc60#k> <http://www.w3.org/2004/02/skos/core#scopeNote> "E.g. plastics, vinyl, etc."@en .
+<https://doi.org/10.6069/uwlswd.n3ew-mc60#k> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.n3ew-mc60> .
+<https://doi.org/10.6069/uwlswd.n3ew-mc60> <http://purl.org/dc/terms/source> <https://www.loc.gov/marc/bibliographic/bd007.html> .
+<https://doi.org/10.6069/uwlswd.n3ew-mc60#z> <http://www.w3.org/2004/02/skos/core#prefLabel> "other"@en .
+<https://doi.org/10.6069/uwlswd.n3ew-mc60#u> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.n3ew-mc60#e> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.n3ew-mc60> .
+<https://doi.org/10.6069/uwlswd.n3ew-mc60> <http://purl.org/dc/terms/type> <http://purl.org/dc/dcmitype/Dataset> .
+<https://doi.org/10.6069/uwlswd.n3ew-mc60#k> <http://www.w3.org/2004/02/skos/core#definition> "Synthetic material is usually used as a frame to hold one or\n         two pieces of glass to support the film base. Glass should not be the primary support for\n         the film emulsion."@en .
+<https://doi.org/10.6069/uwlswd.n3ew-mc60#c> <http://www.w3.org/2004/02/skos/core#scopeNote> "Slides and transparencies cataloged from data sheets are assumed\n         to have cardboard mounts unless otherwise known."@en .
+<https://doi.org/10.6069/uwlswd.n3ew-mc60#z> <http://www.w3.org/2004/02/skos/core#notation> "z" .
+<https://doi.org/10.6069/uwlswd.n3ew-mc60#pound> <http://www.w3.org/2004/02/skos/core#definition> "No secondary support."@en .
+<https://doi.org/10.6069/uwlswd.n3ew-mc60#h> <http://www.w3.org/2004/02/skos/core#scopeNote> "Usually used to frame larger projected graphics which need\n         better support."@en .
+<https://doi.org/10.6069/uwlswd.n3ew-mc60#z> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.n3ew-mc60> .
+<https://doi.org/10.6069/uwlswd.n3ew-mc60#m> <http://www.w3.org/2004/02/skos/core#scopeNote> "Typically this is used for groups of projected graphics on\n         various secondary support materials."@en .
+<https://doi.org/10.6069/uwlswd.n3ew-mc60> <http://purl.org/dc/terms/title> "Projected graphic: secondary support material"@en .
+<https://doi.org/10.6069/uwlswd.n3ew-mc60#d> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.n3ew-mc60> .
+<https://doi.org/10.6069/uwlswd.n3ew-mc60#m> <http://www.w3.org/2004/02/skos/core#notation> "m" .
+<https://doi.org/10.6069/uwlswd.n3ew-mc60> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/projected_graphic_secondary_support_material/projected_graphic_secondary_support_material.ttl> .
+<https://doi.org/10.6069/uwlswd.n3ew-mc60#c> <http://www.w3.org/2004/02/skos/core#notation> "c" .
+<https://doi.org/10.6069/uwlswd.n3ew-mc60#pound> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.n3ew-mc60> .
+<https://doi.org/10.6069/uwlswd.n3ew-mc60> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/projected_graphic_secondary_support_material/projected_graphic_secondary_support_material.jsonld> .
+<https://doi.org/10.6069/uwlswd.n3ew-mc60> <http://purl.org/dc/terms/publisher> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.n3ew-mc60#pound> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.n3ew-mc60#d> <http://www.w3.org/2004/02/skos/core#notation> "d" .
+<https://doi.org/10.6069/uwlswd.n3ew-mc60#j> <http://www.w3.org/2004/02/skos/core#notation> "j" .
+<https://doi.org/10.6069/uwlswd.n3ew-mc60> <http://purl.org/dc/terms/issued> "2024" .
+<https://doi.org/10.6069/uwlswd.n3ew-mc60> <http://purl.org/dc/terms/source> <http://marc21rdf.info> .
+<https://doi.org/10.6069/uwlswd.n3ew-mc60> <http://purl.org/dc/elements/1.1/language> "en" .
+<https://doi.org/10.6069/uwlswd.n3ew-mc60#c> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.n3ew-mc60> .
+<https://doi.org/10.6069/uwlswd.n3ew-mc60#h> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.n3ew-mc60#c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.n3ew-mc60#z> <http://www.w3.org/2004/02/skos/core#definition> "Secondary support material other than cardboard, glass,\n         synthetic, metal, metal and glass, synthetic and glass, or mixed\n         collection."@en .
+<https://doi.org/10.6069/uwlswd.n3ew-mc60> <http://purl.org/dc/terms/format> <http://www.w3.org/ns/formats/N-Triples> .
+<https://doi.org/10.6069/uwlswd.n3ew-mc60#m> <http://www.w3.org/2004/02/skos/core#prefLabel> "mixed collection"@en .
+<https://doi.org/10.6069/uwlswd.n3ew-mc60> <https://schema.org/disambiguatingDescription> "SKOS Concept Scheme for MARC 00X\n         Values"@en .
+<https://doi.org/10.6069/uwlswd.n3ew-mc60#j> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.n3ew-mc60#h> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.n3ew-mc60> .

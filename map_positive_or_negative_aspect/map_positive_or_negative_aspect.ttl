@@ -1,0 +1,62 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix schema: <https://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://doi.org/10.6069/uwlswd.kvz5-9t36#a> a skos:Concept ;
+    skos:definition """Lines and characters are dark on light
+         background."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.kvz5-9t36> ;
+    skos:notation "a" ;
+    skos:prefLabel "positive"@en .
+
+<https://doi.org/10.6069/uwlswd.kvz5-9t36#b> a skos:Concept ;
+    skos:definition """Lines and characters are light on dark
+         background."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.kvz5-9t36> ;
+    skos:notation "b" ;
+    skos:prefLabel "negative"@en .
+
+<https://doi.org/10.6069/uwlswd.kvz5-9t36#m> a skos:Concept ;
+    skos:definition "Mixture of positive and negative images."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.kvz5-9t36> ;
+    skos:notation "m" ;
+    skos:prefLabel "mixed polarity"@en .
+
+<https://doi.org/10.6069/uwlswd.kvz5-9t36#n> a skos:Concept ;
+    skos:definition "Item is not a photocopy or film."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.kvz5-9t36> ;
+    skos:notation "n" ;
+    skos:prefLabel "not applicable"@en .
+
+<https://doi.org/10.6069/uwlswd.kvz5-9t36#u> a skos:Concept ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.kvz5-9t36> ;
+    skos:notation "u" ;
+    skos:prefLabel "unknown [obsolete]"@en .
+
+<https://doi.org/10.6069/uwlswd.kvz5-9t36> a skos:ConceptScheme ;
+    dc:contributor "Metadata Management Associates"@en ;
+    dc:language "en" ;
+    dct:alternative """MARC21 007/07 values for maps expressed using
+         RDF"""@en ;
+    dct:contributor <http://viaf.org/viaf/151962300> ;
+    dct:creator <http://viaf.org/viaf/139541794> ;
+    dct:description """Positive/negative aspect of the photocopy or film of the
+         cartographic item. This characteristic is also referred to as polarity."""@en ;
+    dct:format <http://www.w3.org/ns/formats/Turtle> ;
+    dct:hasFormat <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/map_positive_or_negative_aspect/map_positive_or_negative_aspect.html>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/map_positive_or_negative_aspect/map_positive_or_negative_aspect.jsonld>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/map_positive_or_negative_aspect/map_positive_or_negative_aspect.nt>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/map_positive_or_negative_aspect/map_positive_or_negative_aspect.rdf> ;
+    dct:issued "2024" ;
+    dct:license <http://creativecommons.org/publicdomain/zero/1.0> ;
+    dct:provenance <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> ;
+    dct:publisher <http://viaf.org/viaf/139541794> ;
+    dct:source <http://marc21rdf.info>,
+        <https://www.loc.gov/marc/bibliographic/bd007.html> ;
+    dct:title "Map: positive/negative aspect"@en ;
+    dct:type <http://purl.org/dc/dcmitype/Dataset> ;
+    schema:disambiguatingDescription """SKOS Concept Scheme for MARC 00X
+         Values"""@en ;
+    schema:version "1-0-0" .
+

@@ -1,0 +1,124 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix schema: <https://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://doi.org/10.6069/uwlswd.c9kk-6x09#a> a skos:Concept ;
+    skos:definition "Standard sound aperture (reduced frame)."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.c9kk-6x09> ;
+    skos:notation "a" ;
+    skos:prefLabel "standard sound aperture (reduced frame)"@en ;
+    skos:scopeNote """Used for non-wide-screen formats. Includes all standard sound 35
+         mm., 16 mm., and super 8 mm. film. Should be used even for silent films in which a space
+         has been left for the inclusion of a sound track, i.e., where a full frame silent picture
+         has been cropped to allow space for a sound track."""@en .
+
+<https://doi.org/10.6069/uwlswd.c9kk-6x09#b> a skos:Concept ;
+    skos:definition """Wide-screen effect without optically compressing the image or
+         requiring the use of special projection techniques."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.c9kk-6x09> ;
+    skos:notation "b" ;
+    skos:prefLabel "nonanamorphic (wide-screen)"@en ;
+    skos:scopeNote """Nonanamorphic wide-screen process is primarily associated with
+         35 mm. and larger film gauges where the image on the film is natural (not optically
+         compressed) and of smaller frame height, which is expanded by projection on a wide screen
+         through the use of normal lenses and the appropriate aperture plate to give the required
+         aspect ratio."""@en .
+
+<https://doi.org/10.6069/uwlswd.c9kk-6x09#c> a skos:Concept ;
+    skos:definition """Films which achieve a three-dimensional effect originally
+         through the use of two projectors which superimpose two images of the film on the screen
+         (usually a wide screen). It is usually associated with 35 mm. film. Polarized lenses worn
+         by viewers help to create the impression of depth and dimension."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.c9kk-6x09> ;
+    skos:notation "c" ;
+    skos:prefLabel "3D"@en .
+
+<https://doi.org/10.6069/uwlswd.c9kk-6x09#d> a skos:Concept ;
+    skos:definition """Films which achieve the wide-screen effect through the use of
+         an image which is optically compressed or squeezed horizontally. It is then expanded to the
+         correct proportions by projection on a wide screen with the use of special lenses that give
+         greater magnification laterally than vertically."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.c9kk-6x09> ;
+    skos:notation "d" ;
+    skos:prefLabel "anamorphic (wide-screen)"@en ;
+    skos:scopeNote """Introduced and adopted for commercial use in 1953 under the name
+         of Cinemascope, followed by Techniscope (1963), Naturama, Panavision, etc. Also used for 16
+         mm. film which employs this process."""@en .
+
+<https://doi.org/10.6069/uwlswd.c9kk-6x09#e> a skos:Concept ;
+    skos:definition """Any other wide-screen process not covered by other
+         codes."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.c9kk-6x09> ;
+    skos:notation "e" ;
+    skos:prefLabel "other wide-screen format"@en ;
+    skos:scopeNote """Includes Cinerama, Viterama, Cinemiracle, Circarama and other
+         formats that achieve a wide-screen effect though the use of simultaneous projection of
+         separate prints on very large, sometimes deeply curved screens through the use of
+         multiprojectors that build up the projected picture by a series of images, generally
+         side-by-side."""@en .
+
+<https://doi.org/10.6069/uwlswd.c9kk-6x09#ex> a skos:Concept ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.c9kk-6x09> ;
+    skos:notation "e" ;
+    skos:prefLabel "other [obsolete]"@en .
+
+<https://doi.org/10.6069/uwlswd.c9kk-6x09#f> a skos:Concept ;
+    skos:definition """35 mm. film on which the exposed picture is approximately the
+         width of the space between the perforation holes of the frame."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.c9kk-6x09> ;
+    skos:notation "f" ;
+    skos:prefLabel "standard silent aperture (full frame)"@en ;
+    skos:scopeNote """Standard format for silent film from about 1899 until the late
+         1920s when sound film was introduced and the frame size decreased to make room for the
+         sound track."""@en .
+
+<https://doi.org/10.6069/uwlswd.c9kk-6x09#n> a skos:Concept ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.c9kk-6x09> ;
+    skos:notation "n" ;
+    skos:prefLabel "not applicable [obsolete]"@en .
+
+<https://doi.org/10.6069/uwlswd.c9kk-6x09#u> a skos:Concept ;
+    skos:definition """Presentation format of the motion picture is not
+         known."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.c9kk-6x09> ;
+    skos:notation "u" ;
+    skos:prefLabel "unknown"@en .
+
+<https://doi.org/10.6069/uwlswd.c9kk-6x09#z> a skos:Concept ;
+    skos:definition """Motion picture presentation format other than standard sound
+         aperture (reduced frame), nonanamorphic (wide-screen), 3d, anamorphic (wide-screen), other
+         wide-screen format, or standard silent aperture (full frame)."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.c9kk-6x09> ;
+    skos:notation "z" ;
+    skos:prefLabel "other"@en ;
+    skos:scopeNote """An example of this is the 70 mm. Imax format which is a
+         non-rectangular, circular 180 degree limited use format that is not standardized. Imax may
+         not technically be considered a wide-screen format because it does not have an aspect
+         ratio, but it does achieve a wide-screen effect."""@en .
+
+<https://doi.org/10.6069/uwlswd.c9kk-6x09> a skos:ConceptScheme ;
+    dc:contributor "Metadata Management Associates"@en ;
+    dc:language "en" ;
+    dct:alternative """MARC21 007/04 values for motion pictures expressed using
+         RDF"""@en ;
+    dct:contributor <http://viaf.org/viaf/151962300> ;
+    dct:creator <http://viaf.org/viaf/139541794> ;
+    dct:description "Presentation format for motion pictures."@en ;
+    dct:format <http://www.w3.org/ns/formats/Turtle> ;
+    dct:hasFormat <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/motion_picture_presentation_format/motion_picture_presentation_format.html>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/motion_picture_presentation_format/motion_picture_presentation_format.jsonld>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/motion_picture_presentation_format/motion_picture_presentation_format.nt>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/motion_picture_presentation_format/motion_picture_presentation_format.rdf> ;
+    dct:issued "2024" ;
+    dct:license <http://creativecommons.org/publicdomain/zero/1.0> ;
+    dct:provenance <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> ;
+    dct:publisher <http://viaf.org/viaf/139541794> ;
+    dct:source <http://marc21rdf.info>,
+        <https://www.loc.gov/marc/bibliographic/bd007.html> ;
+    dct:title "Motion picture: presentation format"@en ;
+    dct:type <http://purl.org/dc/dcmitype/Dataset> ;
+    schema:disambiguatingDescription """SKOS Concept Scheme for MARC 00X
+         Values"""@en ;
+    schema:version "1-0-0" .
+

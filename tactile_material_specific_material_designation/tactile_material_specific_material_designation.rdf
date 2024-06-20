@@ -1,5 +1,43 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schema="https://schema.org/" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:dct="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:schema="https://schema.org/"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.kb0p-ta35#b">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.kb0p-ta35"/>
+    <skos:prefLabel xml:lang="en">braille</skos:prefLabel>
+    <skos:definition xml:lang="en">A system of writing for the blind in which letters, numerals,
+         and punctuation are made of raised dots distinguishable by the fingers.</skos:definition>
+    <skos:notation>b</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.kb0p-ta35#u">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.kb0p-ta35"/>
+    <skos:prefLabel xml:lang="en">unspecified</skos:prefLabel>
+    <skos:definition xml:lang="en">Special material designation for the tactile material is not
+         specified.</skos:definition>
+    <skos:notation>u</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.kb0p-ta35#d">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.kb0p-ta35"/>
+    <skos:prefLabel xml:lang="en">tactile, with no writing system</skos:prefLabel>
+    <skos:definition xml:lang="en">No text and only communicated as graphic, i.e. a raised line
+         diagram or drawing.</skos:definition>
+    <skos:notation>d</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.kb0p-ta35#z">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.kb0p-ta35"/>
+    <skos:prefLabel xml:lang="en">other</skos:prefLabel>
+    <skos:definition xml:lang="en">Specific material designation other than moon; braille;
+         combination; or tactile, with no writing system.</skos:definition>
+    <skos:notation>z</skos:notation>
+  </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.kb0p-ta35">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
     <dct:type rdf:resource="http://purl.org/dc/dcmitype/Dataset"/>
@@ -22,30 +60,10 @@
     <dct:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0"/>
     <schema:version>1-0-0</schema:version>
     <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.kb0p-ta35#u">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.kb0p-ta35"/>
-    <skos:prefLabel xml:lang="en">unspecified</skos:prefLabel>
-    <skos:definition xml:lang="en">Special material designation for the tactile material is not
-         specified.</skos:definition>
-    <skos:notation>u</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.kb0p-ta35#z">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.kb0p-ta35"/>
-    <skos:prefLabel xml:lang="en">other</skos:prefLabel>
-    <skos:definition xml:lang="en">Specific material designation other than moon; braille;
-         combination; or tactile, with no writing system.</skos:definition>
-    <skos:notation>z</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.kb0p-ta35#a">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.kb0p-ta35"/>
-    <skos:prefLabel xml:lang="en">moon</skos:prefLabel>
-    <skos:definition xml:lang="en">Moon type, which is an abstraction of the
-         print.</skos:definition>
-    <skos:notation>a</skos:notation>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/tactile_material_specific_material_designation/tactile_material_specific_material_designation.ttl"/>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/tactile_material_specific_material_designation/tactile_material_specific_material_designation.nt"/>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/tactile_material_specific_material_designation/tactile_material_specific_material_designation.jsonld"/>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/tactile_material_specific_material_designation/tactile_material_specific_material_designation.html"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.kb0p-ta35#c">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -54,20 +72,12 @@
     <skos:definition xml:lang="en">Combination of two or more types.</skos:definition>
     <skos:notation>c</skos:notation>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.kb0p-ta35#b">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.kb0p-ta35#a">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.kb0p-ta35"/>
-    <skos:prefLabel xml:lang="en">braille</skos:prefLabel>
-    <skos:definition xml:lang="en">A system of writing for the blind in which letters, numerals,
-         and punctuation are made of raised dots distinguishable by the fingers.</skos:definition>
-    <skos:notation>b</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.kb0p-ta35#d">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.kb0p-ta35"/>
-    <skos:prefLabel xml:lang="en">tactile, with no writing system</skos:prefLabel>
-    <skos:definition xml:lang="en">No text and only communicated as graphic, i.e. a raised line
-         diagram or drawing.</skos:definition>
-    <skos:notation>d</skos:notation>
+    <skos:prefLabel xml:lang="en">moon</skos:prefLabel>
+    <skos:definition xml:lang="en">Moon type, which is an abstraction of the
+         print.</skos:definition>
+    <skos:notation>a</skos:notation>
   </rdf:Description>
 </rdf:RDF>

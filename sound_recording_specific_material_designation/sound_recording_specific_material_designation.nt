@@ -1,0 +1,97 @@
+<https://doi.org/10.6069/uwlswd.enb6-8r41#s> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.enb6-8r41> .
+<https://doi.org/10.6069/uwlswd.enb6-8r41#d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.enb6-8r41> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/zero/1.0> .
+<https://doi.org/10.6069/uwlswd.enb6-8r41#i> <http://www.w3.org/2004/02/skos/core#prefLabel> "sound-track film"@en .
+<https://doi.org/10.6069/uwlswd.enb6-8r41#d> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.enb6-8r41> .
+<https://doi.org/10.6069/uwlswd.enb6-8r41#q> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.enb6-8r41#d> <http://www.w3.org/2004/02/skos/core#prefLabel> "sound disc"@en .
+<https://doi.org/10.6069/uwlswd.enb6-8r41#z> <http://www.w3.org/2004/02/skos/core#definition> "Specific material designation other than belt, sound disc,\n         cylinder, sound cartridge, sound-track film, roll, remote, sound cassette, sound-tape reel,\n         or wire recording."@en .
+<https://doi.org/10.6069/uwlswd.enb6-8r41#c> <http://www.w3.org/2004/02/skos/core#prefLabel> "cylinder [obsolete]"@en .
+<https://doi.org/10.6069/uwlswd.enb6-8r41#u> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.enb6-8r41> .
+<https://doi.org/10.6069/uwlswd.enb6-8r41#c> <http://www.w3.org/2004/02/skos/core#notation> "c" .
+<https://doi.org/10.6069/uwlswd.enb6-8r41#w> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.enb6-8r41> .
+<https://doi.org/10.6069/uwlswd.enb6-8r41#w> <http://www.w3.org/2004/02/skos/core#notation> "w" .
+<https://doi.org/10.6069/uwlswd.enb6-8r41> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/sound_recording_specific_material_designation/sound_recording_specific_material_designation.jsonld> .
+<https://doi.org/10.6069/uwlswd.enb6-8r41#w> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.enb6-8r41> <http://purl.org/dc/terms/title> "Sound recording: specific material designation"@en .
+<https://doi.org/10.6069/uwlswd.enb6-8r41#t> <http://www.w3.org/2004/02/skos/core#notation> "t" .
+<https://doi.org/10.6069/uwlswd.enb6-8r41> <http://purl.org/dc/terms/publisher> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.enb6-8r41#i> <http://www.w3.org/2004/02/skos/core#notation> "i" .
+<https://doi.org/10.6069/uwlswd.enb6-8r41#i> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.enb6-8r41> .
+<https://doi.org/10.6069/uwlswd.enb6-8r41#rx> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.enb6-8r41> .
+<https://doi.org/10.6069/uwlswd.enb6-8r41#f> <http://www.w3.org/2004/02/skos/core#prefLabel> "sound-track film [obsolete]"@en .
+<https://doi.org/10.6069/uwlswd.enb6-8r41#b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.enb6-8r41#rx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.enb6-8r41#g> <http://www.w3.org/2004/02/skos/core#notation> "g" .
+<https://doi.org/10.6069/uwlswd.enb6-8r41#s> <http://www.w3.org/2004/02/skos/core#definition> "A container holding a narrow, usually 1/8 inch, sound tape on\n         two reels, one to feed (and rewind) and the other to take up the sound\n         tape."@en .
+<https://doi.org/10.6069/uwlswd.enb6-8r41> <http://purl.org/dc/terms/description> "Special class of sound recording to which the item belongs\n         (e.g., a cylinder)."@en .
+<https://doi.org/10.6069/uwlswd.enb6-8r41> <http://purl.org/dc/terms/contributor> <http://viaf.org/viaf/151962300> .
+<https://doi.org/10.6069/uwlswd.enb6-8r41#i> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.enb6-8r41> <https://schema.org/version> "1-0-0" .
+<https://doi.org/10.6069/uwlswd.enb6-8r41#i> <http://www.w3.org/2004/02/skos/core#definition> "A sound recording on film that is not intended to accompany\n         visual images."@en .
+<https://doi.org/10.6069/uwlswd.enb6-8r41#r> <http://www.w3.org/2004/02/skos/core#definition> "Digital sound recording that is accessed, processed, executed,\n         etc. remotely. In this case, the digital sound recording is used via input/output devices\n         connected electronically to a computer. Frequently this involves connection through a\n         computer network."@en .
+<https://doi.org/10.6069/uwlswd.enb6-8r41> <https://schema.org/disambiguatingDescription> "SKOS Concept Scheme for MARC 00X\n         Values"@en .
+<https://doi.org/10.6069/uwlswd.enb6-8r41#z> <http://www.w3.org/2004/02/skos/core#notation> "z" .
+<https://doi.org/10.6069/uwlswd.enb6-8r41#q> <http://www.w3.org/2004/02/skos/core#notation> "q" .
+<https://doi.org/10.6069/uwlswd.enb6-8r41#t> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.enb6-8r41> .
+<https://doi.org/10.6069/uwlswd.enb6-8r41> <http://purl.org/dc/terms/type> <http://purl.org/dc/dcmitype/Dataset> .
+<https://doi.org/10.6069/uwlswd.enb6-8r41#w> <http://www.w3.org/2004/02/skos/core#prefLabel> "wire recording"@en .
+<https://doi.org/10.6069/uwlswd.enb6-8r41#u> <http://www.w3.org/2004/02/skos/core#definition> "Special material designation for the sound recording is not\n         specified."@en .
+<https://doi.org/10.6069/uwlswd.enb6-8r41#q> <http://www.w3.org/2004/02/skos/core#definition> "Roll of paper, for example, for player piano or player organ,\n         on which the notes of a musical composition are represented by perforations in the paper\n         and from which sound can be mechanically produced."@en .
+<https://doi.org/10.6069/uwlswd.enb6-8r41#z> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.enb6-8r41> .
+<https://doi.org/10.6069/uwlswd.enb6-8r41> <http://purl.org/dc/terms/source> <https://www.loc.gov/marc/bibliographic/bd007.html> .
+<https://doi.org/10.6069/uwlswd.enb6-8r41#g> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.enb6-8r41> .
+<https://doi.org/10.6069/uwlswd.enb6-8r41#r> <http://www.w3.org/2004/02/skos/core#prefLabel> "remote"@en .
+<https://doi.org/10.6069/uwlswd.enb6-8r41#g> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.enb6-8r41#t> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.enb6-8r41#s> <http://www.w3.org/2004/02/skos/core#notation> "s" .
+<https://doi.org/10.6069/uwlswd.enb6-8r41#e> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.enb6-8r41> .
+<https://doi.org/10.6069/uwlswd.enb6-8r41#e> <http://www.w3.org/2004/02/skos/core#notation> "e" .
+<https://doi.org/10.6069/uwlswd.enb6-8r41#r> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.enb6-8r41#b> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.enb6-8r41> .
+<https://doi.org/10.6069/uwlswd.enb6-8r41#e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.enb6-8r41#b> <http://www.w3.org/2004/02/skos/core#notation> "b" .
+<https://doi.org/10.6069/uwlswd.enb6-8r41#s> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.enb6-8r41#b> <http://www.w3.org/2004/02/skos/core#scopeNote> "Commonly known under the trade name Dictabelt."@en .
+<https://doi.org/10.6069/uwlswd.enb6-8r41#w> <http://www.w3.org/2004/02/skos/core#definition> "A round steel wire on which sound waves are magnetically\n         recorded."@en .
+<https://doi.org/10.6069/uwlswd.enb6-8r41#e> <http://www.w3.org/2004/02/skos/core#scopeNote> "Mass-produced cylinders are made of plastic. Early cylinders\n         were made of tinfoil or wax."@en .
+<https://doi.org/10.6069/uwlswd.enb6-8r41#u> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.enb6-8r41> <http://purl.org/dc/terms/alternative> "MARC21 007/01 values for sound recordings expressed using\n         RDF"@en .
+<https://doi.org/10.6069/uwlswd.enb6-8r41#rx> <http://www.w3.org/2004/02/skos/core#prefLabel> "roll [obsolete]"@en .
+<https://doi.org/10.6069/uwlswd.enb6-8r41#rx> <http://www.w3.org/2004/02/skos/core#notation> "r" .
+<https://doi.org/10.6069/uwlswd.enb6-8r41> <http://purl.org/dc/terms/creator> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.enb6-8r41#f> <http://www.w3.org/2004/02/skos/core#notation> "f" .
+<https://doi.org/10.6069/uwlswd.enb6-8r41#d> <http://www.w3.org/2004/02/skos/core#notation> "d" .
+<https://doi.org/10.6069/uwlswd.enb6-8r41#c> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.enb6-8r41> .
+<https://doi.org/10.6069/uwlswd.enb6-8r41> <http://purl.org/dc/terms/provenance> <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> .
+<https://doi.org/10.6069/uwlswd.enb6-8r41#e> <http://www.w3.org/2004/02/skos/core#prefLabel> "cylinder"@en .
+<https://doi.org/10.6069/uwlswd.enb6-8r41#u> <http://www.w3.org/2004/02/skos/core#prefLabel> "unspecified"@en .
+<https://doi.org/10.6069/uwlswd.enb6-8r41#f> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.enb6-8r41> .
+<https://doi.org/10.6069/uwlswd.enb6-8r41#i> <http://www.w3.org/2004/02/skos/core#scopeNote> "Also when it is not known if a sound recording on film is\n         intended to accompany visual images."@en .
+<https://doi.org/10.6069/uwlswd.enb6-8r41#t> <http://www.w3.org/2004/02/skos/core#definition> "An audiotape-transport system with separate supply (feed) and\n         take-up reels. Usually designated an Open Reel or Reel-to-Reel."@en .
+<https://doi.org/10.6069/uwlswd.enb6-8r41> <http://purl.org/dc/elements/1.1/language> "en" .
+<https://doi.org/10.6069/uwlswd.enb6-8r41> <http://purl.org/dc/terms/source> <http://marc21rdf.info> .
+<https://doi.org/10.6069/uwlswd.enb6-8r41#t> <http://www.w3.org/2004/02/skos/core#prefLabel> "sound-tape reel"@en .
+<https://doi.org/10.6069/uwlswd.enb6-8r41> <http://purl.org/dc/terms/format> <http://www.w3.org/ns/formats/N-Triples> .
+<https://doi.org/10.6069/uwlswd.enb6-8r41#d> <http://www.w3.org/2004/02/skos/core#definition> "Thin circular objects that vary in diameter (e.g., 7 in., 10\n         in., 12 in.), on which sound waves, recorded as modulations or pulses, are incised or\n         indented. Compact audio discs are typically 4 3/4 in. in diameter."@en .
+<https://doi.org/10.6069/uwlswd.enb6-8r41> <http://purl.org/dc/terms/issued> "2024" .
+<https://doi.org/10.6069/uwlswd.enb6-8r41#c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.enb6-8r41> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<https://doi.org/10.6069/uwlswd.enb6-8r41#g> <http://www.w3.org/2004/02/skos/core#prefLabel> "sound cartridge"@en .
+<https://doi.org/10.6069/uwlswd.enb6-8r41#z> <http://www.w3.org/2004/02/skos/core#prefLabel> "other"@en .
+<https://doi.org/10.6069/uwlswd.enb6-8r41#s> <http://www.w3.org/2004/02/skos/core#prefLabel> "sound cassette"@en .
+<https://doi.org/10.6069/uwlswd.enb6-8r41#f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.enb6-8r41> <http://purl.org/dc/elements/1.1/contributor> "Metadata Management Associates"@en .
+<https://doi.org/10.6069/uwlswd.enb6-8r41#b> <http://www.w3.org/2004/02/skos/core#prefLabel> "belt"@en .
+<https://doi.org/10.6069/uwlswd.enb6-8r41#u> <http://www.w3.org/2004/02/skos/core#notation> "u" .
+<https://doi.org/10.6069/uwlswd.enb6-8r41#b> <http://www.w3.org/2004/02/skos/core#definition> "A loop of flexible plastic or magnetic film on which audio\n         signals are mechanically recorded."@en .
+<https://doi.org/10.6069/uwlswd.enb6-8r41> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/sound_recording_specific_material_designation/sound_recording_specific_material_designation.rdf> .
+<https://doi.org/10.6069/uwlswd.enb6-8r41> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/sound_recording_specific_material_designation/sound_recording_specific_material_designation.html> .
+<https://doi.org/10.6069/uwlswd.enb6-8r41#g> <http://www.w3.org/2004/02/skos/core#definition> "Containers holding a single sound tape, run as an endless\n         loop."@en .
+<https://doi.org/10.6069/uwlswd.enb6-8r41#q> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.enb6-8r41> .
+<https://doi.org/10.6069/uwlswd.enb6-8r41#r> <http://www.w3.org/2004/02/skos/core#notation> "r" .
+<https://doi.org/10.6069/uwlswd.enb6-8r41#q> <http://www.w3.org/2004/02/skos/core#prefLabel> "roll"@en .
+<https://doi.org/10.6069/uwlswd.enb6-8r41#r> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.enb6-8r41> .
+<https://doi.org/10.6069/uwlswd.enb6-8r41#z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.enb6-8r41> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/sound_recording_specific_material_designation/sound_recording_specific_material_designation.ttl> .
+<https://doi.org/10.6069/uwlswd.enb6-8r41#e> <http://www.w3.org/2004/02/skos/core#definition> "Cylindrical objects on which sound waves are incised or\n         indented in a continuous circular groove."@en .

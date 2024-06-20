@@ -1,0 +1,97 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix schema: <https://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://doi.org/10.6069/uwlswd.4j0p-0k57#a> a skos:Concept ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.4j0p-0k57> ;
+    skos:notation "a" ;
+    skos:prefLabel "1/4 in. [obsolete]"@en .
+
+<https://doi.org/10.6069/uwlswd.4j0p-0k57#b> a skos:Concept ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.4j0p-0k57> ;
+    skos:notation "b" ;
+    skos:prefLabel "1/2 in. [obsolete]"@en .
+
+<https://doi.org/10.6069/uwlswd.4j0p-0k57#c> a skos:Concept ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.4j0p-0k57> ;
+    skos:notation "c" ;
+    skos:prefLabel "1 in. [obsolete]"@en .
+
+<https://doi.org/10.6069/uwlswd.4j0p-0k57#l> a skos:Concept ;
+    skos:definition "1/8 inch."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.4j0p-0k57> ;
+    skos:notation "l" ;
+    skos:prefLabel "1/8 in."@en ;
+    skos:scopeNote "Most cassettes use 1/8 in. tape."@en .
+
+<https://doi.org/10.6069/uwlswd.4j0p-0k57#m> a skos:Concept ;
+    skos:definition "1/4 inch."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.4j0p-0k57> ;
+    skos:notation "m" ;
+    skos:prefLabel "1/4 in."@en ;
+    skos:scopeNote """Nonprofessional, consumer, and some professional reels, and most
+         8-track cartridges use 1/4 in. tape."""@en .
+
+<https://doi.org/10.6069/uwlswd.4j0p-0k57#n> a skos:Concept ;
+    skos:definition """Item is not a tape or does not include a
+         tape."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.4j0p-0k57> ;
+    skos:notation "n" ;
+    skos:prefLabel "not applicable"@en ;
+    skos:scopeNote "For example, the item is a disc."@en .
+
+<https://doi.org/10.6069/uwlswd.4j0p-0k57#o> a skos:Concept ;
+    skos:definition "1/2 inch."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.4j0p-0k57> ;
+    skos:notation "o" ;
+    skos:prefLabel "1/2 in."@en ;
+    skos:scopeNote """Recording studios customarily use 1/2 in. tape. Some 8-track
+         cartridges have been issued in 1/2 in. tape."""@en .
+
+<https://doi.org/10.6069/uwlswd.4j0p-0k57#p> a skos:Concept ;
+    skos:definition "1 inch."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.4j0p-0k57> ;
+    skos:notation "p" ;
+    skos:prefLabel "1 in."@en ;
+    skos:scopeNote """Recording studios often use 1 inch tape. Some 8-track cartridges
+         have been issued in 1 in. tape."""@en .
+
+<https://doi.org/10.6069/uwlswd.4j0p-0k57#u> a skos:Concept ;
+    skos:definition "Tape width is not known."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.4j0p-0k57> ;
+    skos:notation "u" ;
+    skos:prefLabel "unknown"@en .
+
+<https://doi.org/10.6069/uwlswd.4j0p-0k57#z> a skos:Concept ;
+    skos:definition """Width other than 1/8 in., 1/4 in., 1/2 in., or 1
+         in."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.4j0p-0k57> ;
+    skos:notation "z" ;
+    skos:prefLabel "other"@en .
+
+<https://doi.org/10.6069/uwlswd.4j0p-0k57> a skos:ConceptScheme ;
+    dc:contributor "Metadata Management Associates"@en ;
+    dc:language "en" ;
+    dct:alternative """MARC21 007/07 values for sound recordings expressed using
+         RDF"""@en ;
+    dct:contributor <http://viaf.org/viaf/151962300> ;
+    dct:creator <http://viaf.org/viaf/139541794> ;
+    dct:description "Width of the tape."@en ;
+    dct:format <http://www.w3.org/ns/formats/Turtle> ;
+    dct:hasFormat <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/sound_recording_tape_width/sound_recording_tape_width.html>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/sound_recording_tape_width/sound_recording_tape_width.jsonld>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/sound_recording_tape_width/sound_recording_tape_width.nt>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/sound_recording_tape_width/sound_recording_tape_width.rdf> ;
+    dct:issued "2024" ;
+    dct:license <http://creativecommons.org/publicdomain/zero/1.0> ;
+    dct:provenance <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> ;
+    dct:publisher <http://viaf.org/viaf/139541794> ;
+    dct:source <http://marc21rdf.info>,
+        <https://www.loc.gov/marc/bibliographic/bd007.html> ;
+    dct:title "Sound recording: tape width"@en ;
+    dct:type <http://purl.org/dc/dcmitype/Dataset> ;
+    schema:disambiguatingDescription """SKOS Concept Scheme for MARC 00X
+         Values"""@en ;
+    schema:version "1-0-0" .
+

@@ -1,0 +1,230 @@
+<https://doi.org/10.6069/uwlswd.ftkp-4k39> <https://schema.org/version> "1-0-0" .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#db> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/remote-sensing_image_data_type/remote-sensing_image_data_type.rdf> .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#db> <http://www.w3.org/2004/02/skos/core#definition> "Middle infrared."@en .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#pz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39> <http://purl.org/dc/terms/source> <https://www.loc.gov/marc/bibliographic/bd007.html> .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39> <http://purl.org/dc/terms/type> <http://purl.org/dc/dcmitype/Dataset> .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#jz> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.ftkp-4k39> .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#zz> <http://www.w3.org/2004/02/skos/core#notation> "zz" .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#nn> <http://www.w3.org/2004/02/skos/core#prefLabel> "not applicable"@en .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#pa> <http://www.w3.org/2004/02/skos/core#prefLabel> "sonar - water depth"@en .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#pc> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.ftkp-4k39> .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#zz> <http://www.w3.org/2004/02/skos/core#definition> "Data type other than visible light; near infrared; middle\n         infrared; far infrared; thermal infrared; shortwave infrared (SWIR); reflective infrared;\n         combinations; other infrared data; sidelooking airborne radar (SLAR); synthetic aperture\n         radar (SAR)-single frequency; SAR-multi-frequency (multichannel); SAR-like polarization;\n         SAR-cross polarization; infometric SAR; polarmetric SAR; passive microwave mapping; other\n         microwave data; far ultraviolet; middle ultraviolet; near ultraviolet; ultraviolet\n         combinations; other ultraviolet data; multi-spectral, multidata; multi-temporal;\n         combination of various data types; sonar - water depth; sonar - bottom topography images,\n         sidescan; sonar - bottom topography, near surface; sonar - bottom topography, near bottom;\n         seismic surveys; other acoustical data; gravity anomalies (general); free-air; bouger;\n         isostatic; magnetic field; or radiometric surveys."@en .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#ta> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#gf> <http://www.w3.org/2004/02/skos/core#notation> "gf" .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#gf> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.ftkp-4k39> .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#gg> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.ftkp-4k39> .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#pc> <http://www.w3.org/2004/02/skos/core#definition> "Acoustical data type for the remote-sensing image is\n         near-surface."@en .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#rb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/zero/1.0> .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#dv> <http://www.w3.org/2004/02/skos/core#definition> "Combinations."@en .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#mm> <http://www.w3.org/2004/02/skos/core#notation> "mm" .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#rd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#ta> <http://www.w3.org/2004/02/skos/core#prefLabel> "radiometric surveys"@en .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#gz> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.ftkp-4k39> .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#de> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#gf> <http://www.w3.org/2004/02/skos/core#prefLabel> "infometric SAR"@en .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#ra> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.ftkp-4k39> .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#gz> <http://www.w3.org/2004/02/skos/core#definition> "Other microwave data."@en .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#ra> <http://www.w3.org/2004/02/skos/core#definition> "Gravity anomalies (general)"@en .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#pd> <http://www.w3.org/2004/02/skos/core#notation> "pd" .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#dd> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.ftkp-4k39> .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#mb> <http://www.w3.org/2004/02/skos/core#prefLabel> "multi-temporal"@en .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#de> <http://www.w3.org/2004/02/skos/core#notation> "de" .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#jz> <http://www.w3.org/2004/02/skos/core#prefLabel> "other ultraviolet data"@en .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#ga> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#da> <http://www.w3.org/2004/02/skos/core#prefLabel> "near infrared"@en .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#pa> <http://www.w3.org/2004/02/skos/core#notation> "pa" .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#dd> <http://www.w3.org/2004/02/skos/core#definition> "Thermal infrared."@en .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#pc> <http://www.w3.org/2004/02/skos/core#prefLabel> "sonar - bottom topography, near surface"@en .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#sa> <http://www.w3.org/2004/02/skos/core#scopeNote> "Includes inclination, declination, and\n         anomalies."@en .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#ta> <http://www.w3.org/2004/02/skos/core#notation> "ta" .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#nn> <http://www.w3.org/2004/02/skos/core#notation> "nn" .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#gb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#df> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#da> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#pe> <http://www.w3.org/2004/02/skos/core#notation> "pe" .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#gd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#pb> <http://www.w3.org/2004/02/skos/core#definition> "Acoustical data type for the remote-sensing image is sidescan\n         imaging."@en .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#sa> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.ftkp-4k39> .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#pe> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.ftkp-4k39> .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#pz> <http://www.w3.org/2004/02/skos/core#notation> "pz" .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#jb> <http://www.w3.org/2004/02/skos/core#prefLabel> "middle ultraviolet"@en .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#ma> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#rc> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.ftkp-4k39> .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#mm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39> <http://purl.org/dc/terms/format> <http://www.w3.org/ns/formats/N-Triples> .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#pz> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.ftkp-4k39> .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#ja> <http://www.w3.org/2004/02/skos/core#definition> "Far ultraviolet."@en .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#sa> <http://www.w3.org/2004/02/skos/core#prefLabel> "magnetic field"@en .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#pd> <http://www.w3.org/2004/02/skos/core#definition> "Acoustical data type for the remote-sensing image is\n         near-bottom (i.e., taken from 10-150 m. (33-494 ft.) from the bottom)."@en .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#rd> <http://www.w3.org/2004/02/skos/core#prefLabel> "isostatic"@en .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#dd> <http://www.w3.org/2004/02/skos/core#notation> "dd" .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#gc> <http://www.w3.org/2004/02/skos/core#prefLabel> "SAR-multi-frequency (multichannel)"@en .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#gg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#gu> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.ftkp-4k39> .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#aa> <http://www.w3.org/2004/02/skos/core#notation> "aa" .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#gz> <http://www.w3.org/2004/02/skos/core#notation> "gz" .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/remote-sensing_image_data_type/remote-sensing_image_data_type.jsonld> .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#gz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#gg> <http://www.w3.org/2004/02/skos/core#notation> "gg" .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#dd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#mm> <http://www.w3.org/2004/02/skos/core#prefLabel> "combination of various data types"@en .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#dv> <http://www.w3.org/2004/02/skos/core#notation> "dv" .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#rd> <http://www.w3.org/2004/02/skos/core#notation> "rd" .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#aa> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.ftkp-4k39> .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#rb> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.ftkp-4k39> .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#jb> <http://www.w3.org/2004/02/skos/core#definition> "Middle ultraviolet."@en .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#jv> <http://www.w3.org/2004/02/skos/core#notation> "jv" .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#ja> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.ftkp-4k39> .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#gc> <http://www.w3.org/2004/02/skos/core#notation> "gc" .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#gu> <http://www.w3.org/2004/02/skos/core#notation> "gu" .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#uu> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.ftkp-4k39> .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#gb> <http://www.w3.org/2004/02/skos/core#notation> "gb" .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#dz> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.ftkp-4k39> .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/remote-sensing_image_data_type/remote-sensing_image_data_type.html> .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#pb> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.ftkp-4k39> .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#uu> <http://www.w3.org/2004/02/skos/core#definition> "Data type for the remote-sensing image is not\n         known."@en .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#pa> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.ftkp-4k39> .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39> <http://purl.org/dc/terms/alternative> "MARC21 007/09-10 values for remote-sensing images expressed\n         using RDF"@en .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#ma> <http://www.w3.org/2004/02/skos/core#definition> "Multi-spectral, multidata."@en .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#uu> <http://www.w3.org/2004/02/skos/core#prefLabel> "unknown"@en .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39> <http://purl.org/dc/terms/publisher> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#jb> <http://www.w3.org/2004/02/skos/core#notation> "jb" .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#nn> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.ftkp-4k39> .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#de> <http://www.w3.org/2004/02/skos/core#prefLabel> "shortwave infrared (SWIR)"@en .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#db> <http://www.w3.org/2004/02/skos/core#prefLabel> "middle infrared"@en .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#gc> <http://www.w3.org/2004/02/skos/core#definition> "SAR-multi-frequency (multichannel)."@en .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#df> <http://www.w3.org/2004/02/skos/core#notation> "df" .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#ga> <http://www.w3.org/2004/02/skos/core#definition> "Sidelooking airborne radar (SLAR)."@en .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#dv> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.ftkp-4k39> .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39> <http://purl.org/dc/terms/issued> "2024" .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#da> <http://www.w3.org/2004/02/skos/core#definition> "Near infrared."@en .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#de> <http://www.w3.org/2004/02/skos/core#definition> "Shortwave infrared (SWIR)."@en .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#gg> <http://www.w3.org/2004/02/skos/core#prefLabel> "polarmetric SAR"@en .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#ja> <http://www.w3.org/2004/02/skos/core#notation> "ja" .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39> <https://schema.org/disambiguatingDescription> "SKOS Concept Scheme for MARC 00X\n         Values"@en .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#ga> <http://www.w3.org/2004/02/skos/core#prefLabel> "sidelooking airborne radar (SLAR)"@en .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#db> <http://www.w3.org/2004/02/skos/core#notation> "db" .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#zz> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.ftkp-4k39> .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#nn> <http://www.w3.org/2004/02/skos/core#definition> "Data type is not applicable to the remote-sensing image being\n         described."@en .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#df> <http://www.w3.org/2004/02/skos/core#definition> "Reflective infrared."@en .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#dd> <http://www.w3.org/2004/02/skos/core#prefLabel> "thermal infrared"@en .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39> <http://purl.org/dc/terms/title> "Remote-sensing image: data type"@en .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#jc> <http://www.w3.org/2004/02/skos/core#prefLabel> "near ultraviolet"@en .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#gd> <http://www.w3.org/2004/02/skos/core#definition> "SAR-like polarization."@en .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#pc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#aa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#jv> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.ftkp-4k39> .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#rb> <http://www.w3.org/2004/02/skos/core#definition> "Free-air"@en .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#dv> <http://www.w3.org/2004/02/skos/core#prefLabel> "combinations"@en .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#ra> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#dc> <http://www.w3.org/2004/02/skos/core#definition> "Far infrared."@en .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#jz> <http://www.w3.org/2004/02/skos/core#notation> "jz" .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#ga> <http://www.w3.org/2004/02/skos/core#notation> "ga" .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#dz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#ge> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.ftkp-4k39> .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#da> <http://www.w3.org/2004/02/skos/core#notation> "da" .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#pb> <http://www.w3.org/2004/02/skos/core#prefLabel> "sonar - bottom topography images, sidescan"@en .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39> <http://purl.org/dc/terms/creator> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#pd> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.ftkp-4k39> .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#jb> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.ftkp-4k39> .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#jc> <http://www.w3.org/2004/02/skos/core#definition> "Near ultraviolet."@en .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#gb> <http://www.w3.org/2004/02/skos/core#definition> "Synthetic aperture radar (SAR)-Single\n         frequency."@en .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#gf> <http://www.w3.org/2004/02/skos/core#definition> "Infometric SAR."@en .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39> <http://purl.org/dc/terms/provenance> <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#nn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#pz> <http://www.w3.org/2004/02/skos/core#prefLabel> "other acoustical data"@en .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#mb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#jc> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.ftkp-4k39> .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#ma> <http://www.w3.org/2004/02/skos/core#notation> "ma" .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#gc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#mb> <http://www.w3.org/2004/02/skos/core#definition> "Multi-temporal."@en .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#pe> <http://www.w3.org/2004/02/skos/core#prefLabel> "seismic surveys"@en .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#gb> <http://www.w3.org/2004/02/skos/core#prefLabel> "synthetic aperture radar (SAR)-Single frequency"@en .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#uu> <http://www.w3.org/2004/02/skos/core#notation> "uu" .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#dz> <http://www.w3.org/2004/02/skos/core#prefLabel> "other infrared data"@en .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39> <http://purl.org/dc/terms/source> <http://marc21rdf.info> .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#rd> <http://www.w3.org/2004/02/skos/core#definition> "Isostatic"@en .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#sa> <http://www.w3.org/2004/02/skos/core#definition> "Magnetic field"@en .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#ta> <http://www.w3.org/2004/02/skos/core#definition> "Radiometric surveys"@en .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#sa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#rc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#da> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.ftkp-4k39> .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#gd> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.ftkp-4k39> .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#ra> <http://www.w3.org/2004/02/skos/core#notation> "ra" .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#ge> <http://www.w3.org/2004/02/skos/core#definition> "SAR-cross polarization."@en .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#aa> <http://www.w3.org/2004/02/skos/core#prefLabel> "visible light"@en .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39> <http://purl.org/dc/elements/1.1/language> "en" .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#zz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#jz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#rc> <http://www.w3.org/2004/02/skos/core#definition> "Bouger"@en .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#mm> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.ftkp-4k39> .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#mm> <http://www.w3.org/2004/02/skos/core#definition> "More than one data type is applicable to the remote-sensing\n         image."@en .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#gu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39> <http://purl.org/dc/terms/description> "Spectral, acoustic, or magnetic characteristics of the data\n         received by the device producing the remote-sensing image. It can be used to indicate both\n         the wave length of radiation measured and the type of sensor used to measure\n         it."@en .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39> <http://purl.org/dc/elements/1.1/contributor> "Metadata Management Associates"@en .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#ge> <http://www.w3.org/2004/02/skos/core#prefLabel> "SAR-cross polarization"@en .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#jv> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#ma> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.ftkp-4k39> .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#db> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.ftkp-4k39> .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#rb> <http://www.w3.org/2004/02/skos/core#notation> "rb" .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#jv> <http://www.w3.org/2004/02/skos/core#definition> "Ultraviolet combinations."@en .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#ge> <http://www.w3.org/2004/02/skos/core#notation> "ge" .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/remote-sensing_image_data_type/remote-sensing_image_data_type.ttl> .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#jc> <http://www.w3.org/2004/02/skos/core#notation> "jc" .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#pd> <http://www.w3.org/2004/02/skos/core#prefLabel> "sonar - bottom topography, near bottom"@en .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#ja> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#pe> <http://www.w3.org/2004/02/skos/core#definition> "Seismic surveys"@en .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#gu> <http://www.w3.org/2004/02/skos/core#definition> "Passive microwave mapping."@en .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#dz> <http://www.w3.org/2004/02/skos/core#notation> "dz" .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#ge> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#gf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#pz> <http://www.w3.org/2004/02/skos/core#definition> "Other acoustical data"@en .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#dz> <http://www.w3.org/2004/02/skos/core#definition> "Other infrared data."@en .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#ta> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.ftkp-4k39> .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#pd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#gd> <http://www.w3.org/2004/02/skos/core#notation> "gd" .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#jb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#aa> <http://www.w3.org/2004/02/skos/core#definition> "Visible light."@en .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#ma> <http://www.w3.org/2004/02/skos/core#prefLabel> "multi-spectral, multidata"@en .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#uu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#pc> <http://www.w3.org/2004/02/skos/core#notation> "pc" .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#pb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#mb> <http://www.w3.org/2004/02/skos/core#notation> "mb" .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#ra> <http://www.w3.org/2004/02/skos/core#prefLabel> "gravity anomalies (general)"@en .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#gz> <http://www.w3.org/2004/02/skos/core#prefLabel> "other microwave data"@en .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#pa> <http://www.w3.org/2004/02/skos/core#definition> "Acoustical data type for the remote-sensing image for water\n         depth is sonar."@en .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#pa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#dc> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.ftkp-4k39> .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#jc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#rd> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.ftkp-4k39> .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#zz> <http://www.w3.org/2004/02/skos/core#prefLabel> "other"@en .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#pb> <http://www.w3.org/2004/02/skos/core#scopeNote> "Includes both near-surface and near-bottom sensing\n         data."@en .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#de> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.ftkp-4k39> .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#rc> <http://www.w3.org/2004/02/skos/core#notation> "rc" .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#pa> <http://www.w3.org/2004/02/skos/core#scopeNote> "Used for echo-sounding images."@en .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#dc> <http://www.w3.org/2004/02/skos/core#notation> "dc" .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#gc> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.ftkp-4k39> .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#pb> <http://www.w3.org/2004/02/skos/core#notation> "pb" .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#ga> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.ftkp-4k39> .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#gg> <http://www.w3.org/2004/02/skos/core#definition> "Polarmetric SAR."@en .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#rb> <http://www.w3.org/2004/02/skos/core#prefLabel> "free-air"@en .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#rc> <http://www.w3.org/2004/02/skos/core#prefLabel> "bouger"@en .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39> <http://purl.org/dc/terms/contributor> <http://viaf.org/viaf/151962300> .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#sa> <http://www.w3.org/2004/02/skos/core#notation> "sa" .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "far infrared"@en .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#mb> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.ftkp-4k39> .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#df> <http://www.w3.org/2004/02/skos/core#prefLabel> "reflective infrared"@en .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#dv> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#ja> <http://www.w3.org/2004/02/skos/core#prefLabel> "far ultraviolet"@en .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#gu> <http://www.w3.org/2004/02/skos/core#prefLabel> "passive microwave mapping"@en .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#gb> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.ftkp-4k39> .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#df> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.ftkp-4k39> .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#pe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#gd> <http://www.w3.org/2004/02/skos/core#prefLabel> "SAR-like polarization"@en .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#jv> <http://www.w3.org/2004/02/skos/core#prefLabel> "ultraviolet combinations"@en .
+<https://doi.org/10.6069/uwlswd.ftkp-4k39#jz> <http://www.w3.org/2004/02/skos/core#definition> "Other ultraviolet data."@en .

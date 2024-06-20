@@ -1,0 +1,52 @@
+<https://doi.org/10.6069/uwlswd.kb0p-ta35#b> <http://www.w3.org/2004/02/skos/core#definition> "A system of writing for the blind in which letters, numerals,\n         and punctuation are made of raised dots distinguishable by the fingers."@en .
+<https://doi.org/10.6069/uwlswd.kb0p-ta35#u> <http://www.w3.org/2004/02/skos/core#notation> "u" .
+<https://doi.org/10.6069/uwlswd.kb0p-ta35#u> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.kb0p-ta35> .
+<https://doi.org/10.6069/uwlswd.kb0p-ta35#d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.kb0p-ta35#d> <http://www.w3.org/2004/02/skos/core#definition> "No text and only communicated as graphic, i.e. a raised line\n         diagram or drawing."@en .
+<https://doi.org/10.6069/uwlswd.kb0p-ta35#z> <http://www.w3.org/2004/02/skos/core#definition> "Specific material designation other than moon; braille;\n         combination; or tactile, with no writing system."@en .
+<https://doi.org/10.6069/uwlswd.kb0p-ta35> <http://purl.org/dc/terms/creator> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.kb0p-ta35> <http://purl.org/dc/terms/publisher> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.kb0p-ta35#d> <http://www.w3.org/2004/02/skos/core#prefLabel> "tactile, with no writing system"@en .
+<https://doi.org/10.6069/uwlswd.kb0p-ta35#b> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.kb0p-ta35> .
+<https://doi.org/10.6069/uwlswd.kb0p-ta35> <http://purl.org/dc/terms/provenance> <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> .
+<https://doi.org/10.6069/uwlswd.kb0p-ta35#c> <http://www.w3.org/2004/02/skos/core#prefLabel> "combination"@en .
+<https://doi.org/10.6069/uwlswd.kb0p-ta35#z> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.kb0p-ta35> .
+<https://doi.org/10.6069/uwlswd.kb0p-ta35> <http://purl.org/dc/terms/description> "Special class of tactile material to which the item\n         belongs."@en .
+<https://doi.org/10.6069/uwlswd.kb0p-ta35#b> <http://www.w3.org/2004/02/skos/core#prefLabel> "braille"@en .
+<https://doi.org/10.6069/uwlswd.kb0p-ta35> <http://purl.org/dc/terms/contributor> <http://viaf.org/viaf/151962300> .
+<https://doi.org/10.6069/uwlswd.kb0p-ta35#a> <http://www.w3.org/2004/02/skos/core#prefLabel> "moon"@en .
+<https://doi.org/10.6069/uwlswd.kb0p-ta35#d> <http://www.w3.org/2004/02/skos/core#notation> "d" .
+<https://doi.org/10.6069/uwlswd.kb0p-ta35#a> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.kb0p-ta35> .
+<https://doi.org/10.6069/uwlswd.kb0p-ta35> <http://purl.org/dc/terms/source> <http://marc21rdf.info> .
+<https://doi.org/10.6069/uwlswd.kb0p-ta35#c> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.kb0p-ta35> .
+<https://doi.org/10.6069/uwlswd.kb0p-ta35#u> <http://www.w3.org/2004/02/skos/core#definition> "Special material designation for the tactile material is not\n         specified."@en .
+<https://doi.org/10.6069/uwlswd.kb0p-ta35#a> <http://www.w3.org/2004/02/skos/core#notation> "a" .
+<https://doi.org/10.6069/uwlswd.kb0p-ta35> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/tactile_material_specific_material_designation/tactile_material_specific_material_designation.jsonld> .
+<https://doi.org/10.6069/uwlswd.kb0p-ta35#z> <http://www.w3.org/2004/02/skos/core#notation> "z" .
+<https://doi.org/10.6069/uwlswd.kb0p-ta35> <http://purl.org/dc/terms/issued> "2024" .
+<https://doi.org/10.6069/uwlswd.kb0p-ta35#z> <http://www.w3.org/2004/02/skos/core#prefLabel> "other"@en .
+<https://doi.org/10.6069/uwlswd.kb0p-ta35#c> <http://www.w3.org/2004/02/skos/core#notation> "c" .
+<https://doi.org/10.6069/uwlswd.kb0p-ta35> <http://purl.org/dc/terms/title> "Tactile material: specific material designation"@en .
+<https://doi.org/10.6069/uwlswd.kb0p-ta35#b> <http://www.w3.org/2004/02/skos/core#notation> "b" .
+<https://doi.org/10.6069/uwlswd.kb0p-ta35#d> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.kb0p-ta35> .
+<https://doi.org/10.6069/uwlswd.kb0p-ta35> <http://purl.org/dc/elements/1.1/contributor> "Metadata Management Associates"@en .
+<https://doi.org/10.6069/uwlswd.kb0p-ta35> <http://purl.org/dc/elements/1.1/language> "en" .
+<https://doi.org/10.6069/uwlswd.kb0p-ta35#u> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.kb0p-ta35#u> <http://www.w3.org/2004/02/skos/core#prefLabel> "unspecified"@en .
+<https://doi.org/10.6069/uwlswd.kb0p-ta35> <https://schema.org/version> "1-0-0" .
+<https://doi.org/10.6069/uwlswd.kb0p-ta35> <http://purl.org/dc/terms/format> <http://www.w3.org/ns/formats/N-Triples> .
+<https://doi.org/10.6069/uwlswd.kb0p-ta35> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<https://doi.org/10.6069/uwlswd.kb0p-ta35> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/tactile_material_specific_material_designation/tactile_material_specific_material_designation.rdf> .
+<https://doi.org/10.6069/uwlswd.kb0p-ta35#b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.kb0p-ta35> <https://schema.org/disambiguatingDescription> "SKOS Concept Scheme for MARC 00X\n         Values"@en .
+<https://doi.org/10.6069/uwlswd.kb0p-ta35> <http://purl.org/dc/terms/source> <https://www.loc.gov/marc/bibliographic/bd007.html> .
+<https://doi.org/10.6069/uwlswd.kb0p-ta35> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/tactile_material_specific_material_designation/tactile_material_specific_material_designation.html> .
+<https://doi.org/10.6069/uwlswd.kb0p-ta35> <http://purl.org/dc/terms/type> <http://purl.org/dc/dcmitype/Dataset> .
+<https://doi.org/10.6069/uwlswd.kb0p-ta35#z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.kb0p-ta35#a> <http://www.w3.org/2004/02/skos/core#definition> "Moon type, which is an abstraction of the\n         print."@en .
+<https://doi.org/10.6069/uwlswd.kb0p-ta35> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/tactile_material_specific_material_designation/tactile_material_specific_material_designation.ttl> .
+<https://doi.org/10.6069/uwlswd.kb0p-ta35#a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.kb0p-ta35#c> <http://www.w3.org/2004/02/skos/core#definition> "Combination of two or more types."@en .
+<https://doi.org/10.6069/uwlswd.kb0p-ta35#c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.kb0p-ta35> <http://purl.org/dc/terms/alternative> "MARC21 007/01 values for tactile material expressed using\n         RDF"@en .
+<https://doi.org/10.6069/uwlswd.kb0p-ta35> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/zero/1.0> .

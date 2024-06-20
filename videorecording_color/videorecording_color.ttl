@@ -1,0 +1,77 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix schema: <https://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://doi.org/10.6069/uwlswd.d1cd-6t83#a> a skos:Concept ;
+    skos:definition "One color."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.d1cd-6t83> ;
+    skos:notation "a" ;
+    skos:prefLabel "one color"@en ;
+    skos:scopeNote "Not used with videorecordings."@en .
+
+<https://doi.org/10.6069/uwlswd.d1cd-6t83#b> a skos:Concept ;
+    skos:definition "Executed in black-and-white."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.d1cd-6t83> ;
+    skos:notation "b" ;
+    skos:prefLabel "black-and-white"@en .
+
+<https://doi.org/10.6069/uwlswd.d1cd-6t83#c> a skos:Concept ;
+    skos:definition "Executed in more than one color."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.d1cd-6t83> ;
+    skos:notation "c" ;
+    skos:prefLabel "multicolored"@en .
+
+<https://doi.org/10.6069/uwlswd.d1cd-6t83#m> a skos:Concept ;
+    skos:definition """Work or collection is a combination of black-and-white,
+         colored, and/or other images."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.d1cd-6t83> ;
+    skos:notation "m" ;
+    skos:prefLabel "mixed"@en .
+
+<https://doi.org/10.6069/uwlswd.d1cd-6t83#n> a skos:Concept ;
+    skos:definition "Item has no images."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.d1cd-6t83> ;
+    skos:notation "n" ;
+    skos:prefLabel "not applicable"@en ;
+    skos:scopeNote "E.g., a videorecording with sound only."@en .
+
+<https://doi.org/10.6069/uwlswd.d1cd-6t83#u> a skos:Concept ;
+    skos:definition """Color characteristics of an item are not
+         known."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.d1cd-6t83> ;
+    skos:notation "u" ;
+    skos:prefLabel "unknown"@en .
+
+<https://doi.org/10.6069/uwlswd.d1cd-6t83#z> a skos:Concept ;
+    skos:definition """Color other than one color, black-and-white, multicolored, or
+         mixed."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.d1cd-6t83> ;
+    skos:notation "z" ;
+    skos:prefLabel "other"@en .
+
+<https://doi.org/10.6069/uwlswd.d1cd-6t83> a skos:ConceptScheme ;
+    dc:contributor "Metadata Management Associates"@en ;
+    dc:language "en" ;
+    dct:alternative """MARC21 007/03 values for videorecordings expressed using
+         RDF"""@en ;
+    dct:contributor <http://viaf.org/viaf/151962300> ;
+    dct:creator <http://viaf.org/viaf/139541794> ;
+    dct:description "Color characteristics of a videorecording."@en ;
+    dct:format <http://www.w3.org/ns/formats/Turtle> ;
+    dct:hasFormat <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/videorecording_color/videorecording_color.html>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/videorecording_color/videorecording_color.jsonld>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/videorecording_color/videorecording_color.nt>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/videorecording_color/videorecording_color.rdf> ;
+    dct:issued "2024" ;
+    dct:license <http://creativecommons.org/publicdomain/zero/1.0> ;
+    dct:provenance <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> ;
+    dct:publisher <http://viaf.org/viaf/139541794> ;
+    dct:source <http://marc21rdf.info>,
+        <https://www.loc.gov/marc/bibliographic/bd007.html> ;
+    dct:title "Videorecording: color"@en ;
+    dct:type <http://purl.org/dc/dcmitype/Dataset> ;
+    schema:disambiguatingDescription """SKOS Concept Scheme for MARC 00X
+         Values"""@en ;
+    schema:version "1-0-0" .
+

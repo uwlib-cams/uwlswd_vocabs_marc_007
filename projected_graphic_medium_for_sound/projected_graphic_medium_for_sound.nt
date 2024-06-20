@@ -1,0 +1,91 @@
+<https://doi.org/10.6069/uwlswd.yayd-4y11#z> <http://www.w3.org/2004/02/skos/core#definition> "Medium for sound other than no sound (silent), optical sound\n         track on motion picture film, magnetic sound track on motion picture film, magnetic audio\n         tape in cartridge, sound disc, magnetic audio tape on reel, magnetic audio tape in\n         cassette, optical and magnetic sound track on videotape, or videodisc."@en .
+<https://doi.org/10.6069/uwlswd.yayd-4y11#e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.yayd-4y11#h> <http://www.w3.org/2004/02/skos/core#notation> "h" .
+<https://doi.org/10.6069/uwlswd.yayd-4y11#f> <http://www.w3.org/2004/02/skos/core#prefLabel> "magnetic audio tape in cassette"@en .
+<https://doi.org/10.6069/uwlswd.yayd-4y11#gx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.yayd-4y11#f> <http://www.w3.org/2004/02/skos/core#definition> "Sound to accompany an item is carried on a cassette of magnetic\n         audio tape."@en .
+<https://doi.org/10.6069/uwlswd.yayd-4y11#a> <http://www.w3.org/2004/02/skos/core#definition> "Sound to accompany a projected graphic is carried on an optical\n         track that is part of a film."@en .
+<https://doi.org/10.6069/uwlswd.yayd-4y11> <https://schema.org/version> "1-0-0" .
+<https://doi.org/10.6069/uwlswd.yayd-4y11> <http://purl.org/dc/elements/1.1/contributor> "Metadata Management Associates"@en .
+<https://doi.org/10.6069/uwlswd.yayd-4y11#f> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.yayd-4y11> .
+<https://doi.org/10.6069/uwlswd.yayd-4y11#b> <http://www.w3.org/2004/02/skos/core#definition> "Sound to accompany a projected graphic is carried on a magnetic\n         track that is part of the film."@en .
+<https://doi.org/10.6069/uwlswd.yayd-4y11#h> <http://www.w3.org/2004/02/skos/core#definition> "Sound to accompany an item is included as part of a\n         videotape."@en .
+<https://doi.org/10.6069/uwlswd.yayd-4y11#c> <http://www.w3.org/2004/02/skos/core#prefLabel> "magnetic audio tape in cartridge"@en .
+<https://doi.org/10.6069/uwlswd.yayd-4y11#pound> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.yayd-4y11> .
+<https://doi.org/10.6069/uwlswd.yayd-4y11> <http://purl.org/dc/terms/type> <http://purl.org/dc/dcmitype/Dataset> .
+<https://doi.org/10.6069/uwlswd.yayd-4y11#a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.yayd-4y11#b> <http://www.w3.org/2004/02/skos/core#prefLabel> "magnetic sound track on motion picture film"@en .
+<https://doi.org/10.6069/uwlswd.yayd-4y11#i> <http://www.w3.org/2004/02/skos/core#prefLabel> "videodisc"@en .
+<https://doi.org/10.6069/uwlswd.yayd-4y11#gx> <http://www.w3.org/2004/02/skos/core#notation> "g" .
+<https://doi.org/10.6069/uwlswd.yayd-4y11#i> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.yayd-4y11> .
+<https://doi.org/10.6069/uwlswd.yayd-4y11> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/projected_graphic_medium_for_sound/projected_graphic_medium_for_sound.ttl> .
+<https://doi.org/10.6069/uwlswd.yayd-4y11#gx> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.yayd-4y11> .
+<https://doi.org/10.6069/uwlswd.yayd-4y11#c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.yayd-4y11#pound> <http://www.w3.org/2004/02/skos/core#prefLabel> "no sound (silent)"@en .
+<https://doi.org/10.6069/uwlswd.yayd-4y11#i> <http://www.w3.org/2004/02/skos/core#definition> "Sound to accompany an item is included as part of a\n         videodisc."@en .
+<https://doi.org/10.6069/uwlswd.yayd-4y11#u> <http://www.w3.org/2004/02/skos/core#prefLabel> "unknown"@en .
+<https://doi.org/10.6069/uwlswd.yayd-4y11#e> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.yayd-4y11> .
+<https://doi.org/10.6069/uwlswd.yayd-4y11#g> <http://www.w3.org/2004/02/skos/core#definition> "Sound to accompany a projected graphic is carried on both an\n         optical and magnetic track."@en .
+<https://doi.org/10.6069/uwlswd.yayd-4y11#pound> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.yayd-4y11#d> <http://www.w3.org/2004/02/skos/core#scopeNote> "This method of providing for sound is typically used with\n         filmstrips. Sound discs include 7, 10, and 12 in. vinyl phonograph records and 4 3/4 in.\n         compact discs."@en .
+<https://doi.org/10.6069/uwlswd.yayd-4y11> <http://purl.org/dc/terms/publisher> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.yayd-4y11#e> <http://www.w3.org/2004/02/skos/core#prefLabel> "magnetic audio tape on reel"@en .
+<https://doi.org/10.6069/uwlswd.yayd-4y11#z> <http://www.w3.org/2004/02/skos/core#prefLabel> "other"@en .
+<https://doi.org/10.6069/uwlswd.yayd-4y11#a> <http://www.w3.org/2004/02/skos/core#scopeNote> "For 16 and 35 mm. films, it is usually assumed that sound is\n         carried on an optical track."@en .
+<https://doi.org/10.6069/uwlswd.yayd-4y11#pound> <http://www.w3.org/2004/02/skos/core#notation> "#" .
+<https://doi.org/10.6069/uwlswd.yayd-4y11#a> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.yayd-4y11> .
+<https://doi.org/10.6069/uwlswd.yayd-4y11> <http://purl.org/dc/terms/description> "Specific medium used to carry the sound of an item (whether the\n         sound is on the projected graphic or separate) and the type of sound playback required for\n         the item."@en .
+<https://doi.org/10.6069/uwlswd.yayd-4y11#d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.yayd-4y11#i> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.yayd-4y11#h> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.yayd-4y11> .
+<https://doi.org/10.6069/uwlswd.yayd-4y11#i> <http://www.w3.org/2004/02/skos/core#notation> "i" .
+<https://doi.org/10.6069/uwlswd.yayd-4y11#a> <http://www.w3.org/2004/02/skos/core#notation> "a" .
+<https://doi.org/10.6069/uwlswd.yayd-4y11> <http://purl.org/dc/terms/issued> "2024" .
+<https://doi.org/10.6069/uwlswd.yayd-4y11> <http://purl.org/dc/terms/contributor> <http://viaf.org/viaf/151962300> .
+<https://doi.org/10.6069/uwlswd.yayd-4y11#c> <http://www.w3.org/2004/02/skos/core#definition> "Sound to accompany an item is carried on a magnetic audio tape\n         cartridge."@en .
+<https://doi.org/10.6069/uwlswd.yayd-4y11#d> <http://www.w3.org/2004/02/skos/core#definition> "Sound to accompany an item is carried on a sound\n         disc."@en .
+<https://doi.org/10.6069/uwlswd.yayd-4y11#c> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.yayd-4y11> .
+<https://doi.org/10.6069/uwlswd.yayd-4y11> <https://schema.org/disambiguatingDescription> "SKOS Concept Scheme for MARC 00X\n         Values"@en .
+<https://doi.org/10.6069/uwlswd.yayd-4y11#e> <http://www.w3.org/2004/02/skos/core#definition> "Sound to accompany an item is carried on a reel of magnetic\n         audio tape."@en .
+<https://doi.org/10.6069/uwlswd.yayd-4y11#e> <http://www.w3.org/2004/02/skos/core#notation> "e" .
+<https://doi.org/10.6069/uwlswd.yayd-4y11#d> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.yayd-4y11> .
+<https://doi.org/10.6069/uwlswd.yayd-4y11#g> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.yayd-4y11#g> <http://www.w3.org/2004/02/skos/core#prefLabel> "optical and magnetic sound track on motion picture\n         film"@en .
+<https://doi.org/10.6069/uwlswd.yayd-4y11> <http://purl.org/dc/terms/title> "Projected graphic: medium for sound"@en .
+<https://doi.org/10.6069/uwlswd.yayd-4y11#c> <http://www.w3.org/2004/02/skos/core#notation> "c" .
+<https://doi.org/10.6069/uwlswd.yayd-4y11#u> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.yayd-4y11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<https://doi.org/10.6069/uwlswd.yayd-4y11#b> <http://www.w3.org/2004/02/skos/core#notation> "b" .
+<https://doi.org/10.6069/uwlswd.yayd-4y11#h> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.yayd-4y11#h> <http://www.w3.org/2004/02/skos/core#prefLabel> "videotape"@en .
+<https://doi.org/10.6069/uwlswd.yayd-4y11> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/projected_graphic_medium_for_sound/projected_graphic_medium_for_sound.html> .
+<https://doi.org/10.6069/uwlswd.yayd-4y11> <http://purl.org/dc/terms/source> <https://www.loc.gov/marc/bibliographic/bd007.html> .
+<https://doi.org/10.6069/uwlswd.yayd-4y11#f> <http://www.w3.org/2004/02/skos/core#notation> "f" .
+<https://doi.org/10.6069/uwlswd.yayd-4y11#h> <http://www.w3.org/2004/02/skos/core#scopeNote> "Videotape is not ordinarily used to record only\n         sound."@en .
+<https://doi.org/10.6069/uwlswd.yayd-4y11> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/zero/1.0> .
+<https://doi.org/10.6069/uwlswd.yayd-4y11#b> <http://www.w3.org/2004/02/skos/core#scopeNote> "70 mm. motion picture films often include magnetic sound\n         tracks."@en .
+<https://doi.org/10.6069/uwlswd.yayd-4y11#g> <http://www.w3.org/2004/02/skos/core#notation> "g" .
+<https://doi.org/10.6069/uwlswd.yayd-4y11#u> <http://www.w3.org/2004/02/skos/core#definition> "Medium for sound is not known."@en .
+<https://doi.org/10.6069/uwlswd.yayd-4y11> <http://purl.org/dc/terms/alternative> "MARC21 007/06 values for projected graphics expressed using\n         RDF"@en .
+<https://doi.org/10.6069/uwlswd.yayd-4y11> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/projected_graphic_medium_for_sound/projected_graphic_medium_for_sound.rdf> .
+<https://doi.org/10.6069/uwlswd.yayd-4y11#b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.yayd-4y11#a> <http://www.w3.org/2004/02/skos/core#prefLabel> "optical sound track on motion picture film"@en .
+<https://doi.org/10.6069/uwlswd.yayd-4y11#g> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.yayd-4y11> .
+<https://doi.org/10.6069/uwlswd.yayd-4y11> <http://purl.org/dc/terms/creator> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.yayd-4y11#z> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.yayd-4y11> .
+<https://doi.org/10.6069/uwlswd.yayd-4y11#i> <http://www.w3.org/2004/02/skos/core#scopeNote> "Videodiscs are not ordinarily used to record only sound. A\n         distinction must be made between videodiscs (e.g., 12 in. laser-scan videodiscs that\n         include video information) and compact discs that are used to record sound only (e.g., 4\n         3/4 in. audio compact discs). The technology to physically record video or audio\n         information on digital disc systems is the same."@en .
+<https://doi.org/10.6069/uwlswd.yayd-4y11#u> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.yayd-4y11> .
+<https://doi.org/10.6069/uwlswd.yayd-4y11#d> <http://www.w3.org/2004/02/skos/core#prefLabel> "sound disc"@en .
+<https://doi.org/10.6069/uwlswd.yayd-4y11#pound> <http://www.w3.org/2004/02/skos/core#definition> "Sound is not present."@en .
+<https://doi.org/10.6069/uwlswd.yayd-4y11> <http://purl.org/dc/terms/provenance> <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> .
+<https://doi.org/10.6069/uwlswd.yayd-4y11#f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.yayd-4y11#u> <http://www.w3.org/2004/02/skos/core#notation> "u" .
+<https://doi.org/10.6069/uwlswd.yayd-4y11#z> <http://www.w3.org/2004/02/skos/core#notation> "z" .
+<https://doi.org/10.6069/uwlswd.yayd-4y11#d> <http://www.w3.org/2004/02/skos/core#notation> "d" .
+<https://doi.org/10.6069/uwlswd.yayd-4y11> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/projected_graphic_medium_for_sound/projected_graphic_medium_for_sound.jsonld> .
+<https://doi.org/10.6069/uwlswd.yayd-4y11#gx> <http://www.w3.org/2004/02/skos/core#prefLabel> "other [obsolete]"@en .
+<https://doi.org/10.6069/uwlswd.yayd-4y11#b> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.yayd-4y11> .
+<https://doi.org/10.6069/uwlswd.yayd-4y11> <http://purl.org/dc/terms/source> <http://marc21rdf.info> .
+<https://doi.org/10.6069/uwlswd.yayd-4y11> <http://purl.org/dc/elements/1.1/language> "en" .
+<https://doi.org/10.6069/uwlswd.yayd-4y11> <http://purl.org/dc/terms/format> <http://www.w3.org/ns/formats/N-Triples> .
+<https://doi.org/10.6069/uwlswd.yayd-4y11#z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .

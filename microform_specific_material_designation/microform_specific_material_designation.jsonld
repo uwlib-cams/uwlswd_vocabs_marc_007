@@ -1,0 +1,424 @@
+[
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.exa1-z360#b",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Consists of a strip of photographic film wound onto a single\n         core (or hub), housed in a protective container. Microfilm cartridges require reading\n         equipment (readers and reader-printers) that is specifically adapted for their use.\n         Normally, the end of the film is left free for threading into such equipment. Common film\n         lengths, widths, and reduction ratios are the same as those of microfilm\n         reels."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.exa1-z360"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "b"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "microfilm cartridge"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.exa1-z360#g",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Sheet of opaque material bearing a number of microimages\n         arranged in a two-dimensional array. Microopaques resemble microfiche. Common dimensions\n         are 3x5 in. and 6x9 in. Common reduction ratios are approximately 24:1 or 20:1.\n         Microopaques usually have identifying information in text that is large enough to read\n         without magnification."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.exa1-z360"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "g"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "microopaque"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.exa1-z360#z",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Specific material designation other than aperture card,\n         microfilm cartridge, microfilm cassette, microfilm reel, microfiche, microfiche cassette,\n         microopaque, microfilm slip, microfilm roll."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.exa1-z360"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "z"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "other"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#scopeNote": [
+      {
+        "@language": "en",
+        "@value": "Includes microchip (a sheet of photographic film of very small\n         dimensions), microdot (a minuscule piece of photgraphic film with ultrahigh reduction\n         ration), microform scroll (a roll of unusually wide photographic film)."
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.exa1-z360#a",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Card with one or more rectangular opening(s), or aperture(s),\n         specifically prepared for the mounting or insertion of a piece of photographic film\n         containing one or more microimage(s). The cards are usually EAM (Electrical Accounting\n         Machine) punched cards, commonly known as IBM cards, that are standardized for use in\n         card-handling machines. Such cards contain only one aperture and most frequently have only\n         one microimage."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.exa1-z360"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "a"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "aperture card"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.exa1-z360",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#ConceptScheme"
+    ],
+    "http://purl.org/dc/elements/1.1/contributor": [
+      {
+        "@language": "en",
+        "@value": "Metadata Management Associates"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/language": [
+      {
+        "@value": "en"
+      }
+    ],
+    "http://purl.org/dc/terms/alternative": [
+      {
+        "@language": "en",
+        "@value": "MARC21 007/01 values for microform expressed using\n         RDF"
+      }
+    ],
+    "http://purl.org/dc/terms/contributor": [
+      {
+        "@id": "http://viaf.org/viaf/151962300"
+      }
+    ],
+    "http://purl.org/dc/terms/creator": [
+      {
+        "@id": "http://viaf.org/viaf/139541794"
+      }
+    ],
+    "http://purl.org/dc/terms/description": [
+      {
+        "@language": "en",
+        "@value": "Special class of microform to which the item belongs. (e.g., a\n         microopaque)."
+      }
+    ],
+    "http://purl.org/dc/terms/format": [
+      {
+        "@id": "http://www.w3.org/ns/formats/JSON-LD"
+      }
+    ],
+    "http://purl.org/dc/terms/hasFormat": [
+      {
+        "@id": "https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/microform_specific_material_designation/microform_specific_material_designation.html"
+      },
+      {
+        "@id": "https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/microform_specific_material_designation/microform_specific_material_designation.rdf"
+      },
+      {
+        "@id": "https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/microform_specific_material_designation/microform_specific_material_designation.nt"
+      },
+      {
+        "@id": "https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/microform_specific_material_designation/microform_specific_material_designation.ttl"
+      }
+    ],
+    "http://purl.org/dc/terms/issued": [
+      {
+        "@value": "2024"
+      }
+    ],
+    "http://purl.org/dc/terms/license": [
+      {
+        "@id": "http://creativecommons.org/publicdomain/zero/1.0"
+      }
+    ],
+    "http://purl.org/dc/terms/provenance": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues"
+      }
+    ],
+    "http://purl.org/dc/terms/publisher": [
+      {
+        "@id": "http://viaf.org/viaf/139541794"
+      }
+    ],
+    "http://purl.org/dc/terms/source": [
+      {
+        "@id": "https://www.loc.gov/marc/bibliographic/bd007.html"
+      },
+      {
+        "@id": "http://marc21rdf.info"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "en",
+        "@value": "Microform: specific material designation"
+      }
+    ],
+    "http://purl.org/dc/terms/type": [
+      {
+        "@id": "http://purl.org/dc/dcmitype/Dataset"
+      }
+    ],
+    "https://schema.org/disambiguatingDescription": [
+      {
+        "@language": "en",
+        "@value": "SKOS Concept Scheme for MARC 00X\n         Values"
+      }
+    ],
+    "https://schema.org/version": [
+      {
+        "@value": "1-0-0"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.exa1-z360#h",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "A short strip of microfilm cut from a roll."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.exa1-z360"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "h"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "microfilm slip"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.exa1-z360#e",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Transparent sheet of photographic film containing microimages\n         arranged in a grid pattern (a two-dimensional array) and having a heading that contains\n         identifying information in text that is large enough to be read without magnification. Grid\n         patterns vary with reduction ratios. Microfiches are grouped in five ranges of reduction\n         ratios: low reduction (ratios up to and including 15:1), normal reduction (ratios greater\n         than 15:1 up to and including 30:1), high reduction (ratios greater than 30:1 up to and\n         including 60:1), very high reduction (ratios greater than 60:1 up to and including 90:1)\n         and ultrahigh reduction (ratios greater than 90:1). The most common microfiche are made by\n         filming textual or graphic material at a reduction ratio of approximately 24:1. Such\n         microfiche are 105 mm. high and 148 mm. wide (approximately 4x6 in.) and have a grid\n         pattern that accommodates 98 microimages made from documents that are no more than 11 in.\n         high and 8 1/2 in. wide. The heading area is the width of one row and is found directly\n         above the first row of microimages. The most common COM (Computer-Output-Microfilm)\n         microfiche are made by recording computer-generated data at an effective reduction ratio of\n         48:1 on a 105 mm. x 148 mm. sheet of film. Such microfiche have a grid pattern of 15 rows\n         and 18 columns, comprising 270 microimages. The heading area is the width of one row and is\n         found directly above the first row of microimages. Microfiche made at ultrahigh ratios are\n         commonly called ultrafiche. Ratios and grid patterns have not been standardized for these\n         microfiche and differ according to application and method for production."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.exa1-z360"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "e"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "microfiche"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.exa1-z360#j",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "A wound length of microfilm not on a reel, cartridge,\n         etc."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.exa1-z360"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "j"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "microfilm roll"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.exa1-z360#c",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Analogous to the sound tape cassette. Consists of a strip of\n         photographic film wound onto a double core, housed in a protective container. Microfilm\n         cassettes require reading equipment (readers and reader-printers) that is specifically\n         adapted for their use. Because they are double-cored, they are not threaded when used in\n         such readers and reader-printers. Usual film lengths are 100 ft (approximately 30 m.) or\n         less. Common film width is 16 mm. and usual reduction ratios are those of microfilm reels\n         and cartridges."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.exa1-z360"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "c"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "microfilm cassette"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.exa1-z360#d",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Consists of a strip of photographic film wound onto an\n         unenclosed flanged holder (or reel). Microfilm reels require manual threading when used in\n         readers and reader-printers and require equipment that is adapted for their use. Film\n         lengths are usually 100 ft. (approximately 30 m.) or less. For microimages produced by\n         filming textual and graphic materials, the most common film widths are 35 mm. and 16 mm.\n         and reduction ratios commonly range from about 10:1 to about 20:1. Sixteen millimeter film\n         with effective ratios of either 24:1 or 48:1 is most often used for COM\n         (Computer-Output-Microfilm) microimages."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.exa1-z360"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "d"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "microfilm reel"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.exa1-z360#f",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Microfiche cassette."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.exa1-z360"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "f"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "microfiche cassette"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.exa1-z360#u",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Special material designation for the microform is not\n         specified."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.exa1-z360"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "u"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "unspecified"
+      }
+    ]
+  }
+]

@@ -1,0 +1,71 @@
+<https://doi.org/10.6069/uwlswd.fh0k-hk62> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<https://doi.org/10.6069/uwlswd.fh0k-hk62#f> <http://www.w3.org/2004/02/skos/core#definition> "Sixteen track configuration is used in professional recording\n         studios to permit separate control of various tracks which are later mixed to produce a\n         stereophonic or quadraphonic recording."@en .
+<https://doi.org/10.6069/uwlswd.fh0k-hk62#f> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.fh0k-hk62> .
+<https://doi.org/10.6069/uwlswd.fh0k-hk62> <http://purl.org/dc/terms/source> <https://www.loc.gov/marc/bibliographic/bd007.html> .
+<https://doi.org/10.6069/uwlswd.fh0k-hk62> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/zero/1.0> .
+<https://doi.org/10.6069/uwlswd.fh0k-hk62> <http://purl.org/dc/terms/description> "Number of tracks on a tape."@en .
+<https://doi.org/10.6069/uwlswd.fh0k-hk62#f> <http://www.w3.org/2004/02/skos/core#notation> "f" .
+<https://doi.org/10.6069/uwlswd.fh0k-hk62#n> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.fh0k-hk62#c> <http://www.w3.org/2004/02/skos/core#scopeNote> "It is used with standard audio cassettes to permit stereophonic\n         recordings in two directions, and with quadraphonic recordings in one\n         direction."@en .
+<https://doi.org/10.6069/uwlswd.fh0k-hk62#d> <http://www.w3.org/2004/02/skos/core#scopeNote> "Commercial eight track cartridges customarily include four pairs\n         of stereophonic (two track) recordings."@en .
+<https://doi.org/10.6069/uwlswd.fh0k-hk62#z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.fh0k-hk62#e> <http://www.w3.org/2004/02/skos/core#definition> "Twelve track configuration is used in professional recording\n         studios to permit separate control of various tracks which are later mixed to produce a\n         stereophonic or quadraphonic recording."@en .
+<https://doi.org/10.6069/uwlswd.fh0k-hk62#d> <http://www.w3.org/2004/02/skos/core#prefLabel> "eight track"@en .
+<https://doi.org/10.6069/uwlswd.fh0k-hk62#b> <http://www.w3.org/2004/02/skos/core#notation> "b" .
+<https://doi.org/10.6069/uwlswd.fh0k-hk62#a> <http://www.w3.org/2004/02/skos/core#definition> "Full or single track."@en .
+<https://doi.org/10.6069/uwlswd.fh0k-hk62#u> <http://www.w3.org/2004/02/skos/core#definition> "Tape configuration is not known."@en .
+<https://doi.org/10.6069/uwlswd.fh0k-hk62#a> <http://www.w3.org/2004/02/skos/core#prefLabel> "full (1) track"@en .
+<https://doi.org/10.6069/uwlswd.fh0k-hk62#n> <http://www.w3.org/2004/02/skos/core#notation> "n" .
+<https://doi.org/10.6069/uwlswd.fh0k-hk62#d> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.fh0k-hk62> .
+<https://doi.org/10.6069/uwlswd.fh0k-hk62> <http://purl.org/dc/terms/publisher> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.fh0k-hk62#c> <http://www.w3.org/2004/02/skos/core#notation> "c" .
+<https://doi.org/10.6069/uwlswd.fh0k-hk62> <http://purl.org/dc/terms/contributor> <http://viaf.org/viaf/151962300> .
+<https://doi.org/10.6069/uwlswd.fh0k-hk62> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/sound_recording_tape_configuration/sound_recording_tape_configuration.html> .
+<https://doi.org/10.6069/uwlswd.fh0k-hk62#f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.fh0k-hk62#u> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.fh0k-hk62> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/sound_recording_tape_configuration/sound_recording_tape_configuration.jsonld> .
+<https://doi.org/10.6069/uwlswd.fh0k-hk62> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/sound_recording_tape_configuration/sound_recording_tape_configuration.ttl> .
+<https://doi.org/10.6069/uwlswd.fh0k-hk62#b> <http://www.w3.org/2004/02/skos/core#prefLabel> "half (2) track"@en .
+<https://doi.org/10.6069/uwlswd.fh0k-hk62#n> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.fh0k-hk62> .
+<https://doi.org/10.6069/uwlswd.fh0k-hk62> <http://purl.org/dc/terms/source> <http://marc21rdf.info> .
+<https://doi.org/10.6069/uwlswd.fh0k-hk62> <http://purl.org/dc/elements/1.1/language> "en" .
+<https://doi.org/10.6069/uwlswd.fh0k-hk62> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/sound_recording_tape_configuration/sound_recording_tape_configuration.rdf> .
+<https://doi.org/10.6069/uwlswd.fh0k-hk62#a> <http://www.w3.org/2004/02/skos/core#notation> "a" .
+<https://doi.org/10.6069/uwlswd.fh0k-hk62> <http://purl.org/dc/terms/format> <http://www.w3.org/ns/formats/N-Triples> .
+<https://doi.org/10.6069/uwlswd.fh0k-hk62#u> <http://www.w3.org/2004/02/skos/core#prefLabel> "unknown"@en .
+<https://doi.org/10.6069/uwlswd.fh0k-hk62#e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.fh0k-hk62#c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.fh0k-hk62> <https://schema.org/version> "1-0-0" .
+<https://doi.org/10.6069/uwlswd.fh0k-hk62#z> <http://www.w3.org/2004/02/skos/core#prefLabel> "other"@en .
+<https://doi.org/10.6069/uwlswd.fh0k-hk62> <https://schema.org/disambiguatingDescription> "SKOS Concept Scheme for MARC 00X\n         Values"@en .
+<https://doi.org/10.6069/uwlswd.fh0k-hk62#u> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.fh0k-hk62> .
+<https://doi.org/10.6069/uwlswd.fh0k-hk62#d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.fh0k-hk62#z> <http://www.w3.org/2004/02/skos/core#definition> "Tape configuration other than half (2) track, quarter (4)\n         track, eight track, twelve track, or sixteen track."@en .
+<https://doi.org/10.6069/uwlswd.fh0k-hk62#z> <http://www.w3.org/2004/02/skos/core#notation> "z" .
+<https://doi.org/10.6069/uwlswd.fh0k-hk62#u> <http://www.w3.org/2004/02/skos/core#notation> "u" .
+<https://doi.org/10.6069/uwlswd.fh0k-hk62#d> <http://www.w3.org/2004/02/skos/core#notation> "d" .
+<https://doi.org/10.6069/uwlswd.fh0k-hk62#a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.fh0k-hk62#e> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.fh0k-hk62> .
+<https://doi.org/10.6069/uwlswd.fh0k-hk62#n> <http://www.w3.org/2004/02/skos/core#scopeNote> "For example, the item is a disc."@en .
+<https://doi.org/10.6069/uwlswd.fh0k-hk62#c> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.fh0k-hk62> .
+<https://doi.org/10.6069/uwlswd.fh0k-hk62> <http://purl.org/dc/terms/creator> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.fh0k-hk62#b> <http://www.w3.org/2004/02/skos/core#scopeNote> "It is used with audio cassettes to permit monoaural recordings\n         in two directions and with stereophonic recordings in one direction."@en .
+<https://doi.org/10.6069/uwlswd.fh0k-hk62#b> <http://www.w3.org/2004/02/skos/core#definition> "Half track configuration is used to permit two tracks\n         (channels) to be recorded on one tape."@en .
+<https://doi.org/10.6069/uwlswd.fh0k-hk62> <http://purl.org/dc/terms/title> "Sound recording: tape configuration"@en .
+<https://doi.org/10.6069/uwlswd.fh0k-hk62#b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.fh0k-hk62> <http://purl.org/dc/terms/provenance> <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> .
+<https://doi.org/10.6069/uwlswd.fh0k-hk62#z> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.fh0k-hk62> .
+<https://doi.org/10.6069/uwlswd.fh0k-hk62#a> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.fh0k-hk62> .
+<https://doi.org/10.6069/uwlswd.fh0k-hk62#n> <http://www.w3.org/2004/02/skos/core#prefLabel> "not applicable"@en .
+<https://doi.org/10.6069/uwlswd.fh0k-hk62#n> <http://www.w3.org/2004/02/skos/core#definition> "Item is not a tape or does not include a\n         tape."@en .
+<https://doi.org/10.6069/uwlswd.fh0k-hk62#e> <http://www.w3.org/2004/02/skos/core#prefLabel> "twelve track"@en .
+<https://doi.org/10.6069/uwlswd.fh0k-hk62#d> <http://www.w3.org/2004/02/skos/core#definition> "Eight track configuration is used with monaural, stereophonic,\n         and quadraphonic recordings."@en .
+<https://doi.org/10.6069/uwlswd.fh0k-hk62#c> <http://www.w3.org/2004/02/skos/core#prefLabel> "quarter (4) track"@en .
+<https://doi.org/10.6069/uwlswd.fh0k-hk62> <http://purl.org/dc/terms/issued> "2024" .
+<https://doi.org/10.6069/uwlswd.fh0k-hk62#f> <http://www.w3.org/2004/02/skos/core#prefLabel> "sixteen track"@en .
+<https://doi.org/10.6069/uwlswd.fh0k-hk62#c> <http://www.w3.org/2004/02/skos/core#definition> "Quarter track configuration is used to permit four tracks\n         (channels) to be recorded on one tape."@en .
+<https://doi.org/10.6069/uwlswd.fh0k-hk62#e> <http://www.w3.org/2004/02/skos/core#notation> "e" .
+<https://doi.org/10.6069/uwlswd.fh0k-hk62#b> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.fh0k-hk62> .
+<https://doi.org/10.6069/uwlswd.fh0k-hk62> <http://purl.org/dc/terms/alternative> "MARC21 007/08 values for sound recordings expressed using\n         RDF"@en .
+<https://doi.org/10.6069/uwlswd.fh0k-hk62> <http://purl.org/dc/terms/type> <http://purl.org/dc/dcmitype/Dataset> .
+<https://doi.org/10.6069/uwlswd.fh0k-hk62> <http://purl.org/dc/elements/1.1/contributor> "Metadata Management Associates"@en .

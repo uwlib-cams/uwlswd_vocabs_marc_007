@@ -1,5 +1,59 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schema="https://schema.org/" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:dct="http://purl.org/dc/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:schema="https://schema.org/"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.3y64-zd20#z">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.3y64-zd20"/>
+    <skos:prefLabel xml:lang="en">other</skos:prefLabel>
+    <skos:definition xml:lang="en">Platform use category other than meteorological, surface
+         observing, space observing, or mixed uses.</skos:definition>
+    <skos:notation>z</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.3y64-zd20#b">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.3y64-zd20"/>
+    <skos:prefLabel xml:lang="en">surface observing</skos:prefLabel>
+    <skos:definition xml:lang="en">Primary use for the platform is to make remote-sensing images
+         of the surface of a planet, moon, etc. (including the Earth).</skos:definition>
+    <skos:notation>b</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.3y64-zd20#a">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.3y64-zd20"/>
+    <skos:prefLabel xml:lang="en">meteorological</skos:prefLabel>
+    <skos:definition xml:lang="en">Primary use for the platform is to make remote-sensing images
+         of meteorological events and conditions.</skos:definition>
+    <skos:notation>a</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.3y64-zd20#m">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.3y64-zd20"/>
+    <skos:prefLabel xml:lang="en">mixed uses</skos:prefLabel>
+    <skos:definition xml:lang="en">Platform from which remote-sensing images can be made is
+         designed for a variety of uses.</skos:definition>
+    <skos:notation>m</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.3y64-zd20#c">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.3y64-zd20"/>
+    <skos:prefLabel xml:lang="en">space observing</skos:prefLabel>
+    <skos:definition xml:lang="en">Primary use for the platform is to make remote-sensing images
+         of space.</skos:definition>
+    <skos:notation>c</skos:notation>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.3y64-zd20#n">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.3y64-zd20"/>
+    <skos:prefLabel xml:lang="en">not applicable</skos:prefLabel>
+    <skos:definition xml:lang="en">Identification of platform use category is not
+         applicable.</skos:definition>
+    <skos:notation>n</skos:notation>
+  </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.3y64-zd20">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
     <dct:type rdf:resource="http://purl.org/dc/dcmitype/Dataset"/>
@@ -22,46 +76,10 @@
     <dct:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0"/>
     <schema:version>1-0-0</schema:version>
     <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.3y64-zd20#a">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.3y64-zd20"/>
-    <skos:prefLabel xml:lang="en">meteorological</skos:prefLabel>
-    <skos:definition xml:lang="en">Primary use for the platform is to make remote-sensing images
-         of meteorological events and conditions.</skos:definition>
-    <skos:notation>a</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.3y64-zd20#z">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.3y64-zd20"/>
-    <skos:prefLabel xml:lang="en">other</skos:prefLabel>
-    <skos:definition xml:lang="en">Platform use category other than meteorological, surface
-         observing, space observing, or mixed uses.</skos:definition>
-    <skos:notation>z</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.3y64-zd20#b">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.3y64-zd20"/>
-    <skos:prefLabel xml:lang="en">surface observing</skos:prefLabel>
-    <skos:definition xml:lang="en">Primary use for the platform is to make remote-sensing images
-         of the surface of a planet, moon, etc. (including the Earth).</skos:definition>
-    <skos:notation>b</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.3y64-zd20#n">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.3y64-zd20"/>
-    <skos:prefLabel xml:lang="en">not applicable</skos:prefLabel>
-    <skos:definition xml:lang="en">Identification of platform use category is not
-         applicable.</skos:definition>
-    <skos:notation>n</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.3y64-zd20#m">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.3y64-zd20"/>
-    <skos:prefLabel xml:lang="en">mixed uses</skos:prefLabel>
-    <skos:definition xml:lang="en">Platform from which remote-sensing images can be made is
-         designed for a variety of uses.</skos:definition>
-    <skos:notation>m</skos:notation>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/remote-sensing_image_platform_use_category/remote-sensing_image_platform_use_category.ttl"/>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/remote-sensing_image_platform_use_category/remote-sensing_image_platform_use_category.nt"/>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/remote-sensing_image_platform_use_category/remote-sensing_image_platform_use_category.jsonld"/>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/remote-sensing_image_platform_use_category/remote-sensing_image_platform_use_category.html"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.3y64-zd20#u">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -69,13 +87,5 @@
     <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
     <skos:definition xml:lang="en">Platform use category is not known.</skos:definition>
     <skos:notation>u</skos:notation>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.3y64-zd20#c">
-    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-    <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.3y64-zd20"/>
-    <skos:prefLabel xml:lang="en">space observing</skos:prefLabel>
-    <skos:definition xml:lang="en">Primary use for the platform is to make remote-sensing images
-         of space.</skos:definition>
-    <skos:notation>c</skos:notation>
   </rdf:Description>
 </rdf:RDF>

@@ -1,0 +1,77 @@
+<https://doi.org/10.6069/uwlswd.dfav-1729> <http://purl.org/dc/terms/source> <http://marc21rdf.info> .
+<https://doi.org/10.6069/uwlswd.dfav-1729> <http://purl.org/dc/elements/1.1/language> "en" .
+<https://doi.org/10.6069/uwlswd.dfav-1729> <http://purl.org/dc/terms/format> <http://www.w3.org/ns/formats/N-Triples> .
+<https://doi.org/10.6069/uwlswd.dfav-1729#g> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.dfav-1729#f> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.dfav-1729> .
+<https://doi.org/10.6069/uwlswd.dfav-1729#d> <http://www.w3.org/2004/02/skos/core#notation> "d" .
+<https://doi.org/10.6069/uwlswd.dfav-1729#a> <http://www.w3.org/2004/02/skos/core#notation> "a" .
+<https://doi.org/10.6069/uwlswd.dfav-1729#a> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.dfav-1729> .
+<https://doi.org/10.6069/uwlswd.dfav-1729#b> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.dfav-1729> .
+<https://doi.org/10.6069/uwlswd.dfav-1729#m> <http://www.w3.org/2004/02/skos/core#definition> "Deterioration of non-nitrate materials (safety film, etc.)\n         characterized as disaster."@en .
+<https://doi.org/10.6069/uwlswd.dfav-1729#a> <http://www.w3.org/2004/02/skos/core#prefLabel> "none apparent"@en .
+<https://doi.org/10.6069/uwlswd.dfav-1729> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/motion_picture_deterioration_stage/motion_picture_deterioration_stage.jsonld> .
+<https://doi.org/10.6069/uwlswd.dfav-1729#d> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.dfav-1729> .
+<https://doi.org/10.6069/uwlswd.dfav-1729#m> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.dfav-1729> .
+<https://doi.org/10.6069/uwlswd.dfav-1729#m> <http://www.w3.org/2004/02/skos/core#prefLabel> "non-nitrate: disaster"@en .
+<https://doi.org/10.6069/uwlswd.dfav-1729#k> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.dfav-1729#e> <http://www.w3.org/2004/02/skos/core#notation> "e" .
+<https://doi.org/10.6069/uwlswd.dfav-1729#l> <http://www.w3.org/2004/02/skos/core#notation> "l" .
+<https://doi.org/10.6069/uwlswd.dfav-1729#k> <http://www.w3.org/2004/02/skos/core#notation> "k" .
+<https://doi.org/10.6069/uwlswd.dfav-1729> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/motion_picture_deterioration_stage/motion_picture_deterioration_stage.rdf> .
+<https://doi.org/10.6069/uwlswd.dfav-1729#b> <http://www.w3.org/2004/02/skos/core#prefLabel> "nitrate: suspicious odor"@en .
+<https://doi.org/10.6069/uwlswd.dfav-1729#b> <http://www.w3.org/2004/02/skos/core#definition> "Deterioration of nitrate materials characterized as suspicious\n         odor."@en .
+<https://doi.org/10.6069/uwlswd.dfav-1729> <http://purl.org/dc/terms/title> "Motion picture: deterioration stage"@en .
+<https://doi.org/10.6069/uwlswd.dfav-1729#d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.dfav-1729#d> <http://www.w3.org/2004/02/skos/core#prefLabel> "nitrate: brownish, discoloration, fading, dusty"@en .
+<https://doi.org/10.6069/uwlswd.dfav-1729> <http://purl.org/dc/terms/publisher> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.dfav-1729#c> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.dfav-1729> .
+<https://doi.org/10.6069/uwlswd.dfav-1729> <http://purl.org/dc/terms/contributor> <http://viaf.org/viaf/151962300> .
+<https://doi.org/10.6069/uwlswd.dfav-1729#c> <http://www.w3.org/2004/02/skos/core#notation> "c" .
+<https://doi.org/10.6069/uwlswd.dfav-1729#e> <http://www.w3.org/2004/02/skos/core#prefLabel> "nitrate: sticky"@en .
+<https://doi.org/10.6069/uwlswd.dfav-1729> <http://purl.org/dc/terms/issued> "2024" .
+<https://doi.org/10.6069/uwlswd.dfav-1729#c> <http://www.w3.org/2004/02/skos/core#definition> "Deterioration of nitrate materials characterized as pungent\n         odor."@en .
+<https://doi.org/10.6069/uwlswd.dfav-1729#h> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.dfav-1729> .
+<https://doi.org/10.6069/uwlswd.dfav-1729> <https://schema.org/version> "1-0-0" .
+<https://doi.org/10.6069/uwlswd.dfav-1729> <http://purl.org/dc/elements/1.1/contributor> "Metadata Management Associates"@en .
+<https://doi.org/10.6069/uwlswd.dfav-1729#c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.dfav-1729#a> <http://www.w3.org/2004/02/skos/core#definition> "No deterioration is apparent on either nitrate or non-nitrate\n         motion picture film."@en .
+<https://doi.org/10.6069/uwlswd.dfav-1729#k> <http://www.w3.org/2004/02/skos/core#prefLabel> "non-nitrate: detectable deterioration"@en .
+<https://doi.org/10.6069/uwlswd.dfav-1729#h> <http://www.w3.org/2004/02/skos/core#notation> "h" .
+<https://doi.org/10.6069/uwlswd.dfav-1729> <https://schema.org/disambiguatingDescription> "SKOS Concept Scheme for MARC 00X\n         Values"@en .
+<https://doi.org/10.6069/uwlswd.dfav-1729> <http://purl.org/dc/terms/type> <http://purl.org/dc/dcmitype/Dataset> .
+<https://doi.org/10.6069/uwlswd.dfav-1729#f> <http://www.w3.org/2004/02/skos/core#definition> "Deterioration of nitrate materials characterized as frothy,\n         bubbles, or blisters."@en .
+<https://doi.org/10.6069/uwlswd.dfav-1729> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<https://doi.org/10.6069/uwlswd.dfav-1729#f> <http://www.w3.org/2004/02/skos/core#notation> "f" .
+<https://doi.org/10.6069/uwlswd.dfav-1729#l> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.dfav-1729> .
+<https://doi.org/10.6069/uwlswd.dfav-1729#e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.dfav-1729> <http://purl.org/dc/terms/source> <https://www.loc.gov/marc/bibliographic/bd007.html> .
+<https://doi.org/10.6069/uwlswd.dfav-1729> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/zero/1.0> .
+<https://doi.org/10.6069/uwlswd.dfav-1729#m> <http://www.w3.org/2004/02/skos/core#notation> "m" .
+<https://doi.org/10.6069/uwlswd.dfav-1729#e> <http://www.w3.org/2004/02/skos/core#definition> "Deterioration of nitrate materials characterized as\n         sticky."@en .
+<https://doi.org/10.6069/uwlswd.dfav-1729#b> <http://www.w3.org/2004/02/skos/core#notation> "b" .
+<https://doi.org/10.6069/uwlswd.dfav-1729#h> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.dfav-1729#h> <http://www.w3.org/2004/02/skos/core#prefLabel> "nitrate: powder"@en .
+<https://doi.org/10.6069/uwlswd.dfav-1729#l> <http://www.w3.org/2004/02/skos/core#prefLabel> "non-nitrate: advanced deterioration"@en .
+<https://doi.org/10.6069/uwlswd.dfav-1729> <http://purl.org/dc/terms/alternative> "MARC21 007/15 values for motion pictures expressed using\n         RDF"@en .
+<https://doi.org/10.6069/uwlswd.dfav-1729> <http://purl.org/dc/terms/creator> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.dfav-1729#f> <http://www.w3.org/2004/02/skos/core#prefLabel> "nitrate: frothy, bubbles, blisters"@en .
+<https://doi.org/10.6069/uwlswd.dfav-1729#g> <http://www.w3.org/2004/02/skos/core#notation> "g" .
+<https://doi.org/10.6069/uwlswd.dfav-1729#c> <http://www.w3.org/2004/02/skos/core#prefLabel> "nitrate: pungent odor"@en .
+<https://doi.org/10.6069/uwlswd.dfav-1729#h> <http://www.w3.org/2004/02/skos/core#definition> "Deterioration of nitrate materials characterized as\n         powder."@en .
+<https://doi.org/10.6069/uwlswd.dfav-1729#f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.dfav-1729#a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.dfav-1729#l> <http://www.w3.org/2004/02/skos/core#definition> "Deterioration of non-nitrate materials (safety film, etc.)\n         characterized as advanced deterioration."@en .
+<https://doi.org/10.6069/uwlswd.dfav-1729#b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.dfav-1729> <http://purl.org/dc/terms/provenance> <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> .
+<https://doi.org/10.6069/uwlswd.dfav-1729#m> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.dfav-1729#l> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.dfav-1729> <http://purl.org/dc/terms/description> "Level of deterioration of the motion picture\n         film."@en .
+<https://doi.org/10.6069/uwlswd.dfav-1729#g> <http://www.w3.org/2004/02/skos/core#prefLabel> "nitrate: congealed"@en .
+<https://doi.org/10.6069/uwlswd.dfav-1729#g> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.dfav-1729> .
+<https://doi.org/10.6069/uwlswd.dfav-1729#g> <http://www.w3.org/2004/02/skos/core#definition> "Deterioration of nitrate materials characterized as\n         congealed."@en .
+<https://doi.org/10.6069/uwlswd.dfav-1729#d> <http://www.w3.org/2004/02/skos/core#definition> "Deterioration of nitrate materials characterized as brownish,\n         discoloration, fading, or dusty."@en .
+<https://doi.org/10.6069/uwlswd.dfav-1729> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/motion_picture_deterioration_stage/motion_picture_deterioration_stage.html> .
+<https://doi.org/10.6069/uwlswd.dfav-1729> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/motion_picture_deterioration_stage/motion_picture_deterioration_stage.ttl> .
+<https://doi.org/10.6069/uwlswd.dfav-1729#e> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.dfav-1729> .
+<https://doi.org/10.6069/uwlswd.dfav-1729#k> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.dfav-1729> .
+<https://doi.org/10.6069/uwlswd.dfav-1729#k> <http://www.w3.org/2004/02/skos/core#definition> "Deterioration of non-nitrate materials (safety film, etc.)\n         characterized as detectable deterioration."@en .

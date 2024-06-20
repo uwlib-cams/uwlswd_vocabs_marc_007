@@ -1,0 +1,85 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix schema: <https://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://doi.org/10.6069/uwlswd.r74w-5w82#k> a skos:Concept ;
+    skos:definition """More than one configuration of playback channels for the sound
+         portion is available on a single videorecording."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.r74w-5w82> ;
+    skos:notation "k" ;
+    skos:prefLabel "mixed"@en ;
+    skos:scopeNote """An example would be a tape with both monaural and stereophonic
+         sound tracks."""@en .
+
+<https://doi.org/10.6069/uwlswd.r74w-5w82#m> a skos:Concept ;
+    skos:definition "Configured to be played back on one channel."@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.r74w-5w82> ;
+    skos:notation "m" ;
+    skos:prefLabel "monaural"@en .
+
+<https://doi.org/10.6069/uwlswd.r74w-5w82#n> a skos:Concept ;
+    skos:definition """Videorecording has no sound or sound is on separate
+         medium."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.r74w-5w82> ;
+    skos:notation "n" ;
+    skos:prefLabel "not applicable"@en .
+
+<https://doi.org/10.6069/uwlswd.r74w-5w82#q> a skos:Concept ;
+    skos:definition """Configured to be played back on more than two
+         channels."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.r74w-5w82> ;
+    skos:notation "q" ;
+    skos:prefLabel "quadraphonic, multichannel, or surround"@en ;
+    skos:scopeNote """Use for Dolby surround sound tracks and other multichannel
+         techniques."""@en .
+
+<https://doi.org/10.6069/uwlswd.r74w-5w82#s> a skos:Concept ;
+    skos:definition """Configured to be played back on two separate
+         channels."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.r74w-5w82> ;
+    skos:notation "s" ;
+    skos:prefLabel "stereophonic"@en ;
+    skos:scopeNote """Use when the medium is not monaural and it is not possible to
+         ascertain that multiple playback sources are available or intended."""@en .
+
+<https://doi.org/10.6069/uwlswd.r74w-5w82#u> a skos:Concept ;
+    skos:definition """Configuration of playback channels for the sound portion of a
+         videorecording is not known."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.r74w-5w82> ;
+    skos:notation "u" ;
+    skos:prefLabel "unknown"@en .
+
+<https://doi.org/10.6069/uwlswd.r74w-5w82#z> a skos:Concept ;
+    skos:definition """Configuration of playback channels other than mixed; monaural;
+         quadraphonic, multichannel, or surround; or stereophonic."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.r74w-5w82> ;
+    skos:notation "z" ;
+    skos:prefLabel "other"@en .
+
+<https://doi.org/10.6069/uwlswd.r74w-5w82> a skos:ConceptScheme ;
+    dc:contributor "Metadata Management Associates"@en ;
+    dc:language "en" ;
+    dct:alternative """MARC21 007/08 values for videorecordings expressed using
+         RDF"""@en ;
+    dct:contributor <http://viaf.org/viaf/151962300> ;
+    dct:creator <http://viaf.org/viaf/139541794> ;
+    dct:description """Configuration of intended playback channels for the sound
+         portion of a videorecording."""@en ;
+    dct:format <http://www.w3.org/ns/formats/Turtle> ;
+    dct:hasFormat <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/videorecording_configuration_of_playback_channels/videorecording_configuration_of_playback_channels.html>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/videorecording_configuration_of_playback_channels/videorecording_configuration_of_playback_channels.jsonld>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/videorecording_configuration_of_playback_channels/videorecording_configuration_of_playback_channels.nt>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/videorecording_configuration_of_playback_channels/videorecording_configuration_of_playback_channels.rdf> ;
+    dct:issued "2024" ;
+    dct:license <http://creativecommons.org/publicdomain/zero/1.0> ;
+    dct:provenance <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> ;
+    dct:publisher <http://viaf.org/viaf/139541794> ;
+    dct:source <http://marc21rdf.info>,
+        <https://www.loc.gov/marc/bibliographic/bd007.html> ;
+    dct:title "Videorecording: configuration of playback channels"@en ;
+    dct:type <http://purl.org/dc/dcmitype/Dataset> ;
+    schema:disambiguatingDescription """SKOS Concept Scheme for MARC 00X
+         Values"""@en ;
+    schema:version "1-0-0" .
+

@@ -1,0 +1,141 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix schema: <https://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://doi.org/10.6069/uwlswd.enb6-8r41#b> a skos:Concept ;
+    skos:definition """A loop of flexible plastic or magnetic film on which audio
+         signals are mechanically recorded."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.enb6-8r41> ;
+    skos:notation "b" ;
+    skos:prefLabel "belt"@en ;
+    skos:scopeNote "Commonly known under the trade name Dictabelt."@en .
+
+<https://doi.org/10.6069/uwlswd.enb6-8r41#c> a skos:Concept ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.enb6-8r41> ;
+    skos:notation "c" ;
+    skos:prefLabel "cylinder [obsolete]"@en .
+
+<https://doi.org/10.6069/uwlswd.enb6-8r41#d> a skos:Concept ;
+    skos:definition """Thin circular objects that vary in diameter (e.g., 7 in., 10
+         in., 12 in.), on which sound waves, recorded as modulations or pulses, are incised or
+         indented. Compact audio discs are typically 4 3/4 in. in diameter."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.enb6-8r41> ;
+    skos:notation "d" ;
+    skos:prefLabel "sound disc"@en .
+
+<https://doi.org/10.6069/uwlswd.enb6-8r41#e> a skos:Concept ;
+    skos:definition """Cylindrical objects on which sound waves are incised or
+         indented in a continuous circular groove."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.enb6-8r41> ;
+    skos:notation "e" ;
+    skos:prefLabel "cylinder"@en ;
+    skos:scopeNote """Mass-produced cylinders are made of plastic. Early cylinders
+         were made of tinfoil or wax."""@en .
+
+<https://doi.org/10.6069/uwlswd.enb6-8r41#f> a skos:Concept ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.enb6-8r41> ;
+    skos:notation "f" ;
+    skos:prefLabel "sound-track film [obsolete]"@en .
+
+<https://doi.org/10.6069/uwlswd.enb6-8r41#g> a skos:Concept ;
+    skos:definition """Containers holding a single sound tape, run as an endless
+         loop."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.enb6-8r41> ;
+    skos:notation "g" ;
+    skos:prefLabel "sound cartridge"@en .
+
+<https://doi.org/10.6069/uwlswd.enb6-8r41#i> a skos:Concept ;
+    skos:definition """A sound recording on film that is not intended to accompany
+         visual images."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.enb6-8r41> ;
+    skos:notation "i" ;
+    skos:prefLabel "sound-track film"@en ;
+    skos:scopeNote """Also when it is not known if a sound recording on film is
+         intended to accompany visual images."""@en .
+
+<https://doi.org/10.6069/uwlswd.enb6-8r41#q> a skos:Concept ;
+    skos:definition """Roll of paper, for example, for player piano or player organ,
+         on which the notes of a musical composition are represented by perforations in the paper
+         and from which sound can be mechanically produced."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.enb6-8r41> ;
+    skos:notation "q" ;
+    skos:prefLabel "roll"@en .
+
+<https://doi.org/10.6069/uwlswd.enb6-8r41#r> a skos:Concept ;
+    skos:definition """Digital sound recording that is accessed, processed, executed,
+         etc. remotely. In this case, the digital sound recording is used via input/output devices
+         connected electronically to a computer. Frequently this involves connection through a
+         computer network."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.enb6-8r41> ;
+    skos:notation "r" ;
+    skos:prefLabel "remote"@en .
+
+<https://doi.org/10.6069/uwlswd.enb6-8r41#rx> a skos:Concept ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.enb6-8r41> ;
+    skos:notation "r" ;
+    skos:prefLabel "roll [obsolete]"@en .
+
+<https://doi.org/10.6069/uwlswd.enb6-8r41#s> a skos:Concept ;
+    skos:definition """A container holding a narrow, usually 1/8 inch, sound tape on
+         two reels, one to feed (and rewind) and the other to take up the sound
+         tape."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.enb6-8r41> ;
+    skos:notation "s" ;
+    skos:prefLabel "sound cassette"@en .
+
+<https://doi.org/10.6069/uwlswd.enb6-8r41#t> a skos:Concept ;
+    skos:definition """An audiotape-transport system with separate supply (feed) and
+         take-up reels. Usually designated an Open Reel or Reel-to-Reel."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.enb6-8r41> ;
+    skos:notation "t" ;
+    skos:prefLabel "sound-tape reel"@en .
+
+<https://doi.org/10.6069/uwlswd.enb6-8r41#u> a skos:Concept ;
+    skos:definition """Special material designation for the sound recording is not
+         specified."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.enb6-8r41> ;
+    skos:notation "u" ;
+    skos:prefLabel "unspecified"@en .
+
+<https://doi.org/10.6069/uwlswd.enb6-8r41#w> a skos:Concept ;
+    skos:definition """A round steel wire on which sound waves are magnetically
+         recorded."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.enb6-8r41> ;
+    skos:notation "w" ;
+    skos:prefLabel "wire recording"@en .
+
+<https://doi.org/10.6069/uwlswd.enb6-8r41#z> a skos:Concept ;
+    skos:definition """Specific material designation other than belt, sound disc,
+         cylinder, sound cartridge, sound-track film, roll, remote, sound cassette, sound-tape reel,
+         or wire recording."""@en ;
+    skos:inScheme <https://doi.org/10.6069/uwlswd.enb6-8r41> ;
+    skos:notation "z" ;
+    skos:prefLabel "other"@en .
+
+<https://doi.org/10.6069/uwlswd.enb6-8r41> a skos:ConceptScheme ;
+    dc:contributor "Metadata Management Associates"@en ;
+    dc:language "en" ;
+    dct:alternative """MARC21 007/01 values for sound recordings expressed using
+         RDF"""@en ;
+    dct:contributor <http://viaf.org/viaf/151962300> ;
+    dct:creator <http://viaf.org/viaf/139541794> ;
+    dct:description """Special class of sound recording to which the item belongs
+         (e.g., a cylinder)."""@en ;
+    dct:format <http://www.w3.org/ns/formats/Turtle> ;
+    dct:hasFormat <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/sound_recording_specific_material_designation/sound_recording_specific_material_designation.html>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/sound_recording_specific_material_designation/sound_recording_specific_material_designation.jsonld>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/sound_recording_specific_material_designation/sound_recording_specific_material_designation.nt>,
+        <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/sound_recording_specific_material_designation/sound_recording_specific_material_designation.rdf> ;
+    dct:issued "2024" ;
+    dct:license <http://creativecommons.org/publicdomain/zero/1.0> ;
+    dct:provenance <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> ;
+    dct:publisher <http://viaf.org/viaf/139541794> ;
+    dct:source <http://marc21rdf.info>,
+        <https://www.loc.gov/marc/bibliographic/bd007.html> ;
+    dct:title "Sound recording: specific material designation"@en ;
+    dct:type <http://purl.org/dc/dcmitype/Dataset> ;
+    schema:disambiguatingDescription """SKOS Concept Scheme for MARC 00X
+         Values"""@en ;
+    schema:version "1-0-0" .
+

@@ -1,0 +1,60 @@
+<https://doi.org/10.6069/uwlswd.r74w-5w82#n> <http://www.w3.org/2004/02/skos/core#notation> "n" .
+<https://doi.org/10.6069/uwlswd.r74w-5w82#u> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.r74w-5w82> <http://purl.org/dc/terms/publisher> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.r74w-5w82> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/videorecording_configuration_of_playback_channels/videorecording_configuration_of_playback_channels.rdf> .
+<https://doi.org/10.6069/uwlswd.r74w-5w82> <http://purl.org/dc/terms/contributor> <http://viaf.org/viaf/151962300> .
+<https://doi.org/10.6069/uwlswd.r74w-5w82#u> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.r74w-5w82> .
+<https://doi.org/10.6069/uwlswd.r74w-5w82#k> <http://www.w3.org/2004/02/skos/core#definition> "More than one configuration of playback channels for the sound\n         portion is available on a single videorecording."@en .
+<https://doi.org/10.6069/uwlswd.r74w-5w82#s> <http://www.w3.org/2004/02/skos/core#prefLabel> "stereophonic"@en .
+<https://doi.org/10.6069/uwlswd.r74w-5w82#m> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.r74w-5w82> .
+<https://doi.org/10.6069/uwlswd.r74w-5w82> <http://purl.org/dc/terms/source> <http://marc21rdf.info> .
+<https://doi.org/10.6069/uwlswd.r74w-5w82#k> <http://www.w3.org/2004/02/skos/core#prefLabel> "mixed"@en .
+<https://doi.org/10.6069/uwlswd.r74w-5w82#q> <http://www.w3.org/2004/02/skos/core#notation> "q" .
+<https://doi.org/10.6069/uwlswd.r74w-5w82#q> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.r74w-5w82> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/videorecording_configuration_of_playback_channels/videorecording_configuration_of_playback_channels.jsonld> .
+<https://doi.org/10.6069/uwlswd.r74w-5w82#n> <http://www.w3.org/2004/02/skos/core#definition> "Videorecording has no sound or sound is on separate\n         medium."@en .
+<https://doi.org/10.6069/uwlswd.r74w-5w82#s> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.r74w-5w82> .
+<https://doi.org/10.6069/uwlswd.r74w-5w82#s> <http://www.w3.org/2004/02/skos/core#definition> "Configured to be played back on two separate\n         channels."@en .
+<https://doi.org/10.6069/uwlswd.r74w-5w82> <http://purl.org/dc/terms/issued> "2024" .
+<https://doi.org/10.6069/uwlswd.r74w-5w82> <http://purl.org/dc/elements/1.1/language> "en" .
+<https://doi.org/10.6069/uwlswd.r74w-5w82> <https://schema.org/version> "1-0-0" .
+<https://doi.org/10.6069/uwlswd.r74w-5w82#z> <http://www.w3.org/2004/02/skos/core#prefLabel> "other"@en .
+<https://doi.org/10.6069/uwlswd.r74w-5w82#m> <http://www.w3.org/2004/02/skos/core#prefLabel> "monaural"@en .
+<https://doi.org/10.6069/uwlswd.r74w-5w82> <http://purl.org/dc/terms/format> <http://www.w3.org/ns/formats/N-Triples> .
+<https://doi.org/10.6069/uwlswd.r74w-5w82#u> <http://www.w3.org/2004/02/skos/core#prefLabel> "unknown"@en .
+<https://doi.org/10.6069/uwlswd.r74w-5w82#q> <http://www.w3.org/2004/02/skos/core#prefLabel> "quadraphonic, multichannel, or surround"@en .
+<https://doi.org/10.6069/uwlswd.r74w-5w82> <http://purl.org/dc/elements/1.1/contributor> "Metadata Management Associates"@en .
+<https://doi.org/10.6069/uwlswd.r74w-5w82> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<https://doi.org/10.6069/uwlswd.r74w-5w82#n> <http://www.w3.org/2004/02/skos/core#prefLabel> "not applicable"@en .
+<https://doi.org/10.6069/uwlswd.r74w-5w82> <http://purl.org/dc/terms/description> "Configuration of intended playback channels for the sound\n         portion of a videorecording."@en .
+<https://doi.org/10.6069/uwlswd.r74w-5w82> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/videorecording_configuration_of_playback_channels/videorecording_configuration_of_playback_channels.html> .
+<https://doi.org/10.6069/uwlswd.r74w-5w82> <http://purl.org/dc/terms/type> <http://purl.org/dc/dcmitype/Dataset> .
+<https://doi.org/10.6069/uwlswd.r74w-5w82> <http://purl.org/dc/terms/source> <https://www.loc.gov/marc/bibliographic/bd007.html> .
+<https://doi.org/10.6069/uwlswd.r74w-5w82> <http://purl.org/dc/terms/title> "Videorecording: configuration of playback channels"@en .
+<https://doi.org/10.6069/uwlswd.r74w-5w82> <https://schema.org/disambiguatingDescription> "SKOS Concept Scheme for MARC 00X\n         Values"@en .
+<https://doi.org/10.6069/uwlswd.r74w-5w82#z> <http://www.w3.org/2004/02/skos/core#notation> "z" .
+<https://doi.org/10.6069/uwlswd.r74w-5w82#q> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.r74w-5w82> .
+<https://doi.org/10.6069/uwlswd.r74w-5w82#q> <http://www.w3.org/2004/02/skos/core#definition> "Configured to be played back on more than two\n         channels."@en .
+<https://doi.org/10.6069/uwlswd.r74w-5w82#z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.r74w-5w82#u> <http://www.w3.org/2004/02/skos/core#notation> "u" .
+<https://doi.org/10.6069/uwlswd.r74w-5w82#k> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.r74w-5w82#m> <http://www.w3.org/2004/02/skos/core#notation> "m" .
+<https://doi.org/10.6069/uwlswd.r74w-5w82> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/zero/1.0> .
+<https://doi.org/10.6069/uwlswd.r74w-5w82#k> <http://www.w3.org/2004/02/skos/core#scopeNote> "An example would be a tape with both monaural and stereophonic\n         sound tracks."@en .
+<https://doi.org/10.6069/uwlswd.r74w-5w82#k> <http://www.w3.org/2004/02/skos/core#notation> "k" .
+<https://doi.org/10.6069/uwlswd.r74w-5w82#q> <http://www.w3.org/2004/02/skos/core#scopeNote> "Use for Dolby surround sound tracks and other multichannel\n         techniques."@en .
+<https://doi.org/10.6069/uwlswd.r74w-5w82#z> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.r74w-5w82> .
+<https://doi.org/10.6069/uwlswd.r74w-5w82#m> <http://www.w3.org/2004/02/skos/core#definition> "Configured to be played back on one channel."@en .
+<https://doi.org/10.6069/uwlswd.r74w-5w82> <http://purl.org/dc/terms/alternative> "MARC21 007/08 values for videorecordings expressed using\n         RDF"@en .
+<https://doi.org/10.6069/uwlswd.r74w-5w82#n> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.r74w-5w82#s> <http://www.w3.org/2004/02/skos/core#notation> "s" .
+<https://doi.org/10.6069/uwlswd.r74w-5w82#u> <http://www.w3.org/2004/02/skos/core#definition> "Configuration of playback channels for the sound portion of a\n         videorecording is not known."@en .
+<https://doi.org/10.6069/uwlswd.r74w-5w82> <http://purl.org/dc/terms/creator> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.r74w-5w82#k> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.r74w-5w82> .
+<https://doi.org/10.6069/uwlswd.r74w-5w82#n> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.r74w-5w82> .
+<https://doi.org/10.6069/uwlswd.r74w-5w82#s> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.r74w-5w82#m> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.r74w-5w82#z> <http://www.w3.org/2004/02/skos/core#definition> "Configuration of playback channels other than mixed; monaural;\n         quadraphonic, multichannel, or surround; or stereophonic."@en .
+<https://doi.org/10.6069/uwlswd.r74w-5w82> <http://purl.org/dc/terms/provenance> <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> .
+<https://doi.org/10.6069/uwlswd.r74w-5w82> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/videorecording_configuration_of_playback_channels/videorecording_configuration_of_playback_channels.ttl> .
+<https://doi.org/10.6069/uwlswd.r74w-5w82#s> <http://www.w3.org/2004/02/skos/core#scopeNote> "Use when the medium is not monaural and it is not possible to\n         ascertain that multiple playback sources are available or intended."@en .

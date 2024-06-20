@@ -1,0 +1,97 @@
+<https://doi.org/10.6069/uwlswd.db6k-dw63#g> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.db6k-dw63> .
+<https://doi.org/10.6069/uwlswd.db6k-dw63#u> <http://www.w3.org/2004/02/skos/core#prefLabel> "unknown"@en .
+<https://doi.org/10.6069/uwlswd.db6k-dw63#v> <http://www.w3.org/2004/02/skos/core#prefLabel> "leather"@en .
+<https://doi.org/10.6069/uwlswd.db6k-dw63> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<https://doi.org/10.6069/uwlswd.db6k-dw63#z> <http://www.w3.org/2004/02/skos/core#notation> "z" .
+<https://doi.org/10.6069/uwlswd.db6k-dw63#f> <http://www.w3.org/2004/02/skos/core#scopeNote> "Excludes leather, parchment, and vellum."@en .
+<https://doi.org/10.6069/uwlswd.db6k-dw63> <http://purl.org/dc/terms/source> <https://www.loc.gov/marc/bibliographic/bd007.html> .
+<https://doi.org/10.6069/uwlswd.db6k-dw63#n> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.db6k-dw63> .
+<https://doi.org/10.6069/uwlswd.db6k-dw63> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/zero/1.0> .
+<https://doi.org/10.6069/uwlswd.db6k-dw63#p> <http://www.w3.org/2004/02/skos/core#prefLabel> "plaster"@en .
+<https://doi.org/10.6069/uwlswd.db6k-dw63#v> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.db6k-dw63> <http://purl.org/dc/terms/creator> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.db6k-dw63#g> <http://www.w3.org/2004/02/skos/core#scopeNote> "Used for all fabrics, whether made from natural or synthetic\n         fibers."@en .
+<https://doi.org/10.6069/uwlswd.db6k-dw63#p> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.db6k-dw63> .
+<https://doi.org/10.6069/uwlswd.db6k-dw63> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/globe_physical_medium/globe_physical_medium.html> .
+<https://doi.org/10.6069/uwlswd.db6k-dw63> <http://purl.org/dc/terms/provenance> <https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> .
+<https://doi.org/10.6069/uwlswd.db6k-dw63> <http://purl.org/dc/terms/description> "Material out of which the globe is made."@en .
+<https://doi.org/10.6069/uwlswd.db6k-dw63#d> <http://www.w3.org/2004/02/skos/core#notation> "d" .
+<https://doi.org/10.6069/uwlswd.db6k-dw63#z> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.db6k-dw63> .
+<https://doi.org/10.6069/uwlswd.db6k-dw63> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/globe_physical_medium/globe_physical_medium.ttl> .
+<https://doi.org/10.6069/uwlswd.db6k-dw63#w> <http://www.w3.org/2004/02/skos/core#prefLabel> "parchment"@en .
+<https://doi.org/10.6069/uwlswd.db6k-dw63#l> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.db6k-dw63> .
+<https://doi.org/10.6069/uwlswd.db6k-dw63#u> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.db6k-dw63#c> <http://www.w3.org/2004/02/skos/core#prefLabel> "stone"@en .
+<https://doi.org/10.6069/uwlswd.db6k-dw63#p> <http://www.w3.org/2004/02/skos/core#notation> "p" .
+<https://doi.org/10.6069/uwlswd.db6k-dw63#f> <http://www.w3.org/2004/02/skos/core#scopeNote> "Synthetic materials that are made to resemble animal skin are\n         coded as synthetic."@en .
+<https://doi.org/10.6069/uwlswd.db6k-dw63#z> <http://www.w3.org/2004/02/skos/core#definition> "Physical medium other than paper, wood, stone, metal,\n         synthetic, skin, textile, vinyl, vellum, plaster, leather, or parchment."@en .
+<https://doi.org/10.6069/uwlswd.db6k-dw63> <http://purl.org/dc/terms/source> <http://marc21rdf.info> .
+<https://doi.org/10.6069/uwlswd.db6k-dw63> <http://purl.org/dc/elements/1.1/language> "en" .
+<https://doi.org/10.6069/uwlswd.db6k-dw63> <http://purl.org/dc/terms/format> <http://www.w3.org/ns/formats/N-Triples> .
+<https://doi.org/10.6069/uwlswd.db6k-dw63#e> <http://www.w3.org/2004/02/skos/core#definition> "Man-made substances other than textiles, plastic, and\n         vinyl."@en .
+<https://doi.org/10.6069/uwlswd.db6k-dw63#a> <http://www.w3.org/2004/02/skos/core#notation> "a" .
+<https://doi.org/10.6069/uwlswd.db6k-dw63#p> <http://www.w3.org/2004/02/skos/core#definition> "Plaster."@en .
+<https://doi.org/10.6069/uwlswd.db6k-dw63> <https://schema.org/version> "1-0-0" .
+<https://doi.org/10.6069/uwlswd.db6k-dw63#b> <http://www.w3.org/2004/02/skos/core#scopeNote> "A material that is based on wood particles or fibers may or may\n         not be considered wood. Consider particle board to be wood."@en .
+<https://doi.org/10.6069/uwlswd.db6k-dw63#z> <http://www.w3.org/2004/02/skos/core#prefLabel> "other"@en .
+<https://doi.org/10.6069/uwlswd.db6k-dw63#f> <http://www.w3.org/2004/02/skos/core#definition> "Skin."@en .
+<https://doi.org/10.6069/uwlswd.db6k-dw63#p> <http://www.w3.org/2004/02/skos/core#scopeNote> "Used also for mixtures of ground solids and\n         plaster."@en .
+<https://doi.org/10.6069/uwlswd.db6k-dw63#l> <http://www.w3.org/2004/02/skos/core#notation> "l" .
+<https://doi.org/10.6069/uwlswd.db6k-dw63#n> <http://www.w3.org/2004/02/skos/core#notation> "n" .
+<https://doi.org/10.6069/uwlswd.db6k-dw63#n> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.db6k-dw63#c> <http://www.w3.org/2004/02/skos/core#definition> "Stone."@en .
+<https://doi.org/10.6069/uwlswd.db6k-dw63> <http://purl.org/dc/terms/type> <http://purl.org/dc/dcmitype/Dataset> .
+<https://doi.org/10.6069/uwlswd.db6k-dw63#b> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.db6k-dw63> .
+<https://doi.org/10.6069/uwlswd.db6k-dw63> <http://purl.org/dc/terms/title> "Globe: physical medium"@en .
+<https://doi.org/10.6069/uwlswd.db6k-dw63#e> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.db6k-dw63> .
+<https://doi.org/10.6069/uwlswd.db6k-dw63#a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.db6k-dw63#b> <http://www.w3.org/2004/02/skos/core#prefLabel> "wood"@en .
+<https://doi.org/10.6069/uwlswd.db6k-dw63> <http://purl.org/dc/elements/1.1/contributor> "Metadata Management Associates"@en .
+<https://doi.org/10.6069/uwlswd.db6k-dw63#g> <http://www.w3.org/2004/02/skos/core#notation> "g" .
+<https://doi.org/10.6069/uwlswd.db6k-dw63#g> <http://www.w3.org/2004/02/skos/core#definition> "Textile."@en .
+<https://doi.org/10.6069/uwlswd.db6k-dw63#c> <http://www.w3.org/2004/02/skos/core#notation> "c" .
+<https://doi.org/10.6069/uwlswd.db6k-dw63#n> <http://www.w3.org/2004/02/skos/core#definition> "Fine-grained unsplit lambskin, kidskin, or calfskin prepared\n         especially for writing or drawing on."@en .
+<https://doi.org/10.6069/uwlswd.db6k-dw63#e> <http://www.w3.org/2004/02/skos/core#prefLabel> "synthetic"@en .
+<https://doi.org/10.6069/uwlswd.db6k-dw63#v> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.db6k-dw63> .
+<https://doi.org/10.6069/uwlswd.db6k-dw63#w> <http://www.w3.org/2004/02/skos/core#definition> "Skin of a sheep or goat prepared for writing\n         on."@en .
+<https://doi.org/10.6069/uwlswd.db6k-dw63#f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.db6k-dw63#z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.db6k-dw63#u> <http://www.w3.org/2004/02/skos/core#notation> "u" .
+<https://doi.org/10.6069/uwlswd.db6k-dw63#f> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.db6k-dw63> .
+<https://doi.org/10.6069/uwlswd.db6k-dw63#d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.db6k-dw63#g> <http://www.w3.org/2004/02/skos/core#prefLabel> "textile"@en .
+<https://doi.org/10.6069/uwlswd.db6k-dw63#v> <http://www.w3.org/2004/02/skos/core#definition> "Animal skin dressed for use."@en .
+<https://doi.org/10.6069/uwlswd.db6k-dw63#a> <http://www.w3.org/2004/02/skos/core#prefLabel> "paper"@en .
+<https://doi.org/10.6069/uwlswd.db6k-dw63#c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.db6k-dw63#a> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.db6k-dw63> .
+<https://doi.org/10.6069/uwlswd.db6k-dw63#u> <http://www.w3.org/2004/02/skos/core#definition> "Physical medium of which the globe is made is not\n         known."@en .
+<https://doi.org/10.6069/uwlswd.db6k-dw63> <http://purl.org/dc/terms/publisher> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlswd.db6k-dw63#d> <http://www.w3.org/2004/02/skos/core#definition> "Metal."@en .
+<https://doi.org/10.6069/uwlswd.db6k-dw63#d> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.db6k-dw63> .
+<https://doi.org/10.6069/uwlswd.db6k-dw63#a> <http://www.w3.org/2004/02/skos/core#definition> "Any kind of cellulose-based paper."@en .
+<https://doi.org/10.6069/uwlswd.db6k-dw63#l> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.db6k-dw63> <http://purl.org/dc/terms/alternative> "MARC21 007/04 values for globes expressed using\n         RDF"@en .
+<https://doi.org/10.6069/uwlswd.db6k-dw63#w> <http://www.w3.org/2004/02/skos/core#notation> "w" .
+<https://doi.org/10.6069/uwlswd.db6k-dw63#v> <http://www.w3.org/2004/02/skos/core#notation> "v" .
+<https://doi.org/10.6069/uwlswd.db6k-dw63#w> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.db6k-dw63#l> <http://www.w3.org/2004/02/skos/core#definition> "Vinyl."@en .
+<https://doi.org/10.6069/uwlswd.db6k-dw63#c> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.db6k-dw63> .
+<https://doi.org/10.6069/uwlswd.db6k-dw63#f> <http://www.w3.org/2004/02/skos/core#prefLabel> "skin"@en .
+<https://doi.org/10.6069/uwlswd.db6k-dw63> <http://purl.org/dc/terms/issued> "2024" .
+<https://doi.org/10.6069/uwlswd.db6k-dw63#p> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.db6k-dw63#l> <http://www.w3.org/2004/02/skos/core#prefLabel> "vinyl"@en .
+<https://doi.org/10.6069/uwlswd.db6k-dw63> <http://purl.org/dc/terms/contributor> <http://viaf.org/viaf/151962300> .
+<https://doi.org/10.6069/uwlswd.db6k-dw63> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/globe_physical_medium/globe_physical_medium.rdf> .
+<https://doi.org/10.6069/uwlswd.db6k-dw63> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_vocabs_marc_007/globe_physical_medium/globe_physical_medium.jsonld> .
+<https://doi.org/10.6069/uwlswd.db6k-dw63#f> <http://www.w3.org/2004/02/skos/core#notation> "f" .
+<https://doi.org/10.6069/uwlswd.db6k-dw63#b> <http://www.w3.org/2004/02/skos/core#definition> "Wood."@en .
+<https://doi.org/10.6069/uwlswd.db6k-dw63#e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.db6k-dw63#w> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.db6k-dw63> .
+<https://doi.org/10.6069/uwlswd.db6k-dw63#b> <http://www.w3.org/2004/02/skos/core#notation> "b" .
+<https://doi.org/10.6069/uwlswd.db6k-dw63#g> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.db6k-dw63#e> <http://www.w3.org/2004/02/skos/core#notation> "e" .
+<https://doi.org/10.6069/uwlswd.db6k-dw63#b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://doi.org/10.6069/uwlswd.db6k-dw63#u> <http://www.w3.org/2004/02/skos/core#inScheme> <https://doi.org/10.6069/uwlswd.db6k-dw63> .
+<https://doi.org/10.6069/uwlswd.db6k-dw63> <https://schema.org/disambiguatingDescription> "SKOS Concept Scheme for MARC 00X\n         Values"@en .
+<https://doi.org/10.6069/uwlswd.db6k-dw63#n> <http://www.w3.org/2004/02/skos/core#prefLabel> "vellum"@en .
+<https://doi.org/10.6069/uwlswd.db6k-dw63#d> <http://www.w3.org/2004/02/skos/core#prefLabel> "metal"@en .
