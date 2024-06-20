@@ -1,11 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rdf:RDF
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:dct="http://purl.org/dc/terms/"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:schema="https://schema.org/"
-   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
->
+<?xml version='1.0' encoding='UTF-8'?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schema="https://schema.org/" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gdvf-z086#a">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.gdvf-z086"/>
@@ -15,7 +9,7 @@
     <skos:scopeNote xml:lang="en">Beginning in the early 1950s, color film work has been done
          primarily on 3 layer, also called multilayer, film. This process is also known as integral
          tri-pack.</skos:scopeNote>
-    <skos:notation xml:lang="en">a</skos:notation>
+    <skos:notation>a</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gdvf-z086#e">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -30,7 +24,7 @@
          record. The remainder of the light is reflected from the prism and absorbed by negatives to
          produce red and blue records. Each of the negatives is developed to produce new negatives
          which resemble black-and-white negatives.</skos:scopeNote>
-    <skos:notation xml:lang="en">e</skos:notation>
+    <skos:notation>e</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gdvf-z086#l">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -45,7 +39,7 @@
          cartoon and puppet subjects in which the movement from frame to frame could be controlled.
          The successive exposure process was rendered obsolete by the introduction of 3 layer
          (multilayer) color negative film.</skos:scopeNote>
-    <skos:notation xml:lang="en">l</skos:notation>
+    <skos:notation>l</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gdvf-z086#b">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -59,7 +53,7 @@
     <skos:scopeNote xml:lang="en">Also known as red and green Technicolor, the process was used
          exclusively by Technicolor and had its heyday between 1922 and 1933, although it was used
          until 1936 for animated cartoons.</skos:scopeNote>
-    <skos:notation xml:lang="en">b</skos:notation>
+    <skos:notation>b</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gdvf-z086#p">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -70,7 +64,7 @@
     <skos:scopeNote xml:lang="en">Sepia was the most common tone used, and was used in
          black-and-white prints of films for special sequences to enhance the dramatic or pictorial
          effect.</skos:scopeNote>
-    <skos:notation xml:lang="en">p</skos:notation>
+    <skos:notation>p</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gdvf-z086#d">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -79,7 +73,7 @@
     <skos:definition xml:lang="en">System of color reproduction, which cannot be specifically
          identified, in which the visible spectrum is divided into three sections, normally red,
          green, and blue, for the purposes of recording and presentation.</skos:definition>
-    <skos:notation xml:lang="en">d</skos:notation>
+    <skos:notation>d</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gdvf-z086#m">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -94,7 +88,7 @@
          animated cartoon and puppet subjects in which the movement from frame to frame could be
          controlled. The successive exposure process was rarely used after the introduction of 3
          layer (multilayer) color negative film.</skos:scopeNote>
-    <skos:notation xml:lang="en">m</skos:notation>
+    <skos:notation>m</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gdvf-z086#z">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -105,7 +99,7 @@
          strip, blue or green strip, cyan strip, magenta strip, yellow strip, S E N 2, S E N 3,
          sepia tone, other tone, tint, tinted and toned, stencil color, or hand
          colored.</skos:definition>
-    <skos:notation xml:lang="en">z</skos:notation>
+    <skos:notation>z</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gdvf-z086">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
@@ -115,12 +109,12 @@
          RDF</dct:alternative>
     <dct:description xml:lang="en">Specific color characteristics of the moving
          image.</dct:description>
-    <schema:disambiguatingDescription>SKOS Concept Scheme for MARC 00X
+    <schema:disambiguatingDescription xml:lang="en">SKOS Concept Scheme for MARC 00X
          Values</schema:disambiguatingDescription>
     <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
     <dct:source rdf:resource="https://www.loc.gov/marc/bibliographic/bd007.html"/>
     <dct:source rdf:resource="http://marc21rdf.info"/>
-    <dct:provenance rdf:resource="https://doi.org/10.6069/uwlswd.2e2b-y833"/>
+    <dct:provenance rdf:resource="https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues"/>
     <dct:creator rdf:resource="http://viaf.org/viaf/139541794"/>
     <dct:contributor rdf:resource="http://viaf.org/viaf/151962300"/>
     <dct:issued>2024</dct:issued>
@@ -138,7 +132,7 @@
          color.</skos:definition>
     <skos:scopeNote xml:lang="en">Stencil color replaced the hand-coloring used in earlier
          years.</skos:scopeNote>
-    <skos:notation xml:lang="en">t</skos:notation>
+    <skos:notation>t</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gdvf-z086#v">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -146,7 +140,7 @@
     <skos:prefLabel xml:lang="en">hand colored</skos:prefLabel>
     <skos:definition xml:lang="en">Image, produced by a photographic process, is hand
          colored.</skos:definition>
-    <skos:notation xml:lang="en">v</skos:notation>
+    <skos:notation>v</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gdvf-z086#h">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -156,7 +150,7 @@
          blue strip is the color separation record of red light which prints as blue-green (called
          "blue" by Cinecolor). In the two-color Technicolor process, the green strip is the color
          separation record of magenta-red light which prints as green.</skos:definition>
-    <skos:notation xml:lang="en">h</skos:notation>
+    <skos:notation>h</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gdvf-z086#j">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -164,7 +158,7 @@
     <skos:prefLabel xml:lang="en">magenta strip</skos:prefLabel>
     <skos:definition xml:lang="en">Color separation record of green light which prints as
          magenta.</skos:definition>
-    <skos:notation xml:lang="en">j</skos:notation>
+    <skos:notation>j</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gdvf-z086#g">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -175,7 +169,7 @@
          of green light which prints as magenta (called "red" by Cinecolor). In the two-color
          Technicolor process, the color separation record of green light which prints as
          red.</skos:definition>
-    <skos:notation xml:lang="en">g</skos:notation>
+    <skos:notation>g</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gdvf-z086#f">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -192,7 +186,7 @@
          such systems obsolete when three-color processes became readily available. The process used
          from about 1929 to about 1950 by, among others, the following companies: Cinecolor,
          Magnacolor, and Multicolor.</skos:scopeNote>
-    <skos:notation xml:lang="en">f</skos:notation>
+    <skos:notation>f</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gdvf-z086#r">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -204,14 +198,14 @@
          etc.</skos:definition>
     <skos:scopeNote xml:lang="en">The tinting of a film may be in whole or in part. Tinting was
          common until the advent of sound.</skos:scopeNote>
-    <skos:notation xml:lang="en">r</skos:notation>
+    <skos:notation>r</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gdvf-z086#n">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.gdvf-z086"/>
     <skos:prefLabel xml:lang="en">not applicable</skos:prefLabel>
     <skos:definition xml:lang="en">Item is not a color film.</skos:definition>
-    <skos:notation xml:lang="en">n</skos:notation>
+    <skos:notation>n</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gdvf-z086#c">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -224,14 +218,14 @@
          inherent inability of two components to reproduce a satisfactory range of hues rendered all
          such systems obsolete when three-color processes became readily available and relatively
          inexpensive.</skos:scopeNote>
-    <skos:notation xml:lang="en">c</skos:notation>
+    <skos:notation>c</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gdvf-z086#u">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.gdvf-z086"/>
     <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
     <skos:definition xml:lang="en">Refined category of color is not known.</skos:definition>
-    <skos:notation xml:lang="en">u</skos:notation>
+    <skos:notation>u</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gdvf-z086#q">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -241,7 +235,7 @@
          uranium produces red, or increasing the brilliance of a print. Toning differs from tinting
          in that the clear portions of the film remain unaffected. Only the silver image of the
          positive film becomes colored.</skos:definition>
-    <skos:notation xml:lang="en">q</skos:notation>
+    <skos:notation>q</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gdvf-z086#s">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -249,7 +243,7 @@
     <skos:prefLabel xml:lang="en">tinted and toned</skos:prefLabel>
     <skos:definition xml:lang="en">Color has been added to a film by using a tinted base and a
          toned emulsion.</skos:definition>
-    <skos:notation xml:lang="en">s</skos:notation>
+    <skos:notation>s</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gdvf-z086#k">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -257,7 +251,7 @@
     <skos:prefLabel xml:lang="en">yellow strip</skos:prefLabel>
     <skos:definition xml:lang="en">Color separation record of blue light which prints as
          yellow.</skos:definition>
-    <skos:notation xml:lang="en">k</skos:notation>
+    <skos:notation>k</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.gdvf-z086#i">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -265,6 +259,6 @@
     <skos:prefLabel xml:lang="en">cyan strip</skos:prefLabel>
     <skos:definition xml:lang="en">Color separation record of red light which prints as
          cyan.</skos:definition>
-    <skos:notation xml:lang="en">i</skos:notation>
+    <skos:notation>i</skos:notation>
   </rdf:Description>
 </rdf:RDF>

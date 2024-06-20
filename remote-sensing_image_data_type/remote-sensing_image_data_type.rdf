@@ -1,53 +1,47 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rdf:RDF
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:dct="http://purl.org/dc/terms/"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:schema="https://schema.org/"
-   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
->
+<?xml version='1.0' encoding='UTF-8'?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schema="https://schema.org/" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.ftkp-4k39#mm">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.ftkp-4k39"/>
     <skos:prefLabel xml:lang="en">combination of various data types</skos:prefLabel>
     <skos:definition xml:lang="en">More than one data type is applicable to the remote-sensing
          image.</skos:definition>
-    <skos:notation xml:lang="en">mm</skos:notation>
+    <skos:notation>mm</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.ftkp-4k39#pe">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.ftkp-4k39"/>
     <skos:prefLabel xml:lang="en">seismic surveys</skos:prefLabel>
     <skos:definition xml:lang="en">Seismic surveys</skos:definition>
-    <skos:notation xml:lang="en">pe</skos:notation>
+    <skos:notation>pe</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.ftkp-4k39#rd">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.ftkp-4k39"/>
     <skos:prefLabel xml:lang="en">isostatic</skos:prefLabel>
     <skos:definition xml:lang="en">Isostatic</skos:definition>
-    <skos:notation xml:lang="en">rd</skos:notation>
+    <skos:notation>rd</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.ftkp-4k39#rc">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.ftkp-4k39"/>
     <skos:prefLabel xml:lang="en">bouger</skos:prefLabel>
     <skos:definition xml:lang="en">Bouger</skos:definition>
-    <skos:notation xml:lang="en">rc</skos:notation>
+    <skos:notation>rc</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.ftkp-4k39#jb">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.ftkp-4k39"/>
     <skos:prefLabel xml:lang="en">middle ultraviolet</skos:prefLabel>
     <skos:definition xml:lang="en">Middle ultraviolet.</skos:definition>
-    <skos:notation xml:lang="en">jb</skos:notation>
+    <skos:notation>jb</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.ftkp-4k39#gz">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.ftkp-4k39"/>
     <skos:prefLabel xml:lang="en">other microwave data</skos:prefLabel>
     <skos:definition xml:lang="en">Other microwave data.</skos:definition>
-    <skos:notation xml:lang="en">gz</skos:notation>
+    <skos:notation>gz</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.ftkp-4k39">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
@@ -59,12 +53,12 @@
          received by the device producing the remote-sensing image. It can be used to indicate both
          the wave length of radiation measured and the type of sensor used to measure
          it.</dct:description>
-    <schema:disambiguatingDescription>SKOS Concept Scheme for MARC 00X
+    <schema:disambiguatingDescription xml:lang="en">SKOS Concept Scheme for MARC 00X
          Values</schema:disambiguatingDescription>
     <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
     <dct:source rdf:resource="https://www.loc.gov/marc/bibliographic/bd007.html"/>
     <dct:source rdf:resource="http://marc21rdf.info"/>
-    <dct:provenance rdf:resource="https://doi.org/10.6069/uwlswd.2e2b-y833"/>
+    <dct:provenance rdf:resource="https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues"/>
     <dct:creator rdf:resource="http://viaf.org/viaf/139541794"/>
     <dct:contributor rdf:resource="http://viaf.org/viaf/151962300"/>
     <dct:issued>2024</dct:issued>
@@ -79,21 +73,21 @@
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.ftkp-4k39"/>
     <skos:prefLabel xml:lang="en">free-air</skos:prefLabel>
     <skos:definition xml:lang="en">Free-air</skos:definition>
-    <skos:notation xml:lang="en">rb</skos:notation>
+    <skos:notation>rb</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.ftkp-4k39#gf">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.ftkp-4k39"/>
     <skos:prefLabel xml:lang="en">infometric SAR</skos:prefLabel>
     <skos:definition xml:lang="en">Infometric SAR.</skos:definition>
-    <skos:notation xml:lang="en">gf</skos:notation>
+    <skos:notation>gf</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.ftkp-4k39#gc">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.ftkp-4k39"/>
     <skos:prefLabel xml:lang="en">SAR-multi-frequency (multichannel)</skos:prefLabel>
     <skos:definition xml:lang="en">SAR-multi-frequency (multichannel).</skos:definition>
-    <skos:notation xml:lang="en">gc</skos:notation>
+    <skos:notation>gc</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.ftkp-4k39#pb">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -103,42 +97,42 @@
          imaging.</skos:definition>
     <skos:scopeNote xml:lang="en">Includes both near-surface and near-bottom sensing
          data.</skos:scopeNote>
-    <skos:notation xml:lang="en">pb</skos:notation>
+    <skos:notation>pb</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.ftkp-4k39#pz">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.ftkp-4k39"/>
     <skos:prefLabel xml:lang="en">other acoustical data</skos:prefLabel>
     <skos:definition xml:lang="en">Other acoustical data</skos:definition>
-    <skos:notation xml:lang="en">pz</skos:notation>
+    <skos:notation>pz</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.ftkp-4k39#ma">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.ftkp-4k39"/>
     <skos:prefLabel xml:lang="en">multi-spectral, multidata</skos:prefLabel>
     <skos:definition xml:lang="en">Multi-spectral, multidata.</skos:definition>
-    <skos:notation xml:lang="en">ma</skos:notation>
+    <skos:notation>ma</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.ftkp-4k39#jv">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.ftkp-4k39"/>
     <skos:prefLabel xml:lang="en">ultraviolet combinations</skos:prefLabel>
     <skos:definition xml:lang="en">Ultraviolet combinations.</skos:definition>
-    <skos:notation xml:lang="en">jv</skos:notation>
+    <skos:notation>jv</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.ftkp-4k39#ta">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.ftkp-4k39"/>
     <skos:prefLabel xml:lang="en">radiometric surveys</skos:prefLabel>
     <skos:definition xml:lang="en">Radiometric surveys</skos:definition>
-    <skos:notation xml:lang="en">ta</skos:notation>
+    <skos:notation>ta</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.ftkp-4k39#dv">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.ftkp-4k39"/>
     <skos:prefLabel xml:lang="en">combinations</skos:prefLabel>
     <skos:definition xml:lang="en">Combinations.</skos:definition>
-    <skos:notation xml:lang="en">dv</skos:notation>
+    <skos:notation>dv</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.ftkp-4k39#pc">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -146,7 +140,7 @@
     <skos:prefLabel xml:lang="en">sonar - bottom topography, near surface</skos:prefLabel>
     <skos:definition xml:lang="en">Acoustical data type for the remote-sensing image is
          near-surface.</skos:definition>
-    <skos:notation xml:lang="en">pc</skos:notation>
+    <skos:notation>pc</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.ftkp-4k39#sa">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -155,28 +149,28 @@
     <skos:definition xml:lang="en">Magnetic field</skos:definition>
     <skos:scopeNote xml:lang="en">Includes inclination, declination, and
          anomalies.</skos:scopeNote>
-    <skos:notation xml:lang="en">sa</skos:notation>
+    <skos:notation>sa</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.ftkp-4k39#mb">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.ftkp-4k39"/>
     <skos:prefLabel xml:lang="en">multi-temporal</skos:prefLabel>
     <skos:definition xml:lang="en">Multi-temporal.</skos:definition>
-    <skos:notation xml:lang="en">mb</skos:notation>
+    <skos:notation>mb</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.ftkp-4k39#gd">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.ftkp-4k39"/>
     <skos:prefLabel xml:lang="en">SAR-like polarization</skos:prefLabel>
     <skos:definition xml:lang="en">SAR-like polarization.</skos:definition>
-    <skos:notation xml:lang="en">gd</skos:notation>
+    <skos:notation>gd</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.ftkp-4k39#ga">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.ftkp-4k39"/>
     <skos:prefLabel xml:lang="en">sidelooking airborne radar (SLAR)</skos:prefLabel>
     <skos:definition xml:lang="en">Sidelooking airborne radar (SLAR).</skos:definition>
-    <skos:notation xml:lang="en">ga</skos:notation>
+    <skos:notation>ga</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.ftkp-4k39#uu">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -184,21 +178,21 @@
     <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
     <skos:definition xml:lang="en">Data type for the remote-sensing image is not
          known.</skos:definition>
-    <skos:notation xml:lang="en">uu</skos:notation>
+    <skos:notation>uu</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.ftkp-4k39#dz">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.ftkp-4k39"/>
     <skos:prefLabel xml:lang="en">other infrared data</skos:prefLabel>
     <skos:definition xml:lang="en">Other infrared data.</skos:definition>
-    <skos:notation xml:lang="en">dz</skos:notation>
+    <skos:notation>dz</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.ftkp-4k39#ge">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.ftkp-4k39"/>
     <skos:prefLabel xml:lang="en">SAR-cross polarization</skos:prefLabel>
     <skos:definition xml:lang="en">SAR-cross polarization.</skos:definition>
-    <skos:notation xml:lang="en">ge</skos:notation>
+    <skos:notation>ge</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.ftkp-4k39#nn">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -206,21 +200,21 @@
     <skos:prefLabel xml:lang="en">not applicable</skos:prefLabel>
     <skos:definition xml:lang="en">Data type is not applicable to the remote-sensing image being
          described.</skos:definition>
-    <skos:notation xml:lang="en">nn</skos:notation>
+    <skos:notation>nn</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.ftkp-4k39#de">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.ftkp-4k39"/>
     <skos:prefLabel xml:lang="en">shortwave infrared (SWIR)</skos:prefLabel>
     <skos:definition xml:lang="en">Shortwave infrared (SWIR).</skos:definition>
-    <skos:notation xml:lang="en">de</skos:notation>
+    <skos:notation>de</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.ftkp-4k39#da">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.ftkp-4k39"/>
     <skos:prefLabel xml:lang="en">near infrared</skos:prefLabel>
     <skos:definition xml:lang="en">Near infrared.</skos:definition>
-    <skos:notation xml:lang="en">da</skos:notation>
+    <skos:notation>da</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.ftkp-4k39#zz">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -237,14 +231,14 @@
          sidescan; sonar - bottom topography, near surface; sonar - bottom topography, near bottom;
          seismic surveys; other acoustical data; gravity anomalies (general); free-air; bouger;
          isostatic; magnetic field; or radiometric surveys.</skos:definition>
-    <skos:notation xml:lang="en">zz</skos:notation>
+    <skos:notation>zz</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.ftkp-4k39#gu">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.ftkp-4k39"/>
     <skos:prefLabel xml:lang="en">passive microwave mapping</skos:prefLabel>
     <skos:definition xml:lang="en">Passive microwave mapping.</skos:definition>
-    <skos:notation xml:lang="en">gu</skos:notation>
+    <skos:notation>gu</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.ftkp-4k39#gb">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -252,49 +246,49 @@
     <skos:prefLabel xml:lang="en">synthetic aperture radar (SAR)-Single frequency</skos:prefLabel>
     <skos:definition xml:lang="en">Synthetic aperture radar (SAR)-Single
          frequency.</skos:definition>
-    <skos:notation xml:lang="en">gb</skos:notation>
+    <skos:notation>gb</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.ftkp-4k39#gg">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.ftkp-4k39"/>
     <skos:prefLabel xml:lang="en">polarmetric SAR</skos:prefLabel>
     <skos:definition xml:lang="en">Polarmetric SAR.</skos:definition>
-    <skos:notation xml:lang="en">gg</skos:notation>
+    <skos:notation>gg</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.ftkp-4k39#jz">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.ftkp-4k39"/>
     <skos:prefLabel xml:lang="en">other ultraviolet data</skos:prefLabel>
     <skos:definition xml:lang="en">Other ultraviolet data.</skos:definition>
-    <skos:notation xml:lang="en">jz</skos:notation>
+    <skos:notation>jz</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.ftkp-4k39#ja">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.ftkp-4k39"/>
     <skos:prefLabel xml:lang="en">far ultraviolet</skos:prefLabel>
     <skos:definition xml:lang="en">Far ultraviolet.</skos:definition>
-    <skos:notation xml:lang="en">ja</skos:notation>
+    <skos:notation>ja</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.ftkp-4k39#df">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.ftkp-4k39"/>
     <skos:prefLabel xml:lang="en">reflective infrared</skos:prefLabel>
     <skos:definition xml:lang="en">Reflective infrared.</skos:definition>
-    <skos:notation xml:lang="en">df</skos:notation>
+    <skos:notation>df</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.ftkp-4k39#jc">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.ftkp-4k39"/>
     <skos:prefLabel xml:lang="en">near ultraviolet</skos:prefLabel>
     <skos:definition xml:lang="en">Near ultraviolet.</skos:definition>
-    <skos:notation xml:lang="en">jc</skos:notation>
+    <skos:notation>jc</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.ftkp-4k39#aa">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.ftkp-4k39"/>
     <skos:prefLabel xml:lang="en">visible light</skos:prefLabel>
     <skos:definition xml:lang="en">Visible light.</skos:definition>
-    <skos:notation xml:lang="en">aa</skos:notation>
+    <skos:notation>aa</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.ftkp-4k39#pa">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -303,28 +297,28 @@
     <skos:definition xml:lang="en">Acoustical data type for the remote-sensing image for water
          depth is sonar.</skos:definition>
     <skos:scopeNote xml:lang="en">Used for echo-sounding images.</skos:scopeNote>
-    <skos:notation xml:lang="en">pa</skos:notation>
+    <skos:notation>pa</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.ftkp-4k39#dd">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.ftkp-4k39"/>
     <skos:prefLabel xml:lang="en">thermal infrared</skos:prefLabel>
     <skos:definition xml:lang="en">Thermal infrared.</skos:definition>
-    <skos:notation xml:lang="en">dd</skos:notation>
+    <skos:notation>dd</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.ftkp-4k39#ra">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.ftkp-4k39"/>
     <skos:prefLabel xml:lang="en">gravity anomalies (general)</skos:prefLabel>
     <skos:definition xml:lang="en">Gravity anomalies (general)</skos:definition>
-    <skos:notation xml:lang="en">ra</skos:notation>
+    <skos:notation>ra</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.ftkp-4k39#dc">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.ftkp-4k39"/>
     <skos:prefLabel xml:lang="en">far infrared</skos:prefLabel>
     <skos:definition xml:lang="en">Far infrared.</skos:definition>
-    <skos:notation xml:lang="en">dc</skos:notation>
+    <skos:notation>dc</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.ftkp-4k39#pd">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -332,13 +326,13 @@
     <skos:prefLabel xml:lang="en">sonar - bottom topography, near bottom</skos:prefLabel>
     <skos:definition xml:lang="en">Acoustical data type for the remote-sensing image is
          near-bottom (i.e., taken from 10-150 m. (33-494 ft.) from the bottom).</skos:definition>
-    <skos:notation xml:lang="en">pd</skos:notation>
+    <skos:notation>pd</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.ftkp-4k39#db">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.ftkp-4k39"/>
     <skos:prefLabel xml:lang="en">middle infrared</skos:prefLabel>
     <skos:definition xml:lang="en">Middle infrared.</skos:definition>
-    <skos:notation xml:lang="en">db</skos:notation>
+    <skos:notation>db</skos:notation>
   </rdf:Description>
 </rdf:RDF>

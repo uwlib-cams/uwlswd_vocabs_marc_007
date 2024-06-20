@@ -1,11 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rdf:RDF
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:dct="http://purl.org/dc/terms/"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:schema="https://schema.org/"
-   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
->
+<?xml version='1.0' encoding='UTF-8'?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schema="https://schema.org/" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.v4qn-rb56#b">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.v4qn-rb56"/>
@@ -16,14 +10,14 @@
          equipment prior to the availability of magnetic recording techniques in the late 1940s used
          direct storage. Commercial recordings marked "direct to disc" or some equivalent phrase
          also use this technique. Also known as electromechanical recording.</skos:scopeNote>
-    <skos:notation xml:lang="en">b</skos:notation>
+    <skos:notation>b</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.v4qn-rb56#u">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.v4qn-rb56"/>
     <skos:prefLabel xml:lang="en">unknown</skos:prefLabel>
     <skos:definition xml:lang="en">Capture and storage technique are not known.</skos:definition>
-    <skos:notation xml:lang="en">u</skos:notation>
+    <skos:notation>u</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.v4qn-rb56">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
@@ -33,12 +27,12 @@
          Formerly: Capture and storage technique</dct:alternative>
     <dct:description xml:lang="en">How the sound was originally captured and
          stored.</dct:description>
-    <schema:disambiguatingDescription>SKOS Concept Scheme for MARC 00X
+    <schema:disambiguatingDescription xml:lang="en">SKOS Concept Scheme for MARC 00X
          Values</schema:disambiguatingDescription>
     <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
     <dct:source rdf:resource="https://www.loc.gov/marc/bibliographic/bd007.html"/>
     <dct:source rdf:resource="http://marc21rdf.info"/>
-    <dct:provenance rdf:resource="https://doi.org/10.6069/uwlswd.2e2b-y833"/>
+    <dct:provenance rdf:resource="https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues"/>
     <dct:creator rdf:resource="http://viaf.org/viaf/139541794"/>
     <dct:contributor rdf:resource="http://viaf.org/viaf/151962300"/>
     <dct:issued>2024</dct:issued>
@@ -55,7 +49,7 @@
     <skos:definition xml:lang="en">Capture and storage technique other than acoustical capture,
          direct storage; direct storage, not acoustical; digital storage; or analog electrical
          storage.</skos:definition>
-    <skos:notation xml:lang="en">z</skos:notation>
+    <skos:notation>z</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.v4qn-rb56#a">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -65,7 +59,7 @@
          acoustical horn and diaphragm and stored directly on a master surface.</skos:definition>
     <skos:scopeNote xml:lang="en">Most acoustical recordings date from before 1927/29 when
          electrical recording equipment became available.</skos:scopeNote>
-    <skos:notation xml:lang="en">a</skos:notation>
+    <skos:notation>a</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.v4qn-rb56#d">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -77,7 +71,7 @@
          normally identified as "digitally recorded" or some similar phrase on the label or package.
          "Digital remaster" or "digital mixing" does not imply original digital storage. Note that
          Digital storage and digital playback should not be confused.</skos:scopeNote>
-    <skos:notation xml:lang="en">d</skos:notation>
+    <skos:notation>d</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.v4qn-rb56#e">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -87,6 +81,6 @@
          techniques and stored as modulations and pulses on a magnetic surface.</skos:definition>
     <skos:scopeNote xml:lang="en">Most recordings made from the late 1940s until early 1980s are
          analog electrical recordings.</skos:scopeNote>
-    <skos:notation xml:lang="en">e</skos:notation>
+    <skos:notation>e</skos:notation>
   </rdf:Description>
 </rdf:RDF>

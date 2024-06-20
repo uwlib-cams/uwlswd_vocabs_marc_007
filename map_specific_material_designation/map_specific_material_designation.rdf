@@ -1,16 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rdf:RDF
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:dct="http://purl.org/dc/terms/"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:schema="https://schema.org/"
-   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
->
+<?xml version='1.0' encoding='UTF-8'?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schema="https://schema.org/" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.096m-0415#w">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.096m-0415"/>
     <skos:prefLabel xml:lang="en">topographical drawing [obsolete]</skos:prefLabel>
-    <skos:notation xml:lang="en">w</skos:notation>
+    <skos:notation>w</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.096m-0415#q">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -18,31 +12,31 @@
     <skos:prefLabel xml:lang="en">model</skos:prefLabel>
     <skos:definition xml:lang="en">Three-dimensional representation of a real object. Object may
          be the exact size of the original or to scale.</skos:definition>
-    <skos:notation xml:lang="en">q</skos:notation>
+    <skos:notation>q</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.096m-0415#i">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.096m-0415"/>
     <skos:prefLabel xml:lang="en">imaginative map [obsolete]</skos:prefLabel>
-    <skos:notation xml:lang="en">i</skos:notation>
+    <skos:notation>i</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.096m-0415#n">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.096m-0415"/>
     <skos:prefLabel xml:lang="en">photo mosaic (uncontrolled) [obsolete]</skos:prefLabel>
-    <skos:notation xml:lang="en">n</skos:notation>
+    <skos:notation>n</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.096m-0415#a">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.096m-0415"/>
     <skos:prefLabel xml:lang="en">aerial chart [obsolete]</skos:prefLabel>
-    <skos:notation xml:lang="en">a</skos:notation>
+    <skos:notation>a</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.096m-0415#o">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.096m-0415"/>
     <skos:prefLabel xml:lang="en">photomap [obsolete]</skos:prefLabel>
-    <skos:notation xml:lang="en">o</skos:notation>
+    <skos:notation>o</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.096m-0415">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
@@ -52,12 +46,12 @@
          RDF</dct:alternative>
     <dct:description xml:lang="en">Special class of cartographic material to which the resource
          belongs.</dct:description>
-    <schema:disambiguatingDescription>SKOS Concept Scheme for MARC 00X
+    <schema:disambiguatingDescription xml:lang="en">SKOS Concept Scheme for MARC 00X
          Values</schema:disambiguatingDescription>
     <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
     <dct:source rdf:resource="https://www.loc.gov/marc/bibliographic/bd007.html"/>
     <dct:source rdf:resource="http://marc21rdf.info"/>
-    <dct:provenance rdf:resource="https://doi.org/10.6069/uwlswd.2e2b-y833"/>
+    <dct:provenance rdf:resource="https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues"/>
     <dct:creator rdf:resource="http://viaf.org/viaf/139541794"/>
     <dct:contributor rdf:resource="http://viaf.org/viaf/151962300"/>
     <dct:issued>2024</dct:issued>
@@ -74,7 +68,7 @@
     <skos:definition xml:lang="en">Map characterized by simplified, or schematic, representation.
          Diagrams are graphic representations of numerical data, or of the course or results of an
          action or process.</skos:definition>
-    <skos:notation xml:lang="en">g</skos:notation>
+    <skos:notation>g</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.096m-0415#d">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -82,44 +76,44 @@
     <skos:prefLabel xml:lang="en">atlas</skos:prefLabel>
     <skos:definition xml:lang="en">Atlases generally contain maps, related text, and other
          cartographic information.</skos:definition>
-    <skos:notation xml:lang="en">d</skos:notation>
+    <skos:notation>d</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.096m-0415#u">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.096m-0415"/>
     <skos:prefLabel xml:lang="en">unspecified</skos:prefLabel>
     <skos:definition xml:lang="en">Unspecified.</skos:definition>
-    <skos:notation xml:lang="en">u</skos:notation>
+    <skos:notation>u</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.096m-0415#v">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.096m-0415"/>
     <skos:prefLabel xml:lang="en">terrestrial remote-sensing image [obsolete]</skos:prefLabel>
-    <skos:notation xml:lang="en">v</skos:notation>
+    <skos:notation>v</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.096m-0415#h">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.096m-0415"/>
     <skos:prefLabel xml:lang="en">hydrographic chart [obsolete]</skos:prefLabel>
-    <skos:notation xml:lang="en">h</skos:notation>
+    <skos:notation>h</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.096m-0415#b">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.096m-0415"/>
     <skos:prefLabel xml:lang="en">aerial remote-sensing image [obsolete]</skos:prefLabel>
-    <skos:notation xml:lang="en">b</skos:notation>
+    <skos:notation>b</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.096m-0415#jx">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.096m-0415"/>
     <skos:prefLabel xml:lang="en">orthophoto [obsolete]</skos:prefLabel>
-    <skos:notation xml:lang="en">j</skos:notation>
+    <skos:notation>j</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.096m-0415#m">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.096m-0415"/>
     <skos:prefLabel xml:lang="en">photo mosaic (controlled) [obsolete]</skos:prefLabel>
-    <skos:notation xml:lang="en">m</skos:notation>
+    <skos:notation>m</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.096m-0415#r">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -127,7 +121,7 @@
     <skos:prefLabel xml:lang="en">remote-sensing image</skos:prefLabel>
     <skos:definition xml:lang="en">Image produced by a recording device that is not in physical or
          intimate contact with the object under study.</skos:definition>
-    <skos:notation xml:lang="en">r</skos:notation>
+    <skos:notation>r</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.096m-0415#z">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -135,13 +129,13 @@
     <skos:prefLabel xml:lang="en">other</skos:prefLabel>
     <skos:definition xml:lang="en">Specific material designation other than atlas, diagram, map,
          profile, model, remote-sensing image, section, or view.</skos:definition>
-    <skos:notation xml:lang="en">z</skos:notation>
+    <skos:notation>z</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.096m-0415#c">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.096m-0415"/>
     <skos:prefLabel xml:lang="en">anamorphic map [obsolete]</skos:prefLabel>
-    <skos:notation xml:lang="en">c</skos:notation>
+    <skos:notation>c</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.096m-0415#y">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -149,7 +143,7 @@
     <skos:prefLabel xml:lang="en">view</skos:prefLabel>
     <skos:definition xml:lang="en">Perspective representation of the landscape shown as if it were
          projected onto an oblique plane.</skos:definition>
-    <skos:notation xml:lang="en">y</skos:notation>
+    <skos:notation>y</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.096m-0415#s">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -158,19 +152,19 @@
     <skos:definition xml:lang="en">Scaled representation of a vertical surface (commonly a plane)
          displaying both the the intersection profile or some conceptual model, and the underlying
          structures, e.g., geological section.</skos:definition>
-    <skos:notation xml:lang="en">s</skos:notation>
+    <skos:notation>s</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.096m-0415#t">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.096m-0415"/>
     <skos:prefLabel xml:lang="en">space remote-sensing image [obsolete]</skos:prefLabel>
-    <skos:notation xml:lang="en">t</skos:notation>
+    <skos:notation>t</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.096m-0415#x">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.096m-0415"/>
     <skos:prefLabel xml:lang="en">topographical print [obsolete]</skos:prefLabel>
-    <skos:notation xml:lang="en">x</skos:notation>
+    <skos:notation>x</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.096m-0415#j">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -179,13 +173,13 @@
     <skos:definition xml:lang="en">Two-dimensional map. Defined as a representation normally to
          scale and on a flat medium, of a selection of material or abstract features on, or in
          relation to, the surface of the earth or of another celestial body.</skos:definition>
-    <skos:notation xml:lang="en">j</skos:notation>
+    <skos:notation>j</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.096m-0415#e">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.096m-0415"/>
     <skos:prefLabel xml:lang="en">celestial chart [obsolete]</skos:prefLabel>
-    <skos:notation xml:lang="en">e</skos:notation>
+    <skos:notation>e</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.096m-0415#k">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -195,18 +189,18 @@
          (which may or may not be a plane) with the surface of the ground or with that of a
          conceptual three-dimensional model of phenomena having continuous distribution (e.g.,
          rainfall).</skos:definition>
-    <skos:notation xml:lang="en">k</skos:notation>
+    <skos:notation>k</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.096m-0415#p">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.096m-0415"/>
     <skos:prefLabel xml:lang="en">plan [obsolete]</skos:prefLabel>
-    <skos:notation xml:lang="en">p</skos:notation>
+    <skos:notation>p</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.096m-0415#f">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.096m-0415"/>
     <skos:prefLabel xml:lang="en">chart [obsolete]</skos:prefLabel>
-    <skos:notation xml:lang="en">f</skos:notation>
+    <skos:notation>f</skos:notation>
   </rdf:Description>
 </rdf:RDF>

@@ -1,11 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rdf:RDF
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:dct="http://purl.org/dc/terms/"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:schema="https://schema.org/"
-   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
->
+<?xml version='1.0' encoding='UTF-8'?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schema="https://schema.org/" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.exa1-z360#a">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.exa1-z360"/>
@@ -16,14 +10,14 @@
          Machine) punched cards, commonly known as IBM cards, that are standardized for use in
          card-handling machines. Such cards contain only one aperture and most frequently have only
          one microimage.</skos:definition>
-    <skos:notation xml:lang="en">a</skos:notation>
+    <skos:notation>a</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.exa1-z360#f">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.exa1-z360"/>
     <skos:prefLabel xml:lang="en">microfiche cassette</skos:prefLabel>
     <skos:definition xml:lang="en">Microfiche cassette.</skos:definition>
-    <skos:notation xml:lang="en">f</skos:notation>
+    <skos:notation>f</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.exa1-z360#d">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -37,7 +31,7 @@
          and reduction ratios commonly range from about 10:1 to about 20:1. Sixteen millimeter film
          with effective ratios of either 24:1 or 48:1 is most often used for COM
          (Computer-Output-Microfilm) microimages.</skos:definition>
-    <skos:notation xml:lang="en">d</skos:notation>
+    <skos:notation>d</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.exa1-z360#b">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -49,7 +43,7 @@
          Normally, the end of the film is left free for threading into such equipment. Common film
          lengths, widths, and reduction ratios are the same as those of microfilm
          reels.</skos:definition>
-    <skos:notation xml:lang="en">b</skos:notation>
+    <skos:notation>b</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.exa1-z360#c">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -62,14 +56,14 @@
          such readers and reader-printers. Usual film lengths are 100 ft (approximately 30 m.) or
          less. Common film width is 16 mm. and usual reduction ratios are those of microfilm reels
          and cartridges.</skos:definition>
-    <skos:notation xml:lang="en">c</skos:notation>
+    <skos:notation>c</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.exa1-z360#h">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.exa1-z360"/>
     <skos:prefLabel xml:lang="en">microfilm slip</skos:prefLabel>
     <skos:definition xml:lang="en">A short strip of microfilm cut from a roll.</skos:definition>
-    <skos:notation xml:lang="en">h</skos:notation>
+    <skos:notation>h</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.exa1-z360#g">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -80,7 +74,7 @@
          are 3x5 in. and 6x9 in. Common reduction ratios are approximately 24:1 or 20:1.
          Microopaques usually have identifying information in text that is large enough to read
          without magnification.</skos:definition>
-    <skos:notation xml:lang="en">g</skos:notation>
+    <skos:notation>g</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.exa1-z360">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
@@ -90,12 +84,12 @@
          RDF</dct:alternative>
     <dct:description xml:lang="en">Special class of microform to which the item belongs. (e.g., a
          microopaque).</dct:description>
-    <schema:disambiguatingDescription>SKOS Concept Scheme for MARC 00X
+    <schema:disambiguatingDescription xml:lang="en">SKOS Concept Scheme for MARC 00X
          Values</schema:disambiguatingDescription>
     <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
     <dct:source rdf:resource="https://www.loc.gov/marc/bibliographic/bd007.html"/>
     <dct:source rdf:resource="http://marc21rdf.info"/>
-    <dct:provenance rdf:resource="https://doi.org/10.6069/uwlswd.2e2b-y833"/>
+    <dct:provenance rdf:resource="https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues"/>
     <dct:creator rdf:resource="http://viaf.org/viaf/139541794"/>
     <dct:contributor rdf:resource="http://viaf.org/viaf/151962300"/>
     <dct:issued>2024</dct:issued>
@@ -111,7 +105,7 @@
     <skos:prefLabel xml:lang="en">unspecified</skos:prefLabel>
     <skos:definition xml:lang="en">Special material designation for the microform is not
          specified.</skos:definition>
-    <skos:notation xml:lang="en">u</skos:notation>
+    <skos:notation>u</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.exa1-z360#e">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -136,7 +130,7 @@
          found directly above the first row of microimages. Microfiche made at ultrahigh ratios are
          commonly called ultrafiche. Ratios and grid patterns have not been standardized for these
          microfiche and differ according to application and method for production.</skos:definition>
-    <skos:notation xml:lang="en">e</skos:notation>
+    <skos:notation>e</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.exa1-z360#z">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -148,7 +142,7 @@
     <skos:scopeNote xml:lang="en">Includes microchip (a sheet of photographic film of very small
          dimensions), microdot (a minuscule piece of photgraphic film with ultrahigh reduction
          ration), microform scroll (a roll of unusually wide photographic film).</skos:scopeNote>
-    <skos:notation xml:lang="en">z</skos:notation>
+    <skos:notation>z</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.exa1-z360#j">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -156,6 +150,6 @@
     <skos:prefLabel xml:lang="en">microfilm roll</skos:prefLabel>
     <skos:definition xml:lang="en">A wound length of microfilm not on a reel, cartridge,
          etc.</skos:definition>
-    <skos:notation xml:lang="en">j</skos:notation>
+    <skos:notation>j</skos:notation>
   </rdf:Description>
 </rdf:RDF>

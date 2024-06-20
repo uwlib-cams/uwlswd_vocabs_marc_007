@@ -1,16 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rdf:RDF
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:dct="http://purl.org/dc/terms/"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:schema="https://schema.org/"
-   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
->
+<?xml version='1.0' encoding='UTF-8'?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schema="https://schema.org/" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.enb6-8r41#rx">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.enb6-8r41"/>
     <skos:prefLabel xml:lang="en">roll [obsolete]</skos:prefLabel>
-    <skos:notation xml:lang="en">r</skos:notation>
+    <skos:notation>r</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.enb6-8r41">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
@@ -20,12 +14,12 @@
          RDF</dct:alternative>
     <dct:description xml:lang="en">Special class of sound recording to which the item belongs
          (e.g., a cylinder).</dct:description>
-    <schema:disambiguatingDescription>SKOS Concept Scheme for MARC 00X
+    <schema:disambiguatingDescription xml:lang="en">SKOS Concept Scheme for MARC 00X
          Values</schema:disambiguatingDescription>
     <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
     <dct:source rdf:resource="https://www.loc.gov/marc/bibliographic/bd007.html"/>
     <dct:source rdf:resource="http://marc21rdf.info"/>
-    <dct:provenance rdf:resource="https://doi.org/10.6069/uwlswd.2e2b-y833"/>
+    <dct:provenance rdf:resource="https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues"/>
     <dct:creator rdf:resource="http://viaf.org/viaf/139541794"/>
     <dct:contributor rdf:resource="http://viaf.org/viaf/151962300"/>
     <dct:issued>2024</dct:issued>
@@ -42,7 +36,7 @@
     <skos:definition xml:lang="en">Thin circular objects that vary in diameter (e.g., 7 in., 10
          in., 12 in.), on which sound waves, recorded as modulations or pulses, are incised or
          indented. Compact audio discs are typically 4 3/4 in. in diameter.</skos:definition>
-    <skos:notation xml:lang="en">d</skos:notation>
+    <skos:notation>d</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.enb6-8r41#u">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -50,7 +44,7 @@
     <skos:prefLabel xml:lang="en">unspecified</skos:prefLabel>
     <skos:definition xml:lang="en">Special material designation for the sound recording is not
          specified.</skos:definition>
-    <skos:notation xml:lang="en">u</skos:notation>
+    <skos:notation>u</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.enb6-8r41#w">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -58,7 +52,7 @@
     <skos:prefLabel xml:lang="en">wire recording</skos:prefLabel>
     <skos:definition xml:lang="en">A round steel wire on which sound waves are magnetically
          recorded.</skos:definition>
-    <skos:notation xml:lang="en">w</skos:notation>
+    <skos:notation>w</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.enb6-8r41#s">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -67,7 +61,7 @@
     <skos:definition xml:lang="en">A container holding a narrow, usually 1/8 inch, sound tape on
          two reels, one to feed (and rewind) and the other to take up the sound
          tape.</skos:definition>
-    <skos:notation xml:lang="en">s</skos:notation>
+    <skos:notation>s</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.enb6-8r41#g">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -75,7 +69,7 @@
     <skos:prefLabel xml:lang="en">sound cartridge</skos:prefLabel>
     <skos:definition xml:lang="en">Containers holding a single sound tape, run as an endless
          loop.</skos:definition>
-    <skos:notation xml:lang="en">g</skos:notation>
+    <skos:notation>g</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.enb6-8r41#t">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -83,7 +77,7 @@
     <skos:prefLabel xml:lang="en">sound-tape reel</skos:prefLabel>
     <skos:definition xml:lang="en">An audiotape-transport system with separate supply (feed) and
          take-up reels. Usually designated an Open Reel or Reel-to-Reel.</skos:definition>
-    <skos:notation xml:lang="en">t</skos:notation>
+    <skos:notation>t</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.enb6-8r41#b">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -92,7 +86,7 @@
     <skos:definition xml:lang="en">A loop of flexible plastic or magnetic film on which audio
          signals are mechanically recorded.</skos:definition>
     <skos:scopeNote xml:lang="en">Commonly known under the trade name Dictabelt.</skos:scopeNote>
-    <skos:notation xml:lang="en">b</skos:notation>
+    <skos:notation>b</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.enb6-8r41#r">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -102,7 +96,7 @@
          etc. remotely. In this case, the digital sound recording is used via input/output devices
          connected electronically to a computer. Frequently this involves connection through a
          computer network.</skos:definition>
-    <skos:notation xml:lang="en">r</skos:notation>
+    <skos:notation>r</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.enb6-8r41#e">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -112,7 +106,7 @@
          indented in a continuous circular groove.</skos:definition>
     <skos:scopeNote xml:lang="en">Mass-produced cylinders are made of plastic. Early cylinders
          were made of tinfoil or wax.</skos:scopeNote>
-    <skos:notation xml:lang="en">e</skos:notation>
+    <skos:notation>e</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.enb6-8r41#q">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -121,7 +115,7 @@
     <skos:definition xml:lang="en">Roll of paper, for example, for player piano or player organ,
          on which the notes of a musical composition are represented by perforations in the paper
          and from which sound can be mechanically produced.</skos:definition>
-    <skos:notation xml:lang="en">q</skos:notation>
+    <skos:notation>q</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.enb6-8r41#i">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -131,19 +125,19 @@
          visual images.</skos:definition>
     <skos:scopeNote xml:lang="en">Also when it is not known if a sound recording on film is
          intended to accompany visual images.</skos:scopeNote>
-    <skos:notation xml:lang="en">i</skos:notation>
+    <skos:notation>i</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.enb6-8r41#f">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.enb6-8r41"/>
     <skos:prefLabel xml:lang="en">sound-track film [obsolete]</skos:prefLabel>
-    <skos:notation xml:lang="en">f</skos:notation>
+    <skos:notation>f</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.enb6-8r41#c">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.enb6-8r41"/>
     <skos:prefLabel xml:lang="en">cylinder [obsolete]</skos:prefLabel>
-    <skos:notation xml:lang="en">c</skos:notation>
+    <skos:notation>c</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.enb6-8r41#z">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -152,6 +146,6 @@
     <skos:definition xml:lang="en">Specific material designation other than belt, sound disc,
          cylinder, sound cartridge, sound-track film, roll, remote, sound cassette, sound-tape reel,
          or wire recording.</skos:definition>
-    <skos:notation xml:lang="en">z</skos:notation>
+    <skos:notation>z</skos:notation>
   </rdf:Description>
 </rdf:RDF>

@@ -1,11 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rdf:RDF
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:dct="http://purl.org/dc/terms/"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:schema="https://schema.org/"
-   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
->
+<?xml version='1.0' encoding='UTF-8'?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schema="https://schema.org/" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.h5tb-zk94#a">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:inScheme rdf:resource="https://doi.org/10.6069/uwlswd.h5tb-zk94"/>
@@ -13,7 +7,7 @@
     <skos:definition xml:lang="en">Map</skos:definition>
     <skos:scopeNote xml:lang="en">Used for all cartographic materials except
          globes.</skos:scopeNote>
-    <skos:notation xml:lang="en">a</skos:notation>
+    <skos:notation>a</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.h5tb-zk94#h">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -26,7 +20,7 @@
          magnification.</skos:definition>
     <skos:scopeNote xml:lang="en">Microforms may be reproductions of existing textual or graphic
          materials or they may be original publications.</skos:scopeNote>
-    <skos:notation xml:lang="en">h</skos:notation>
+    <skos:notation>h</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.h5tb-zk94">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
@@ -35,12 +29,12 @@
     <dct:alternative xml:lang="en">MARC21 007/00 values for all material types expressed using
          RDF</dct:alternative>
     <dct:description xml:lang="en">Identifies the category of material.</dct:description>
-    <schema:disambiguatingDescription>SKOS Concept Scheme for MARC 00X
+    <schema:disambiguatingDescription xml:lang="en">SKOS Concept Scheme for MARC 00X
          Values</schema:disambiguatingDescription>
     <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
     <dct:source rdf:resource="https://www.loc.gov/marc/bibliographic/bd007.html"/>
     <dct:source rdf:resource="http://marc21rdf.info"/>
-    <dct:provenance rdf:resource="https://doi.org/10.6069/uwlswd.2e2b-y833"/>
+    <dct:provenance rdf:resource="https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues"/>
     <dct:creator rdf:resource="http://viaf.org/viaf/139541794"/>
     <dct:contributor rdf:resource="http://viaf.org/viaf/151962300"/>
     <dct:issued>2024</dct:issued>
@@ -63,7 +57,7 @@
          computer.</skos:definition>
     <skos:scopeNote xml:lang="en">Examples are programs, data files, image files, digitized audio
          and video tapes, etc.</skos:scopeNote>
-    <skos:notation xml:lang="en">c</skos:notation>
+    <skos:notation>c</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.h5tb-zk94#g">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -73,7 +67,7 @@
          without motion by means of an optical device.</skos:definition>
     <skos:scopeNote xml:lang="en">For example, a filmstrip, slide, or transparency (includes
          x-rays).</skos:scopeNote>
-    <skos:notation xml:lang="en">g</skos:notation>
+    <skos:notation>g</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.h5tb-zk94#v">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -83,7 +77,7 @@
          accompanied by sound, have been registered.</skos:definition>
     <skos:scopeNote xml:lang="en">Designed for playback by means of a television receiver, or
          video monitor.</skos:scopeNote>
-    <skos:notation xml:lang="en">v</skos:notation>
+    <skos:notation>v</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.h5tb-zk94#d">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -91,7 +85,7 @@
     <skos:prefLabel xml:lang="en">globe</skos:prefLabel>
     <skos:definition xml:lang="en">The model of a celestial body, usually the earth or the
          celestial sphere, depicted on the surface of a sphere.</skos:definition>
-    <skos:notation xml:lang="en">d</skos:notation>
+    <skos:notation>d</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.h5tb-zk94#t">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -100,7 +94,7 @@
     <skos:definition xml:lang="en">Printed or manuscript language material that is accessible to
          the naked eye.</skos:definition>
     <skos:scopeNote xml:lang="en">E.g., a book, a pamphlet, a broadside.</skos:scopeNote>
-    <skos:notation xml:lang="en">t</skos:notation>
+    <skos:notation>t</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.h5tb-zk94#m">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -109,7 +103,7 @@
     <skos:definition xml:lang="en">A series of still pictures on film, with or without sound,
          designed to be projected in rapid succession to produce the optical effect of
          motion.</skos:definition>
-    <skos:notation xml:lang="en">m</skos:notation>
+    <skos:notation>m</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.h5tb-zk94#z">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -117,7 +111,7 @@
     <skos:prefLabel xml:lang="en">unspecified</skos:prefLabel>
     <skos:definition xml:lang="en">Item is not identified by one of the other values or that its
          multiple physical forms are not being specifically denoted.</skos:definition>
-    <skos:notation xml:lang="en">z</skos:notation>
+    <skos:notation>z</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.h5tb-zk94#f">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -125,7 +119,7 @@
     <skos:prefLabel xml:lang="en">tactile material</skos:prefLabel>
     <skos:definition xml:lang="en">Material intended to be read or interpreted by
          touch.</skos:definition>
-    <skos:notation xml:lang="en">f</skos:notation>
+    <skos:notation>f</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.h5tb-zk94#o">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -138,7 +132,7 @@
          K-12 social studies curriculum material (books, workbooks, guides, activities, etc.), or
          packages of educational test materials (tests, answer sheets, scoring guides, score charts,
          interpretative manuals, etc.).</skos:scopeNote>
-    <skos:notation xml:lang="en">o</skos:notation>
+    <skos:notation>o</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.h5tb-zk94#k">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -147,7 +141,7 @@
     <skos:definition xml:lang="en">A two-dimensional pictorial representation whether opaque
          (e.g., print, photoprint, drawing) or transparent, but not intended to be projected for
          viewing (e.g., a photographic negative).</skos:definition>
-    <skos:notation xml:lang="en">k</skos:notation>
+    <skos:notation>k</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.h5tb-zk94#r">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -160,7 +154,7 @@
          receivers, radar systems, sonar, seismographs, gravimeters, magnetometers, and
          scintillation counters. When the image has cartographic or bibliographic information added,
          it is referred to as a remote-sensing map.</skos:scopeNote>
-    <skos:notation xml:lang="en">r</skos:notation>
+    <skos:notation>r</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.h5tb-zk94#q">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -175,7 +169,7 @@
          pitch, duration, timbre, and loudness. Notated music is often the means for communicating
          to the performer(s) how the musical work notated therein is to be realized in
          sound.</skos:scopeNote>
-    <skos:notation xml:lang="en">q</skos:notation>
+    <skos:notation>q</skos:notation>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.h5tb-zk94#s">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -184,6 +178,6 @@
     <skos:definition xml:lang="en">A storage medium containing recorded sound or a representation
          of a musical composition from which sound can be mechanically reproduced, such as a piano
          roll.</skos:definition>
-    <skos:notation xml:lang="en">s</skos:notation>
+    <skos:notation>s</skos:notation>
   </rdf:Description>
 </rdf:RDF>
